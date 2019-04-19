@@ -1,0 +1,13 @@
+mutation SignUp($email: String!, $password: String!) {
+  customerCreate(input: {
+      email: $email, 
+      password: $password,
+      isActive: false,
+      sendActivationEmail: true
+      }) {
+    errors {
+      field
+      message
+    }
+  }
+}

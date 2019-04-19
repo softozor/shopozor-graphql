@@ -1,0 +1,10 @@
+mutation ActivateCustomer($encodedUserId: ID!, $oneTimeToken: String!) {
+  customerActivate(encodedId: $encodedUserId, input: {
+      token: $oneTimeToken
+    }) {
+    errors {
+      field
+      message
+    }
+  }
+}
