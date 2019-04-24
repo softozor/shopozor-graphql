@@ -1,5 +1,5 @@
 mutation SignUp($email: String!, $password: String!) {
-  customerCreate(input: {
+  consumerCreate(input: {
       email: $email, 
       password: $password,
       isActive: false,
