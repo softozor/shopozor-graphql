@@ -1,7 +1,5 @@
 mutation ActivateConsumer($encodedUserId: ID!, $oneTimeToken: String!) {
-  consumerActivate(encodedId: $encodedUserId, input: {
-      token: $oneTimeToken
-    }) {
+  consumerActivate(encodedId: $encodedUserId, input: { token: $oneTimeToken }) {
     errors {
       field
       message
