@@ -1,12 +1,5 @@
 mutation SignUp($email: String!, $password: String!) {
-  consumerCreate(
-    input: {
-      email: $email
-      password: $password
-      isActive: false
-      sendActivationEmail: true
-    }
-  ) {
+  consumerCreate(input: { email: $email, password: $password }) {
     errors {
       field
       message
