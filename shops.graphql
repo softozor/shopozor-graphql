@@ -1,0 +1,14 @@
+query Shops {
+  shops {
+    edges {
+      node {
+        geocoordinates {
+          latitude
+          longitude
+        }
+        description
+        name
+      }
+    }
+  }
+}
