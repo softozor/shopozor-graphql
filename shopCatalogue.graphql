@@ -1,0 +1,23 @@
+query ShopCatalogue($shopId: ID!) {
+  shopCatalogue(id: $shopId) {
+    products {
+      edges {
+        node {
+          id
+          name
+          variants {
+            id
+            sku
+            quantity
+          }
+          category {
+            name
+          }
+          productType {
+            name
+          }
+        }
+      }
+    }
+  }
+}

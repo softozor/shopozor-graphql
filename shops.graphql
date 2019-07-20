@@ -2,12 +2,13 @@ query Shops {
   shops {
     edges {
       node {
+        id
+        name
+        description
         geocoordinates {
           latitude
           longitude
         }
-        description
-        name
       }
     }
   }
