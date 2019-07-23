@@ -1,20 +1,50 @@
 query ShopCatalogue($shopId: ID!) {
   shopCatalogue(id: $shopId) {
-    products {
+    products(filter: { isPublished: true }) {
       edges {
         node {
           id
           name
+          description
           variants {
             id
             sku
-            quantity
+            name
+            weight
+            isAvailable
+            pricing {
+              price {
+                currency
+                gross {
+                  currency
+                  amount
+                }
+                net {
+                  currency
+                  amount
+                }
+                tax {
+                  currency
+                  amount
+                }
+              }
+            }
+            costPrice {
+              currency
+              amount
+            }
+            stockQuantity
+          }
+          images {
+            id
+            alt
+            url
           }
           category {
-            name
+            id
           }
           productType {
-            name
+            id
           }
         }
       }
