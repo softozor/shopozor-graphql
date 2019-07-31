@@ -5,33 +5,17 @@ query ShopCatalogue($shopId: ID!) {
         node {
           id
           name
-          description
           variants {
             id
-            sku
             name
-            weight
             isAvailable
             pricing {
               price {
-                currency
                 gross {
                   currency
                   amount
                 }
-                net {
-                  currency
-                  amount
-                }
-                tax {
-                  currency
-                  amount
-                }
               }
-            }
-            costPrice {
-              currency
-              amount
             }
             stockQuantity
           }
@@ -45,6 +29,10 @@ query ShopCatalogue($shopId: ID!) {
           }
           productType {
             id
+          }
+          producer {
+            firstName
+            lastName
           }
         }
       }
