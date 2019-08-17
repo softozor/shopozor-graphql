@@ -5,25 +5,62 @@
         "edges": [
           {
             "node": {
+              "category": {
+                "id": 7
+              },
               "id": 61,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 1,
+                  "url": "products/saleordemoproduct_paints_01_oDLxDCy.png"
+                }
+              ],
               "name": "Nebula Night Sky Paint",
+              "productType": {
+                "id": 7
+              },
               "variants": [
                 {
                   "id": 171,
                   "isAvailable": true,
                   "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "15.00",
+                        "currency": "USD"
+                      }
+                    }
+                  },
                   "stockQuantity": 99
                 },
                 {
                   "id": 172,
                   "isAvailable": true,
                   "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "35.00",
+                        "currency": "USD"
+                      }
+                    }
+                  },
                   "stockQuantity": 19
                 },
                 {
                   "id": 173,
                   "isAvailable": true,
                   "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "49.00",
+                        "currency": "USD"
+                      }
+                    }
+                  },
                   "stockQuantity": 0
                 }
               ]
