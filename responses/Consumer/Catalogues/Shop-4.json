@@ -6,21 +6,191 @@
           {
             "node": {
               "category": {
-                "id": 8
+                "id": 7
               },
-              "id": 78,
+              "id": 61,
               "images": [
                 {
                   "alt": "",
-                  "id": 13,
-                  "url": "products/saleordemoproduct_fd_juice_04_EBNnBub.png"
+                  "id": 1,
+                  "url": "products/saleordemoproduct_paints_01_oDLxDCy.png"
                 }
               ],
-              "name": "Green Juice",
+              "name": "Nebula Night Sky Paint",
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
+                }
+              ],
+              "productType": {
+                "id": 7
+              },
+              "variants": [
+                {
+                  "id": 171,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "15.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 99
+                },
+                {
+                  "id": 172,
+                  "isAvailable": true,
+                  "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "35.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 19
+                },
+                {
+                  "id": 173,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "49.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 0
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 84,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 19,
+                  "url": "products/saleordemoproduct_beer-01_1_4L2SEHt.png"
+                },
+                {
+                  "alt": "",
+                  "id": 20,
+                  "url": "products/saleordemoproduct_beer-01_2_7EIUR1Y.png"
+                }
+              ],
+              "name": "Seaman Beer",
+              "producer": [
+                {
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
+                }
+              ],
+              "productType": {
+                "id": 11
+              },
+              "variants": [
+                {
+                  "id": 196,
+                  "isAvailable": true,
+                  "name": "",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "3.20",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 975517
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 7
+              },
+              "id": 85,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 21,
+                  "url": "products/saleordemoproduct_cuschion01_oH3nVyE.png"
+                }
+              ],
+              "name": "Colored Parrot Cushion",
+              "producer": [
+                {
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
+                }
+              ],
+              "productType": {
+                "id": 12
+              },
+              "variants": [
+                {
+                  "id": 197,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "20.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 9861
+                },
+                {
+                  "id": 198,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "20.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 671
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 74,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 9,
+                  "url": "products/saleordemoproduct_fd_juice_01_YXqoj52.png"
+                }
+              ],
+              "name": "Banana Juice",
+              "producer": [
+                {
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
                 }
               ],
               "productType": {
@@ -28,7 +198,7 @@
               },
               "variants": [
                 {
-                  "id": 220,
+                  "id": 208,
                   "isAvailable": true,
                   "name": "500ml",
                   "pricing": {
@@ -42,7 +212,7 @@
                   "stockQuantity": 1211
                 },
                 {
-                  "id": 221,
+                  "id": 209,
                   "isAvailable": true,
                   "name": "1l",
                   "pricing": {
@@ -56,7 +226,76 @@
                   "stockQuantity": 175
                 },
                 {
-                  "id": 222,
+                  "id": 210,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 211
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 75,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 10,
+                  "url": "products/saleordemoproduct_fd_juice_03_daLOjXa.png"
+                }
+              ],
+              "name": "Pineapple Juice",
+              "producer": [
+                {
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
+                }
+              ],
+              "productType": {
+                "id": 9
+              },
+              "variants": [
+                {
+                  "id": 211,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "3.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 1211
+                },
+                {
+                  "id": 212,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "5.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 175
+                },
+                {
+                  "id": 213,
                   "isAvailable": true,
                   "name": "2l",
                   "pricing": {
@@ -77,24 +316,19 @@
               "category": {
                 "id": 9
               },
-              "id": 89,
+              "id": 116,
               "images": [
                 {
                   "alt": "",
-                  "id": 31,
-                  "url": "products/saleordemoproduct_cl_boot07_1_e8sCf37.png"
-                },
-                {
-                  "alt": "",
-                  "id": 32,
-                  "url": "products/saleordemoproduct_cl_boot07_2_AKDlzhy.png"
+                  "id": 47,
+                  "url": "products/saleordemoproduct_cl_bogo02_1_HaTZ5us.png"
                 }
               ],
-              "name": "Code Division T-shirt",
+              "name": "Blue Hoodie",
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
                 }
               ],
               "productType": {
@@ -102,7 +336,7 @@
               },
               "variants": [
                 {
-                  "id": 251,
+                  "id": 301,
                   "isAvailable": true,
                   "name": "S",
                   "pricing": {
@@ -116,7 +350,7 @@
                   "stockQuantity": 1213
                 },
                 {
-                  "id": 252,
+                  "id": 302,
                   "isAvailable": true,
                   "name": "M",
                   "pricing": {
@@ -130,7 +364,7 @@
                   "stockQuantity": 1
                 },
                 {
-                  "id": 253,
+                  "id": 303,
                   "isAvailable": true,
                   "name": "L",
                   "pricing": {
@@ -144,7 +378,7 @@
                   "stockQuantity": 9818
                 },
                 {
-                  "id": 254,
+                  "id": 304,
                   "isAvailable": true,
                   "name": "XL",
                   "pricing": {
@@ -158,7 +392,7 @@
                   "stockQuantity": 1
                 },
                 {
-                  "id": 255,
+                  "id": 305,
                   "isAvailable": true,
                   "name": "XXL",
                   "pricing": {
@@ -179,19 +413,24 @@
               "category": {
                 "id": 9
               },
-              "id": 108,
+              "id": 118,
               "images": [
                 {
                   "alt": "",
-                  "id": 34,
-                  "url": "products/saleordemoproduct_cl_polo02_v8M2QAi.png"
+                  "id": 49,
+                  "url": "products/saleordemoproduct_cl_bogo04_1_QZj7pyB.png"
+                },
+                {
+                  "alt": "",
+                  "id": 50,
+                  "url": "products/saleordemoproduct_cl_bogo04_2_NxSedt9.png"
                 }
               ],
-              "name": "Polo Shirt",
+              "name": "White Hoodie",
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Sarah",
+                  "lastName": "Bouvier"
                 }
               ],
               "productType": {
@@ -199,7 +438,7 @@
               },
               "variants": [
                 {
-                  "id": 261,
+                  "id": 311,
                   "isAvailable": true,
                   "name": "S",
                   "pricing": {
@@ -213,7 +452,7 @@
                   "stockQuantity": 1213
                 },
                 {
-                  "id": 262,
+                  "id": 312,
                   "isAvailable": true,
                   "name": "M",
                   "pricing": {
@@ -227,7 +466,7 @@
                   "stockQuantity": 1
                 },
                 {
-                  "id": 263,
+                  "id": 313,
                   "isAvailable": true,
                   "name": "L",
                   "pricing": {
@@ -241,7 +480,7 @@
                   "stockQuantity": 9818
                 },
                 {
-                  "id": 264,
+                  "id": 314,
                   "isAvailable": true,
                   "name": "XL",
                   "pricing": {
@@ -255,104 +494,7 @@
                   "stockQuantity": 1
                 },
                 {
-                  "id": 265,
-                  "isAvailable": true,
-                  "name": "XXL",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 5791
-                }
-              ]
-            }
-          },
-          {
-            "node": {
-              "category": {
-                "id": 9
-              },
-              "id": 117,
-              "images": [
-                {
-                  "alt": "",
-                  "id": 48,
-                  "url": "products/saleordemoproduct_cl_bogo03_1_Zt5it75.png"
-                }
-              ],
-              "name": "Mustard Hoodie",
-              "producer": [
-                {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
-                }
-              ],
-              "productType": {
-                "id": 14
-              },
-              "variants": [
-                {
-                  "id": 306,
-                  "isAvailable": true,
-                  "name": "S",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 1213
-                },
-                {
-                  "id": 307,
-                  "isAvailable": true,
-                  "name": "M",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 1
-                },
-                {
-                  "id": 308,
-                  "isAvailable": true,
-                  "name": "L",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 9818
-                },
-                {
-                  "id": 309,
-                  "isAvailable": true,
-                  "name": "XL",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 1
-                },
-                {
-                  "id": 310,
+                  "id": 315,
                   "isAvailable": true,
                   "name": "XXL",
                   "pricing": {

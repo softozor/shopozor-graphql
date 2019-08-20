@@ -1,0 +1,153 @@
+{
+  "data": {
+    "shopCatalogue": {
+      "products": {
+        "edges": [
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 82,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 16,
+                  "url": "products/saleordemoproduct_wine-white_1MuPoeA.png"
+                }
+              ],
+              "name": "White Wine",
+              "producer": [
+                {
+                  "firstName": "Monique",
+                  "lastName": "Carraud"
+                }
+              ],
+              "productType": {
+                "id": 10
+              },
+              "variants": [
+                {
+                  "id": 194,
+                  "isAvailable": true,
+                  "name": "",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "15.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 12131
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 9
+              },
+              "id": 114,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 44,
+                  "url": "products/saleordemoproduct_cl_boot06_1_cYlPLAW.png"
+                },
+                {
+                  "alt": "",
+                  "id": 45,
+                  "url": "products/saleordemoproduct_cl_boot06_2_N2UbilJ.png"
+                }
+              ],
+              "name": "T-shirt",
+              "producer": [
+                {
+                  "firstName": "Monique",
+                  "lastName": "Carraud"
+                }
+              ],
+              "productType": {
+                "id": 14
+              },
+              "variants": [
+                {
+                  "id": 291,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 1213
+                },
+                {
+                  "id": 292,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 1
+                },
+                {
+                  "id": 293,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 9818
+                },
+                {
+                  "id": 294,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 1
+                },
+                {
+                  "id": 295,
+                  "isAvailable": true,
+                  "name": "XXL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.00",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 5791
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
