@@ -6,68 +6,573 @@
           {
             "node": {
               "category": {
-                "id": 8
+                "id": 1
               },
-              "id": 78,
-              "images": [
-                {
-                  "alt": "",
-                  "id": 13,
-                  "url": "products/saleordemoproduct_fd_juice_04_EBNnBub.png"
-                }
-              ],
-              "name": "Green Juice",
+              "id": 108,
+              "images": [],
+              "name": ["laborum", "qui", "alias"],
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Georgette",
+                  "lastName": "Carraud"
                 }
               ],
               "productType": {
-                "id": 9
+                "id": 2
               },
               "variants": [
                 {
-                  "id": 220,
+                  "id": 87,
                   "isAvailable": true,
-                  "name": "500ml",
+                  "name": "5l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "3.00",
+                        "amount": "69.64",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 1211
+                  "stockQuantity": 755
                 },
                 {
-                  "id": 221,
+                  "id": 2264,
                   "isAvailable": true,
                   "name": "1l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "5.00",
+                        "amount": "14.9",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 175
+                  "stockQuantity": 47
                 },
                 {
-                  "id": 222,
+                  "id": 3805,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "14.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 272
+                },
+                {
+                  "id": 4047,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "14.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 25
+                },
+                {
+                  "id": 7099,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "14.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 138
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 9
+              },
+              "id": 560,
+              "images": [],
+              "name": ["harum", "vitae", "perferendis"],
+              "producer": [
+                {
+                  "firstName": "Patrick",
+                  "lastName": "Chatriant"
+                }
+              ],
+              "productType": {
+                "id": 99
+              },
+              "variants": [
+                {
+                  "id": 119,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.34",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 130
+                },
+                {
+                  "id": 4401,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.34",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 219
+                },
+                {
+                  "id": 4781,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "33.73",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 38
+                },
+                {
+                  "id": 6154,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "21.64",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 176
+                },
+                {
+                  "id": 6268,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "1.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 288
+                },
+                {
+                  "id": 7455,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.34",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 372
+                },
+                {
+                  "id": 8676,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.34",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 441
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 1
+              },
+              "id": 219,
+              "images": [],
+              "name": ["amet", "at", "quibusdam"],
+              "producer": [
+                {
+                  "firstName": "Elisa",
+                  "lastName": "Cossy"
+                }
+              ],
+              "productType": {
+                "id": 14
+              },
+              "variants": [
+                {
+                  "id": 249,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 729
+                },
+                {
+                  "id": 3159,
+                  "isAvailable": true,
+                  "name": "500g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 50
+                },
+                {
+                  "id": 4490,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "0.28",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 560
+                },
+                {
+                  "id": 5950,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "3.82",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 165
+                },
+                {
+                  "id": 6721,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 34
+                },
+                {
+                  "id": 7517,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "46.27",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 67
+                },
+                {
+                  "id": 9014,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "93.69",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 384
+                },
+                {
+                  "id": 9426,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "66.19",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 503
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 9
+              },
+              "id": 747,
+              "images": [],
+              "name": ["enim", "ipsam", "culpa"],
+              "producer": [
+                {
+                  "firstName": "Sylvie",
+                  "lastName": "Beguin"
+                }
+              ],
+              "productType": {
+                "id": 97
+              },
+              "variants": [
+                {
+                  "id": 297,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 27
+                },
+                {
+                  "id": 1608,
+                  "isAvailable": true,
+                  "name": "500g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "46.28",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 851
+                },
+                {
+                  "id": 1686,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 72
+                },
+                {
+                  "id": 1775,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "54.58",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 23
+                },
+                {
+                  "id": 2463,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "14.36",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 86
+                },
+                {
+                  "id": 2656,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 275
+                },
+                {
+                  "id": 3613,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 237
+                },
+                {
+                  "id": 3834,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 27
+                },
+                {
+                  "id": 4000,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 179
+                },
+                {
+                  "id": 4248,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "56.66",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 39
+                },
+                {
+                  "id": 4657,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 49
+                },
+                {
+                  "id": 4817,
                   "isAvailable": true,
                   "name": "2l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "7.00",
+                        "amount": "77.89",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 211
+                  "stockQuantity": 436
+                },
+                {
+                  "id": 6350,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 850
+                },
+                {
+                  "id": 9013,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "24.11",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 200
+                },
+                {
+                  "id": 9710,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.89",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 0
                 }
               ]
             }
@@ -75,101 +580,104 @@
           {
             "node": {
               "category": {
-                "id": 9
+                "id": 6
               },
-              "id": 89,
-              "images": [
-                {
-                  "alt": "",
-                  "id": 31,
-                  "url": "products/saleordemoproduct_cl_boot07_1_e8sCf37.png"
-                },
-                {
-                  "alt": "",
-                  "id": 32,
-                  "url": "products/saleordemoproduct_cl_boot07_2_AKDlzhy.png"
-                }
-              ],
-              "name": "Code Division T-shirt",
+              "id": 968,
+              "images": [],
+              "name": ["minima", "est", "voluptas"],
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Sylvie",
+                  "lastName": "Beguin"
                 }
               ],
               "productType": {
-                "id": 14
+                "id": 81
               },
               "variants": [
                 {
-                  "id": 251,
+                  "id": 363,
                   "isAvailable": true,
-                  "name": "S",
+                  "name": "500ml",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "20.89",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 1213
+                  "stockQuantity": 117
                 },
                 {
-                  "id": 252,
+                  "id": 599,
                   "isAvailable": true,
-                  "name": "M",
+                  "name": "1l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "0.54",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 1
+                  "stockQuantity": 250
                 },
                 {
-                  "id": 253,
+                  "id": 2006,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.25",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 97
+                },
+                {
+                  "id": 3001,
                   "isAvailable": true,
                   "name": "L",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "89.75",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 9818
+                  "stockQuantity": 506
                 },
                 {
-                  "id": 254,
+                  "id": 6074,
                   "isAvailable": true,
-                  "name": "XL",
+                  "name": "5l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "89.75",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 1
+                  "stockQuantity": 638
                 },
                 {
-                  "id": 255,
+                  "id": 9438,
                   "isAvailable": true,
-                  "name": "XXL",
+                  "name": "L",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "89.75",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 5791
+                  "stockQuantity": 622
                 }
               ]
             }
@@ -177,77 +685,197 @@
           {
             "node": {
               "category": {
-                "id": 9
+                "id": 5
               },
-              "id": 108,
-              "images": [
-                {
-                  "alt": "",
-                  "id": 34,
-                  "url": "products/saleordemoproduct_cl_polo02_v8M2QAi.png"
-                }
-              ],
-              "name": "Polo Shirt",
+              "id": 902,
+              "images": [],
+              "name": ["doloremque", "placeat", "veniam"],
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Georgette",
+                  "lastName": "Carraud"
                 }
               ],
               "productType": {
-                "id": 14
+                "id": 65
               },
               "variants": [
                 {
-                  "id": 261,
-                  "isAvailable": true,
-                  "name": "S",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 1213
-                },
-                {
-                  "id": 262,
-                  "isAvailable": true,
-                  "name": "M",
-                  "pricing": {
-                    "price": {
-                      "gross": {
-                        "amount": "30.00",
-                        "currency": "CHF"
-                      }
-                    }
-                  },
-                  "stockQuantity": 1
-                },
-                {
-                  "id": 263,
+                  "id": 478,
                   "isAvailable": true,
                   "name": "L",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "24.07",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 9818
+                  "stockQuantity": 14
                 },
                 {
-                  "id": 264,
+                  "id": 484,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 6
+                },
+                {
+                  "id": 777,
                   "isAvailable": true,
                   "name": "XL",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 300
+                },
+                {
+                  "id": 1124,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "15.49",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 246
+                },
+                {
+                  "id": 1269,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 122
+                },
+                {
+                  "id": 2086,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "16.73",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 26
+                },
+                {
+                  "id": 2460,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 129
+                },
+                {
+                  "id": 2883,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "23.99",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 238
+                },
+                {
+                  "id": 3216,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "36.76",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 55
+                },
+                {
+                  "id": 3540,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 627
+                },
+                {
+                  "id": 3583,
+                  "isAvailable": true,
+                  "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "76.98",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 213
+                },
+                {
+                  "id": 4908,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 314
+                },
+                {
+                  "id": 5585,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
                         "currency": "CHF"
                       }
                     }
@@ -255,18 +883,46 @@
                   "stockQuantity": 1
                 },
                 {
-                  "id": 265,
+                  "id": 6589,
                   "isAvailable": true,
-                  "name": "XXL",
+                  "name": "500ml",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "7.88",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 5791
+                  "stockQuantity": 143
+                },
+                {
+                  "id": 6665,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 580
+                },
+                {
+                  "id": 6925,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.14",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 488
                 }
               ]
             }
@@ -274,77 +930,477 @@
           {
             "node": {
               "category": {
-                "id": 9
+                "id": 8
               },
-              "id": 117,
-              "images": [
-                {
-                  "alt": "",
-                  "id": 48,
-                  "url": "products/saleordemoproduct_cl_bogo03_1_Zt5it75.png"
-                }
-              ],
-              "name": "Mustard Hoodie",
+              "id": 327,
+              "images": [],
+              "name": ["modi", "repellat", "tempora"],
               "producer": [
                 {
-                  "firstName": "Henri",
-                  "lastName": "Beurret"
+                  "firstName": "Georgette",
+                  "lastName": "Carraud"
                 }
               ],
               "productType": {
-                "id": 14
+                "id": 91
               },
               "variants": [
                 {
-                  "id": 306,
+                  "id": 528,
                   "isAvailable": true,
-                  "name": "S",
+                  "name": "100g",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "89.97",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 1213
+                  "stockQuantity": 364
                 },
                 {
-                  "id": 307,
+                  "id": 822,
                   "isAvailable": true,
                   "name": "M",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "80.56",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 1
+                  "stockQuantity": 68
                 },
                 {
-                  "id": 308,
+                  "id": 1548,
                   "isAvailable": true,
-                  "name": "L",
+                  "name": "1l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "29.42",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 9818
+                  "stockQuantity": 330
                 },
                 {
-                  "id": 309,
+                  "id": 1658,
                   "isAvailable": true,
                   "name": "XL",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "45.36",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 226
+                },
+                {
+                  "id": 1819,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "95.4",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 30
+                },
+                {
+                  "id": 2412,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "19.6",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 271
+                },
+                {
+                  "id": 4922,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "29.42",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 160
+                },
+                {
+                  "id": 8343,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "29.42",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 365
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 619,
+              "images": [],
+              "name": ["dolore", "reiciendis", "debitis"],
+              "producer": [
+                {
+                  "firstName": "Théo",
+                  "lastName": "Carraux"
+                }
+              ],
+              "productType": {
+                "id": 91
+              },
+              "variants": [
+                {
+                  "id": 536,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "77.98",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 240
+                },
+                {
+                  "id": 1416,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "25.07",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 230
+                },
+                {
+                  "id": 1749,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "54.12",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 125
+                },
+                {
+                  "id": 2128,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "52.33",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 274
+                },
+                {
+                  "id": 2634,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 256
+                },
+                {
+                  "id": 2851,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "93.39",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 441
+                },
+                {
+                  "id": 2880,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 127
+                },
+                {
+                  "id": 3068,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 153
+                },
+                {
+                  "id": 3871,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 415
+                },
+                {
+                  "id": 4514,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 359
+                },
+                {
+                  "id": 6480,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "0.74",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 278
+                },
+                {
+                  "id": 7804,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "67.03",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 267
+                },
+                {
+                  "id": 7866,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 29
+                },
+                {
+                  "id": 8020,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "93.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 747
+                },
+                {
+                  "id": 8039,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "48.56",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 895
+                },
+                {
+                  "id": 8654,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "36.34",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 51
+                },
+                {
+                  "id": 8950,
+                  "isAvailable": true,
+                  "name": "500g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.37",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 287
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 1
+              },
+              "id": 271,
+              "images": [],
+              "name": ["exercitationem", "modi", "quod"],
+              "producer": [
+                {
+                  "firstName": "Patrick",
+                  "lastName": "Chatriant"
+                }
+              ],
+              "productType": {
+                "id": 7
+              },
+              "variants": [
+                {
+                  "id": 838,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "72.98",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 5
+                },
+                {
+                  "id": 1209,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "20.44",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 250
+                },
+                {
+                  "id": 4864,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "50.42",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 572
+                },
+                {
+                  "id": 5142,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "50.42",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 429
+                },
+                {
+                  "id": 5667,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "12.27",
                         "currency": "CHF"
                       }
                     }
@@ -352,18 +1408,1131 @@
                   "stockQuantity": 1
                 },
                 {
-                  "id": 310,
+                  "id": 6999,
                   "isAvailable": true,
-                  "name": "XXL",
+                  "name": "L",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "30.00",
+                        "amount": "50.42",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 5791
+                  "stockQuantity": 304
+                },
+                {
+                  "id": 7028,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "75.83",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 137
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 7
+              },
+              "id": 61,
+              "images": [],
+              "name": ["ex", "voluptates", "minus"],
+              "producer": [
+                {
+                  "firstName": "Elisa",
+                  "lastName": "Cossy"
+                }
+              ],
+              "productType": {
+                "id": 86
+              },
+              "variants": [
+                {
+                  "id": 943,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "16.17",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 70
+                },
+                {
+                  "id": 1273,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "65.29",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 118
+                },
+                {
+                  "id": 2419,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 275
+                },
+                {
+                  "id": 4551,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 535
+                },
+                {
+                  "id": 4609,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 79
+                },
+                {
+                  "id": 5200,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 173
+                },
+                {
+                  "id": 6269,
+                  "isAvailable": true,
+                  "name": "500g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 455
+                },
+                {
+                  "id": 8522,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "62.55",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 44
+                },
+                {
+                  "id": 8767,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 32
+                },
+                {
+                  "id": 9254,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "6.94",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 81
+                },
+                {
+                  "id": 9871,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "80.0",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 274
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 387,
+              "images": [],
+              "name": ["laborum", "fugit", "earum"],
+              "producer": [
+                {
+                  "firstName": "Lisa",
+                  "lastName": "Charpié"
+                }
+              ],
+              "productType": {
+                "id": 91
+              },
+              "variants": [
+                {
+                  "id": 1173,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "52.99",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 60
+                },
+                {
+                  "id": 1516,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "72.88",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 81
+                },
+                {
+                  "id": 2774,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "52.99",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 137
+                },
+                {
+                  "id": 3869,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "48.61",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 19
+                },
+                {
+                  "id": 3893,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "1.21",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 656
+                },
+                {
+                  "id": 6338,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "92.13",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 510
+                },
+                {
+                  "id": 6864,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "52.99",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 785
+                },
+                {
+                  "id": 7198,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "21.4",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 585
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 8
+              },
+              "id": 226,
+              "images": [],
+              "name": ["odio", "ea", "amet"],
+              "producer": [
+                {
+                  "firstName": "Théo",
+                  "lastName": "Carraux"
+                }
+              ],
+              "productType": {
+                "id": 92
+              },
+              "variants": [
+                {
+                  "id": 1272,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "64.64",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 102
+                },
+                {
+                  "id": 1474,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "86.57",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 1
+                },
+                {
+                  "id": 2303,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 364
+                },
+                {
+                  "id": 3236,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 433
+                },
+                {
+                  "id": 3754,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 34
+                },
+                {
+                  "id": 4268,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "76.93",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 42
+                },
+                {
+                  "id": 4580,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 338
+                },
+                {
+                  "id": 5384,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 7
+                },
+                {
+                  "id": 5518,
+                  "isAvailable": true,
+                  "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "21.71",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 890
+                },
+                {
+                  "id": 5905,
+                  "isAvailable": true,
+                  "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "86.23",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 595
+                },
+                {
+                  "id": 6313,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 700
+                },
+                {
+                  "id": 6608,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 201
+                },
+                {
+                  "id": 6679,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "20.66",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 109
+                },
+                {
+                  "id": 8439,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 336
+                },
+                {
+                  "id": 9781,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 151
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 5
+              },
+              "id": 417,
+              "images": [],
+              "name": ["odit", "doloribus", "nisi"],
+              "producer": [
+                {
+                  "firstName": "Théo",
+                  "lastName": "Carraux"
+                }
+              ],
+              "productType": {
+                "id": 66
+              },
+              "variants": [
+                {
+                  "id": 1506,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "90.78",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 557
+                },
+                {
+                  "id": 1783,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "11.1",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 199
+                },
+                {
+                  "id": 2465,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.94",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 155
+                },
+                {
+                  "id": 3537,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.94",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 208
+                },
+                {
+                  "id": 3992,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.94",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 33
+                },
+                {
+                  "id": 4172,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.56",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 20
+                },
+                {
+                  "id": 4699,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.94",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 153
+                },
+                {
+                  "id": 4912,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.94",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 502
+                },
+                {
+                  "id": 5212,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "32.25",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 3
+                },
+                {
+                  "id": 6366,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "15.12",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 20
+                },
+                {
+                  "id": 6965,
+                  "isAvailable": true,
+                  "name": "500g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "84.14",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 820
+                },
+                {
+                  "id": 7093,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "56.28",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 380
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 4
+              },
+              "id": 208,
+              "images": [],
+              "name": ["similique", "sunt", "deleniti"],
+              "producer": [
+                {
+                  "firstName": "Sylvie",
+                  "lastName": "Beguin"
+                }
+              ],
+              "productType": {
+                "id": 52
+              },
+              "variants": [
+                {
+                  "id": 2011,
+                  "isAvailable": true,
+                  "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.5",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 161
+                },
+                {
+                  "id": 2281,
+                  "isAvailable": true,
+                  "name": "XL",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.5",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 45
+                },
+                {
+                  "id": 3338,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "93.23",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 428
+                },
+                {
+                  "id": 3398,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "91.85",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 181
+                },
+                {
+                  "id": 4439,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "95.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 151
+                },
+                {
+                  "id": 5405,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.5",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 392
+                },
+                {
+                  "id": 8049,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "59.5",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 503
+                },
+                {
+                  "id": 8752,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "18.54",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 506
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 1
+              },
+              "id": 602,
+              "images": [],
+              "name": ["dolores", "optio", "laudantium"],
+              "producer": [
+                {
+                  "firstName": "Patrick",
+                  "lastName": "Chatriant"
+                }
+              ],
+              "productType": {
+                "id": 6
+              },
+              "variants": [
+                {
+                  "id": 2261,
+                  "isAvailable": true,
+                  "name": "M",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "34.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 840
+                },
+                {
+                  "id": 2676,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "67.32",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 105
+                },
+                {
+                  "id": 6095,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.63",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 168
+                },
+                {
+                  "id": 6107,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "96.24",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 264
+                },
+                {
+                  "id": 6856,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "34.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 64
+                },
+                {
+                  "id": 8104,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "34.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 45
+                },
+                {
+                  "id": 9564,
+                  "isAvailable": true,
+                  "name": "500ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "34.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 48
+                },
+                {
+                  "id": 9998,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "34.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 39
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 5
+              },
+              "id": 711,
+              "images": [],
+              "name": ["quaerat", "quia", "occaecati"],
+              "producer": [
+                {
+                  "firstName": "Elisa",
+                  "lastName": "Cossy"
+                }
+              ],
+              "productType": {
+                "id": 65
+              },
+              "variants": [
+                {
+                  "id": 2916,
+                  "isAvailable": true,
+                  "name": "500g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.45",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 71
+                },
+                {
+                  "id": 5181,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "46.69",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 262
+                },
+                {
+                  "id": 6059,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "46.69",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 775
+                },
+                {
+                  "id": 8824,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "30.17",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 43
+                },
+                {
+                  "id": 9823,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "21.3",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 164
+                },
+                {
+                  "id": 9862,
+                  "isAvailable": true,
+                  "name": "200g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "46.69",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 235
                 }
               ]
             }
