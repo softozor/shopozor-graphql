@@ -2,7 +2,211 @@
   "data": {
     "shopCatalogue": {
       "products": {
-        "edges": []
+        "edges": [
+          {
+            "node": {
+              "category": {
+                "id": 1
+              },
+              "id": 60,
+              "images": [],
+              "name": "Earum vitae.",
+              "producer": [
+                {
+                  "firstName": "Christophe",
+                  "lastName": "Tinguely"
+                }
+              ],
+              "productType": {
+                "id": 14
+              },
+              "variants": [
+                {
+                  "id": 110,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "69.92",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 94
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 9
+              },
+              "id": 237,
+              "images": [],
+              "name": "Explicabo eius facilis.",
+              "producer": [
+                {
+                  "firstName": "Christophe",
+                  "lastName": "Tinguely"
+                }
+              ],
+              "productType": {
+                "id": 96
+              },
+              "variants": [
+                {
+                  "id": 136,
+                  "isAvailable": true,
+                  "name": "2.5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "25.01",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 909
+                },
+                {
+                  "id": 183,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "25.01",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 40
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 7
+              },
+              "id": 23,
+              "images": [],
+              "name": "Repellat laudantium.",
+              "producer": [
+                {
+                  "firstName": "Christophe",
+                  "lastName": "Tinguely"
+                }
+              ],
+              "productType": {
+                "id": 90
+              },
+              "variants": [
+                {
+                  "id": 212,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "67.75",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 661
+                },
+                {
+                  "id": 448,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.21",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 54
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 5
+              },
+              "id": 294,
+              "images": [],
+              "name": "Natus ipsam tenetur.",
+              "producer": [
+                {
+                  "firstName": "Christophe",
+                  "lastName": "Tinguely"
+                }
+              ],
+              "productType": {
+                "id": 63
+              },
+              "variants": [
+                {
+                  "id": 349,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "15.31",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 246
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 5
+              },
+              "id": 211,
+              "images": [],
+              "name": "Vitae consequatur.",
+              "producer": [
+                {
+                  "firstName": "Elodie",
+                  "lastName": "Bonvin"
+                }
+              ],
+              "productType": {
+                "id": 63
+              },
+              "variants": [
+                {
+                  "id": 424,
+                  "isAvailable": true,
+                  "name": "1l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "99.14",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 243
+                }
+              ]
+            }
+          }
+        ]
       }
     }
   }
