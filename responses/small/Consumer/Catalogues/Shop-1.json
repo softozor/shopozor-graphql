@@ -6,11 +6,52 @@
           {
             "node": {
               "category": {
-                "id": 9
+                "id": 8
               },
-              "id": 48,
-              "images": [],
-              "name": "Consectetur ullam quisquam.",
+              "id": 36,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 165,
+                  "url": "products/images/FYoUcyGPOnbEZFKU.png"
+                },
+                {
+                  "alt": "",
+                  "id": 166,
+                  "url": "products/images/vPtNcbZjepoUmxGX.png"
+                },
+                {
+                  "alt": "",
+                  "id": 167,
+                  "url": "products/images/AQyzRUtJzbwhdVLQ.png"
+                },
+                {
+                  "alt": "",
+                  "id": 168,
+                  "url": "products/images/cBXNUZFofLfqYzRq.png"
+                },
+                {
+                  "alt": "",
+                  "id": 169,
+                  "url": "products/images/PsTzHchmdAArUhli.png"
+                },
+                {
+                  "alt": "",
+                  "id": 170,
+                  "url": "products/images/acfUPRSjMUotGdKl.png"
+                },
+                {
+                  "alt": "",
+                  "id": 171,
+                  "url": "products/images/xYekVZoreoeFgMdv.png"
+                },
+                {
+                  "alt": "",
+                  "id": 172,
+                  "url": "products/images/mXqaqAOvvhUalTPo.png"
+                }
+              ],
+              "name": "Repellat adipisci.",
               "producer": [
                 {
                   "firstName": "Jacques",
@@ -18,55 +59,310 @@
                 }
               ],
               "productType": {
-                "id": 100
+                "id": 91
               },
               "variants": [
                 {
-                  "id": 21,
+                  "id": 5,
+                  "isAvailable": true,
+                  "name": "250g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "96.17",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 246
+                },
+                {
+                  "id": 6,
+                  "isAvailable": true,
+                  "name": "1kg",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "61.83",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 78
+                },
+                {
+                  "id": 13,
+                  "isAvailable": true,
+                  "name": "250ml",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "0.01",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 519
+                },
+                {
+                  "id": 35,
                   "isAvailable": true,
                   "name": "2.5l",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "28.14",
+                        "amount": "0.01",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 872
+                  "stockQuantity": 2
                 },
                 {
-                  "id": 76,
+                  "id": 142,
                   "isAvailable": true,
-                  "name": "55cm x 55cm",
+                  "name": "L",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "61.9",
+                        "amount": "0.01",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 399
+                  "stockQuantity": 433
                 },
                 {
-                  "id": 92,
+                  "id": 156,
                   "isAvailable": true,
                   "name": "200g",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "5.23",
+                        "amount": "40.83",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 67
+                  "stockQuantity": 14
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 5
+              },
+              "id": 41,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 201,
+                  "url": "products/images/oysLpgUctUBXEUGv.png"
                 },
                 {
-                  "id": 94,
+                  "alt": "",
+                  "id": 202,
+                  "url": "products/images/afChinyMiiHwwXEO.png"
+                },
+                {
+                  "alt": "",
+                  "id": 203,
+                  "url": "products/images/VMWNlgVBsIDLKcTZ.png"
+                },
+                {
+                  "alt": "",
+                  "id": 204,
+                  "url": "products/images/kgBPHaCZWPTkHwxS.png"
+                },
+                {
+                  "alt": "",
+                  "id": 205,
+                  "url": "products/images/NhgvQhbycJsOXnNp.png"
+                },
+                {
+                  "alt": "",
+                  "id": 206,
+                  "url": "products/images/NkQCaQBMKbbdvrWB.png"
+                },
+                {
+                  "alt": "",
+                  "id": 207,
+                  "url": "products/images/aFeLFbCxYLaSuDIC.png"
+                },
+                {
+                  "alt": "",
+                  "id": 208,
+                  "url": "products/images/PPkXyyooMyrIiokK.png"
+                },
+                {
+                  "alt": "",
+                  "id": 209,
+                  "url": "products/images/jeFZkJRKvKmAzmGY.png"
+                }
+              ],
+              "name": "Adipisci reprehenderit ratione incidunt.",
+              "producer": [
+                {
+                  "firstName": "Jean-Claude",
+                  "lastName": "Jacot-Descombes"
+                }
+              ],
+              "productType": {
+                "id": 63
+              },
+              "variants": [
+                {
+                  "id": 12,
                   "isAvailable": true,
-                  "name": "S",
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "28.95",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 128
+                },
+                {
+                  "id": 39,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "31.79",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 294
+                },
+                {
+                  "id": 80,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "28.95",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 283
+                },
+                {
+                  "id": 133,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "28.95",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 12
+                },
+                {
+                  "id": 159,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "98.64",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 29
+                },
+                {
+                  "id": 177,
+                  "isAvailable": true,
+                  "name": "5l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "28.95",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 115
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 9
+              },
+              "id": 45,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 228,
+                  "url": "products/images/cEDTMrjhVgJlnkBV.png"
+                },
+                {
+                  "alt": "",
+                  "id": 229,
+                  "url": "products/images/USMbJoLVaorFImsi.png"
+                },
+                {
+                  "alt": "",
+                  "id": 230,
+                  "url": "products/images/ObiLIMjrSUNUcqLx.png"
+                },
+                {
+                  "alt": "",
+                  "id": 231,
+                  "url": "products/images/DEUNzdmNdppYtZQg.png"
+                },
+                {
+                  "alt": "",
+                  "id": 232,
+                  "url": "products/images/FiWrxnzQBsVRRlKO.png"
+                },
+                {
+                  "alt": "",
+                  "id": 233,
+                  "url": "products/images/bOIDfLMzGgqjVFJr.png"
+                },
+                {
+                  "alt": "",
+                  "id": 234,
+                  "url": "products/images/xfNalbvdZXtFTiiF.png"
+                },
+                {
+                  "alt": "",
+                  "id": 235,
+                  "url": "products/images/eAvUGAYsIAZMQBHO.png"
+                }
+              ],
+              "name": "Consectetur ullam quisquam.",
+              "producer": [
+                {
+                  "firstName": "Jean-Claude",
+                  "lastName": "Jacot-Descombes"
+                }
+              ],
+              "productType": {
+                "id": 100
+              },
+              "variants": [
+                {
+                  "id": 71,
+                  "isAvailable": true,
+                  "name": "2l",
                   "pricing": {
                     "price": {
                       "gross": {
@@ -75,21 +371,115 @@
                       }
                     }
                   },
-                  "stockQuantity": 161
+                  "stockQuantity": 115
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "category": {
+                "id": 1
+              },
+              "id": 39,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 191,
+                  "url": "products/images/MXNeHCRnSXdjOawU.png"
                 },
                 {
-                  "id": 98,
+                  "alt": "",
+                  "id": 192,
+                  "url": "products/images/hXiipqjdAXUZEAgr.png"
+                },
+                {
+                  "alt": "",
+                  "id": 193,
+                  "url": "products/images/QKTVyvvkQUacrURQ.png"
+                },
+                {
+                  "alt": "",
+                  "id": 194,
+                  "url": "products/images/sgqYrVRVCqrvIvvd.png"
+                },
+                {
+                  "alt": "",
+                  "id": 195,
+                  "url": "products/images/GVWWsXmCrvWcqqcc.png"
+                },
+                {
+                  "alt": "",
+                  "id": 196,
+                  "url": "products/images/ZdSiNnNbvkMHJuEL.png"
+                }
+              ],
+              "name": "Excepturi officia iure.",
+              "producer": [
+                {
+                  "firstName": "Jacques",
+                  "lastName": "Bugnon"
+                }
+              ],
+              "productType": {
+                "id": 14
+              },
+              "variants": [
+                {
+                  "id": 79,
                   "isAvailable": true,
-                  "name": "XL",
+                  "name": "250ml",
                   "pricing": {
                     "price": {
                       "gross": {
-                        "amount": "42.17",
+                        "amount": "51.6",
                         "currency": "CHF"
                       }
                     }
                   },
-                  "stockQuantity": 319
+                  "stockQuantity": 196
+                },
+                {
+                  "id": 113,
+                  "isAvailable": true,
+                  "name": "2l",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "45.9",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 28
+                },
+                {
+                  "id": 152,
+                  "isAvailable": true,
+                  "name": "100g",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "51.6",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 257
+                },
+                {
+                  "id": 167,
+                  "isAvailable": true,
+                  "name": "L",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "51.6",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 25
                 }
               ]
             }
