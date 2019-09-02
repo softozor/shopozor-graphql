@@ -1,5 +1,5 @@
-query ShopCatalogue($shopId: ID!) {
-  shopCatalogue(id: $shopId) {
+query ShopCatalogue($shopId: ID!, $categoryId: ID!) {
+  shopCatalogue(shopId: $shopId, categoryId: $categoryId) {
     products(filter: { isPublished: true }) {
       edges {
         node {
@@ -23,9 +23,6 @@ query ShopCatalogue($shopId: ID!) {
             id
             alt
             url
-          }
-          category {
-            id
           }
           productType {
             id

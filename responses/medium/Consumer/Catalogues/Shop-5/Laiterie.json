@@ -1,0 +1,90 @@
+{
+  "data": {
+    "shopCatalogue": {
+      "products": {
+        "edges": [
+          {
+            "node": {
+              "id": 66,
+              "images": [
+                {
+                  "alt": "",
+                  "id": 355,
+                  "url": "products/images/rYamFWFEMohnwhep.png"
+                }
+              ],
+              "name": "Enim sed dolore.",
+              "producer": [
+                {
+                  "firstName": "Mathilde",
+                  "lastName": "Quartier"
+                }
+              ],
+              "productType": {
+                "id": 63
+              },
+              "variants": [
+                {
+                  "id": 23,
+                  "isAvailable": true,
+                  "name": "45cm x 45cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "7.53",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 304
+                },
+                {
+                  "id": 59,
+                  "isAvailable": true,
+                  "name": "55cm x 55cm",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "17.76",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 134
+                },
+                {
+                  "id": 278,
+                  "isAvailable": true,
+                  "name": "S",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.62",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 908
+                },
+                {
+                  "id": 403,
+                  "isAvailable": true,
+                  "name": "XS",
+                  "pricing": {
+                    "price": {
+                      "gross": {
+                        "amount": "55.62",
+                        "currency": "CHF"
+                      }
+                    }
+                  },
+                  "stockQuantity": 592
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
