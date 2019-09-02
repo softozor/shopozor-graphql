@@ -1,0 +1,54 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": 133,
+            "images": [],
+            "name": "Necessitatibus voluptatem.",
+            "producer": [
+              {
+                "firstName": "René",
+                "lastName": "Carron"
+              }
+            ],
+            "productType": {
+              "id": 48
+            },
+            "variants": [
+              {
+                "id": 187,
+                "isAvailable": true,
+                "name": "S",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "74.88",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 91
+              },
+              {
+                "id": 199,
+                "isAvailable": true,
+                "name": "250ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "57.93",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 499
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

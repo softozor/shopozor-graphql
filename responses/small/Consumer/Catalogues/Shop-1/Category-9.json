@@ -1,0 +1,82 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": 28,
+            "images": [],
+            "name": "Laboriosam totam dolore soluta.",
+            "producer": [
+              {
+                "firstName": "Jacques",
+                "lastName": "Bugnon"
+              }
+            ],
+            "productType": {
+              "id": 96
+            },
+            "variants": [
+              {
+                "id": 87,
+                "isAvailable": true,
+                "name": "250ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "98.8",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 322
+              },
+              {
+                "id": 127,
+                "isAvailable": true,
+                "name": "200g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "98.8",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 3
+              },
+              {
+                "id": 146,
+                "isAvailable": true,
+                "name": "250ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "52.02",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 768
+              },
+              {
+                "id": 163,
+                "isAvailable": true,
+                "name": "M",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "98.8",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 642
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

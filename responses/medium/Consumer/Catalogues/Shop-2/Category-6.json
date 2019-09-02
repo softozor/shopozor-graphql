@@ -1,0 +1,40 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": 226,
+            "images": [],
+            "name": "Ipsa est.",
+            "producer": [
+              {
+                "firstName": "Zoé",
+                "lastName": "Crivelli"
+              }
+            ],
+            "productType": {
+              "id": 69
+            },
+            "variants": [
+              {
+                "id": 437,
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "4.79",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 159
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

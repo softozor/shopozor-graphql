@@ -1,0 +1,70 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": 101,
+            "images": [
+              {
+                "alt": "",
+                "id": 505,
+                "url": "products/images/QlXlJjaHJWJQnVVc.png"
+              },
+              {
+                "alt": "",
+                "id": 506,
+                "url": "products/images/RYHWqGsqFaLwlvTn.png"
+              },
+              {
+                "alt": "",
+                "id": 507,
+                "url": "products/images/FhZBXblJsCzpqAPl.png"
+              }
+            ],
+            "name": "Dicta.",
+            "producer": [
+              {
+                "firstName": "Maxime",
+                "lastName": "Comment"
+              }
+            ],
+            "productType": {
+              "id": 102
+            },
+            "variants": [
+              {
+                "id": 328,
+                "isAvailable": true,
+                "name": "M",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "58.48",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 485
+              },
+              {
+                "id": 366,
+                "isAvailable": true,
+                "name": "1kg",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "11.51",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 114
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

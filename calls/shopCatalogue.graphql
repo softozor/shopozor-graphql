@@ -1,36 +1,36 @@
 query ShopCatalogue($shopId: ID!, $categoryId: ID!) {
-  shopCatalogue(shopId: $shopId, categoryId: $categoryId) {
-    products(filter: { isPublished: true }) {
-      edges {
-        node {
+  products(
+    filter: { isPublished: true, category: $categoryId, shop: $shopId }
+  ) {
+    edges {
+      node {
+        id
+        name
+        variants {
           id
           name
-          variants {
-            id
-            name
-            isAvailable
-            pricing {
-              price {
-                gross {
-                  currency
-                  amount
-                }
+          isAvailable
+          pricing {
+            price {
+              gross {
+                currency
+                amount
               }
             }
-            stockQuantity
           }
-          images {
-            id
-            alt
-            url
-          }
-          productType {
-            id
-          }
-          producer {
-            firstName
-            lastName
-          }
+          stockQuantity
+        }
+        images {
+          id
+          alt
+          url
+        }
+        productType {
+          id
+        }
+        producer {
+          firstName
+          lastName
         }
       }
     }
