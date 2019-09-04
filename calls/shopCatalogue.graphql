@@ -1,7 +1,15 @@
-query ShopCatalogue($shopId: ID!, $categoryId: ID!) {
+query ShopCatalogue(
+  $shopId: ID!
+  $categoryId: ID!
+  $first: Int!
+  $after: String = ""
+) {
   products(
+    first: $first
+    after: $after
     filter: { isPublished: true, category: $categoryId, shop: $shopId }
   ) {
+    totalCount
     edges {
       node {
         id
@@ -33,6 +41,10 @@ query ShopCatalogue($shopId: ID!, $categoryId: ID!) {
           lastName
         }
       }
+    }
+    pageInfo {
+      startCursor
+      endCursor
     }
   }
 }
