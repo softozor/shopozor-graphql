@@ -1,0 +1,18 @@
+query ProductDetails($productId: ID!) {
+  product(id: $productId) {
+    name
+    description
+    images {
+      alt
+      url
+    }
+    attributes {
+      attribute {
+        name
+      }
+      value {
+        name
+      }
+    }
+  }
+}
