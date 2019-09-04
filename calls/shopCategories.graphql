@@ -1,0 +1,20 @@
+query ShopCategories($first: Int!, $after: String = "") {
+  categories(first: $first, after: $after, level: 0) {
+    totalCount
+    edges {
+      node {
+        id
+        name
+        description
+        backgroundImage {
+          alt
+          url
+        }
+      }
+    }
+    pageInfo {
+      startCursor
+      endCursor
+    }
+  }
+}
