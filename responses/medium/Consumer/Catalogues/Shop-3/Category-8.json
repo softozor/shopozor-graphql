@@ -4,46 +4,100 @@
       "edges": [
         {
           "node": {
-            "id": 133,
-            "images": [],
-            "name": "Necessitatibus voluptatem.",
+            "id": 61,
+            "images": [
+              {
+                "alt": "",
+                "id": 323,
+                "url": "products/images/xnwtNWaDOvjycSBl.png"
+              },
+              {
+                "alt": "",
+                "id": 324,
+                "url": "products/images/FOdFeHthQMZJybsy.png"
+              },
+              {
+                "alt": "",
+                "id": 325,
+                "url": "products/images/yhxQMvpfUknlyOfZ.png"
+              },
+              {
+                "alt": "",
+                "id": 326,
+                "url": "products/images/nZzkrJAOuPLTPdEq.png"
+              },
+              {
+                "alt": "",
+                "id": 327,
+                "url": "products/images/BpiJpjILQTPZWWTB.png"
+              }
+            ],
+            "name": "Recusandae earum nisi.",
             "producer": [
               {
-                "firstName": "René",
-                "lastName": "Carron"
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
               }
             ],
             "productType": {
-              "id": 48
+              "id": 91
             },
             "variants": [
               {
-                "id": 187,
-                "isAvailable": true,
-                "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "74.88",
-                      "currency": "CHF"
-                    }
-                  }
-                },
-                "stockQuantity": 91
-              },
-              {
-                "id": 199,
+                "id": 235,
                 "isAvailable": true,
                 "name": "250ml",
                 "pricing": {
                   "price": {
                     "gross": {
-                      "amount": "57.93",
+                      "amount": "58.09",
                       "currency": "CHF"
                     }
                   }
                 },
-                "stockQuantity": 499
+                "stockQuantity": 302
+              },
+              {
+                "id": 236,
+                "isAvailable": true,
+                "name": "500ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "18.12",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 267
+              },
+              {
+                "id": 237,
+                "isAvailable": true,
+                "name": "2l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "52.03",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 107
+              },
+              {
+                "id": 238,
+                "isAvailable": true,
+                "name": "2.5l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "73.81",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 40
               }
             ]
           }

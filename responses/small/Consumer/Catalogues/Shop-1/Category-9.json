@@ -4,13 +4,34 @@
       "edges": [
         {
           "node": {
-            "id": 28,
-            "images": [],
-            "name": "Laboriosam totam dolore soluta.",
+            "id": 32,
+            "images": [
+              {
+                "alt": "",
+                "id": 126,
+                "url": "products/images/UmnxCUHKQIZNnpGy.png"
+              },
+              {
+                "alt": "",
+                "id": 127,
+                "url": "products/images/dVgnrXyzNiiSpfSa.png"
+              },
+              {
+                "alt": "",
+                "id": 128,
+                "url": "products/images/JaWCiBoZKlBkHWrg.png"
+              },
+              {
+                "alt": "",
+                "id": 129,
+                "url": "products/images/dTsWZiyNkuJvEQor.png"
+              }
+            ],
+            "name": "Quibusdam magni.",
             "producer": [
               {
-                "firstName": "Jacques",
-                "lastName": "Bugnon"
+                "firstName": "Ethan",
+                "lastName": "Mercier"
               }
             ],
             "productType": {
@@ -18,60 +39,74 @@
             },
             "variants": [
               {
-                "id": 87,
+                "id": 89,
                 "isAvailable": true,
-                "name": "250ml",
+                "name": "XL",
                 "pricing": {
                   "price": {
                     "gross": {
-                      "amount": "98.8",
+                      "amount": "56.79",
                       "currency": "CHF"
                     }
                   }
                 },
-                "stockQuantity": 322
+                "stockQuantity": 49
               },
               {
-                "id": 127,
+                "id": 90,
+                "isAvailable": true,
+                "name": "2.5l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "56.79",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 686
+              },
+              {
+                "id": 91,
+                "isAvailable": true,
+                "name": "500g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "62.98",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 439
+              },
+              {
+                "id": 92,
                 "isAvailable": true,
                 "name": "200g",
                 "pricing": {
                   "price": {
                     "gross": {
-                      "amount": "98.8",
+                      "amount": "56.79",
                       "currency": "CHF"
                     }
                   }
                 },
-                "stockQuantity": 3
+                "stockQuantity": 483
               },
               {
-                "id": 146,
+                "id": 93,
                 "isAvailable": true,
-                "name": "250ml",
+                "name": "XL",
                 "pricing": {
                   "price": {
                     "gross": {
-                      "amount": "52.02",
+                      "amount": "67.62",
                       "currency": "CHF"
                     }
                   }
                 },
-                "stockQuantity": 768
-              },
-              {
-                "id": 163,
-                "isAvailable": true,
-                "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "98.8",
-                      "currency": "CHF"
-                    }
-                  }
-                },
-                "stockQuantity": 642
+                "stockQuantity": 291
               }
             ]
           }

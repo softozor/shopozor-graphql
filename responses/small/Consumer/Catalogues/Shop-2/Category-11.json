@@ -1,7 +1,56 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 33,
+            "images": [
+              {
+                "alt": "",
+                "id": 130,
+                "url": "products/images/FdIMcJjfvvCOmsRZ.png"
+              },
+              {
+                "alt": "",
+                "id": 131,
+                "url": "products/images/ibhDYSZzLJvCzsOp.png"
+              },
+              {
+                "alt": "",
+                "id": 132,
+                "url": "products/images/UzwBDpZdVFHQhzxt.png"
+              }
+            ],
+            "name": "Amet vitae nisi.",
+            "producer": [
+              {
+                "firstName": "Charles",
+                "lastName": "Cossy"
+              }
+            ],
+            "productType": {
+              "id": 110
+            },
+            "variants": [
+              {
+                "id": 94,
+                "isAvailable": true,
+                "name": "XS",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "58.99",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 591
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

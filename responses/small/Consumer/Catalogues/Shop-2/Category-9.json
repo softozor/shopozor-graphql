@@ -1,7 +1,149 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 23,
+            "images": [],
+            "name": "Laboriosam totam dolore soluta.",
+            "producer": [
+              {
+                "firstName": "Charles",
+                "lastName": "Cossy"
+              }
+            ],
+            "productType": {
+              "id": 96
+            },
+            "variants": [
+              {
+                "id": 66,
+                "isAvailable": true,
+                "name": "5l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "98.8",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 6
+              },
+              {
+                "id": 67,
+                "isAvailable": true,
+                "name": "L",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "98.8",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 292
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": 133,
+            "images": [
+              {
+                "alt": "",
+                "id": 613,
+                "url": "products/images/tLMGdsEyRTGTFecC.png"
+              },
+              {
+                "alt": "",
+                "id": 614,
+                "url": "products/images/bSOjLISKwzTxOOug.png"
+              },
+              {
+                "alt": "",
+                "id": 615,
+                "url": "products/images/fAuFALeazMHboVHO.png"
+              },
+              {
+                "alt": "",
+                "id": 616,
+                "url": "products/images/yztWeJajkTJMkPOK.png"
+              }
+            ],
+            "name": "Neque quod totam.",
+            "producer": [
+              {
+                "firstName": "André",
+                "lastName": "Godet"
+              }
+            ],
+            "productType": {
+              "id": 98
+            },
+            "variants": [
+              {
+                "id": 309,
+                "isAvailable": true,
+                "name": "1kg",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "74.87",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 5
+              },
+              {
+                "id": 310,
+                "isAvailable": true,
+                "name": "500g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "74.87",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 437
+              },
+              {
+                "id": 311,
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "68.34",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 61
+              },
+              {
+                "id": 312,
+                "isAvailable": true,
+                "name": "250g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "79.28",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 392
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

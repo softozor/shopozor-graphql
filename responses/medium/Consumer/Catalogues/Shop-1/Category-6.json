@@ -1,7 +1,81 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 42,
+            "images": [
+              {
+                "alt": "",
+                "id": 208,
+                "url": "products/images/RXinqjpvmUtYVcQy.png"
+              },
+              {
+                "alt": "",
+                "id": 209,
+                "url": "products/images/sAaJYzTzoXUIJHOo.png"
+              },
+              {
+                "alt": "",
+                "id": 210,
+                "url": "products/images/WgVfCJQzgytOXjzk.png"
+              },
+              {
+                "alt": "",
+                "id": 211,
+                "url": "products/images/PhQfGhSfzPFnByxS.png"
+              },
+              {
+                "alt": "",
+                "id": 212,
+                "url": "products/images/wiNbQDjKNzNPdeGg.png"
+              },
+              {
+                "alt": "",
+                "id": 213,
+                "url": "products/images/EdspnOXbrWmOoeVZ.png"
+              },
+              {
+                "alt": "",
+                "id": 214,
+                "url": "products/images/OlZigYYHNlIIATDX.png"
+              },
+              {
+                "alt": "",
+                "id": 215,
+                "url": "products/images/ZleszwKwfmkEixjy.png"
+              }
+            ],
+            "name": "Consequuntur hic.",
+            "producer": [
+              {
+                "firstName": "Elisa",
+                "lastName": "de Dardel"
+              }
+            ],
+            "productType": {
+              "id": 73
+            },
+            "variants": [
+              {
+                "id": 162,
+                "isAvailable": true,
+                "name": "S",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "7.13",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 396
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

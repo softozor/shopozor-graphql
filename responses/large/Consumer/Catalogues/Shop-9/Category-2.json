@@ -1,7 +1,74 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 3454,
+            "images": [
+              {
+                "alt": "",
+                "id": 17330,
+                "url": "products/images/MjpokauKOUYRLapx.png"
+              }
+            ],
+            "name": "Odio soluta.",
+            "producer": [
+              {
+                "firstName": "Ethan",
+                "lastName": "Cattin"
+              }
+            ],
+            "productType": {
+              "id": 30
+            },
+            "variants": [
+              {
+                "id": 17532,
+                "isAvailable": true,
+                "name": "250g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "83.69",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 407
+              },
+              {
+                "id": 17533,
+                "isAvailable": true,
+                "name": "XL",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "70.24",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 55
+              },
+              {
+                "id": 17534,
+                "isAvailable": true,
+                "name": "100g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "83.69",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 151
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

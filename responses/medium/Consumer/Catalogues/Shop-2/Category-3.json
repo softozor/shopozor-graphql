@@ -1,7 +1,99 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 107,
+            "images": [
+              {
+                "alt": "",
+                "id": 576,
+                "url": "products/images/VPtwtHsEgXDlqRuv.png"
+              },
+              {
+                "alt": "",
+                "id": 577,
+                "url": "products/images/qkUcZmxasqwJnHuW.png"
+              },
+              {
+                "alt": "",
+                "id": 578,
+                "url": "products/images/bfDoZivkNSZWbjte.png"
+              },
+              {
+                "alt": "",
+                "id": 579,
+                "url": "products/images/NedVMrTPHZXLKdrY.png"
+              },
+              {
+                "alt": "",
+                "id": 580,
+                "url": "products/images/cApsndnyxarOrWYP.png"
+              },
+              {
+                "alt": "",
+                "id": 581,
+                "url": "products/images/PVfCMmSUDqvVyyBH.png"
+              }
+            ],
+            "name": "Ducimus hic.",
+            "producer": [
+              {
+                "firstName": "Elisa",
+                "lastName": "Comman"
+              }
+            ],
+            "productType": {
+              "id": 48
+            },
+            "variants": [
+              {
+                "id": 370,
+                "isAvailable": true,
+                "name": "200g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "43.48",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 444
+              },
+              {
+                "id": 371,
+                "isAvailable": true,
+                "name": "L",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "90.92",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 262
+              },
+              {
+                "id": 372,
+                "isAvailable": true,
+                "name": "500g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "93.06",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 116
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

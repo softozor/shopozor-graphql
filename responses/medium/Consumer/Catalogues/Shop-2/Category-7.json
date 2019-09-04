@@ -4,49 +4,13 @@
       "edges": [
         {
           "node": {
-            "id": 232,
-            "images": [
-              {
-                "alt": "",
-                "id": 1193,
-                "url": "products/images/sxFEuozNpWbWAmkb.png"
-              },
-              {
-                "alt": "",
-                "id": 1194,
-                "url": "products/images/tDEEdzUwYfVbikrb.png"
-              },
-              {
-                "alt": "",
-                "id": 1195,
-                "url": "products/images/UuXroPtGCRXXdjPh.png"
-              },
-              {
-                "alt": "",
-                "id": 1196,
-                "url": "products/images/wMOJzVcUtJdJspfN.png"
-              },
-              {
-                "alt": "",
-                "id": 1197,
-                "url": "products/images/dBuJantSixxrufrv.png"
-              },
-              {
-                "alt": "",
-                "id": 1198,
-                "url": "products/images/RBchWqXoPmNraRqU.png"
-              },
-              {
-                "alt": "",
-                "id": 1199,
-                "url": "products/images/WKNrvffnjeBeUHEH.png"
-              }
-            ],
-            "name": "Doloremque eum eius ea.",
+            "id": 110,
+            "images": [],
+            "name": "Corrupti neque.",
             "producer": [
               {
-                "firstName": "Luca",
-                "lastName": "Fonjallaz"
+                "firstName": "Romain",
+                "lastName": "Monnet"
               }
             ],
             "productType": {
@@ -54,60 +18,108 @@
             },
             "variants": [
               {
-                "id": 6,
+                "id": 375,
                 "isAvailable": true,
-                "name": "XL",
+                "name": "45cm x 45cm",
                 "pricing": {
                   "price": {
                     "gross": {
-                      "amount": "92.66",
+                      "amount": "19.49",
                       "currency": "CHF"
                     }
                   }
                 },
-                "stockQuantity": 661
+                "stockQuantity": 730
               },
               {
-                "id": 279,
-                "isAvailable": true,
-                "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "44.98",
-                      "currency": "CHF"
-                    }
-                  }
-                },
-                "stockQuantity": 32
-              },
-              {
-                "id": 349,
-                "isAvailable": true,
-                "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "44.98",
-                      "currency": "CHF"
-                    }
-                  }
-                },
-                "stockQuantity": 86
-              },
-              {
-                "id": 495,
+                "id": 376,
                 "isAvailable": true,
                 "name": "2.5l",
                 "pricing": {
                   "price": {
                     "gross": {
-                      "amount": "69.96",
+                      "amount": "31.78",
                       "currency": "CHF"
                     }
                   }
                 },
-                "stockQuantity": 106
+                "stockQuantity": 330
+              },
+              {
+                "id": 377,
+                "isAvailable": true,
+                "name": "1kg",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "44.57",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 97
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": 154,
+            "images": [
+              {
+                "alt": "",
+                "id": 823,
+                "url": "products/images/LkQMOBBNjoHmBvbY.png"
+              },
+              {
+                "alt": "",
+                "id": 824,
+                "url": "products/images/EgvlHnHSjXogBKDt.png"
+              },
+              {
+                "alt": "",
+                "id": 825,
+                "url": "products/images/VGSTEurRowmJpEEM.png"
+              }
+            ],
+            "name": "Recusandae tempore.",
+            "producer": [
+              {
+                "firstName": "Elisa",
+                "lastName": "Comman"
+              }
+            ],
+            "productType": {
+              "id": 90
+            },
+            "variants": [
+              {
+                "id": 534,
+                "isAvailable": true,
+                "name": "M",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "57.58",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 260
+              },
+              {
+                "id": 535,
+                "isAvailable": true,
+                "name": "100g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "40.09",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 445
               }
             ]
           }

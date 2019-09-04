@@ -1,7 +1,40 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 1946,
+            "images": [],
+            "name": "Alias assumenda.",
+            "producer": [
+              {
+                "firstName": "Ethan",
+                "lastName": "Cattin"
+              }
+            ],
+            "productType": {
+              "id": 74
+            },
+            "variants": [
+              {
+                "id": 9808,
+                "isAvailable": true,
+                "name": "1kg",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "56.48",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 360
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

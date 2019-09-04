@@ -1,7 +1,96 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 119,
+            "images": [],
+            "name": "Quod eaque ut.",
+            "producer": [
+              {
+                "firstName": "Clara",
+                "lastName": "Grojean"
+              }
+            ],
+            "productType": {
+              "id": 47
+            },
+            "variants": [
+              {
+                "id": 401,
+                "isAvailable": true,
+                "name": "250ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "3.57",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 321
+              },
+              {
+                "id": 402,
+                "isAvailable": true,
+                "name": "250ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "75.08",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 27
+              },
+              {
+                "id": 403,
+                "isAvailable": true,
+                "name": "500g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "86.92",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 201
+              },
+              {
+                "id": 404,
+                "isAvailable": true,
+                "name": "XS",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "27.89",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 271
+              },
+              {
+                "id": 405,
+                "isAvailable": true,
+                "name": "2.5l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "27.89",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 149
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

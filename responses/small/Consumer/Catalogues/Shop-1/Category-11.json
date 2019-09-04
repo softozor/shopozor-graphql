@@ -1,7 +1,88 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 91,
+            "images": [
+              {
+                "alt": "",
+                "id": 406,
+                "url": "products/images/iAOeSZhUwnoKUtbw.png"
+              }
+            ],
+            "name": "Doloribus odit.",
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Martin"
+              }
+            ],
+            "productType": {
+              "id": 109
+            },
+            "variants": [
+              {
+                "id": 219,
+                "isAvailable": true,
+                "name": "250ml",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "1.14",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 556
+              },
+              {
+                "id": 220,
+                "isAvailable": true,
+                "name": "100g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "8.97",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 9
+              },
+              {
+                "id": 221,
+                "isAvailable": true,
+                "name": "2.5l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "8.97",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 185
+              },
+              {
+                "id": 222,
+                "isAvailable": true,
+                "name": "500g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "95.56",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 535
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

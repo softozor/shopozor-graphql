@@ -1,7 +1,95 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 59,
+            "images": [
+              {
+                "alt": "",
+                "id": 253,
+                "url": "products/images/bPclcyRzhZzzggph.png"
+              },
+              {
+                "alt": "",
+                "id": 254,
+                "url": "products/images/uWyOyBbsldgYRydu.png"
+              },
+              {
+                "alt": "",
+                "id": 255,
+                "url": "products/images/qPosxvxcIMfbCUZh.png"
+              },
+              {
+                "alt": "",
+                "id": 256,
+                "url": "products/images/GVjuwxEZzcLTyQeL.png"
+              },
+              {
+                "alt": "",
+                "id": 257,
+                "url": "products/images/bRGAjpYnBvNIaDyE.png"
+              },
+              {
+                "alt": "",
+                "id": 258,
+                "url": "products/images/EjwLTyIaodoAbtuh.png"
+              },
+              {
+                "alt": "",
+                "id": 259,
+                "url": "products/images/eQlJgzxKcGSPkGKH.png"
+              },
+              {
+                "alt": "",
+                "id": 260,
+                "url": "products/images/PFzJXXtUHhhfRQqQ.png"
+              }
+            ],
+            "name": "Quo unde rerum.",
+            "producer": [
+              {
+                "firstName": "Ethan",
+                "lastName": "Mercier"
+              }
+            ],
+            "productType": {
+              "id": 103
+            },
+            "variants": [
+              {
+                "id": 159,
+                "isAvailable": true,
+                "name": "XS",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "59.49",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 56
+              },
+              {
+                "id": 160,
+                "isAvailable": true,
+                "name": "250g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "59.78",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 17
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

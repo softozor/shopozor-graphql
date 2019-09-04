@@ -1,7 +1,46 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 13,
+            "images": [
+              {
+                "alt": "",
+                "id": 45,
+                "url": "products/images/GFRbBeMHWSXUvYys.png"
+              }
+            ],
+            "name": "Corrupti ratione assumenda voluptatem.",
+            "producer": [
+              {
+                "firstName": "André",
+                "lastName": "Godet"
+              }
+            ],
+            "productType": {
+              "id": 76
+            },
+            "variants": [
+              {
+                "id": 37,
+                "isAvailable": true,
+                "name": "XS",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "74.21",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 21
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

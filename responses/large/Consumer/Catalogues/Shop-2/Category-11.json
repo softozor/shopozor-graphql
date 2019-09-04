@@ -1,7 +1,164 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 2006,
+            "images": [],
+            "name": "Iste laudantium eligendi architecto.",
+            "producer": [
+              {
+                "firstName": "Elodie",
+                "lastName": "Babey"
+              }
+            ],
+            "productType": {
+              "id": 110
+            },
+            "variants": [
+              {
+                "id": 10100,
+                "isAvailable": true,
+                "name": "250g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "11.45",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 31
+              },
+              {
+                "id": 10101,
+                "isAvailable": true,
+                "name": "L",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "11.45",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 530
+              },
+              {
+                "id": 10102,
+                "isAvailable": true,
+                "name": "2l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "79.9",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 109
+              },
+              {
+                "id": 10103,
+                "isAvailable": true,
+                "name": "L",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "11.45",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 438
+              },
+              {
+                "id": 10104,
+                "isAvailable": true,
+                "name": "100g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "11.45",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 21
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": 4353,
+            "images": [
+              {
+                "alt": "",
+                "id": 21699,
+                "url": "products/images/ZmBjWhBOfeSxsCAy.png"
+              },
+              {
+                "alt": "",
+                "id": 21700,
+                "url": "products/images/LOtyrfwmYSpwhToT.png"
+              },
+              {
+                "alt": "",
+                "id": 21701,
+                "url": "products/images/IYMFrSPtlGTqsalN.png"
+              },
+              {
+                "alt": "",
+                "id": 21702,
+                "url": "products/images/eKjnwRzEahqisKeC.png"
+              },
+              {
+                "alt": "",
+                "id": 21703,
+                "url": "products/images/URTKjRnluPFNAIqC.png"
+              },
+              {
+                "alt": "",
+                "id": 21704,
+                "url": "products/images/YsxjpMWcgFlrqcNG.png"
+              },
+              {
+                "alt": "",
+                "id": 21705,
+                "url": "products/images/NqsCgajRcLaizXcg.png"
+              }
+            ],
+            "name": "Labore expedita.",
+            "producer": [
+              {
+                "firstName": "Elodie",
+                "lastName": "Babey"
+              }
+            ],
+            "productType": {
+              "id": 110
+            },
+            "variants": [
+              {
+                "id": 21995,
+                "isAvailable": true,
+                "name": "1l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "60.68",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 136
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

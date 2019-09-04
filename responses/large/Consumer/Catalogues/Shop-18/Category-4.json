@@ -1,7 +1,99 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 4375,
+            "images": [
+              {
+                "alt": "",
+                "id": 21832,
+                "url": "products/images/xtLfvMwiYmDuOeqa.png"
+              },
+              {
+                "alt": "",
+                "id": 21833,
+                "url": "products/images/ioGldMXohoqjeYgY.png"
+              },
+              {
+                "alt": "",
+                "id": 21834,
+                "url": "products/images/dLScTSaFMYKVLUVM.png"
+              },
+              {
+                "alt": "",
+                "id": 21835,
+                "url": "products/images/SALDORfpezlfQSZz.png"
+              },
+              {
+                "alt": "",
+                "id": 21836,
+                "url": "products/images/jtPXfkSLTfNhxvyG.png"
+              },
+              {
+                "alt": "",
+                "id": 21837,
+                "url": "products/images/VhUQWGMhVtUDevQQ.png"
+              }
+            ],
+            "name": "Voluptate accusantium.",
+            "producer": [
+              {
+                "firstName": "Yvette",
+                "lastName": "Courvoisier"
+              }
+            ],
+            "productType": {
+              "id": 56
+            },
+            "variants": [
+              {
+                "id": 22092,
+                "isAvailable": true,
+                "name": "200g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "78.51",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 176
+              },
+              {
+                "id": 22093,
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "47.48",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 130
+              },
+              {
+                "id": 22094,
+                "isAvailable": true,
+                "name": "XL",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "41.73",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 473
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }

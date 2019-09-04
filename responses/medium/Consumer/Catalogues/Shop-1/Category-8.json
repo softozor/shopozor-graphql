@@ -1,7 +1,127 @@
 {
   "data": {
     "products": {
-      "edges": []
+      "edges": [
+        {
+          "node": {
+            "id": 103,
+            "images": [
+              {
+                "alt": "",
+                "id": 556,
+                "url": "products/images/uDUqjutUgYSEfsqv.png"
+              },
+              {
+                "alt": "",
+                "id": 557,
+                "url": "products/images/KKBhwDJaSyYrCnRS.png"
+              },
+              {
+                "alt": "",
+                "id": 558,
+                "url": "products/images/hOUIQMSziMxJzxae.png"
+              },
+              {
+                "alt": "",
+                "id": 559,
+                "url": "products/images/QCpWyYqHoWesLJqR.png"
+              },
+              {
+                "alt": "",
+                "id": 560,
+                "url": "products/images/lPYSkdeDEQocnMjP.png"
+              },
+              {
+                "alt": "",
+                "id": 561,
+                "url": "products/images/uPTmrNpyPdTndIED.png"
+              }
+            ],
+            "name": "Voluptatem sunt expedita.",
+            "producer": [
+              {
+                "firstName": "Romain",
+                "lastName": "Besençon"
+              }
+            ],
+            "productType": {
+              "id": 91
+            },
+            "variants": [
+              {
+                "id": 359,
+                "isAvailable": true,
+                "name": "250g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "66.01",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 143
+              },
+              {
+                "id": 360,
+                "isAvailable": true,
+                "name": "250g",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "76.77",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 165
+              },
+              {
+                "id": 361,
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "76.77",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 529
+              },
+              {
+                "id": 362,
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "48.32",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 198
+              },
+              {
+                "id": 363,
+                "isAvailable": true,
+                "name": "2.5l",
+                "pricing": {
+                  "price": {
+                    "gross": {
+                      "amount": "76.77",
+                      "currency": "CHF"
+                    }
+                  }
+                },
+                "stockQuantity": 456
+              }
+            ]
+          }
+        }
+      ]
     }
   }
 }
