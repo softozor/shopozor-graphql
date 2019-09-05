@@ -1,4 +1,8 @@
-query ShopCategories($first: Int!, $after: String = "") {
+query ShopCategories(
+  $first: Int!
+  $after: String = ""
+  $thumbnailSize: Int = 0
+) {
   categories(first: $first, after: $after, level: 0) {
     totalCount
     edges {
@@ -6,7 +10,7 @@ query ShopCategories($first: Int!, $after: String = "") {
         id
         name
         description
-        backgroundImage {
+        backgroundImage(size: $thumbnailSize) {
           alt
           url
         }
