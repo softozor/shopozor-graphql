@@ -3,6 +3,7 @@ query ShopCatalogue(
   $categoryId: ID!
   $first: Int!
   $after: String = ""
+  $thumbnailSize: Int!
 ) {
   products(
     first: $first
@@ -28,8 +29,7 @@ query ShopCatalogue(
           }
           stockQuantity
         }
-        images {
-          id
+        thumbnail(size: $thumbnailSize) {
           alt
           url
         }
