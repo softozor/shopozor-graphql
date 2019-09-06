@@ -6,6 +6,22 @@
           "node": {
             "id": 108,
             "name": "Neque ducimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "3.04",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "3.04",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Charlotte",
@@ -24,14 +40,6 @@
                 "id": 553,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "3.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 22
               }
             ]

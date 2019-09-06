@@ -6,6 +6,22 @@
           "node": {
             "id": 103,
             "name": "Voluptatem sunt expedita.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "48.32",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "76.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Romain",
@@ -24,70 +40,30 @@
                 "id": 359,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "66.01",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 143
               },
               {
                 "id": 360,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "76.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 165
               },
               {
                 "id": 361,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "76.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 529
               },
               {
                 "id": 362,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "48.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 198
               },
               {
                 "id": 363,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "76.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 456
               }
             ]

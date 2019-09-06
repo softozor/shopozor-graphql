@@ -6,6 +6,22 @@
           "node": {
             "id": 3664,
             "name": "Suscipit deleniti ipsa.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "1.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,112 +40,48 @@
                 "id": 18619,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "83.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 143
               },
               {
                 "id": 18620,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 52
               },
               {
                 "id": 18621,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "63.73",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 67
               },
               {
                 "id": 18622,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "83.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 142
               },
               {
                 "id": 18623,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "83.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 585
               },
               {
                 "id": 18624,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "83.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 3
               },
               {
                 "id": 18625,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "44.33",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 49
               },
               {
                 "id": 18626,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "44.02",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 179
               }
             ]

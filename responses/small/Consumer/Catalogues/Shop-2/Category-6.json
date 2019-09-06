@@ -6,6 +6,22 @@
           "node": {
             "id": 13,
             "name": "Corrupti ratione assumenda voluptatem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "74.21",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "74.21",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "André",
@@ -24,14 +40,6 @@
                 "id": 37,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "74.21",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 21
               }
             ]

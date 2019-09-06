@@ -6,6 +6,22 @@
           "node": {
             "id": 1622,
             "name": "Similique adipisci.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "13.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "13.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patrick",
@@ -24,14 +40,6 @@
                 "id": 8188,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "13.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 556
               }
             ]
@@ -41,6 +49,22 @@
           "node": {
             "id": 4462,
             "name": "Fuga maiores laudantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "14.67",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "97.66",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Simone",
@@ -59,84 +83,36 @@
                 "id": 22550,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.42",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 431
               },
               {
                 "id": 22551,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "19.55",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 556
               },
               {
                 "id": 22552,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "97.66",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 9
               },
               {
                 "id": 22553,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "14.67",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 92
               },
               {
                 "id": 22554,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.42",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 528
               },
               {
                 "id": 22555,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "34.76",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 343
               }
             ]

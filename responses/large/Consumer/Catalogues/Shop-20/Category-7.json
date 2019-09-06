@@ -6,6 +6,22 @@
           "node": {
             "id": 44,
             "name": "Autem nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "19.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elisabeth",
@@ -24,98 +40,42 @@
                 "id": 245,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.31",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 252
               },
               {
                 "id": 246,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "19.48",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 51
               },
               {
                 "id": 247,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.31",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 328
               },
               {
                 "id": 248,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.31",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 50
               },
               {
                 "id": 249,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.31",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 226
               },
               {
                 "id": 250,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "37.81",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 28
               },
               {
                 "id": 251,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "27.97",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 419
               }
             ]
@@ -125,6 +85,22 @@
           "node": {
             "id": 2697,
             "name": "Excepturi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "29.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "88.79",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elisabeth",
@@ -143,56 +119,24 @@
                 "id": 13736,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "29.69",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 68
               },
               {
                 "id": 13737,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "88.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 218
               },
               {
                 "id": 13738,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "50.83",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 196
               },
               {
                 "id": 13739,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "50.29",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 123
               }
             ]

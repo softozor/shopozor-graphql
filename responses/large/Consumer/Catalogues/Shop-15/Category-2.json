@@ -6,6 +6,22 @@
           "node": {
             "id": 1214,
             "name": "Sed ex repudiandae.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "7.57",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "7.57",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Gilbert",
@@ -24,28 +40,12 @@
                 "id": 6157,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "7.57",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 79
               },
               {
                 "id": 6158,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "7.57",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 527
               }
             ]

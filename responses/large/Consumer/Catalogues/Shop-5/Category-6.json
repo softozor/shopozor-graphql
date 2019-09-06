@@ -6,6 +6,22 @@
           "node": {
             "id": 4261,
             "name": "Delectus reiciendis officia maiores.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "66.79",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Sarah",
@@ -24,70 +40,30 @@
                 "id": 21569,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "33.49",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 113
               },
               {
                 "id": 21570,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "66.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 32
               },
               {
                 "id": 21571,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.57",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 801
               },
               {
                 "id": 21572,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "24.84",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 213
               },
               {
                 "id": 21573,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.57",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 50
               }
             ]

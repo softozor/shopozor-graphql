@@ -6,6 +6,22 @@
           "node": {
             "id": 2362,
             "name": "Nisi autem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "19.3",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "52.71",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Nathan",
@@ -24,42 +40,18 @@
                 "id": 11966,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "19.3",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 380
               },
               {
                 "id": 11967,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "52.71",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 281
               },
               {
                 "id": 11968,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.21",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 185
               }
             ]

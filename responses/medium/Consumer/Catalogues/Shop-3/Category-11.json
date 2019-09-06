@@ -6,6 +6,22 @@
           "node": {
             "id": 50,
             "name": "Repellendus vitae quo explicabo.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "53.42",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "98.11",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,70 +40,30 @@
                 "id": 190,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "92.8",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 520
               },
               {
                 "id": 191,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "53.42",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 6
               },
               {
                 "id": 192,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "61.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 41
               },
               {
                 "id": 193,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "98.11",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 504
               },
               {
                 "id": 194,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "92.8",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 137
               }
             ]
@@ -97,6 +73,22 @@
           "node": {
             "id": 71,
             "name": "Excepturi esse.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "44.61",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "68.75",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Léo",
@@ -115,28 +107,12 @@
                 "id": 265,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "44.61",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 664
               },
               {
                 "id": 266,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "68.75",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 170
               }
             ]
@@ -146,6 +122,22 @@
           "node": {
             "id": 178,
             "name": "Libero voluptate alias animi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "43.74",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.74",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -164,14 +156,6 @@
                 "id": 612,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.74",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 505
               }
             ]

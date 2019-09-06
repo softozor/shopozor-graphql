@@ -6,6 +6,22 @@
           "node": {
             "id": 105,
             "name": "Provident maxime voluptatum maxime.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "36.93",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "55.19",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Luca",
@@ -24,42 +40,18 @@
                 "id": 367,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "55.19",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 627
               },
               {
                 "id": 368,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "55.19",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 15
               },
               {
                 "id": 369,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "36.93",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 318
               }
             ]
@@ -69,6 +61,22 @@
           "node": {
             "id": 250,
             "name": "Praesentium fugit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.5",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "89.71",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Luca",
@@ -87,84 +95,36 @@
                 "id": 856,
                 "isAvailable": true,
                 "name": "5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "88.09",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 47
               },
               {
                 "id": 857,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "89.71",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 474
               },
               {
                 "id": 858,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "89.71",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 179
               },
               {
                 "id": 859,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "24.5",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 99
               },
               {
                 "id": 860,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "89.71",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 332
               },
               {
                 "id": 861,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "89.71",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 35
               }
             ]

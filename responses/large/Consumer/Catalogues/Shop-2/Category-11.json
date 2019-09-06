@@ -6,6 +6,22 @@
           "node": {
             "id": 2006,
             "name": "Iste laudantium eligendi architecto.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "11.45",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "79.9",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -24,70 +40,30 @@
                 "id": 10100,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.45",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 31
               },
               {
                 "id": 10101,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.45",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 530
               },
               {
                 "id": 10102,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "79.9",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 109
               },
               {
                 "id": 10103,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.45",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 438
               },
               {
                 "id": 10104,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.45",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 21
               }
             ]
@@ -97,6 +73,22 @@
           "node": {
             "id": 4353,
             "name": "Labore expedita.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "60.68",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "60.68",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -115,14 +107,6 @@
                 "id": 21995,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "60.68",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 136
               }
             ]

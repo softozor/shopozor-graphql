@@ -6,6 +6,22 @@
           "node": {
             "id": 4986,
             "name": "Consectetur sapiente odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "1.44",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.75",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "François",
@@ -24,98 +40,42 @@
                 "id": 25204,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.44",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 270
               },
               {
                 "id": 25205,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.44",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 92
               },
               {
                 "id": 25206,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.44",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 382
               },
               {
                 "id": 25207,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "37.23",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 55
               },
               {
                 "id": 25208,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.44",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 110
               },
               {
                 "id": 25209,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.75",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 72
               },
               {
                 "id": 25210,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "16.15",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 16
               }
             ]

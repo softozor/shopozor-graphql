@@ -6,6 +6,22 @@
           "node": {
             "id": 4833,
             "name": "Quibusdam aut.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "26.29",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "93.64",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Christophe",
@@ -24,70 +40,30 @@
                 "id": 24445,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "86.52",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 60
               },
               {
                 "id": 24446,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "26.29",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 170
               },
               {
                 "id": 24447,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.11",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 597
               },
               {
                 "id": 24448,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "86.52",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 23
               },
               {
                 "id": 24449,
                 "isAvailable": true,
                 "name": "5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "93.64",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 74
               }
             ]

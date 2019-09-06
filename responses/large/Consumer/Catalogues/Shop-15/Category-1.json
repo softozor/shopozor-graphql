@@ -6,6 +6,22 @@
           "node": {
             "id": 1100,
             "name": "Recusandae natus architecto sit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Laurent",
@@ -24,14 +40,6 @@
                 "id": 5573,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "90.28",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 18
               }
             ]

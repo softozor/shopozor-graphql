@@ -6,6 +6,22 @@
           "node": {
             "id": 1666,
             "name": "Odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "17.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "89.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Gilbert",
@@ -24,56 +40,24 @@
                 "id": 8412,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "32.68",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 173
               },
               {
                 "id": 8413,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "89.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 402
               },
               {
                 "id": 8414,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.87",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 210
               },
               {
                 "id": 8415,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "17.39",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 98
               }
             ]

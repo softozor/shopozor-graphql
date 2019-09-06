@@ -6,6 +6,22 @@
           "node": {
             "id": 32,
             "name": "Quibusdam magni.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.79",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "67.62",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -24,70 +40,30 @@
                 "id": 89,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "56.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 49
               },
               {
                 "id": 90,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "56.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 686
               },
               {
                 "id": 91,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.98",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 439
               },
               {
                 "id": 92,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "56.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 483
               },
               {
                 "id": 93,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "67.62",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 291
               }
             ]

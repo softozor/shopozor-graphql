@@ -6,6 +6,22 @@
           "node": {
             "id": 1430,
             "name": "Id saepe fugiat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "26.37",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Sarah",
@@ -24,98 +40,42 @@
                 "id": 7189,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "90.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 44
               },
               {
                 "id": 7190,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.28",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 125
               },
               {
                 "id": 7191,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "4.09",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 366
               },
               {
                 "id": 7192,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "5.92",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 14
               },
               {
                 "id": 7193,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "82.66",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 292
               },
               {
                 "id": 7194,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "26.37",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 134
               },
               {
                 "id": 7195,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "33.49",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 0
               }
             ]
@@ -125,6 +85,22 @@
           "node": {
             "id": 3576,
             "name": "Odio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.88",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "24.88",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Sarah",
@@ -143,14 +119,6 @@
                 "id": 18163,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "24.88",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 330
               }
             ]

@@ -15,18 +15,24 @@ query ShopCatalogue(
       node {
         id
         name
-        variants {
-          id
-          name
-          isAvailable
-          pricing {
-            price {
+        pricing {
+          priceRange {
+            start {
               gross {
-                currency
+                amount
+              }
+            }
+            stop {
+              gross {
                 amount
               }
             }
           }
+        }
+        variants {
+          id
+          name
+          isAvailable
           stockQuantity
         }
         thumbnail(size: $thumbnailSize) {

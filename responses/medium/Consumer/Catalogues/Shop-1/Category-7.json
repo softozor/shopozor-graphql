@@ -6,6 +6,22 @@
           "node": {
             "id": 207,
             "name": "Quasi officia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "51.35",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "62.45",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Clara",
@@ -24,28 +40,12 @@
                 "id": 708,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "51.35",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 34
               },
               {
                 "id": 709,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.45",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 323
               }
             ]
@@ -55,6 +55,22 @@
           "node": {
             "id": 267,
             "name": "Error nulla id.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "28.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "28.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Emilie",
@@ -73,28 +89,12 @@
                 "id": 913,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "28.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 31
               },
               {
                 "id": 914,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "28.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 403
               }
             ]

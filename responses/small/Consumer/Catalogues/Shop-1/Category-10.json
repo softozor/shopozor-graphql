@@ -6,6 +6,22 @@
           "node": {
             "id": 59,
             "name": "Quo unde rerum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.78",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -24,28 +40,12 @@
                 "id": 159,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "59.49",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 56
               },
               {
                 "id": 160,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "59.78",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 17
               }
             ]

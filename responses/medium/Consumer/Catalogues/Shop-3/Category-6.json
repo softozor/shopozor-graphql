@@ -6,6 +6,22 @@
           "node": {
             "id": 226,
             "name": "Ipsa est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "18.18",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "75.11",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,56 +40,24 @@
                 "id": 766,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "75.11",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 161
               },
               {
                 "id": 767,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "18.18",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 78
               },
               {
                 "id": 768,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "56.86",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 563
               },
               {
                 "id": 769,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "25.65",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 336
               }
             ]

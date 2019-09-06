@@ -6,6 +6,22 @@
           "node": {
             "id": 2141,
             "name": "Optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.99",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Yvonne",
@@ -24,42 +40,18 @@
                 "id": 10736,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 282
               },
               {
                 "id": 10737,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 119
               },
               {
                 "id": 10738,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 73
               }
             ]
@@ -69,6 +61,22 @@
           "node": {
             "id": 4933,
             "name": "Excepturi aliquam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "61.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "7.65",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Germaine",
@@ -87,28 +95,12 @@
                 "id": 24971,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "7.65",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 139
               },
               {
                 "id": 24972,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "61.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 54
               }
             ]

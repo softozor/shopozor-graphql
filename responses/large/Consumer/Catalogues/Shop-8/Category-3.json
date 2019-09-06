@@ -6,6 +6,22 @@
           "node": {
             "id": 3371,
             "name": "Distinctio deleniti.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "79.26",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "79.26",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,14 +40,6 @@
                 "id": 17121,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "79.26",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 178
               }
             ]

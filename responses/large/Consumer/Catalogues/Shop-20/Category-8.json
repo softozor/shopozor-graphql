@@ -6,6 +6,22 @@
           "node": {
             "id": 3163,
             "name": "Rem sed incidunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "66.63",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "77.56",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elisabeth",
@@ -24,42 +40,18 @@
                 "id": 16047,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "77.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 105
               },
               {
                 "id": 16048,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "77.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 91
               },
               {
                 "id": 16049,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "66.63",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 63
               }
             ]

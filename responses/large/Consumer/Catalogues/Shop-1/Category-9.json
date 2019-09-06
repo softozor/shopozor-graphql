@@ -6,6 +6,22 @@
           "node": {
             "id": 4341,
             "name": "Minima esse.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "50.64",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Manuel",
@@ -24,42 +40,18 @@
                 "id": 21933,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "55.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 86
               },
               {
                 "id": 21934,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "56.33",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 12
               },
               {
                 "id": 21935,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "50.64",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 25
               }
             ]
@@ -69,6 +61,22 @@
           "node": {
             "id": 4537,
             "name": "Non sunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "78.8",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.43",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Manuel",
@@ -87,28 +95,12 @@
                 "id": 22992,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "78.8",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 286
               },
               {
                 "id": 22993,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "90.43",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 378
               }
             ]

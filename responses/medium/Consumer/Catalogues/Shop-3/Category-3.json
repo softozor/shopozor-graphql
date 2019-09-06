@@ -6,6 +6,22 @@
           "node": {
             "id": 142,
             "name": "Minus sint maxime repellendus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "2.33",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Léo",
@@ -24,28 +40,12 @@
                 "id": 486,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "2.33",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 264
               },
               {
                 "id": 487,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "2.33",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 125
               }
             ]

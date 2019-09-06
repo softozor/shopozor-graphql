@@ -6,6 +6,22 @@
           "node": {
             "id": 360,
             "name": "Accusantium nostrum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "36.03",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "76.66",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Germaine",
@@ -24,112 +40,48 @@
                 "id": 1913,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "76.66",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 58
               },
               {
                 "id": 1914,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "5.7",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 25
               },
               {
                 "id": 1915,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "66.98",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 801
               },
               {
                 "id": 1916,
                 "isAvailable": true,
                 "name": "5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "70.45",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 227
               },
               {
                 "id": 1917,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "41.24",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 117
               },
               {
                 "id": 1918,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "6.47",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 784
               },
               {
                 "id": 1919,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "66.98",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 358
               },
               {
                 "id": 1920,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "36.03",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 142
               }
             ]
@@ -139,6 +91,22 @@
           "node": {
             "id": 842,
             "name": "Dignissimos aspernatur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.41",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Germaine",
@@ -157,56 +125,24 @@
                 "id": 4236,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "24.41",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 161
               },
               {
                 "id": 4237,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 452
               },
               {
                 "id": 4238,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "36.4",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 100
               },
               {
                 "id": 4239,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 37
               }
             ]

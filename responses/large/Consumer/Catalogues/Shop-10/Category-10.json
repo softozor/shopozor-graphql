@@ -6,6 +6,22 @@
           "node": {
             "id": 3003,
             "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "11.11",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "72.52",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Mélanie",
@@ -24,28 +40,12 @@
                 "id": 15273,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.11",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 0
               },
               {
                 "id": 15274,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "72.52",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 192
               }
             ]
@@ -55,6 +55,22 @@
           "node": {
             "id": 4309,
             "name": "Eaque quod.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "23.7",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "23.7",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Laurent",
@@ -73,14 +89,6 @@
                 "id": 21784,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "23.7",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 367
               }
             ]

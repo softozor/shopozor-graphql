@@ -6,6 +6,22 @@
           "node": {
             "id": 3111,
             "name": "Officiis pariatur distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "16.74",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "8.39",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,56 +40,24 @@
                 "id": 15835,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "16.74",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 120
               },
               {
                 "id": 15836,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "21.78",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 317
               },
               {
                 "id": 15837,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "8.39",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 498
               },
               {
                 "id": 15838,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "21.78",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 536
               }
             ]

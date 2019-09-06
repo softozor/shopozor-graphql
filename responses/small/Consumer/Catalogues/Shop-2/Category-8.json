@@ -6,6 +6,22 @@
           "node": {
             "id": 140,
             "name": "Necessitatibus voluptatem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.06",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "78.82",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Charles",
@@ -24,56 +40,24 @@
                 "id": 332,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.06",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 8
               },
               {
                 "id": 333,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.06",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 549
               },
               {
                 "id": 334,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "5.16",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 606
               },
               {
                 "id": 335,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "78.82",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 383
               }
             ]

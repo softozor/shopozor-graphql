@@ -6,6 +6,22 @@
           "node": {
             "id": 918,
             "name": "Odio ullam porro.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "21.86",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "97.95",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,112 +40,48 @@
                 "id": 4638,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "97.95",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 222
               },
               {
                 "id": 4639,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "49.14",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 354
               },
               {
                 "id": 4640,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "49.14",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 330
               },
               {
                 "id": 4641,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "21.86",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 838
               },
               {
                 "id": 4642,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "49.14",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 169
               },
               {
                 "id": 4643,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "9.75",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 53
               },
               {
                 "id": 4644,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "49.14",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 14
               },
               {
                 "id": 4645,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "92.86",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 406
               }
             ]

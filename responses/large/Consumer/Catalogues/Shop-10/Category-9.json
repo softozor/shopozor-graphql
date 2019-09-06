@@ -6,6 +6,22 @@
           "node": {
             "id": 663,
             "name": "Ullam hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "13.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "71.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Mélanie",
@@ -24,70 +40,30 @@
                 "id": 3442,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "71.33",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 273
               },
               {
                 "id": 3443,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "63.37",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 94
               },
               {
                 "id": 3444,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.35",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 68
               },
               {
                 "id": 3445,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "28.49",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 145
               },
               {
                 "id": 3446,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "13.46",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 561
               }
             ]

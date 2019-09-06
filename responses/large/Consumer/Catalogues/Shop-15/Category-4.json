@@ -6,6 +6,22 @@
           "node": {
             "id": 2276,
             "name": "Ad ea nam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Gilbert",
@@ -24,42 +40,18 @@
                 "id": 11481,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.36",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 283
               },
               {
                 "id": 11482,
                 "isAvailable": true,
                 "name": "5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.36",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 117
               },
               {
                 "id": 11483,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.36",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 80
               }
             ]

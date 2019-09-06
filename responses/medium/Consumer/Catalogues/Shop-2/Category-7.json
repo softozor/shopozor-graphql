@@ -6,6 +6,22 @@
           "node": {
             "id": 110,
             "name": "Corrupti neque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "19.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "44.57",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Romain",
@@ -24,42 +40,18 @@
                 "id": 375,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "19.49",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 730
               },
               {
                 "id": 376,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "31.78",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 330
               },
               {
                 "id": 377,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "44.57",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 97
               }
             ]
@@ -69,6 +61,22 @@
           "node": {
             "id": 154,
             "name": "Recusandae tempore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.09",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "57.58",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elisa",
@@ -87,28 +95,12 @@
                 "id": 534,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "57.58",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 260
               },
               {
                 "id": 535,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.09",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 445
               }
             ]

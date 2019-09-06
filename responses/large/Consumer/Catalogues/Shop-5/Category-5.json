@@ -6,6 +6,22 @@
           "node": {
             "id": 908,
             "name": "Laboriosam exercitationem natus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "11.75",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.21",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Sarah",
@@ -24,84 +40,36 @@
                 "id": 4582,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "47.14",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 7
               },
               {
                 "id": 4583,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "90.21",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 277
               },
               {
                 "id": 4584,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "77.67",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 543
               },
               {
                 "id": 4585,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.75",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 659
               },
               {
                 "id": 4586,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.76",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 339
               },
               {
                 "id": 4587,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.76",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 775
               }
             ]

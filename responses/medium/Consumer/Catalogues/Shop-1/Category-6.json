@@ -6,6 +6,22 @@
           "node": {
             "id": 42,
             "name": "Consequuntur hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "7.13",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "7.13",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elisa",
@@ -24,14 +40,6 @@
                 "id": 162,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "7.13",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 396
               }
             ]

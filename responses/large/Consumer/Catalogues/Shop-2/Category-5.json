@@ -6,6 +6,22 @@
           "node": {
             "id": 3114,
             "name": "Optio aspernatur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "1.56",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "46.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -24,84 +40,36 @@
                 "id": 15847,
                 "isAvailable": true,
                 "name": "5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "13.19",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 125
               },
               {
                 "id": 15848,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "46.77",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 419
               },
               {
                 "id": 15849,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "13.19",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 176
               },
               {
                 "id": 15850,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 47
               },
               {
                 "id": 15851,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "13.19",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 275
               },
               {
                 "id": 15852,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "13.19",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 93
               }
             ]

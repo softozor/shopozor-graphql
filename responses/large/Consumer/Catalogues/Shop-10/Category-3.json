@@ -6,6 +6,22 @@
           "node": {
             "id": 322,
             "name": "Aliquid provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "31.82",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "46.81",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Laurent",
@@ -24,28 +40,12 @@
                 "id": 1697,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "31.82",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 80
               },
               {
                 "id": 1698,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "46.81",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 471
               }
             ]

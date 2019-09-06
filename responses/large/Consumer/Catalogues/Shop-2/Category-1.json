@@ -6,6 +6,22 @@
           "node": {
             "id": 40,
             "name": "Necessitatibus quae ducimus quia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "39.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "91.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -24,42 +40,18 @@
                 "id": 232,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "39.39",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 364
               },
               {
                 "id": 233,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "91.14",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 515
               },
               {
                 "id": 234,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "75.95",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 307
               }
             ]

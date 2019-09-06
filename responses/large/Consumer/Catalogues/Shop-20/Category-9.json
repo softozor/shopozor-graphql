@@ -6,6 +6,22 @@
           "node": {
             "id": 3799,
             "name": "Id tempore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.03",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "61.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Lucie",
@@ -24,98 +40,42 @@
                 "id": 19335,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "10.29",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 339
               },
               {
                 "id": 19336,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.03",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 82
               },
               {
                 "id": 19337,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.18",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 161
               },
               {
                 "id": 19338,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.03",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 239
               },
               {
                 "id": 19339,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.03",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 81
               },
               {
                 "id": 19340,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "1.73",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 269
               },
               {
                 "id": 19341,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "61.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 194
               }
             ]

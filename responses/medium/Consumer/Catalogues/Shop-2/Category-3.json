@@ -6,6 +6,22 @@
           "node": {
             "id": 107,
             "name": "Ducimus hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "43.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "93.06",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elisa",
@@ -24,42 +40,18 @@
                 "id": 370,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.48",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 444
               },
               {
                 "id": 371,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "90.92",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 262
               },
               {
                 "id": 372,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "93.06",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 116
               }
             ]

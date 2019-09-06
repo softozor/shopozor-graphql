@@ -6,6 +6,22 @@
           "node": {
             "id": 1946,
             "name": "Alias assumenda.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.48",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -24,14 +40,6 @@
                 "id": 9808,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "56.48",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 360
               }
             ]

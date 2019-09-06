@@ -6,6 +6,22 @@
           "node": {
             "id": 3454,
             "name": "Odio soluta.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "70.24",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -24,42 +40,18 @@
                 "id": 17532,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "83.69",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 407
               },
               {
                 "id": 17533,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "70.24",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 55
               },
               {
                 "id": 17534,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "83.69",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 151
               }
             ]

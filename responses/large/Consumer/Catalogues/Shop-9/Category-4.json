@@ -6,6 +6,22 @@
           "node": {
             "id": 4635,
             "name": "Quidem tempore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "14.4",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "99.04",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -24,126 +40,54 @@
                 "id": 23480,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "89.02",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 100
               },
               {
                 "id": 23481,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "30.15",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 497
               },
               {
                 "id": 23482,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "99.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 296
               },
               {
                 "id": 23483,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "99.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 101
               },
               {
                 "id": 23484,
                 "isAvailable": true,
                 "name": "500g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "99.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 297
               },
               {
                 "id": 23485,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "15.31",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 48
               },
               {
                 "id": 23486,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "99.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 456
               },
               {
                 "id": 23487,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "14.4",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 259
               },
               {
                 "id": 23488,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "99.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 97
               }
             ]

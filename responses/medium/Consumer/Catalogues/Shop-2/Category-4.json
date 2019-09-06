@@ -6,6 +6,22 @@
           "node": {
             "id": 161,
             "name": "Officiis dolorum dolor.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "17.7",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "25.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Mathilde",
@@ -24,42 +40,18 @@
                 "id": 564,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "25.28",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 699
               },
               {
                 "id": 565,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "17.7",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 596
               },
               {
                 "id": 566,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "25.28",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 41
               }
             ]

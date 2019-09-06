@@ -6,6 +6,22 @@
           "node": {
             "id": 27,
             "name": "Perspiciatis molestias.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "22.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "99.7",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "André",
@@ -24,70 +40,30 @@
                 "id": 73,
                 "isAvailable": true,
                 "name": "1l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "76.8",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 171
               },
               {
                 "id": 74,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "22.6",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 119
               },
               {
                 "id": 75,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "86.09",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 23
               },
               {
                 "id": 76,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.26",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 173
               },
               {
                 "id": 77,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "99.7",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 361
               }
             ]
@@ -97,6 +73,22 @@
           "node": {
             "id": 142,
             "name": "Quam odio dolor.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.79",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "88.74",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Charles",
@@ -115,56 +107,24 @@
                 "id": 341,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "88.74",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 12
               },
               {
                 "id": 342,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "59.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 166
               },
               {
                 "id": 343,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "59.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 75
               },
               {
                 "id": 344,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "59.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 63
               }
             ]

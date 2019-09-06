@@ -6,6 +6,22 @@
           "node": {
             "id": 223,
             "name": "Deleniti deserunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "6.21",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "70.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Claude",
@@ -24,84 +40,36 @@
                 "id": 1151,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "68.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 702
               },
               {
                 "id": 1152,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "70.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 129
               },
               {
                 "id": 1153,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "68.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 52
               },
               {
                 "id": 1154,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "68.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 403
               },
               {
                 "id": 1155,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "68.56",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 280
               },
               {
                 "id": 1156,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "6.21",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 505
               }
             ]
@@ -111,6 +79,22 @@
           "node": {
             "id": 1009,
             "name": "Magnam modi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "14.64",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "60.87",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Manuel",
@@ -129,70 +113,30 @@
                 "id": 5067,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "60.87",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 45
               },
               {
                 "id": 5068,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "43.2",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 177
               },
               {
                 "id": 5069,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "42.76",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 22
               },
               {
                 "id": 5070,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "31.15",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 129
               },
               {
                 "id": 5071,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "14.64",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 30
               }
             ]

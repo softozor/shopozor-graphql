@@ -6,6 +6,22 @@
           "node": {
             "id": 331,
             "name": "Sit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "11.25",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "77.72",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Sarah",
@@ -24,70 +40,30 @@
                 "id": 1758,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "77.72",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 76
               },
               {
                 "id": 1759,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "52.24",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 546
               },
               {
                 "id": 1760,
                 "isAvailable": true,
                 "name": "100g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "11.25",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 12
               },
               {
                 "id": 1761,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "52.24",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 120
               },
               {
                 "id": 1762,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "66.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 499
               }
             ]

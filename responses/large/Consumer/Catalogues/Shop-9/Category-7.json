@@ -6,6 +6,22 @@
           "node": {
             "id": 855,
             "name": "Repudiandae quis cupiditate.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "32.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "94.85",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -24,28 +40,12 @@
                 "id": 4311,
                 "isAvailable": true,
                 "name": "5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "32.48",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 99
               },
               {
                 "id": 4312,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "94.85",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 48
               }
             ]
@@ -55,6 +55,22 @@
           "node": {
             "id": 1802,
             "name": "Illo ipsa totam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "86.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Ethan",
@@ -73,126 +89,54 @@
                 "id": 9095,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 212
               },
               {
                 "id": 9096,
                 "isAvailable": true,
                 "name": "200g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 257
               },
               {
                 "id": 9097,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "78.12",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 190
               },
               {
                 "id": 9098,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "0.28",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 5
               },
               {
                 "id": 9099,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "86.32",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 113
               },
               {
                 "id": 9100,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.49",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 143
               },
               {
                 "id": 9101,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "40.79",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 416
               },
               {
                 "id": 9102,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "62.89",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 43
               },
               {
                 "id": 9103,
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "78.08",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 495
               }
             ]

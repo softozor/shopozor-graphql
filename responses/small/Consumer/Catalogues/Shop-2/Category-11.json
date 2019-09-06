@@ -6,6 +6,22 @@
           "node": {
             "id": 33,
             "name": "Amet vitae nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.99",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Charles",
@@ -24,14 +40,6 @@
                 "id": 94,
                 "isAvailable": true,
                 "name": "XS",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "58.99",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 591
               }
             ]

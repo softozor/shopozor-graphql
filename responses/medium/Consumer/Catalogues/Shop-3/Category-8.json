@@ -6,6 +6,22 @@
           "node": {
             "id": 61,
             "name": "Recusandae earum nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "18.12",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "73.81",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Patricia",
@@ -24,56 +40,24 @@
                 "id": 235,
                 "isAvailable": true,
                 "name": "250ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "58.09",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 302
               },
               {
                 "id": 236,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "18.12",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 267
               },
               {
                 "id": 237,
                 "isAvailable": true,
                 "name": "2l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "52.03",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 107
               },
               {
                 "id": 238,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "73.81",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 40
               }
             ]

@@ -6,6 +6,22 @@
           "node": {
             "id": 3744,
             "name": "Vero fuga occaecati voluptatem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "5.58",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "52.11",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -24,28 +40,12 @@
                 "id": 19025,
                 "isAvailable": true,
                 "name": "1kg",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "52.11",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 1
               },
               {
                 "id": 19026,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "5.58",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 538
               }
             ]
@@ -55,6 +55,22 @@
           "node": {
             "id": 4458,
             "name": "Doloremque impedit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "15.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "67.96",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -73,84 +89,36 @@
                 "id": 22518,
                 "isAvailable": true,
                 "name": "S",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "15.2",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 913
               },
               {
                 "id": 22519,
                 "isAvailable": true,
                 "name": "L",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "28.76",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 204
               },
               {
                 "id": 22520,
                 "isAvailable": true,
                 "name": "500ml",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "15.2",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 18
               },
               {
                 "id": 22521,
                 "isAvailable": true,
                 "name": "M",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "67.96",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 387
               },
               {
                 "id": 22522,
                 "isAvailable": true,
                 "name": "XL",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "17.75",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 371
               },
               {
                 "id": 22523,
                 "isAvailable": true,
                 "name": "2.5l",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "15.2",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 509
               }
             ]

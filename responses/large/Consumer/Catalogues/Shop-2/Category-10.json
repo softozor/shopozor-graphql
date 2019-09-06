@@ -6,6 +6,22 @@
           "node": {
             "id": 1772,
             "name": "Quis tempora rerum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "74.04",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "81.17",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
             "producer": [
               {
                 "firstName": "Elodie",
@@ -24,28 +40,12 @@
                 "id": 8950,
                 "isAvailable": true,
                 "name": "250g",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "74.04",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 78
               },
               {
                 "id": 8951,
                 "isAvailable": true,
                 "name": "55cm x 55cm",
-                "pricing": {
-                  "price": {
-                    "gross": {
-                      "amount": "81.17",
-                      "currency": "CHF"
-                    }
-                  }
-                },
                 "stockQuantity": 136
               }
             ]
