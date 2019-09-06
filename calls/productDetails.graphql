@@ -1,11 +1,15 @@
 query ProductDetails($productId: ID!) {
   product(id: $productId) {
-    name
+    conservation {
+      mode
+      duration
+    }
     description
     images {
       alt
       url
     }
+    name
     pricing {
       priceRange {
         start {
@@ -49,11 +53,13 @@ query ProductDetails($productId: ID!) {
       }
     }
     variants {
+      costPrice {
+        currency
+        amount
+      }
       id
-      sku
-      name
       isAvailable
-      stockQuantity
+      name
       pricing {
         price {
           gross {
@@ -70,14 +76,8 @@ query ProductDetails($productId: ID!) {
           }
         }
       }
-      costPrice {
-        currency
-        amount
-      }
-    }
-    conservation {
-      mode
-      duration
+      sku
+      stockQuantity
     }
   }
 }

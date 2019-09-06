@@ -4,21 +4,21 @@ query ShopCategories(
   $thumbnailSize: Int = 0
 ) {
   categories(first: $first, after: $after, level: 0) {
-    totalCount
     edges {
       node {
-        id
-        name
-        description
         backgroundImage(size: $thumbnailSize) {
           alt
           url
         }
+        description
+        id
+        name
       }
     }
     pageInfo {
       startCursor
       endCursor
     }
+    totalCount
   }
 }

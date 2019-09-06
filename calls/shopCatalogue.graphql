@@ -10,7 +10,6 @@ query ShopCatalogue(
     after: $after
     filter: { isPublished: true, category: $categoryId, shop: $shopId }
   ) {
-    totalCount
     edges {
       node {
         id
@@ -31,22 +30,22 @@ query ShopCatalogue(
             }
           }
         }
-        variants {
+        producer {
+          firstName
+          lastName
+        }
+        productType {
           id
-          name
-          isAvailable
-          stockQuantity
         }
         thumbnail(size: $thumbnailSize) {
           alt
           url
         }
-        productType {
+        variants {
           id
-        }
-        producer {
-          firstName
-          lastName
+          isAvailable
+          name
+          stockQuantity
         }
       }
     }
@@ -54,5 +53,6 @@ query ShopCatalogue(
       startCursor
       endCursor
     }
+    totalCount
   }
 }
