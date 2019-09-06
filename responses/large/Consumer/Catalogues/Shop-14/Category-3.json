@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 856,
+            "id": "UHJvZHVjdDo4NTY=",
             "name": "Dicta illum quae.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "2.08",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.08",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "François",
+                "lastName": "Chatriand"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mzk="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDMxMw==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 53
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4NTY=",
+            "name": "Dicta illum quae.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "74.95",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 39
+              "id": "UHJvZHVjdFR5cGU6Mzk="
             },
             "thumbnail": {
               "alt": null,
@@ -37,13 +80,7 @@
             },
             "variants": [
               {
-                "id": 4313,
-                "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 53
-              },
-              {
-                "id": 4314,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDMxNA==",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 518
@@ -53,7 +90,7 @@
         },
         {
           "node": {
-            "id": 873,
+            "id": "UHJvZHVjdDo4NzM=",
             "name": "A tenetur cum.",
             "pricing": {
               "priceRange": {
@@ -78,7 +115,7 @@
               }
             ],
             "productType": {
-              "id": 43
+              "id": "UHJvZHVjdFR5cGU6NDM="
             },
             "thumbnail": {
               "alt": "",
@@ -86,7 +123,7 @@
             },
             "variants": [
               {
-                "id": 4396,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM5Ng==",
                 "isAvailable": true,
                 "name": "S",
                 "stockQuantity": 504
@@ -96,13 +133,99 @@
         },
         {
           "node": {
-            "id": 2000,
+            "id": "UHJvZHVjdDoyMDAw",
             "name": "Quidem.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "34.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "34.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNTg=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 270
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.83",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.83",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNTk=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 275
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "84.1",
                     "currency": "CHF"
                   }
                 },
@@ -121,7 +244,7 @@
               }
             ],
             "productType": {
-              "id": 40
+              "id": "UHJvZHVjdFR5cGU6NDA="
             },
             "thumbnail": {
               "alt": "",
@@ -129,49 +252,222 @@
             },
             "variants": [
               {
-                "id": 10058,
-                "isAvailable": true,
-                "name": "M",
-                "stockQuantity": 270
-              },
-              {
-                "id": 10059,
-                "isAvailable": true,
-                "name": "XL",
-                "stockQuantity": 275
-              },
-              {
-                "id": 10060,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjA=",
                 "isAvailable": true,
                 "name": "L",
                 "stockQuantity": 297
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "34.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "34.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10061,
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjE=",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 371
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "79.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "79.39",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10062,
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjI=",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 5
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.32",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10063,
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjM=",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 460
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "72.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "72.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10064,
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjQ=",
                 "isAvailable": true,
                 "name": "250g",
                 "stockQuantity": 9
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDAw",
+            "name": "Quidem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "34.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "34.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10065,
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RheBZdgYvFSGUpro-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjU=",
                 "isAvailable": true,
                 "name": "200g",
                 "stockQuantity": 244
@@ -181,13 +477,228 @@
         },
         {
           "node": {
-            "id": 4058,
+            "id": "UHJvZHVjdDo0MDU4",
             "name": "Hic quaerat.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LLdxySuKUqRglbDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA1OTg=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 23
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDU4",
+            "name": "Hic quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LLdxySuKUqRglbDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA1OTk=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 274
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDU4",
+            "name": "Hic quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LLdxySuKUqRglbDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2MDA=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 38
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDU4",
+            "name": "Hic quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "13.62",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LLdxySuKUqRglbDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2MDE=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 46
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDU4",
+            "name": "Hic quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "36.88",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "36.88",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LLdxySuKUqRglbDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2MDI=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 67
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDU4",
+            "name": "Hic quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "50.52",
                     "currency": "CHF"
                   }
                 },
@@ -206,7 +717,7 @@
               }
             ],
             "productType": {
-              "id": 43
+              "id": "UHJvZHVjdFR5cGU6NDM="
             },
             "thumbnail": {
               "alt": "",
@@ -214,43 +725,50 @@
             },
             "variants": [
               {
-                "id": 20598,
-                "isAvailable": true,
-                "name": "55cm x 55cm",
-                "stockQuantity": 23
-              },
-              {
-                "id": 20599,
-                "isAvailable": true,
-                "name": "200g",
-                "stockQuantity": 274
-              },
-              {
-                "id": 20600,
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 38
-              },
-              {
-                "id": 20601,
-                "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 46
-              },
-              {
-                "id": 20602,
-                "isAvailable": true,
-                "name": "2l",
-                "stockQuantity": 67
-              },
-              {
-                "id": 20603,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2MDM=",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 296
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDU4",
+            "name": "Hic quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "24.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 20604,
+                "firstName": "Elisabeth",
+                "lastName": "Barbey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LLdxySuKUqRglbDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2MDQ=",
                 "isAvailable": true,
                 "name": "55cm x 55cm",
                 "stockQuantity": 306
@@ -260,13 +778,228 @@
         },
         {
           "node": {
-            "id": 4589,
+            "id": "UHJvZHVjdDo0NTg5",
+            "name": "Deserunt rerum eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Claudine",
+                "lastName": "Vuille"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNTc=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 142
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg5",
+            "name": "Deserunt rerum eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Claudine",
+                "lastName": "Vuille"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNTg=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 163
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg5",
             "name": "Deserunt rerum eligendi.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "11.44",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "11.44",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Claudine",
+                "lastName": "Vuille"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNTk=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 377
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg5",
+            "name": "Deserunt rerum eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "65.9",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "65.9",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Claudine",
+                "lastName": "Vuille"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNjA=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 139
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg5",
+            "name": "Deserunt rerum eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Claudine",
+                "lastName": "Vuille"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNjE=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 761
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg5",
+            "name": "Deserunt rerum eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "88.77",
                     "currency": "CHF"
                   }
                 },
@@ -285,7 +1018,7 @@
               }
             ],
             "productType": {
-              "id": 48
+              "id": "UHJvZHVjdFR5cGU6NDg="
             },
             "thumbnail": {
               "alt": "",
@@ -293,43 +1026,50 @@
             },
             "variants": [
               {
-                "id": 23257,
-                "isAvailable": true,
-                "name": "500ml",
-                "stockQuantity": 142
-              },
-              {
-                "id": 23258,
-                "isAvailable": true,
-                "name": "2l",
-                "stockQuantity": 163
-              },
-              {
-                "id": 23259,
-                "isAvailable": true,
-                "name": "250ml",
-                "stockQuantity": 377
-              },
-              {
-                "id": 23260,
-                "isAvailable": true,
-                "name": "250g",
-                "stockQuantity": 139
-              },
-              {
-                "id": 23261,
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 761
-              },
-              {
-                "id": 23262,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNjI=",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
                 "stockQuantity": 206
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg5",
+            "name": "Deserunt rerum eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 23263,
+                "firstName": "Claudine",
+                "lastName": "Vuille"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMyNjM=",
                 "isAvailable": true,
                 "name": "L",
                 "stockQuantity": 5
@@ -339,10 +1079,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI0",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 5
+      "totalCount": 25
     }
   }
 }

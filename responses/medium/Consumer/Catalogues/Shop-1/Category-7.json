@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 207,
+            "id": "UHJvZHVjdDoyMDc=",
             "name": "Quasi officia.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "51.35",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "51.35",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Clara",
+                "lastName": "Grojean"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/EnqQUZEqvONMPLFZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzA4",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 34
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDc=",
+            "name": "Quasi officia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "62.45",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 85
+              "id": "UHJvZHVjdFR5cGU6ODU="
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +80,7 @@
             },
             "variants": [
               {
-                "id": 708,
-                "isAvailable": true,
-                "name": "M",
-                "stockQuantity": 34
-              },
-              {
-                "id": 709,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzA5",
                 "isAvailable": true,
                 "name": "55cm x 55cm",
                 "stockQuantity": 323
@@ -53,7 +90,7 @@
         },
         {
           "node": {
-            "id": 267,
+            "id": "UHJvZHVjdDoyNjc=",
             "name": "Error nulla id.",
             "pricing": {
               "priceRange": {
@@ -78,7 +115,7 @@
               }
             ],
             "productType": {
-              "id": 84
+              "id": "UHJvZHVjdFR5cGU6ODQ="
             },
             "thumbnail": {
               "alt": "",
@@ -86,13 +123,50 @@
             },
             "variants": [
               {
-                "id": 913,
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTEz",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 31
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjc=",
+            "name": "Error nulla id.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "28.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "28.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 914,
+                "firstName": "Emilie",
+                "lastName": "Duroux"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/bQFuvuJFozsSSRon-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE0",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 403
@@ -102,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 4
     }
   }
 }

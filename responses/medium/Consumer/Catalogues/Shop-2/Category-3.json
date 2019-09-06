@@ -4,13 +4,99 @@
       "edges": [
         {
           "node": {
-            "id": 107,
+            "id": "UHJvZHVjdDoxMDc=",
             "name": "Ducimus hic.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "43.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.48",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisa",
+                "lastName": "Comman"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/VPtwtHsEgXDlqRuv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzcw",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 444
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDc=",
+            "name": "Ducimus hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisa",
+                "lastName": "Comman"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/VPtwtHsEgXDlqRuv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzcx",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 262
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDc=",
+            "name": "Ducimus hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "93.06",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +115,7 @@
               }
             ],
             "productType": {
-              "id": 48
+              "id": "UHJvZHVjdFR5cGU6NDg="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +123,7 @@
             },
             "variants": [
               {
-                "id": 370,
-                "isAvailable": true,
-                "name": "200g",
-                "stockQuantity": 444
-              },
-              {
-                "id": 371,
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 262
-              },
-              {
-                "id": 372,
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzcy",
                 "isAvailable": true,
                 "name": "500g",
                 "stockQuantity": 116
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

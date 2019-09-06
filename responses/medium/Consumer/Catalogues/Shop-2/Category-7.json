@@ -4,13 +4,99 @@
       "edges": [
         {
           "node": {
-            "id": 110,
+            "id": "UHJvZHVjdDoxMTA=",
             "name": "Corrupti neque.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "19.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "19.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Romain",
+                "lastName": "Monnet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODk="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 730
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTA=",
+            "name": "Corrupti neque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "31.78",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "31.78",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Romain",
+                "lastName": "Monnet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODk="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc2",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 330
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTA=",
+            "name": "Corrupti neque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "44.57",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +115,7 @@
               }
             ],
             "productType": {
-              "id": 89
+              "id": "UHJvZHVjdFR5cGU6ODk="
             },
             "thumbnail": {
               "alt": null,
@@ -37,19 +123,7 @@
             },
             "variants": [
               {
-                "id": 375,
-                "isAvailable": true,
-                "name": "45cm x 45cm",
-                "stockQuantity": 730
-              },
-              {
-                "id": 376,
-                "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 330
-              },
-              {
-                "id": 377,
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc3",
                 "isAvailable": true,
                 "name": "1kg",
                 "stockQuantity": 97
@@ -59,13 +133,13 @@
         },
         {
           "node": {
-            "id": 154,
+            "id": "UHJvZHVjdDoxNTQ=",
             "name": "Recusandae tempore.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "40.09",
+                    "amount": "57.58",
                     "currency": "CHF"
                   }
                 },
@@ -84,7 +158,7 @@
               }
             ],
             "productType": {
-              "id": 90
+              "id": "UHJvZHVjdFR5cGU6OTA="
             },
             "thumbnail": {
               "alt": "",
@@ -92,13 +166,50 @@
             },
             "variants": [
               {
-                "id": 534,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTM0",
                 "isAvailable": true,
                 "name": "M",
                 "stockQuantity": 260
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTQ=",
+            "name": "Recusandae tempore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.09",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.09",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 535,
+                "firstName": "Elisa",
+                "lastName": "Comman"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/LkQMOBBNjoHmBvbY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTM1",
                 "isAvailable": true,
                 "name": "100g",
                 "stockQuantity": 445
@@ -108,10 +219,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 5
     }
   }
 }

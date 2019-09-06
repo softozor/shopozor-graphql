@@ -4,13 +4,13 @@
       "edges": [
         {
           "node": {
-            "id": 3454,
+            "id": "UHJvZHVjdDozNDU0",
             "name": "Odio soluta.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "70.24",
+                    "amount": "83.69",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 30
+              "id": "UHJvZHVjdFR5cGU6MzA="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +37,93 @@
             },
             "variants": [
               {
-                "id": 17532,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1MzI=",
                 "isAvailable": true,
                 "name": "250g",
                 "stockQuantity": 407
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU0",
+            "name": "Odio soluta.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "70.24",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "70.24",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 17533,
+                "firstName": "Ethan",
+                "lastName": "Cattin"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/MjpokauKOUYRLapx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1MzM=",
                 "isAvailable": true,
                 "name": "XL",
                 "stockQuantity": 55
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU0",
+            "name": "Odio soluta.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "83.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 17534,
+                "firstName": "Ethan",
+                "lastName": "Cattin"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/MjpokauKOUYRLapx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1MzQ=",
                 "isAvailable": true,
                 "name": "100g",
                 "stockQuantity": 151
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

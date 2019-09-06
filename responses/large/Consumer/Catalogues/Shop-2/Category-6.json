@@ -4,13 +4,13 @@
       "edges": [
         {
           "node": {
-            "id": 1312,
+            "id": "UHJvZHVjdDoxMzEy",
             "name": "Asperiores ipsum.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "64.31",
+                    "amount": "88.73",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 78
+              "id": "UHJvZHVjdFR5cGU6Nzg="
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +37,50 @@
             },
             "variants": [
               {
-                "id": 6638,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjYzOA==",
                 "isAvailable": true,
                 "name": "100g",
                 "stockQuantity": 178
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzEy",
+            "name": "Asperiores ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "64.31",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "64.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 6639,
+                "firstName": "Elodie",
+                "lastName": "Babey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Nzg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/FdvkZtEBzYeLCaLe-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjYzOQ==",
                 "isAvailable": true,
                 "name": "XL",
                 "stockQuantity": 39
@@ -53,10 +90,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

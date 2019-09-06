@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 40,
+            "id": "UHJvZHVjdDo0MA==",
             "name": "Necessitatibus quae ducimus quia.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "39.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "39.39",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elodie",
+                "lastName": "Babey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/fpbtOzDvrReogFLg-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMy",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 364
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MA==",
+            "name": "Necessitatibus quae ducimus quia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "91.14",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 1
+              "id": "UHJvZHVjdFR5cGU6MQ=="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +80,50 @@
             },
             "variants": [
               {
-                "id": 232,
-                "isAvailable": true,
-                "name": "S",
-                "stockQuantity": 364
-              },
-              {
-                "id": 233,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMz",
                 "isAvailable": true,
                 "name": "500g",
                 "stockQuantity": 515
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MA==",
+            "name": "Necessitatibus quae ducimus quia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "75.95",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "75.95",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 234,
+                "firstName": "Elodie",
+                "lastName": "Babey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/fpbtOzDvrReogFLg-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0",
                 "isAvailable": true,
                 "name": "500g",
                 "stockQuantity": 307
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

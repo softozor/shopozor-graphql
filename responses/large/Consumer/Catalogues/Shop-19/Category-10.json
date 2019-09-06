@@ -4,13 +4,142 @@
       "edges": [
         {
           "node": {
-            "id": 300,
+            "id": "UHJvZHVjdDozMDA=",
             "name": "Atque.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "44.22",
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Arthur",
+                "lastName": "Crevoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/nhHscENPdMtVZWds-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU3Ng==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 393
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA=",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Arthur",
+                "lastName": "Crevoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/nhHscENPdMtVZWds-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU3Nw==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 240
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA=",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.31",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Arthur",
+                "lastName": "Crevoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/nhHscENPdMtVZWds-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU3OA==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 573
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA=",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "92.89",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +158,7 @@
               }
             ],
             "productType": {
-              "id": 102
+              "id": "UHJvZHVjdFR5cGU6MTAy"
             },
             "thumbnail": {
               "alt": "",
@@ -37,43 +166,136 @@
             },
             "variants": [
               {
-                "id": 1576,
-                "isAvailable": true,
-                "name": "1l",
-                "stockQuantity": 393
-              },
-              {
-                "id": 1577,
-                "isAvailable": true,
-                "name": "250g",
-                "stockQuantity": 240
-              },
-              {
-                "id": 1578,
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 573
-              },
-              {
-                "id": 1579,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU3OQ==",
                 "isAvailable": true,
                 "name": "250g",
                 "stockQuantity": 495
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA=",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "44.22",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "44.22",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 1580,
+                "firstName": "Arthur",
+                "lastName": "Crevoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/nhHscENPdMtVZWds-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4MA==",
                 "isAvailable": true,
                 "name": "XL",
                 "stockQuantity": 279
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA=",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 1581,
+                "firstName": "Arthur",
+                "lastName": "Crevoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/nhHscENPdMtVZWds-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4MQ==",
                 "isAvailable": true,
                 "name": "S",
                 "stockQuantity": 155
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDA=",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 1582,
+                "firstName": "Arthur",
+                "lastName": "Crevoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/nhHscENPdMtVZWds-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4Mg==",
                 "isAvailable": true,
                 "name": "S",
                 "stockQuantity": 912
@@ -83,10 +305,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjY=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 7
     }
   }
 }

@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 322,
+            "id": "UHJvZHVjdDozMjI=",
             "name": "Aliquid provident.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "31.82",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "31.82",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Laurent",
+                "lastName": "Bugnon"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/QcdESPQpalfQEwgf-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY5Nw==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 80
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjI=",
+            "name": "Aliquid provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "46.81",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 45
+              "id": "UHJvZHVjdFR5cGU6NDU="
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +80,7 @@
             },
             "variants": [
               {
-                "id": 1697,
-                "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 80
-              },
-              {
-                "id": 1698,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY5OA==",
                 "isAvailable": true,
                 "name": "XL",
                 "stockQuantity": 471
@@ -53,10 +90,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

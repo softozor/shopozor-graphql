@@ -4,7 +4,7 @@
       "edges": [
         {
           "node": {
-            "id": 2141,
+            "id": "UHJvZHVjdDoyMTQx",
             "name": "Optio.",
             "pricing": {
               "priceRange": {
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 48
+              "id": "UHJvZHVjdFR5cGU6NDg="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +37,93 @@
             },
             "variants": [
               {
-                "id": 10736,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MzY=",
                 "isAvailable": true,
                 "name": "200g",
                 "stockQuantity": 282
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMTQx",
+            "name": "Optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.99",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10737,
+                "firstName": "Yvonne",
+                "lastName": "Barman"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/ERpbSiWauUJgfhyZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3Mzc=",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 119
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMTQx",
+            "name": "Optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.99",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 10738,
+                "firstName": "Yvonne",
+                "lastName": "Barman"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/ERpbSiWauUJgfhyZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3Mzg=",
                 "isAvailable": true,
                 "name": "XS",
                 "stockQuantity": 73
@@ -59,13 +133,13 @@
         },
         {
           "node": {
-            "id": 4933,
+            "id": "UHJvZHVjdDo0OTMz",
             "name": "Excepturi aliquam.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "61.77",
+                    "amount": "7.65",
                     "currency": "CHF"
                   }
                 },
@@ -84,7 +158,7 @@
               }
             ],
             "productType": {
-              "id": 39
+              "id": "UHJvZHVjdFR5cGU6Mzk="
             },
             "thumbnail": {
               "alt": "",
@@ -92,13 +166,50 @@
             },
             "variants": [
               {
-                "id": 24971,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ5NzE=",
                 "isAvailable": true,
                 "name": "XS",
                 "stockQuantity": 139
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTMz",
+            "name": "Excepturi aliquam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "61.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "61.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 24972,
+                "firstName": "Germaine",
+                "lastName": "Cosendey"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mzk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JSZiFkCqyhbVZXaa-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ5NzI=",
                 "isAvailable": true,
                 "name": "500g",
                 "stockQuantity": 54
@@ -108,10 +219,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 5
     }
   }
 }

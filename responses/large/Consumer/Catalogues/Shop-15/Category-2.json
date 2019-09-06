@@ -4,7 +4,7 @@
       "edges": [
         {
           "node": {
-            "id": 1214,
+            "id": "UHJvZHVjdDoxMjE0",
             "name": "Sed ex repudiandae.",
             "pricing": {
               "priceRange": {
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 17
+              "id": "UHJvZHVjdFR5cGU6MTc="
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +37,50 @@
             },
             "variants": [
               {
-                "id": 6157,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjE1Nw==",
                 "isAvailable": true,
                 "name": "S",
                 "stockQuantity": 79
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMjE0",
+            "name": "Sed ex repudiandae.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "7.57",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "7.57",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 6158,
+                "firstName": "Gilbert",
+                "lastName": "Broquet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTc="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/EluwzpYIUcrCUqlj-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjE1OA==",
                 "isAvailable": true,
                 "name": "M",
                 "stockQuantity": 527
@@ -53,10 +90,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

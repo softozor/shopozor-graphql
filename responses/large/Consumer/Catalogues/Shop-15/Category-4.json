@@ -4,7 +4,7 @@
       "edges": [
         {
           "node": {
-            "id": 2276,
+            "id": "UHJvZHVjdDoyMjc2",
             "name": "Ad ea nam.",
             "pricing": {
               "priceRange": {
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 54
+              "id": "UHJvZHVjdFR5cGU6NTQ="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +37,93 @@
             },
             "variants": [
               {
-                "id": 11481,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE0ODE=",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 283
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMjc2",
+            "name": "Ad ea nam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 11482,
+                "firstName": "Gilbert",
+                "lastName": "Broquet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NTQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/mlrsWaSrJoXayFZw-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE0ODI=",
                 "isAvailable": true,
                 "name": "5l",
                 "stockQuantity": 117
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMjc2",
+            "name": "Ad ea nam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 11483,
+                "firstName": "Gilbert",
+                "lastName": "Broquet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NTQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/mlrsWaSrJoXayFZw-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE0ODM=",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
                 "stockQuantity": 80
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 2362,
+            "id": "UHJvZHVjdDoyMzYy",
             "name": "Nisi autem.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "19.3",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "19.3",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Nathan",
+                "lastName": "Vienne"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/eMvdBYUOgMULVxQI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE5NjY=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 380
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMzYy",
+            "name": "Nisi autem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "52.71",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 48
+              "id": "UHJvZHVjdFR5cGU6NDg="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +80,50 @@
             },
             "variants": [
               {
-                "id": 11966,
-                "isAvailable": true,
-                "name": "250ml",
-                "stockQuantity": 380
-              },
-              {
-                "id": 11967,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE5Njc=",
                 "isAvailable": true,
                 "name": "500ml",
                 "stockQuantity": 281
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMzYy",
+            "name": "Nisi autem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "43.21",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.21",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 11968,
+                "firstName": "Nathan",
+                "lastName": "Vienne"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/eMvdBYUOgMULVxQI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE5Njg=",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 185
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

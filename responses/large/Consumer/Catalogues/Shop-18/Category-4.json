@@ -4,13 +4,13 @@
       "edges": [
         {
           "node": {
-            "id": 4375,
+            "id": "UHJvZHVjdDo0Mzc1",
             "name": "Voluptate accusantium.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "41.73",
+                    "amount": "78.51",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 56
+              "id": "UHJvZHVjdFR5cGU6NTY="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +37,93 @@
             },
             "variants": [
               {
-                "id": 22092,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIwOTI=",
                 "isAvailable": true,
                 "name": "200g",
                 "stockQuantity": 176
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Mzc1",
+            "name": "Voluptate accusantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "47.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "47.48",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 22093,
+                "firstName": "Yvette",
+                "lastName": "Courvoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xtLfvMwiYmDuOeqa-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIwOTM=",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
                 "stockQuantity": 130
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Mzc1",
+            "name": "Voluptate accusantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "41.73",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "41.73",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 22094,
+                "firstName": "Yvette",
+                "lastName": "Courvoisier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xtLfvMwiYmDuOeqa-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIwOTQ=",
                 "isAvailable": true,
                 "name": "XL",
                 "stockQuantity": 473
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

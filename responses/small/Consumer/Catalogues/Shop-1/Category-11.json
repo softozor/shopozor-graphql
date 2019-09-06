@@ -4,13 +4,142 @@
       "edges": [
         {
           "node": {
-            "id": 91,
+            "id": "UHJvZHVjdDo5MQ==",
             "name": "Doloribus odit.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "1.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "1.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Martin"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/iAOeSZhUwnoKUtbw-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE5",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 556
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5MQ==",
+            "name": "Doloribus odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "8.97",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "8.97",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Martin"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/iAOeSZhUwnoKUtbw-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIw",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 9
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5MQ==",
+            "name": "Doloribus odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "8.97",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "8.97",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Elisabeth",
+                "lastName": "Martin"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/iAOeSZhUwnoKUtbw-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIx",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 185
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5MQ==",
+            "name": "Doloribus odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "95.56",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +158,7 @@
               }
             ],
             "productType": {
-              "id": 109
+              "id": "UHJvZHVjdFR5cGU6MTA5"
             },
             "thumbnail": {
               "alt": "",
@@ -37,25 +166,7 @@
             },
             "variants": [
               {
-                "id": 219,
-                "isAvailable": true,
-                "name": "250ml",
-                "stockQuantity": 556
-              },
-              {
-                "id": 220,
-                "isAvailable": true,
-                "name": "100g",
-                "stockQuantity": 9
-              },
-              {
-                "id": 221,
-                "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 185
-              },
-              {
-                "id": 222,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIy",
                 "isAvailable": true,
                 "name": "500g",
                 "stockQuantity": 535
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

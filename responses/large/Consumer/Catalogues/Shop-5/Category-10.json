@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 3685,
+            "id": "UHJvZHVjdDozNjg1",
             "name": "Dolor vero provident.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "36.54",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "36.54",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Sarah",
+                "lastName": "Bouvier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAx"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/FNJiZDZtOPmLQyYl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3MTY=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 131
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjg1",
+            "name": "Dolor vero provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.91",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 101
+              "id": "UHJvZHVjdFR5cGU6MTAx"
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +80,50 @@
             },
             "variants": [
               {
-                "id": 18716,
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 131
-              },
-              {
-                "id": 18717,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3MTc=",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 354
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjg1",
+            "name": "Dolor vero provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "36.54",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "36.54",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 18718,
+                "firstName": "Sarah",
+                "lastName": "Bouvier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAx"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/FNJiZDZtOPmLQyYl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3MTg=",
                 "isAvailable": true,
                 "name": "2.5l",
                 "stockQuantity": 51
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

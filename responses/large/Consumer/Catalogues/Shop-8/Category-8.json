@@ -4,13 +4,99 @@
       "edges": [
         {
           "node": {
-            "id": 3111,
+            "id": "UHJvZHVjdDozMTEx",
             "name": "Officiis pariatur distinctio.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "16.74",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "16.74",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Patricia",
+                "lastName": "Paschoud"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/tiAKvLUPDjStUvut-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4MzU=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 120
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTEx",
+            "name": "Officiis pariatur distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "21.78",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "21.78",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Patricia",
+                "lastName": "Paschoud"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/tiAKvLUPDjStUvut-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4MzY=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 317
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTEx",
+            "name": "Officiis pariatur distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "8.39",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +115,7 @@
               }
             ],
             "productType": {
-              "id": 91
+              "id": "UHJvZHVjdFR5cGU6OTE="
             },
             "thumbnail": {
               "alt": "",
@@ -37,25 +123,50 @@
             },
             "variants": [
               {
-                "id": 15835,
-                "isAvailable": true,
-                "name": "XL",
-                "stockQuantity": 120
-              },
-              {
-                "id": 15836,
-                "isAvailable": true,
-                "name": "45cm x 45cm",
-                "stockQuantity": 317
-              },
-              {
-                "id": 15837,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4Mzc=",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 498
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTEx",
+            "name": "Officiis pariatur distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "21.78",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "21.78",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 15838,
+                "firstName": "Patricia",
+                "lastName": "Paschoud"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/tiAKvLUPDjStUvut-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4Mzg=",
                 "isAvailable": true,
                 "name": "S",
                 "stockQuantity": 536
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

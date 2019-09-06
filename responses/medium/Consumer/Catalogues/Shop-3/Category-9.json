@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 204,
+            "id": "UHJvZHVjdDoyMDQ=",
             "name": "Cumque libero debitis doloribus.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "18.29",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "18.29",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Lisa",
+                "lastName": "Menthonnex"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTc="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PgxddWtUsDiwznVQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzAw",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 356
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDQ=",
+            "name": "Cumque libero debitis doloribus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "27.49",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 97
+              "id": "UHJvZHVjdFR5cGU6OTc="
             },
             "thumbnail": {
               "alt": "",
@@ -37,25 +80,93 @@
             },
             "variants": [
               {
-                "id": 700,
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 356
-              },
-              {
-                "id": 701,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzAx",
                 "isAvailable": true,
                 "name": "250ml",
                 "stockQuantity": 62
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDQ=",
+            "name": "Cumque libero debitis doloribus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "27.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "27.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 702,
+                "firstName": "Lisa",
+                "lastName": "Menthonnex"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTc="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PgxddWtUsDiwznVQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzAy",
                 "isAvailable": true,
                 "name": "1kg",
                 "stockQuantity": 129
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDQ=",
+            "name": "Cumque libero debitis doloribus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "27.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "27.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 703,
+                "firstName": "Lisa",
+                "lastName": "Menthonnex"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTc="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PgxddWtUsDiwznVQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzAz",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
                 "stockQuantity": 625
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

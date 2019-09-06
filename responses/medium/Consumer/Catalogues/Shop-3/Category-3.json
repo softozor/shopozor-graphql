@@ -4,7 +4,7 @@
       "edges": [
         {
           "node": {
-            "id": 142,
+            "id": "UHJvZHVjdDoxNDI=",
             "name": "Minus sint maxime repellendus.",
             "pricing": {
               "priceRange": {
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 41
+              "id": "UHJvZHVjdFR5cGU6NDE="
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +37,50 @@
             },
             "variants": [
               {
-                "id": 486,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDg2",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
                 "stockQuantity": 264
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNDI=",
+            "name": "Minus sint maxime repellendus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "2.33",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 487,
+                "firstName": "Léo",
+                "lastName": "Treboux"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RLBeGJrYSrUNSzkh-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDg3",
                 "isAvailable": true,
                 "name": "200g",
                 "stockQuantity": 125
@@ -53,10 +90,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

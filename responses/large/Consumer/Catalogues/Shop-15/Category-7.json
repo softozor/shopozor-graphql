@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 1666,
+            "id": "UHJvZHVjdDoxNjY2",
             "name": "Odit.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "17.39",
+                    "amount": "32.68",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "32.68",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Gilbert",
+                "lastName": "Broquet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODg="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODQxMg==",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 173
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjY2",
+            "name": "Odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "89.99",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 88
+              "id": "UHJvZHVjdFR5cGU6ODg="
             },
             "thumbnail": {
               "alt": null,
@@ -37,25 +80,93 @@
             },
             "variants": [
               {
-                "id": 8412,
-                "isAvailable": true,
-                "name": "100g",
-                "stockQuantity": 173
-              },
-              {
-                "id": 8413,
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODQxMw==",
                 "isAvailable": true,
                 "name": "M",
                 "stockQuantity": 402
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjY2",
+            "name": "Odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.87",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.87",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 8414,
+                "firstName": "Gilbert",
+                "lastName": "Broquet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODg="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODQxNA==",
                 "isAvailable": true,
                 "name": "M",
                 "stockQuantity": 210
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjY2",
+            "name": "Odit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "17.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "17.39",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 8415,
+                "firstName": "Gilbert",
+                "lastName": "Broquet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODg="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODQxNQ==",
                 "isAvailable": true,
                 "name": "XS",
                 "stockQuantity": 98
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

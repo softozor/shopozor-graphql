@@ -4,13 +4,13 @@
       "edges": [
         {
           "node": {
-            "id": 226,
+            "id": "UHJvZHVjdDoyMjY=",
             "name": "Ipsa est.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "18.18",
+                    "amount": "75.11",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 69
+              "id": "UHJvZHVjdFR5cGU6Njk="
             },
             "thumbnail": {
               "alt": "",
@@ -37,25 +37,136 @@
             },
             "variants": [
               {
-                "id": 766,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY2",
                 "isAvailable": true,
                 "name": "100g",
                 "stockQuantity": 161
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMjY=",
+            "name": "Ipsa est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "18.18",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "18.18",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 767,
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Njk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CxwoXTObVEaRnGYD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY3",
                 "isAvailable": true,
                 "name": "250g",
                 "stockQuantity": 78
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMjY=",
+            "name": "Ipsa est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.86",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.86",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 768,
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Njk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CxwoXTObVEaRnGYD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY4",
                 "isAvailable": true,
                 "name": "500g",
                 "stockQuantity": 563
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMjY=",
+            "name": "Ipsa est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "25.65",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "25.65",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 769,
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Njk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CxwoXTObVEaRnGYD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY5",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 336
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

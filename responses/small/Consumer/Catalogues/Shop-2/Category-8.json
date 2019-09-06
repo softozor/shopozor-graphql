@@ -4,13 +4,142 @@
       "edges": [
         {
           "node": {
-            "id": 140,
+            "id": "UHJvZHVjdDoxNDA=",
             "name": "Necessitatibus voluptatem.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "40.06",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.06",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Charles",
+                "lastName": "Cossy"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/MrbyXInxVqlhRdcP-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzMy",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 8
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNDA=",
+            "name": "Necessitatibus voluptatem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.06",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.06",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Charles",
+                "lastName": "Cossy"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/MrbyXInxVqlhRdcP-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzMz",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 549
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNDA=",
+            "name": "Necessitatibus voluptatem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "5.16",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "5.16",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Charles",
+                "lastName": "Cossy"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/MrbyXInxVqlhRdcP-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM0",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 606
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNDA=",
+            "name": "Necessitatibus voluptatem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "78.82",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +158,7 @@
               }
             ],
             "productType": {
-              "id": 48
+              "id": "UHJvZHVjdFR5cGU6NDg="
             },
             "thumbnail": {
               "alt": "",
@@ -37,25 +166,7 @@
             },
             "variants": [
               {
-                "id": 332,
-                "isAvailable": true,
-                "name": "S",
-                "stockQuantity": 8
-              },
-              {
-                "id": 333,
-                "isAvailable": true,
-                "name": "200g",
-                "stockQuantity": 549
-              },
-              {
-                "id": 334,
-                "isAvailable": true,
-                "name": "500g",
-                "stockQuantity": 606
-              },
-              {
-                "id": 335,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM1",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 383
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

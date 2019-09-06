@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 59,
+            "id": "UHJvZHVjdDo1OQ==",
             "name": "Quo unde rerum.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "59.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Ethan",
+                "lastName": "Mercier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/bPclcyRzhZzzggph-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU5",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 56
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1OQ==",
+            "name": "Quo unde rerum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.78",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 103
+              "id": "UHJvZHVjdFR5cGU6MTAz"
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +80,7 @@
             },
             "variants": [
               {
-                "id": 159,
-                "isAvailable": true,
-                "name": "XS",
-                "stockQuantity": 56
-              },
-              {
-                "id": 160,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYw",
                 "isAvailable": true,
                 "name": "250g",
                 "stockQuantity": 17
@@ -53,10 +90,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

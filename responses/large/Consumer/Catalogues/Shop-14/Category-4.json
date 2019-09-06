@@ -4,7 +4,7 @@
       "edges": [
         {
           "node": {
-            "id": 399,
+            "id": "UHJvZHVjdDozOTk=",
             "name": "Modi ipsam provident.",
             "pricing": {
               "priceRange": {
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 55
+              "id": "UHJvZHVjdFR5cGU6NTU="
             },
             "thumbnail": {
               "alt": "",
@@ -37,7 +37,7 @@
             },
             "variants": [
               {
-                "id": 2126,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEyNg==",
                 "isAvailable": true,
                 "name": "1l",
                 "stockQuantity": 428
@@ -47,7 +47,7 @@
         },
         {
           "node": {
-            "id": 4104,
+            "id": "UHJvZHVjdDo0MTA0",
             "name": "Nostrum minus.",
             "pricing": {
               "priceRange": {
@@ -72,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 51
+              "id": "UHJvZHVjdFR5cGU6NTE="
             },
             "thumbnail": {
               "alt": "",
@@ -80,13 +80,50 @@
             },
             "variants": [
               {
-                "id": 20804,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA4MDQ=",
                 "isAvailable": true,
                 "name": "XS",
                 "stockQuantity": 352
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTA0",
+            "name": "Nostrum minus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "73.1",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "73.1",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 20805,
+                "firstName": "François",
+                "lastName": "Chatriand"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/BGbKjlprtyLTtFSR-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA4MDU=",
                 "isAvailable": true,
                 "name": "500ml",
                 "stockQuantity": 74
@@ -96,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 3
     }
   }
 }

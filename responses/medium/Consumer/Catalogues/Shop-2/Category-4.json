@@ -4,13 +4,13 @@
       "edges": [
         {
           "node": {
-            "id": 161,
+            "id": "UHJvZHVjdDoxNjE=",
             "name": "Officiis dolorum dolor.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "17.7",
+                    "amount": "25.28",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +29,7 @@
               }
             ],
             "productType": {
-              "id": 61
+              "id": "UHJvZHVjdFR5cGU6NjE="
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +37,93 @@
             },
             "variants": [
               {
-                "id": 564,
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTY0",
                 "isAvailable": true,
                 "name": "250g",
                 "stockQuantity": 699
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjE=",
+            "name": "Officiis dolorum dolor.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "17.7",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "17.7",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 565,
+                "firstName": "Mathilde",
+                "lastName": "Quartier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XEaYnkUMLOpmaucu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTY1",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 596
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjE=",
+            "name": "Officiis dolorum dolor.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "25.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "25.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 566,
+                "firstName": "Mathilde",
+                "lastName": "Quartier"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XEaYnkUMLOpmaucu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTY2",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
                 "stockQuantity": 41
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

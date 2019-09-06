@@ -4,13 +4,142 @@
       "edges": [
         {
           "node": {
-            "id": 61,
+            "id": "UHJvZHVjdDo2MQ==",
+            "name": "Recusandae earum nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.09",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.09",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xnwtNWaDOvjycSBl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM1",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 302
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2MQ==",
             "name": "Recusandae earum nisi.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "18.12",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "18.12",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xnwtNWaDOvjycSBl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM2",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 267
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2MQ==",
+            "name": "Recusandae earum nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "52.03",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "52.03",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Patricia",
+                "lastName": "Rosselet"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xnwtNWaDOvjycSBl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 107
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2MQ==",
+            "name": "Recusandae earum nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "73.81",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +158,7 @@
               }
             ],
             "productType": {
-              "id": 91
+              "id": "UHJvZHVjdFR5cGU6OTE="
             },
             "thumbnail": {
               "alt": "",
@@ -37,25 +166,7 @@
             },
             "variants": [
               {
-                "id": 235,
-                "isAvailable": true,
-                "name": "250ml",
-                "stockQuantity": 302
-              },
-              {
-                "id": 236,
-                "isAvailable": true,
-                "name": "500ml",
-                "stockQuantity": 267
-              },
-              {
-                "id": 237,
-                "isAvailable": true,
-                "name": "2l",
-                "stockQuantity": 107
-              },
-              {
-                "id": 238,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM4",
                 "isAvailable": true,
                 "name": "2.5l",
                 "stockQuantity": 40
@@ -65,10 +176,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 4
     }
   }
 }

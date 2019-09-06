@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 80,
+            "id": "UHJvZHVjdDo4MA==",
             "name": "Soluta.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "14.89",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "14.89",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Léo",
+                "lastName": "Treboux"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/DajvJiwbHeirUOPg-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjg2",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 338
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MA==",
+            "name": "Soluta.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "66.11",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 103
+              "id": "UHJvZHVjdFR5cGU6MTAz"
             },
             "thumbnail": {
               "alt": "",
@@ -37,19 +80,50 @@
             },
             "variants": [
               {
-                "id": 286,
-                "isAvailable": true,
-                "name": "100g",
-                "stockQuantity": 338
-              },
-              {
-                "id": 287,
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjg3",
                 "isAvailable": true,
                 "name": "2l",
                 "stockQuantity": 23
-              },
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MA==",
+            "name": "Soluta.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "14.89",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "14.89",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
               {
-                "id": 288,
+                "firstName": "Léo",
+                "lastName": "Treboux"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/DajvJiwbHeirUOPg-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjg4",
                 "isAvailable": true,
                 "name": "100g",
                 "stockQuantity": 219
@@ -59,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

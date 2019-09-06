@@ -4,13 +4,56 @@
       "edges": [
         {
           "node": {
-            "id": 3003,
+            "id": "UHJvZHVjdDozMDAz",
             "name": "Atque.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
                     "amount": "11.11",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "11.11",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": [
+              {
+                "firstName": "Mélanie",
+                "lastName": "Bourquard"
+              }
+            ],
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/FGhMqlcMFfPiOJsS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTUyNzM=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 0
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDAz",
+            "name": "Atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "72.52",
                     "currency": "CHF"
                   }
                 },
@@ -29,7 +72,7 @@
               }
             ],
             "productType": {
-              "id": 106
+              "id": "UHJvZHVjdFR5cGU6MTA2"
             },
             "thumbnail": {
               "alt": "",
@@ -37,13 +80,7 @@
             },
             "variants": [
               {
-                "id": 15273,
-                "isAvailable": true,
-                "name": "500g",
-                "stockQuantity": 0
-              },
-              {
-                "id": 15274,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTUyNzQ=",
                 "isAvailable": true,
                 "name": "100g",
                 "stockQuantity": 192
@@ -53,7 +90,7 @@
         },
         {
           "node": {
-            "id": 4309,
+            "id": "UHJvZHVjdDo0MzA5",
             "name": "Eaque quod.",
             "pricing": {
               "priceRange": {
@@ -78,7 +115,7 @@
               }
             ],
             "productType": {
-              "id": 103
+              "id": "UHJvZHVjdFR5cGU6MTAz"
             },
             "thumbnail": {
               "alt": "",
@@ -86,7 +123,7 @@
             },
             "variants": [
               {
-                "id": 21784,
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE3ODQ=",
                 "isAvailable": true,
                 "name": "2.5l",
                 "stockQuantity": 367
@@ -96,10 +133,10 @@
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 3
     }
   }
 }
