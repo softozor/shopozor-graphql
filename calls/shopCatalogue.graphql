@@ -20,11 +20,13 @@ query ShopCatalogue(
             start {
               gross {
                 amount
+                currency
               }
             }
             stop {
               gross {
                 amount
+                currency
               }
             }
           }

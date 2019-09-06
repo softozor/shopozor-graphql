@@ -6,13 +6,78 @@ query ProductDetails($productId: ID!) {
       alt
       url
     }
-    attributes {
-      attribute {
-        name
+    pricing {
+      priceRange {
+        start {
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
+        }
+        stop {
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
+        }
       }
-      value {
-        name
+    }
+    purchaseCost {
+      start {
+        amount
+        currency
       }
+      stop {
+        amount
+        currency
+      }
+    }
+    variants {
+      id
+      sku
+      name
+      isAvailable
+      stockQuantity
+      pricing {
+        price {
+          gross {
+            currency
+            amount
+          }
+          net {
+            currency
+            amount
+          }
+          tax {
+            currency
+            amount
+          }
+        }
+      }
+      costPrice {
+        currency
+        amount
+      }
+    }
+    conservation {
+      mode
+      duration
     }
   }
 }
