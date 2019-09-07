@@ -42,6 +42,10 @@ query ProductDetails($productId: ID!) {
         }
       }
     }
+    producer {
+      firstName
+      lastName
+    }
     purchaseCost {
       start {
         amount
