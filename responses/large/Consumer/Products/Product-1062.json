@@ -1,64 +1,120 @@
 {
-  "description": "Quod mollitia facere sunt exercitationem distinctio. Illo ex minus eius.\nExplicabo ullam autem quis. Enim facilis perferendis tempora sit explicabo.",
+  "conservation": {
+    "mode": "au congélateur",
+    "until": "2020-03-04"
+  },
+  "description": "Repudiandae a doloribus asperiores id. Voluptates minus ab quasi dolorem quibusdam sequi.\nCum magnam sunt.",
   "id": "UHJvZHVjdDoxMDYy",
   "images": [
     {
       "alt": "",
-      "url": "products/CRhDlNGQuEHrukAK.png"
+      "url": "products/ksYEMaxcpHqpxDQm.png"
     },
     {
       "alt": "",
-      "url": "products/YhFJywvRtOmdrVxb.png"
+      "url": "products/durYFDahiTFNwMzn.png"
     },
     {
       "alt": "",
-      "url": "products/KRBeOppnApbYpXbp.png"
+      "url": "products/YIKngHwJkQrxRvsw.png"
     },
     {
       "alt": "",
-      "url": "products/CYckfuDsSkwCpAuS.png"
+      "url": "products/DPhDBIRlhyFRPIDM.png"
     },
     {
       "alt": "",
-      "url": "products/xlGdbtxhcBQuoWze.png"
+      "url": "products/XNVhjbqnmynclBRt.png"
+    },
+    {
+      "alt": "",
+      "url": "products/MYGWHiXibsvLidYc.png"
+    },
+    {
+      "alt": "",
+      "url": "products/sgLAcfKTnNtoMoqb.png"
+    },
+    {
+      "alt": "",
+      "url": "products/IawkQgoAlEhpUCeF.png"
     }
   ],
-  "name": "Alias pariatur magnam.",
+  "name": "Asperiores.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "46.41",
+          "amount": "32.82",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "32.82",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "46.41",
+          "amount": "32.82",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "32.82",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Albert",
-      "lastName": "Cousin"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6Ng=="
+  "producer": {
+    "firstName": "Bernard",
+    "lastName": "Badan"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/CRhDlNGQuEHrukAK-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "21.77",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "21.77",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTM5Mg==",
+      "costPrice": {
+        "amount": "21.77",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6NTMzMw==",
       "isAvailable": true,
-      "name": "100g",
-      "stockQuantity": 700
+      "name": "1kg",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "32.82",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "32.82",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "746305414",
+      "stockQuantity": 326
     }
   ]
 }

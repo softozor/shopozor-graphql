@@ -1,64 +1,96 @@
 {
-  "description": "Laborum consequatur consectetur qui. Est accusantium nostrum eligendi dicta. Iure eveniet dolore harum totam nemo.",
+  "conservation": {
+    "mode": "au frigo",
+    "until": "2020-01-18"
+  },
+  "description": "Tenetur odit odio architecto. Excepturi natus recusandae deserunt.\nSuscipit laborum ratione dolore vero saepe quaerat. Reprehenderit iste dolores. Aliquid amet sunt quod numquam.",
   "id": "UHJvZHVjdDoxNzQz",
   "images": [
     {
       "alt": "",
-      "url": "products/NuexNqgfFXZfYJCW.png"
+      "url": "products/uEIqGjHQeQdBnjDf.png"
     },
     {
       "alt": "",
-      "url": "products/NiMDPoFfUbKWJvma.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ucFnsdaiAIvIRdQD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/afckKnJyTpjcnvia.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MrIOrAXJyXCpksjP.png"
+      "url": "products/nAFfhziSULkxmWsR.png"
     }
   ],
-  "name": "Voluptatem sint qui.",
+  "name": "Explicabo magnam laborum dicta.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "58.87",
+          "amount": "46.24",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "46.24",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "58.87",
+          "amount": "46.24",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "46.24",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Emma",
-      "lastName": "Chatriand"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NTY="
+  "producer": {
+    "firstName": "Maxime",
+    "lastName": "Morard"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/NuexNqgfFXZfYJCW-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "44.94",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "44.94",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODgyNA==",
+      "costPrice": {
+        "amount": "44.94",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6ODcxNw==",
       "isAvailable": true,
-      "name": "2.5l",
-      "stockQuantity": 35
+      "name": "55cm x 55cm",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "46.24",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "46.24",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "504337883",
+      "stockQuantity": 357
     }
   ]
 }

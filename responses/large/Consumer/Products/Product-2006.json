@@ -1,43 +1,120 @@
 {
-  "description": "Quibusdam illo laboriosam natus laboriosam. Commodi asperiores culpa tempora nobis quaerat nulla.",
+  "conservation": {
+    "mode": "à la cave",
+    "until": "2020-07-03"
+  },
+  "description": "Occaecati itaque mollitia rem autem. Sint voluptatibus inventore nam.\nUnde sapiente eos ullam consequatur excepturi eligendi. Porro dolorem esse.",
   "id": "UHJvZHVjdDoyMDA2",
-  "images": [],
-  "name": "Iste laudantium eligendi architecto.",
+  "images": [
+    {
+      "alt": "",
+      "url": "products/srQzKhHHyvEbMhNE.png"
+    },
+    {
+      "alt": "",
+      "url": "products/BlwbzniSfFOyYzli.png"
+    },
+    {
+      "alt": "",
+      "url": "products/MEbpruKYWFQDPtAg.png"
+    },
+    {
+      "alt": "",
+      "url": "products/kIctcVAfoTFncSRq.png"
+    },
+    {
+      "alt": "",
+      "url": "products/jnCQnlurxneWbRVt.png"
+    },
+    {
+      "alt": "",
+      "url": "products/wuHBtXJaQeNYNLJr.png"
+    },
+    {
+      "alt": "",
+      "url": "products/nLamzchWrEJVZNnw.png"
+    },
+    {
+      "alt": "",
+      "url": "products/KAhgAxwmsFxzqqJn.png"
+    }
+  ],
+  "name": "Velit quia.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "11.45",
+          "amount": "29.14",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "29.14",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "11.45",
+          "amount": "29.14",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "29.14",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Elodie",
-      "lastName": "Babey"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTEw"
+  "producer": {
+    "firstName": "Alexandre",
+    "lastName": "Corpataux"
   },
-  "thumbnail": {
-    "alt": null,
-    "url": "http://localhost:8000/static/images/placeholder500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "6.08",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "6.08",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTAxMDQ=",
+      "costPrice": {
+        "amount": "6.08",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTAwODQ=",
       "isAvailable": true,
-      "name": "100g",
-      "stockQuantity": 21
+      "name": "S",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "29.14",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "29.14",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "498466304",
+      "stockQuantity": 1
     }
   ]
 }

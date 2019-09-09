@@ -1,76 +1,108 @@
 {
-  "description": "Exercitationem nihil debitis autem excepturi ipsum molestias. Quam facilis quo reiciendis a quo. Quas doloremque beatae officiis fuga.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2019-10-05"
+  },
+  "description": "Aut asperiores asperiores cumque ea. Repellat dignissimos ad pariatur ratione consectetur doloremque voluptas. Beatae eius dignissimos ea harum asperiores.",
   "id": "UHJvZHVjdDozNDE2",
   "images": [
     {
       "alt": "",
-      "url": "products/LiQpopFelHqQrgEA.png"
+      "url": "products/kGGzMaWHQnvDDSFQ.png"
     },
     {
       "alt": "",
-      "url": "products/fYjtyijJsKSlNAtU.png"
+      "url": "products/VqQNKxPeNMSDKDtA.png"
     },
     {
       "alt": "",
-      "url": "products/yotwmYdnabCzikBU.png"
+      "url": "products/JZbCtHghQTLkvBRO.png"
     },
     {
       "alt": "",
-      "url": "products/oqCFfiMoWjAEPWyA.png"
+      "url": "products/XIPYCPKRuUzqhfvj.png"
     },
     {
       "alt": "",
-      "url": "products/WODAgZnKbtYoZyCC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WPKLNEoBJYHkrgqe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OKeXCIHRMawEQhPa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zQQWOOjlxOcyPrFa.png"
+      "url": "products/RPrdBpdbFpqWEGTo.png"
     }
   ],
-  "name": "Fugiat veritatis.",
+  "name": "Exercitationem aperiam in.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "53.67",
+          "amount": "99.88",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "99.88",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "53.67",
+          "amount": "99.88",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "99.88",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Frédéric",
-      "lastName": "Chopard"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTU="
+  "producer": {
+    "firstName": "Sara",
+    "lastName": "Carron"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/LiQpopFelHqQrgEA-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "60.25",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "60.25",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTczMzY=",
+      "costPrice": {
+        "amount": "60.25",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTcwNDc=",
       "isAvailable": true,
-      "name": "2l",
-      "stockQuantity": 672
+      "name": "5l",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "99.88",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "99.88",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "910362887",
+      "stockQuantity": 647
     }
   ]
 }

@@ -1,12 +1,382 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "94.31",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "94.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE5OQ==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 301
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "60.08",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "60.08",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwMA==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 146
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "60.08",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "60.08",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwMQ==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 122
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "78.13",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "78.13",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwMg==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 584
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "60.08",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "60.08",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwMw==",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 43
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "9.31",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "9.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwNA==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 723
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.24",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.24",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwNQ==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 439
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "78.64",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "78.64",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwNg==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 437
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjQ5",
+            "name": "Amet odio fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.89",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.89",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Kevin",
+              "lastName": "Balmat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/pOcjGkPuwoGWwxHl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODIwNw==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 607
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjg=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 9
     }
   }
 }

@@ -1,52 +1,96 @@
 {
-  "description": "Sit ex eum odit nemo eaque. Rem ratione officia quae iusto architecto totam. A ullam beatae distinctio quis. At voluptates consequatur fugit consectetur libero.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2020-04-17"
+  },
+  "description": "Facilis totam veniam impedit molestiae id modi culpa. Ullam praesentium quibusdam blanditiis quis amet id. Officia labore veritatis. Quod maiores sed beatae ipsam sed quo.",
   "id": "UHJvZHVjdDozNDI4",
   "images": [
     {
       "alt": "",
-      "url": "products/hbDDqQlrxFGPGxVs.png"
+      "url": "products/dmkYnPbsKrCXpXVU.png"
     },
     {
       "alt": "",
-      "url": "products/bKOWjScDSoakzgpQ.png"
+      "url": "products/CdhujSYEfwkedIih.png"
     }
   ],
-  "name": "Temporibus molestiae.",
+  "name": "Reprehenderit deleniti.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "73.21",
+          "amount": "95.83",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "95.83",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "73.21",
+          "amount": "95.83",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "95.83",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Charlotte",
-      "lastName": "Vermeil"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTEw"
+  "producer": {
+    "firstName": "Kevin",
+    "lastName": "Balmat"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/hbDDqQlrxFGPGxVs-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "82.18",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "82.18",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTczOTY=",
+      "costPrice": {
+        "amount": "82.18",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTcxMTU=",
       "isAvailable": true,
-      "name": "2l",
-      "stockQuantity": 306
+      "name": "XL",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "95.83",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "95.83",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "368924038",
+      "stockQuantity": 240
     }
   ]
 }

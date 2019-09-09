@@ -1,84 +1,104 @@
 {
-  "description": "Consequatur inventore quo optio asperiores. Quidem quos occaecati praesentium minima. Ab odio inventore repellat facilis facere neque.",
+  "conservation": {
+    "mode": "dans du papier d'alu",
+    "until": "2020-07-05"
+  },
+  "description": "Tempora veritatis sunt nulla ea. Quo totam ad explicabo error in. Veritatis culpa itaque modi nemo quae tenetur. Minus placeat voluptatibus voluptatibus.",
   "id": "UHJvZHVjdDo4Ng==",
   "images": [
     {
       "alt": "",
-      "url": "products/XMMPHbNqrTfIsxiq.png"
+      "url": "products/RuPQgvmbEtrItKTw.png"
     },
     {
       "alt": "",
-      "url": "products/VGeXexgyWwPLsTWu.png"
+      "url": "products/gXTGoStDZTDkcGzj.png"
     },
     {
       "alt": "",
-      "url": "products/PHvIoviWvpJZCHPe.png"
+      "url": "products/XmkhRTKCYDmJRDVE.png"
     },
     {
       "alt": "",
-      "url": "products/GRbWXYAFVqZrwaKm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SmcbBJSdfjbmHSVH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SPxKBLVzVoiOHsYo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fmKXgvrJcLfbKrfQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qfZlKGOWCVjmREfe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gYqgCcpMEApOkiXG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XaflkotZWeLoSvXu.png"
+      "url": "products/WHooDnYpZbIczFDH.png"
     }
   ],
-  "name": "Eaque quaerat quos sequi.",
+  "name": "Officiis officia laboriosam.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "5.99",
+          "amount": "78.22",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "78.22",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "5.99",
+          "amount": "78.22",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "78.22",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Sylvie",
-      "lastName": "Beguin"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTA3"
+  "producer": {
+    "firstName": "Alexandre",
+    "lastName": "Corpataux"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/XMMPHbNqrTfIsxiq-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "29.46",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "29.46",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDM2",
+      "costPrice": {
+        "amount": "29.46",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6NDY4",
       "isAvailable": true,
-      "name": "200g",
-      "stockQuantity": 575
+      "name": "M",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "78.22",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "78.22",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "101520600",
+      "stockQuantity": 29
     }
   ]
 }

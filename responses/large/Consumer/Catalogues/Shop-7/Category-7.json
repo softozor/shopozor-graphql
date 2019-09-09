@@ -4,51 +4,92 @@
       "edges": [
         {
           "node": {
-            "id": "UHJvZHVjdDoxMDY=",
-            "name": "Voluptatum voluptas.",
+            "id": "UHJvZHVjdDoyMDMw",
+            "name": "Possimus corrupti.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "44.25",
+                    "amount": "34.57",
                     "currency": "CHF"
                   }
                 },
                 "stop": {
                   "gross": {
-                    "amount": "44.25",
+                    "amount": "34.57",
                     "currency": "CHF"
                   }
                 }
               }
             },
             "producer": {
-              "firstName": "Jean-Claude",
-              "lastName": "Candaux"
+              "firstName": "Bernard",
+              "lastName": "Duroux"
             },
             "productType": {
               "id": "UHJvZHVjdFR5cGU6ODc="
             },
             "thumbnail": {
               "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/hTssYLRcPXAJTiyq-thumbnail-500x500.png"
+              "url": "http://localhost:8000/media/__sized__/products/DrmRkyjKZTbJpjSW-thumbnail-500x500.png"
             },
             "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NTc0",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAxODk=",
                 "isAvailable": true,
-                "name": "45cm x 45cm",
-                "stockQuantity": 12
+                "name": "L",
+                "stockQuantity": 572
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDMw",
+            "name": "Possimus corrupti.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "20.58",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "20.58",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "lastName": "Duroux"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6ODc="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/DrmRkyjKZTbJpjSW-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTAxOTA=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 629
               }
             ]
           }
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

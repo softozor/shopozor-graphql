@@ -1,12 +1,587 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzg=",
+            "name": "Porro officia quos.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "28.76",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "28.76",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAz"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzNw==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 110
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNzg=",
+            "name": "Porro officia quos.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "62.02",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "62.02",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAz"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzOA==",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 168
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "77.99",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "77.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjI=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 142
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjM=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 381
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjQ=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 481
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.55",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.55",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjU=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjY=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 161
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjc=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 24
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjg=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 257
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNjk=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 330
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNzA=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 171
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYw",
+            "name": "Nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.46",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Corbat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/anTiDHhpArsJGHtB-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQyNzE=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 11
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjcy",
+            "name": "Error asperiores laudantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "5.59",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "5.59",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Menthonnex"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/wgUCwYfoDDKIkXPW-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgzOTM=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 1
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjcy",
+            "name": "Error asperiores laudantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "71.68",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "71.68",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Madeleine",
+              "lastName": "Menthonnex"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/wgUCwYfoDDKIkXPW-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgzOTQ=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 90
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEz",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 14
     }
   }
 }

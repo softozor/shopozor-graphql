@@ -4,51 +4,133 @@
       "edges": [
         {
           "node": {
-            "id": "UHJvZHVjdDoyNDU=",
-            "name": "Eos provident nihil.",
+            "id": "UHJvZHVjdDo5Mw==",
+            "name": "Quaerat consectetur.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "51.99",
+                    "amount": "51.31",
                     "currency": "CHF"
                   }
                 },
                 "stop": {
                   "gross": {
-                    "amount": "51.99",
+                    "amount": "51.31",
                     "currency": "CHF"
                   }
                 }
               }
             },
             "producer": {
-              "firstName": "Michel",
-              "lastName": "Broquet"
+              "firstName": "Maxime",
+              "lastName": "Comment"
             },
             "productType": {
-              "id": "UHJvZHVjdFR5cGU6MTA1"
+              "id": "UHJvZHVjdFR5cGU6MTA2"
             },
             "thumbnail": {
               "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/kMxngYxEaOGjhdag-thumbnail-500x500.png"
+              "url": "http://localhost:8000/media/__sized__/products/FJamSUNXWdeUMmMf-thumbnail-500x500.png"
             },
             "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6ODEy",
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjky",
                 "isAvailable": true,
-                "name": "XL",
-                "stockQuantity": 130
+                "name": "500g",
+                "stockQuantity": 403
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Mw==",
+            "name": "Quaerat consectetur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "34.75",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "34.75",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Maxime",
+              "lastName": "Comment"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/FJamSUNXWdeUMmMf-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjkz",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 63
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Mw==",
+            "name": "Quaerat consectetur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "4.1",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "4.1",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Maxime",
+              "lastName": "Comment"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA2"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/FJamSUNXWdeUMmMf-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjk0",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 188
               }
             ]
           }
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 3
     }
   }
 }

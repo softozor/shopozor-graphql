@@ -1,54 +1,12 @@
 {
   "data": {
     "products": {
-      "edges": [
-        {
-          "node": {
-            "id": "UHJvZHVjdDo0NjE3",
-            "name": "Fugit blanditiis fuga.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": "38.61",
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": "38.61",
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Sébastien",
-              "lastName": "Beuchat"
-            },
-            "productType": {
-              "id": "UHJvZHVjdFR5cGU6ODY="
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/WYYYCPfrLGUpLMzM-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0MTM=",
-                "isAvailable": true,
-                "name": "XL",
-                "stockQuantity": 121
-              }
-            ]
-          }
-        }
-      ],
+      "edges": [],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 0
     }
   }
 }

@@ -1,72 +1,100 @@
 {
-  "description": "Quibusdam sunt aspernatur minima tempora ex. Sint omnis reiciendis facere.",
+  "conservation": {
+    "mode": "à la cave",
+    "until": "2020-09-03"
+  },
+  "description": "Voluptate laudantium nesciunt ea. Eaque laboriosam illum minima. Assumenda blanditiis esse excepturi ea rem.",
   "id": "UHJvZHVjdDoyMjUy",
   "images": [
     {
       "alt": "",
-      "url": "products/kVeMmAbihqbOOjWs.png"
+      "url": "products/jvyRHfdgHNLbPyJE.png"
     },
     {
       "alt": "",
-      "url": "products/CPznbpJrZSDAPTrU.png"
+      "url": "products/oRQiEsWEeJKiqLJh.png"
     },
     {
       "alt": "",
-      "url": "products/SfdHSRHKDcVCLlIR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZABwGyABGSoyJDBx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JuBAyELQExdsontx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GFGNScIXcbiPZuLc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GZvdPyNjHnNbkcYK.png"
+      "url": "products/LYSrCnhRlXpGEsaU.png"
     }
   ],
-  "name": "Inventore eveniet ipsa.",
+  "name": "Animi aliquid ratione.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "26.85",
+          "amount": "8.51",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "8.51",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "26.85",
+          "amount": "8.51",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "8.51",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Charlotte",
-      "lastName": "Vermeil"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6OTc="
+  "producer": {
+    "firstName": "Sara",
+    "lastName": "Carron"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/kVeMmAbihqbOOjWs-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "7.23",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "7.23",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTEzNTk=",
+      "costPrice": {
+        "amount": "7.23",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTEyMzc=",
       "isAvailable": true,
-      "name": "2l",
-      "stockQuantity": 385
+      "name": "200g",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "8.51",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "8.51",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "587499912",
+      "stockQuantity": 72
     }
   ]
 }

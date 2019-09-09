@@ -1,56 +1,104 @@
 {
-  "description": "Aperiam ipsum voluptatum blanditiis accusamus eveniet. Ipsam occaecati alias consequatur ab.",
+  "conservation": {
+    "mode": "au congélateur",
+    "until": "2019-10-15"
+  },
+  "description": "Repudiandae optio cupiditate iure perferendis nemo officia eligendi. Tempora vel veritatis nihil repudiandae iusto.",
   "id": "UHJvZHVjdDoyNDE2",
   "images": [
     {
       "alt": "",
-      "url": "products/rnStsQfaoZZXsIjN.png"
+      "url": "products/VrjmXmZycsynaFgA.png"
     },
     {
       "alt": "",
-      "url": "products/gomgxCUmEYDsUHpP.png"
+      "url": "products/YzrtguasaGSgDCZl.png"
     },
     {
       "alt": "",
-      "url": "products/QacDcLVeGwaYGQkZ.png"
+      "url": "products/MnLpjoJKMxzIPnFw.png"
+    },
+    {
+      "alt": "",
+      "url": "products/fcVBEPWWymrbmeOZ.png"
     }
   ],
-  "name": "Ipsam quidem.",
+  "name": "Recusandae.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "63.47",
+          "amount": "79.06",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "79.06",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "63.47",
+          "amount": "79.06",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "79.06",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Yvonne",
-      "lastName": "Chappuis"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6OTA="
+  "producer": {
+    "firstName": "Christophe",
+    "lastName": "Cossy"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/rnStsQfaoZZXsIjN-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "14.85",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "14.85",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTIyNjg=",
+      "costPrice": {
+        "amount": "14.85",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTIwNzg=",
       "isAvailable": true,
-      "name": "XL",
-      "stockQuantity": 375
+      "name": "M",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "79.06",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "79.06",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "742653486",
+      "stockQuantity": 15
     }
   ]
 }

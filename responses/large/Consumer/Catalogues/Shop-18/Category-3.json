@@ -1,12 +1,546 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNzk2",
+            "name": "Dicta voluptatibus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "23.21",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "23.21",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mzg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/eIFjsgqbhbWNevgy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTAwNw==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 272
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODI5",
+            "name": "Maiores quas quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kvMdKcirJjDZtmME-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE2MA==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 411
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODI5",
+            "name": "Maiores quas quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "84.52",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "84.52",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kvMdKcirJjDZtmME-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE2MQ==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 507
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODI5",
+            "name": "Maiores quas quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kvMdKcirJjDZtmME-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE2Mg==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 266
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODI5",
+            "name": "Maiores quas quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kvMdKcirJjDZtmME-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE2Mw==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 290
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODI5",
+            "name": "Maiores quas quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "64.62",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "64.62",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kvMdKcirJjDZtmME-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE2NA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 131
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODI5",
+            "name": "Maiores quas quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kvMdKcirJjDZtmME-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTE2NQ==",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 391
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0ODQ5",
+            "name": "Earum accusantium optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.82",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.82",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uzVeovwAKQCPOmZY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQzODc=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 369
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0ODQ5",
+            "name": "Earum accusantium optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.41",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.41",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uzVeovwAKQCPOmZY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQzODg=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 651
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0ODQ5",
+            "name": "Earum accusantium optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.41",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.41",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uzVeovwAKQCPOmZY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQzODk=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 320
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0ODQ5",
+            "name": "Earum accusantium optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.41",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.41",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uzVeovwAKQCPOmZY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQzOTA=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 232
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0ODQ5",
+            "name": "Earum accusantium optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "10.82",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "10.82",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uzVeovwAKQCPOmZY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQzOTE=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 15
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0ODQ5",
+            "name": "Earum accusantium optio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "3.3",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "3.3",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "lastName": "Bourquard"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NDM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uzVeovwAKQCPOmZY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQzOTI=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 57
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEy",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 13
     }
   }
 }

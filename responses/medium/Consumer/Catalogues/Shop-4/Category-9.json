@@ -1,95 +1,12 @@
 {
   "data": {
     "products": {
-      "edges": [
-        {
-          "node": {
-            "id": "UHJvZHVjdDoyNw==",
-            "name": "Adipisci reprehenderit ratione incidunt.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": "28.95",
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": "28.95",
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "René",
-              "lastName": "Carron"
-            },
-            "productType": {
-              "id": "UHJvZHVjdFR5cGU6OTc="
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/ElscBQOcFTDSpOYw-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NzQ=",
-                "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 121
-              }
-            ]
-          }
-        },
-        {
-          "node": {
-            "id": "UHJvZHVjdDoyMDg=",
-            "name": "Mollitia suscipit.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": "82.91",
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": "82.91",
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Léo",
-              "lastName": "Treboux"
-            },
-            "productType": {
-              "id": "UHJvZHVjdFR5cGU6MTAw"
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/ynNjlJtgdGqMNdMD-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Njk5",
-                "isAvailable": true,
-                "name": "S",
-                "stockQuantity": 657
-              }
-            ]
-          }
-        }
-      ],
+      "edges": [],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 0
     }
   }
 }

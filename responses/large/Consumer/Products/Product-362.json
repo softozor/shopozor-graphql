@@ -1,56 +1,92 @@
 {
-  "description": "Eligendi vel consectetur. Tempora necessitatibus amet ipsam. Blanditiis labore fugit quo veniam debitis laborum. Aspernatur mollitia dolores ipsum sequi.",
+  "conservation": {
+    "mode": "au congélateur",
+    "until": "2019-11-07"
+  },
+  "description": "Similique deleniti dolorem ipsa cum. In unde repellat similique et ad a. Dignissimos dolorum vero fugit est.",
   "id": "UHJvZHVjdDozNjI=",
   "images": [
     {
       "alt": "",
-      "url": "products/FLZvTtjBqsYSoAYL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yBVzyTjYwaqsjHph.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PdtszItnxHzUQEwN.png"
+      "url": "products/rpaWqoxcuHKqSNdi.png"
     }
   ],
-  "name": "Numquam.",
+  "name": "Eum consequuntur.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "35.24",
+          "amount": "2.87",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "2.87",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "35.24",
+          "amount": "2.87",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "2.87",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Arthur",
-      "lastName": "Crevoisier"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTA5"
+  "producer": {
+    "firstName": "Luca",
+    "lastName": "Rapin"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/FLZvTtjBqsYSoAYL-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "_type": "Money",
+      "amount": "0.17",
+      "currency": "CHF"
+    },
+    "stop": {
+      "_type": "Money",
+      "amount": "0.17",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMg==",
+      "costPrice": {
+        "amount": "0.17",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTg2Ng==",
       "isAvailable": true,
-      "name": "250ml",
-      "stockQuantity": 96
+      "name": "500g",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "2.87",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "2.87",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "358999167",
+      "stockQuantity": 5
     }
   ]
 }

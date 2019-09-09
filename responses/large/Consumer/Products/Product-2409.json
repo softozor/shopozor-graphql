@@ -1,46 +1,21 @@
 {
   "conservation": {
     "mode": "au soleil",
-    "until": "2020-01-15T17:52:59+00:00"
+    "until": "2020-01-15"
   },
   "description": "Magnam quibusdam saepe. Pariatur veritatis at aut mollitia asperiores aliquam. Accusantium aperiam esse deleniti ducimus inventore delectus.",
   "id": "UHJvZHVjdDoyNDA5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NutZFMmGCHyzrieD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oLjayvlCjJadDTyV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hesJTmipNbhvtaJi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QMemEOQUAKJWXVTg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oTJBhziQzYYIjyxF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EkBWQnaugnnvrsNK.png"
-    }
-  ],
+  "images": [],
   "name": "Ipsum sapiente hic.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "2.3",
+          "amount": "68.65",
           "currency": "CHF"
         },
         "net": {
-          "amount": "2.3",
+          "amount": "68.65",
           "currency": "CHF"
         },
         "tax": {
@@ -50,11 +25,11 @@
       },
       "stop": {
         "gross": {
-          "amount": "2.3",
+          "amount": "68.65",
           "currency": "CHF"
         },
         "net": {
-          "amount": "2.3",
+          "amount": "68.65",
           "currency": "CHF"
         },
         "tax": {
@@ -65,36 +40,38 @@
     }
   },
   "producer": {
-    "firstName": "Emma",
-    "lastName": "Babey"
+    "firstName": "Georges",
+    "lastName": "Menthonnex"
   },
   "purchaseCost": {
     "start": {
-      "amount": "2.3",
+      "_type": "Money",
+      "amount": "44.47",
       "currency": "CHF"
     },
     "stop": {
-      "amount": "2.3",
+      "_type": "Money",
+      "amount": "44.47",
       "currency": "CHF"
     }
   },
   "variants": [
     {
       "costPrice": {
-        "amount": "36.4",
+        "amount": "44.47",
         "currency": "CHF"
       },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTIyMDQ=",
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTIwMzU=",
       "isAvailable": true,
-      "name": "500g",
+      "name": "L",
       "pricing": {
         "price": {
           "gross": {
-            "amount": "2.3",
+            "amount": "68.65",
             "currency": "CHF"
           },
           "net": {
-            "amount": "2.3",
+            "amount": "68.65",
             "currency": "CHF"
           },
           "tax": {
@@ -103,8 +80,8 @@
           }
         }
       },
-      "sku": "144070934",
-      "stockQuantity": 241
+      "sku": "149091048",
+      "stockQuantity": 882
     }
   ]
 }

@@ -1,21 +1,34 @@
 {
   "conservation": {
     "mode": "à température ambiante",
-    "until": "2019-11-21T10:02:05+00:00"
+    "until": "2019-11-20"
   },
   "description": "Natus quibusdam corrupti sunt at. Delectus odio eos qui rem.\nSit dolor perspiciatis. Ipsum repellat eum molestias atque veritatis laudantium. Autem ad porro sunt.",
   "id": "UHJvZHVjdDoxODc2",
-  "images": [],
+  "images": [
+    {
+      "alt": "",
+      "url": "products/NytwHWAeWKozDOFH.png"
+    },
+    {
+      "alt": "",
+      "url": "products/gbGupMXLzwvVVdND.png"
+    },
+    {
+      "alt": "",
+      "url": "products/vIpovyrwMlAhfkha.png"
+    }
+  ],
   "name": "Nam error.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "81.43",
+          "amount": "67.28",
           "currency": "CHF"
         },
         "net": {
-          "amount": "81.43",
+          "amount": "67.28",
           "currency": "CHF"
         },
         "tax": {
@@ -25,11 +38,11 @@
       },
       "stop": {
         "gross": {
-          "amount": "81.43",
+          "amount": "67.28",
           "currency": "CHF"
         },
         "net": {
-          "amount": "81.43",
+          "amount": "67.28",
           "currency": "CHF"
         },
         "tax": {
@@ -40,36 +53,38 @@
     }
   },
   "producer": {
-    "firstName": "Elodie",
-    "lastName": "Babey"
+    "firstName": "Sarah",
+    "lastName": "Crevoisier"
   },
   "purchaseCost": {
     "start": {
-      "amount": "81.43",
+      "_type": "Money",
+      "amount": "19.25",
       "currency": "CHF"
     },
     "stop": {
-      "amount": "81.43",
+      "_type": "Money",
+      "amount": "19.25",
       "currency": "CHF"
     }
   },
   "variants": [
     {
       "costPrice": {
-        "amount": "71.1",
+        "amount": "19.25",
         "currency": "CHF"
       },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTQ4NA==",
+      "id": "UHJvZHVjdFZhcmlhbnQ6OTQwMA==",
       "isAvailable": true,
-      "name": "55cm x 55cm",
+      "name": "XS",
       "pricing": {
         "price": {
           "gross": {
-            "amount": "81.43",
+            "amount": "67.28",
             "currency": "CHF"
           },
           "net": {
-            "amount": "81.43",
+            "amount": "67.28",
             "currency": "CHF"
           },
           "tax": {
@@ -78,8 +93,8 @@
           }
         }
       },
-      "sku": "303012447",
-      "stockQuantity": 47
+      "sku": "833295071",
+      "stockQuantity": 21
     }
   ]
 }
