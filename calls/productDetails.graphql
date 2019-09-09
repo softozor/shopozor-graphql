@@ -58,8 +58,8 @@ query ProductDetails($productId: ID!) {
     }
     variants {
       costPrice {
-        currency
         amount
+        currency
       }
       id
       isAvailable
@@ -67,16 +67,16 @@ query ProductDetails($productId: ID!) {
       pricing {
         price {
           gross {
-            currency
             amount
+            currency
           }
           net {
-            currency
             amount
+            currency
           }
           tax {
-            currency
             amount
+            currency
           }
         }
       }
