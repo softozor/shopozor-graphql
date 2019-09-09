@@ -2,7 +2,7 @@ query ProductDetails($productId: ID!) {
   product(id: $productId) {
     conservation {
       mode
-      duration
+      until
     }
     description
     images {
