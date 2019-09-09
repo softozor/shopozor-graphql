@@ -1,72 +1,122 @@
 {
-  "description": "Sunt sunt maxime. Est nulla ea fugiat quaerat cupiditate. Quisquam repellendus praesentium itaque dolorem.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2020-04-10T20:16:16+00:00"
+  },
+  "description": "Inventore eum aperiam distinctio.\nSuscipit nobis odit. Sed adipisci in officia.\nNostrum quaerat at ex perferendis reprehenderit blanditiis. Omnis doloribus corporis aut distinctio suscipit ducimus.",
   "id": "UHJvZHVjdDoxNzcw",
   "images": [
     {
       "alt": "",
-      "url": "products/eIFjsgqbhbWNevgy.png"
+      "url": "products/VkAEDXPrfRaXLAuJ.png"
     },
     {
       "alt": "",
-      "url": "products/OFbVoDyyAEegiICd.png"
+      "url": "products/YYyJfmaNWOswVhCh.png"
     },
     {
       "alt": "",
-      "url": "products/nJwgqYlcYCsvoyYl.png"
+      "url": "products/llYgNGvIisMCqgrt.png"
     },
     {
       "alt": "",
-      "url": "products/DFENIvIgvSaorGuT.png"
+      "url": "products/hxZIALVTuPyDHlFx.png"
     },
     {
       "alt": "",
-      "url": "products/cKxONFhXqCHkWNHY.png"
+      "url": "products/IvrAiEhKJAZrhdGC.png"
     },
     {
       "alt": "",
-      "url": "products/NEhiLxzefcXoOPEw.png"
+      "url": "products/HArvPHMCRonjXdsV.png"
     },
     {
       "alt": "",
-      "url": "products/CkWqwhdhrYISIoOx.png"
+      "url": "products/DhsFHByRXXemRxBh.png"
+    },
+    {
+      "alt": "",
+      "url": "products/CXKDhCkOqymGvFXP.png"
+    },
+    {
+      "alt": "",
+      "url": "products/EWqWMjTZCuRFDCpO.png"
     }
   ],
-  "name": "Odio exercitationem.",
+  "name": "Officia placeat natus.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "76.97",
+          "amount": "70.4",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "70.4",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "76.97",
+          "amount": "70.4",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "70.4",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Patricia",
-      "lastName": "Chapuis"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MzI="
+  "producer": {
+    "firstName": "Eric",
+    "lastName": "Montandon"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/eIFjsgqbhbWNevgy-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "70.4",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "70.4",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODk0NA==",
+      "costPrice": {
+        "amount": "61.55",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6ODkzNA==",
       "isAvailable": true,
-      "name": "500ml",
-      "stockQuantity": 148
+      "name": "L",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "70.4",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "70.4",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "955201416",
+      "stockQuantity": 86
     }
   ]
 }

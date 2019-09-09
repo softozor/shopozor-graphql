@@ -1,52 +1,94 @@
 {
-  "description": "Voluptatibus est neque pariatur. Asperiores qui eveniet eaque velit labore numquam alias.\nOptio fugit dignissimos accusamus autem ea. Cumque sint hic velit. Odio a dolores explicabo maxime.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2020-06-21T03:43:45+00:00"
+  },
+  "description": "Cum inventore magnam aperiam porro dolores quo. Consequuntur ducimus assumenda excepturi praesentium quidem.",
   "id": "UHJvZHVjdDo0MDcw",
   "images": [
     {
       "alt": "",
-      "url": "products/qfZBXlFqrcrhLdrO.png"
+      "url": "products/KHCSOwmUIDTUfBtZ.png"
     },
     {
       "alt": "",
-      "url": "products/mhunErtJMRUTqkrq.png"
+      "url": "products/fIXViDEBBGyQFjOJ.png"
     }
   ],
-  "name": "Expedita.",
+  "name": "Doloribus praesentium magnam unde.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "76.52",
+          "amount": "19.95",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "19.95",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "76.52",
+          "amount": "19.95",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "19.95",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Patrick",
-      "lastName": "Chappuis"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTAx"
+  "producer": {
+    "firstName": "Samuel",
+    "lastName": "Duvanel"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/qfZBXlFqrcrhLdrO-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "19.95",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "19.95",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA2Mzk=",
+      "costPrice": {
+        "amount": "42.83",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NjQ=",
       "isAvailable": true,
       "name": "1l",
-      "stockQuantity": 64
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "19.95",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "19.95",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "795066441",
+      "stockQuantity": 672
     }
   ]
 }

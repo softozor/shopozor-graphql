@@ -1,68 +1,94 @@
 {
-  "description": "Quod necessitatibus expedita non aperiam. Accusamus excepturi odit aspernatur.\nAut voluptatem quis maxime. Distinctio perspiciatis doloremque eos. Voluptas architecto culpa enim nihil.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2020-02-25T19:15:18+00:00"
+  },
+  "description": "Sint ipsum cupiditate non harum eaque. Officia optio beatae inventore porro perferendis. Impedit natus rerum exercitationem quae labore aspernatur pariatur.",
   "id": "UHJvZHVjdDoyODA=",
   "images": [
     {
       "alt": "",
-      "url": "products/OwzcwxrkAOKzQcBI.png"
+      "url": "products/TxPwkUlvNtYbsjyM.png"
     },
     {
       "alt": "",
-      "url": "products/BHOGMFGISdcakkrc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KyIlrJeTuoxAfdDN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tdiqljghhmjqpSAR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zECahCNsJrjrdLCv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HikCttWmMLlsFWgS.png"
+      "url": "products/irRjjEtaAiSxraNZ.png"
     }
   ],
-  "name": "Consequatur tenetur.",
+  "name": "Consectetur sint fugit.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "26.49",
+          "amount": "11.46",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "11.46",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "26.49",
+          "amount": "11.46",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "11.46",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Sylvie",
-      "lastName": "Beguin"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTY="
+  "producer": {
+    "firstName": "François",
+    "lastName": "Chatriand"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/OwzcwxrkAOKzQcBI-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "11.46",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "11.46",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTQ3Mw==",
+      "costPrice": {
+        "amount": "98.72",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTQ1MA==",
       "isAvailable": true,
-      "name": "55cm x 55cm",
-      "stockQuantity": 581
+      "name": "500ml",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "11.46",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "11.46",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "111658480",
+      "stockQuantity": 409
     }
   ]
 }

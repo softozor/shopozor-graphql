@@ -1,68 +1,114 @@
 {
-  "description": "Suscipit numquam enim ipsum. Sapiente quas hic aut necessitatibus excepturi enim. Consequatur neque rem facilis ad ab soluta tempore.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2019-10-19T09:26:42+00:00"
+  },
+  "description": "Reprehenderit soluta aperiam aliquam aperiam. Repellat error a adipisci repudiandae non laudantium quisquam.\nEsse tempora magnam neque omnis impedit. Voluptatem iure cupiditate.",
   "id": "UHJvZHVjdDoxNDI=",
   "images": [
     {
       "alt": "",
-      "url": "products/RLBeGJrYSrUNSzkh.png"
+      "url": "products/VRJdEUcpnaCoZDrS.png"
     },
     {
       "alt": "",
-      "url": "products/ieaYSsfVCvaLDvTj.png"
+      "url": "products/dxoaykoTmdpfpZgq.png"
     },
     {
       "alt": "",
-      "url": "products/BuprBuaFdsrLLWHK.png"
+      "url": "products/GBvEBYeoEBGvXSci.png"
     },
     {
       "alt": "",
-      "url": "products/WocSLdaIxnEanZfn.png"
+      "url": "products/ssofHhXNHCEBBhcK.png"
     },
     {
       "alt": "",
-      "url": "products/UCMJfTrshAXXpkfQ.png"
+      "url": "products/vmVjSezXNqTKaUew.png"
     },
     {
       "alt": "",
-      "url": "products/KRARPSqaBtigLqJc.png"
+      "url": "products/BEYFSpNutNGEFGmG.png"
+    },
+    {
+      "alt": "",
+      "url": "products/QrntzZFnbURJsNUk.png"
     }
   ],
-  "name": "Minus sint maxime repellendus.",
+  "name": "Atque adipisci.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "2.33",
+          "amount": "64.87",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "64.87",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "2.33",
+          "amount": "64.87",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "64.87",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Léo",
-      "lastName": "Treboux"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NDE="
+  "producer": {
+    "firstName": "Romain",
+    "lastName": "Monnet"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/RLBeGJrYSrUNSzkh-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "64.87",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "64.87",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDg3",
+      "costPrice": {
+        "amount": "26.72",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6NDY1",
       "isAvailable": true,
-      "name": "200g",
-      "stockQuantity": 125
+      "name": "100g",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "64.87",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "64.87",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "284136347",
+      "stockQuantity": 291
     }
   ]
 }

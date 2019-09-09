@@ -1,76 +1,110 @@
 {
-  "description": "Mollitia maxime facere sed quidem expedita qui.\nEaque adipisci ratione delectus. Adipisci inventore explicabo sed eaque. Quos adipisci sit magni assumenda nisi quod.",
+  "conservation": {
+    "mode": "au frigo",
+    "until": "2020-02-21T05:34:22+00:00"
+  },
+  "description": "Odit consequuntur sunt corporis tempore impedit hic. Corporis fuga molestiae in.\nConsequuntur quis natus autem. Sequi laborum nihil. Impedit vel quam iste maxime nihil fugit.",
   "id": "UHJvZHVjdDoxMDU=",
   "images": [
     {
       "alt": "",
-      "url": "products/KVaoBWNWxgVWpGUn.png"
+      "url": "products/ddjQWPYoFXQwnJMH.png"
     },
     {
       "alt": "",
-      "url": "products/nbNNCoxHvCMMbXoY.png"
+      "url": "products/wcpRlQMIuedDyrJL.png"
     },
     {
       "alt": "",
-      "url": "products/KOndmxyqhRKAcKVn.png"
+      "url": "products/zeJaFBxcyoJUufLz.png"
     },
     {
       "alt": "",
-      "url": "products/sTvzIcCxEVvaFUUa.png"
+      "url": "products/wRUaTTSFNqpvNucG.png"
     },
     {
       "alt": "",
-      "url": "products/BesxlIPsZclQeUDm.png"
+      "url": "products/ETMfhzWsqTPKpXwR.png"
     },
     {
       "alt": "",
-      "url": "products/hrmMCxDdWCpDEONJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lmPNKctDOjCKYDQS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rReHGoOyBWWAfHOk.png"
+      "url": "products/TwjFpypfRMKsiKMT.png"
     }
   ],
-  "name": "Provident maxime voluptatum maxime.",
+  "name": "Fugiat magnam.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "36.93",
+          "amount": "97.8",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "97.8",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "36.93",
+          "amount": "97.8",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "97.8",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Luca",
-      "lastName": "Fonjallaz"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NjQ="
+  "producer": {
+    "firstName": "Patricia",
+    "lastName": "Rosselet"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/KVaoBWNWxgVWpGUn-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "97.8",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "97.8",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzY5",
+      "costPrice": {
+        "amount": "54.38",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MzUy",
       "isAvailable": true,
-      "name": "2.5l",
-      "stockQuantity": 318
+      "name": "2l",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "97.8",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "97.8",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "290481928",
+      "stockQuantity": 732
     }
   ]
 }

@@ -1,12 +1,710 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTcw",
+            "name": "Quasi hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.05",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "24.05",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/DwCIDmtTokVsecWA-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYxNTA=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 714
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTcw",
+            "name": "Quasi hic.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "71.88",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "71.88",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTAw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/DwCIDmtTokVsecWA-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYxNTE=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 152
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMTk=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 33
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "62.76",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "62.76",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjA=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 70
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjE=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 112
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjI=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 126
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "69.72",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "69.72",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjM=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 435
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.27",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.27",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjQ=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 15
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "30.9",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "30.9",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjU=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 17
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTQz",
+            "name": "Id accusamus dolorem.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.84",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTg="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PGSkPnOGKoltLBpV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjEwMjY=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 386
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Mjg0",
+            "name": "Id non.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "94.58",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "94.58",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/dFDXNtCEavfxLolE-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE2OTY=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 116
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Mjg0",
+            "name": "Id non.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.43",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.43",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/dFDXNtCEavfxLolE-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE2OTc=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 314
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Mjg0",
+            "name": "Id non.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.43",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.43",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Henri",
+              "lastName": "Beurret"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/dFDXNtCEavfxLolE-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE2OTg=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 614
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTUw",
+            "name": "Maxime nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.5",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.5",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kkIFaGQefNoZHsRR-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjUwNzg=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 349
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTUw",
+            "name": "Maxime nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "34.52",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "34.52",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kkIFaGQefNoZHsRR-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjUwNzk=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 460
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTUw",
+            "name": "Maxime nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "10.51",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "10.51",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kkIFaGQefNoZHsRR-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjUwODA=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 236
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTUw",
+            "name": "Maxime nisi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "10.51",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "10.51",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6OTk="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kkIFaGQefNoZHsRR-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjUwODE=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 187
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE2",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 17
     }
   }
 }

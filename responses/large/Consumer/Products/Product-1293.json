@@ -1,72 +1,110 @@
 {
-  "description": "Beatae a necessitatibus veritatis. Eos ea dolorem commodi dolorem dolores. Eaque esse quam rem a itaque nostrum.\nQuis fugit iure adipisci. Dolor eius iste sapiente aliquid esse ab quas.",
+  "conservation": {
+    "mode": "au frigo",
+    "until": "2020-06-10T08:36:14+00:00"
+  },
+  "description": "Doloremque commodi sunt tempore fuga. In culpa molestias enim numquam voluptate facere earum. Laboriosam et voluptatibus nam expedita illum fugit iusto.",
   "id": "UHJvZHVjdDoxMjkz",
   "images": [
     {
       "alt": "",
-      "url": "products/sdeErIJDQTkWySFo.png"
+      "url": "products/pGkQxosERkgTJBcI.png"
     },
     {
       "alt": "",
-      "url": "products/JLKlKohqOgXvfTKr.png"
+      "url": "products/FhmrUAFtmsHsCVOT.png"
     },
     {
       "alt": "",
-      "url": "products/sMrgGINZAAOsAUrm.png"
+      "url": "products/VnjNBSsoHhuoXYug.png"
     },
     {
       "alt": "",
-      "url": "products/izFdXrOWTYbMMxTc.png"
+      "url": "products/oRbTDuqWpxyzCqnk.png"
     },
     {
       "alt": "",
-      "url": "products/clTUouQbZunpnBfd.png"
+      "url": "products/hdepnRtMPNWPZXiT.png"
     },
     {
       "alt": "",
-      "url": "products/mvuAEEHlyraCKJgo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/szxlkLCJxscSobyb.png"
+      "url": "products/HdxcRZfjHrDgkrOy.png"
     }
   ],
-  "name": "Aspernatur ea eius.",
+  "name": "Adipisci ratione vero.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "28.27",
+          "amount": "82.32",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "82.32",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "28.27",
+          "amount": "82.32",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "82.32",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Elisabeth",
-      "lastName": "Barbey"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTI="
+  "producer": {
+    "firstName": "Madeleine",
+    "lastName": "Corbat"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/sdeErIJDQTkWySFo-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "82.32",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "82.32",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjU2NA==",
+      "costPrice": {
+        "amount": "67.41",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6NjU3Nw==",
       "isAvailable": true,
-      "name": "1l",
-      "stockQuantity": 134
+      "name": "L",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "82.32",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "82.32",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "976752256",
+      "stockQuantity": 243
     }
   ]
 }

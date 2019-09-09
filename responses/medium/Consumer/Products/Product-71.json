@@ -1,84 +1,114 @@
 {
-  "description": "Quis aliquid reprehenderit doloremque voluptates. Consequuntur architecto fuga soluta inventore accusantium. Error quia neque alias fugit molestiae quis. Quo officiis voluptate cum unde non vel.",
+  "conservation": {
+    "mode": "à température ambiante",
+    "until": "2020-07-02T13:29:50+00:00"
+  },
+  "description": "Assumenda magni possimus numquam totam sunt at. Quia eaque libero dolore fugiat molestiae. Quod atque ipsa praesentium animi maiores.",
   "id": "UHJvZHVjdDo3MQ==",
   "images": [
     {
       "alt": "",
-      "url": "products/vRSDARRLLZVFDzdG.png"
+      "url": "products/NBVWoyVnFvVekIWw.png"
     },
     {
       "alt": "",
-      "url": "products/yBgpPZAHiawodZhf.png"
+      "url": "products/SoEBgMYVTNZSMzii.png"
     },
     {
       "alt": "",
-      "url": "products/GhsIbrVxZaTaIMxI.png"
+      "url": "products/OgJKgdQbJbxsQDFi.png"
     },
     {
       "alt": "",
-      "url": "products/ScZEOVotJdMjbKot.png"
+      "url": "products/ZcBmnRkyjbOVnnXw.png"
     },
     {
       "alt": "",
-      "url": "products/lAOrECHcJjzyfRaK.png"
+      "url": "products/oNKndoQxbpspxtip.png"
     },
     {
       "alt": "",
-      "url": "products/EHGcEneYHGfswZzz.png"
+      "url": "products/auuuKvGsDYCwOxDv.png"
     },
     {
       "alt": "",
-      "url": "products/QPMZvniJClEfrpUt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yzpjbhudwgHVFlmr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ozHwDnKirxmkBEKj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IYSeMTiQLfSYsPKT.png"
+      "url": "products/IGARlSZPRXePlNjH.png"
     }
   ],
-  "name": "Excepturi esse.",
+  "name": "Laborum iure.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "68.75",
+          "amount": "82.5",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "82.5",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "68.75",
+          "amount": "82.5",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "82.5",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Léo",
-      "lastName": "Treboux"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTEw"
+  "producer": {
+    "firstName": "Elisa",
+    "lastName": "de Dardel"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/vRSDARRLLZVFDzdG-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "82.5",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "82.5",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjY2",
+      "costPrice": {
+        "amount": "60.18",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MjUy",
       "isAvailable": true,
-      "name": "M",
-      "stockQuantity": 170
+      "name": "500ml",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "82.5",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "82.5",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "885066144",
+      "stockQuantity": 377
     }
   ]
 }

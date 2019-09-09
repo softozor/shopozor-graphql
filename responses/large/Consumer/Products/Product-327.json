@@ -1,52 +1,118 @@
 {
-  "description": "Velit quae in. Magni omnis neque ipsam ratione soluta assumenda.\nAd veniam architecto nam consectetur officia. Doloremque molestiae perferendis assumenda veritatis necessitatibus enim.",
+  "conservation": {
+    "mode": "au frigo",
+    "until": "2020-06-22T01:09:55+00:00"
+  },
+  "description": "Neque corporis eum impedit minus. Neque magni molestiae sed quidem. Voluptatum animi eos.\nIn laborum maiores quae. Deleniti velit dolore maiores qui adipisci.",
   "id": "UHJvZHVjdDozMjc=",
   "images": [
     {
       "alt": "",
-      "url": "products/VeAxPmVFMxSdfMmE.png"
+      "url": "products/etDLiTAQAMEHTVfP.png"
     },
     {
       "alt": "",
-      "url": "products/PQKUZqfofhHSMPbb.png"
+      "url": "products/xTVnlwKmkbBRCKOA.png"
+    },
+    {
+      "alt": "",
+      "url": "products/zFwoVzNjyAJfcFlS.png"
+    },
+    {
+      "alt": "",
+      "url": "products/tMTRagYfvClZACpY.png"
+    },
+    {
+      "alt": "",
+      "url": "products/LQOUnpIOQBIOWneC.png"
+    },
+    {
+      "alt": "",
+      "url": "products/CGAFypNpogdieBhF.png"
+    },
+    {
+      "alt": "",
+      "url": "products/mpBoWemdizpQqWNW.png"
+    },
+    {
+      "alt": "",
+      "url": "products/NKemAxlmmwbQcMom.png"
     }
   ],
-  "name": "Delectus rerum.",
+  "name": "Facilis quia excepturi.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "69.27",
+          "amount": "87.75",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "87.75",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "69.27",
+          "amount": "87.75",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "87.75",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Elisabeth",
-      "lastName": "Barbey"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6OTg="
+  "producer": {
+    "firstName": "Elisa",
+    "lastName": "Cossy"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/VeAxPmVFMxSdfMmE-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "87.75",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "87.75",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc0MA==",
+      "costPrice": {
+        "amount": "60.58",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTcwNQ==",
       "isAvailable": true,
-      "name": "1l",
-      "stockQuantity": 64
+      "name": "2.5l",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "87.75",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "87.75",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "128084282",
+      "stockQuantity": 160
     }
   ]
 }

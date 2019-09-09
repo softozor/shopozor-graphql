@@ -1,12 +1,915 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1MjI=",
+            "name": "Quae saepe.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "2.73",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.73",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kYxhFYYMLBPgaRxL-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjczOQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 136
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Mjk=",
+            "name": "Voluptates.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "92.5",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "92.5",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/hweiwIlmHJGCtmrc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4NA==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 153
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Mjk=",
+            "name": "Voluptates.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "0.95",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "0.95",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/hweiwIlmHJGCtmrc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4NQ==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 364
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Mjk=",
+            "name": "Voluptates.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "71.66",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "71.66",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/hweiwIlmHJGCtmrc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4Ng==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 722
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Mjk=",
+            "name": "Voluptates.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "52.03",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "52.03",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/hweiwIlmHJGCtmrc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4Nw==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 322
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Mjk=",
+            "name": "Voluptates.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "5.04",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "5.04",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjU="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/hweiwIlmHJGCtmrc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4OA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 38
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTE3",
+            "name": "Iusto laboriosam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "19.48",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "19.48",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/sWdOIdiORaJaqajO-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4NDc=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 152
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTE3",
+            "name": "Iusto laboriosam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "63.38",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "63.38",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/sWdOIdiORaJaqajO-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4NDg=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 87
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMTE3",
+            "name": "Iusto laboriosam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "25.5",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "25.5",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurent",
+              "lastName": "Bugnon"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/sWdOIdiORaJaqajO-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTU4NDk=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 237
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "12.68",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "12.68",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODA=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 127
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODE=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 305
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODI=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 225
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODM=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 52
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODQ=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 11
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "47.02",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "47.02",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODU=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 674
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODY=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 11
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDYx",
+            "name": "Temporibus mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "33.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "lastName": "Deladoëy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjI="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1ODc=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 311
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDY3",
+            "name": "Accusantium ad possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "29.44",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "29.44",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JcHoYnKMqBcENxSJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NDY=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 306
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDY3",
+            "name": "Accusantium ad possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "41.73",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "41.73",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JcHoYnKMqBcENxSJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NDc=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 110
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDY3",
+            "name": "Accusantium ad possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "12.05",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "12.05",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JcHoYnKMqBcENxSJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NDg=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 82
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDY3",
+            "name": "Accusantium ad possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "32.53",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "32.53",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JcHoYnKMqBcENxSJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NDk=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 90
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDY3",
+            "name": "Accusantium ad possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "32.53",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "32.53",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "lastName": "Beguin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NjQ="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JcHoYnKMqBcENxSJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NTA=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 5
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjIx",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 22
     }
   }
 }

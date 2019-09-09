@@ -1,68 +1,90 @@
 {
-  "description": "Ullam quas nobis similique nulla facere. Quibusdam aliquid hic. Sint aspernatur officiis voluptas alias tempora nesciunt.",
+  "conservation": {
+    "mode": "à température ambiante",
+    "until": "2020-05-27T23:26:01+00:00"
+  },
+  "description": "Veniam aliquid odio exercitationem consequatur similique. In perspiciatis perspiciatis libero repudiandae ab corrupti vitae. Voluptas fugit debitis tempora saepe inventore cum hic.",
   "id": "UHJvZHVjdDozNDUx",
   "images": [
     {
       "alt": "",
-      "url": "products/tSbhjgurcqyeBfaE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BvbwezUwXhtiZoue.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qGpHEhjrExdpABRS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EEfFgwXqGAyoVIYf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AOdZcfYEhTjCrCyv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RvbPlUQFzxcLczsp.png"
+      "url": "products/DbMAZWhkNiGoLKQG.png"
     }
   ],
-  "name": "Dolorem explicabo ut.",
+  "name": "Ipsum quo.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "18.03",
+          "amount": "95.59",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "95.59",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "18.03",
+          "amount": "95.59",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "95.59",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Laurent",
-      "lastName": "Carraud"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6MTA0"
+  "producer": {
+    "firstName": "Samuel",
+    "lastName": "Duvanel"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/tSbhjgurcqyeBfaE-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "95.59",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "95.59",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
+      "costPrice": {
+        "amount": "71.93",
+        "currency": "CHF"
+      },
       "id": "UHJvZHVjdFZhcmlhbnQ6MTc1Mjc=",
       "isAvailable": true,
-      "name": "2l",
-      "stockQuantity": 103
+      "name": "250ml",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "95.59",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "95.59",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "493823938",
+      "stockQuantity": 507
     }
   ]
 }

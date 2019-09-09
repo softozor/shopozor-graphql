@@ -1,12 +1,1284 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzY0",
+            "name": "Ducimus molestiae cupiditate.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.58",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.58",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/AeMhUncGZPrAxDtz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkyNw==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 84
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzY0",
+            "name": "Ducimus molestiae cupiditate.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "46.45",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "46.45",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/AeMhUncGZPrAxDtz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkyOA==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 188
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzY0",
+            "name": "Ducimus molestiae cupiditate.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "47.35",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "47.35",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/AeMhUncGZPrAxDtz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkyOQ==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 21
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA0NQ==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 460
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "8.76",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "8.76",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA0Ng==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 609
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "63.93",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "63.93",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA0Nw==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 276
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA0OA==",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 83
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "64.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "64.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA0OQ==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 616
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "72.47",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "72.47",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA1MA==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 198
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA1MQ==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 376
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA1Mg==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 250
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjAw",
+            "name": "Ex ex facilis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.6",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA5"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RNtndeyONexvXEcS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA1Mw==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 64
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjUx",
+            "name": "Hic aspernatur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "30.26",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "30.26",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IXjMesimYqWzZOnv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NTc=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 184
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjUx",
+            "name": "Hic aspernatur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "89.93",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "89.93",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IXjMesimYqWzZOnv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NTg=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 185
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjUx",
+            "name": "Hic aspernatur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "89.93",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "89.93",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "lastName": "Joye"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IXjMesimYqWzZOnv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NTk=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 31
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTQx",
+            "name": "Hic dolorum unde.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RuyYcbuRfKhHPvWK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMjQ=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 38
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTQx",
+            "name": "Hic dolorum unde.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "95.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "95.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RuyYcbuRfKhHPvWK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMjU=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 120
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTQx",
+            "name": "Hic dolorum unde.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RuyYcbuRfKhHPvWK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMjY=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 117
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTQx",
+            "name": "Hic dolorum unde.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "71.74",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "71.74",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RuyYcbuRfKhHPvWK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMjc=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 8
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTQx",
+            "name": "Hic dolorum unde.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RuyYcbuRfKhHPvWK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMjg=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 282
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozOTQx",
+            "name": "Hic dolorum unde.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "lastName": "Comman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA4"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/RuyYcbuRfKhHPvWK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMjk=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 164
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjAz",
+            "name": "Inventore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "95.33",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "95.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicole",
+              "lastName": "Paccot"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA3"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CNJEPeHesBKimyWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMzMzA=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 158
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjAz",
+            "name": "Inventore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "95.33",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "95.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicole",
+              "lastName": "Paccot"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA3"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CNJEPeHesBKimyWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMzMzE=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 524
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjAz",
+            "name": "Inventore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "95.33",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "95.33",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicole",
+              "lastName": "Paccot"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA3"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CNJEPeHesBKimyWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMzMzI=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 836
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjAz",
+            "name": "Inventore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "8.87",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "8.87",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicole",
+              "lastName": "Paccot"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA3"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CNJEPeHesBKimyWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMzMzM=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 122
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjAz",
+            "name": "Inventore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "54.0",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "54.0",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicole",
+              "lastName": "Paccot"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA3"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CNJEPeHesBKimyWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMzMzQ=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 125
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjAz",
+            "name": "Inventore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "4.55",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "4.55",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicole",
+              "lastName": "Paccot"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTA3"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CNJEPeHesBKimyWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMzMzU=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 383
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjMy",
+            "name": "Laborum incidunt assumenda animi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "92.22",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "92.22",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "lastName": "Duvanel"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CWMmEPvKlvBxzzwy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0OTQ=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 72
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjMy",
+            "name": "Laborum incidunt assumenda animi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "92.22",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "92.22",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "lastName": "Duvanel"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CWMmEPvKlvBxzzwy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0OTU=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 593
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjMy",
+            "name": "Laborum incidunt assumenda animi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "92.22",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "92.22",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "lastName": "Duvanel"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CWMmEPvKlvBxzzwy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0OTY=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 553
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjMy",
+            "name": "Laborum incidunt assumenda animi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "42.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "42.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "lastName": "Duvanel"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTEw"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CWMmEPvKlvBxzzwy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0OTc=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 122
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjMw",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 31
     }
   }
 }

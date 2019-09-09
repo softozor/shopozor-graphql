@@ -1,60 +1,106 @@
 {
-  "description": "Corporis magni rerum dolorum perspiciatis nihil quo. Illum neque ducimus vitae. Adipisci repellat distinctio excepturi numquam explicabo necessitatibus.",
+  "conservation": {
+    "mode": "à la cave",
+    "until": "2019-09-24T14:04:24+00:00"
+  },
+  "description": "Molestias deleniti quasi consequatur aliquid. Quisquam aut aliquid harum voluptatum vero.\nQuos natus exercitationem non. Id facilis laudantium dolor. Quasi voluptates asperiores.",
   "id": "UHJvZHVjdDo0NjM1",
   "images": [
     {
       "alt": "",
-      "url": "products/bIiRsRZVKSXRKInz.png"
+      "url": "products/YKkTPcwESZEtvdGp.png"
     },
     {
       "alt": "",
-      "url": "products/VugJGoiAHhZvKKTt.png"
+      "url": "products/uqPBeXnLQbOinyZL.png"
     },
     {
       "alt": "",
-      "url": "products/zgqyMmgythhnObwj.png"
+      "url": "products/kYZLVNpqvXekEnPM.png"
     },
     {
       "alt": "",
-      "url": "products/WfyShgTpEtNNiqxA.png"
+      "url": "products/mpdXFQvceZPUtuMb.png"
+    },
+    {
+      "alt": "",
+      "url": "products/QbehAoWhqLBfkTmZ.png"
     }
   ],
-  "name": "Quidem tempore.",
+  "name": "Libero asperiores.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "99.04",
+          "amount": "66.05",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "66.05",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "99.04",
+          "amount": "66.05",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "66.05",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Ethan",
-      "lastName": "Cattin"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NTg="
+  "producer": {
+    "firstName": "Suzanne",
+    "lastName": "Cossy"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/bIiRsRZVKSXRKInz-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "66.05",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "66.05",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjM0ODg=",
+      "costPrice": {
+        "amount": "24.77",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MjM1MTg=",
       "isAvailable": true,
-      "name": "250g",
-      "stockQuantity": 97
+      "name": "S",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "66.05",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "66.05",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "331205783",
+      "stockQuantity": 117
     }
   ]
 }

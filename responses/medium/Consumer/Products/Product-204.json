@@ -1,72 +1,98 @@
 {
-  "description": "Nulla similique ullam omnis minima sunt harum. Quaerat corporis quis sequi id suscipit. Dolores laborum consequuntur accusantium.\nExpedita ut ut. Quam omnis suscipit impedit ducimus.",
+  "conservation": {
+    "mode": "au frigo",
+    "until": "2020-03-13T19:32:27+00:00"
+  },
+  "description": "Eaque hic impedit. Non atque beatae enim eaque veniam quaerat.\nRerum quia consequatur doloribus id quasi. Sunt hic voluptas cumque ea magni alias.",
   "id": "UHJvZHVjdDoyMDQ=",
   "images": [
     {
       "alt": "",
-      "url": "products/PgxddWtUsDiwznVQ.png"
+      "url": "products/eKfPBgfZxrKfRXHQ.png"
     },
     {
       "alt": "",
-      "url": "products/ndjvoxINLsdmNeEy.png"
+      "url": "products/mIGtdUEOWuAbHlVA.png"
     },
     {
       "alt": "",
-      "url": "products/aMNxpLaQnCIPatEy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MQLGrJqmMLgWyCiJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/obgKEshHHpTKxzBb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EtiafGGBGTYNHuyC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ISHkJNVMWVDuyxov.png"
+      "url": "products/ysqJUZfFsqwzIgxZ.png"
     }
   ],
-  "name": "Cumque libero debitis doloribus.",
+  "name": "Suscipit.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "27.49",
+          "amount": "86.35",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "86.35",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "27.49",
+          "amount": "86.35",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "86.35",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Lisa",
-      "lastName": "Menthonnex"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6OTc="
+  "producer": {
+    "firstName": "Bernard",
+    "lastName": "Barbey"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/PgxddWtUsDiwznVQ-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "86.35",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "86.35",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzAz",
+      "costPrice": {
+        "amount": "20.18",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6Njgw",
       "isAvailable": true,
-      "name": "45cm x 45cm",
-      "stockQuantity": 625
+      "name": "M",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "86.35",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "86.35",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "861657047",
+      "stockQuantity": 0
     }
   ]
 }

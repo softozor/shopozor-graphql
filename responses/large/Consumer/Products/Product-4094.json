@@ -1,68 +1,110 @@
 {
-  "description": "Sit debitis ratione nobis consequatur unde sequi. Ratione quo nisi eum ducimus facilis deleniti. Minus ipsa aliquid debitis ipsa distinctio.",
+  "conservation": {
+    "mode": "à température ambiante",
+    "until": "2020-05-01T08:29:28+00:00"
+  },
+  "description": "Corporis enim delectus aliquid quod tempora quaerat odio.\nCupiditate inventore quam qui. Consequuntur dicta possimus minus libero. Praesentium odit ipsum fuga reprehenderit eos.",
   "id": "UHJvZHVjdDo0MDk0",
   "images": [
     {
       "alt": "",
-      "url": "products/gSSlKcAMbRnqBnld.png"
+      "url": "products/AIjaYiSwYbnlpaQi.png"
     },
     {
       "alt": "",
-      "url": "products/jBZgKEqiUGqXSFSU.png"
+      "url": "products/iOMYDigtddscWTyt.png"
     },
     {
       "alt": "",
-      "url": "products/YGixhHvWkYryvhSB.png"
+      "url": "products/weULmWYEnMMdkBSF.png"
     },
     {
       "alt": "",
-      "url": "products/vtZftJXEKPbxhHfS.png"
+      "url": "products/NRJlfAdHvBEYeFQo.png"
     },
     {
       "alt": "",
-      "url": "products/TxvyfLCwsPaGdkcc.png"
+      "url": "products/MNJzBWxWTTxuQaWt.png"
     },
     {
       "alt": "",
-      "url": "products/kxRUOpvxdiYSQvNI.png"
+      "url": "products/hdREkaXFxtBmqnfy.png"
     }
   ],
-  "name": "Culpa et.",
+  "name": "Aspernatur soluta dolorem.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "29.54",
+          "amount": "23.33",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "23.33",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "29.54",
+          "amount": "23.33",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "23.33",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Elisabeth",
-      "lastName": "Barbey"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6OTc="
+  "producer": {
+    "firstName": "Jean-Claude",
+    "lastName": "Candaux"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/gSSlKcAMbRnqBnld-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "23.33",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "23.33",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA3Njc=",
+      "costPrice": {
+        "amount": "13.63",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MjA3ODI=",
       "isAvailable": true,
-      "name": "M",
-      "stockQuantity": 227
+      "name": "1kg",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "23.33",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "23.33",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "822250230",
+      "stockQuantity": 223
     }
   ]
 }

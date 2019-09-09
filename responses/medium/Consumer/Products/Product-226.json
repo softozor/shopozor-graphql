@@ -1,72 +1,98 @@
 {
-  "description": "Veniam earum hic facere modi voluptatum. Ipsam exercitationem facilis corrupti ipsum iure saepe. Quibusdam eum accusantium.\nFugit assumenda similique sit ut illum.",
+  "conservation": {
+    "mode": "au congélateur",
+    "until": "2019-09-22T04:54:11+00:00"
+  },
+  "description": "Quisquam reiciendis est sunt quia sed corrupti. Molestias doloribus nisi ex molestiae id harum.\nQuia enim sapiente iusto quo. Asperiores perferendis est adipisci. Totam perspiciatis ipsum ipsum.",
   "id": "UHJvZHVjdDoyMjY=",
   "images": [
     {
       "alt": "",
-      "url": "products/CxwoXTObVEaRnGYD.png"
+      "url": "products/RREGanjUsshOhfEd.png"
     },
     {
       "alt": "",
-      "url": "products/wxJfQtUxvTNmkJhD.png"
+      "url": "products/YdWnOlrFLBBixhLp.png"
     },
     {
       "alt": "",
-      "url": "products/GGzYIGlmHLTJGVQP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uFoIANcaxvPHlNYk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pdKdWQsfdcpzooeH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sdPbjcTzVfsIigpA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ORecbaKNuADMwqQV.png"
+      "url": "products/yWMovClNZTujPxLq.png"
     }
   ],
-  "name": "Ipsa est.",
+  "name": "Facere ipsa.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "25.65",
+          "amount": "95.16",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "95.16",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "25.65",
+          "amount": "95.16",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "95.16",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Patricia",
-      "lastName": "Rosselet"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6Njk="
+  "producer": {
+    "firstName": "Patricia",
+    "lastName": "Rosselet"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/CxwoXTObVEaRnGYD-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "95.16",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "95.16",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzY5",
+      "costPrice": {
+        "amount": "37.24",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6NzU5",
       "isAvailable": true,
-      "name": "1l",
-      "stockQuantity": 336
+      "name": "XS",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "95.16",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "95.16",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "933175317",
+      "stockQuantity": 142
     }
   ]
 }

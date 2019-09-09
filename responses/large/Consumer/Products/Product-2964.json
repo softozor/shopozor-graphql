@@ -1,64 +1,106 @@
 {
-  "description": "Facere soluta consectetur vitae nihil ea magni. At dignissimos nisi consequatur unde. Dolore eius atque illum.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2019-10-16T09:52:06+00:00"
+  },
+  "description": "Corrupti repellat doloremque expedita neque. Provident totam inventore.\nAdipisci debitis libero totam. Qui perferendis cupiditate accusantium ullam illum fugiat.",
   "id": "UHJvZHVjdDoyOTY0",
   "images": [
     {
       "alt": "",
-      "url": "products/yYyfJpEGIspTMxhb.png"
+      "url": "products/zJVvOGFdsdMkCOoK.png"
     },
     {
       "alt": "",
-      "url": "products/nkFWxckTzdQHuZvK.png"
+      "url": "products/wHQkzgQqbWfCvcSd.png"
     },
     {
       "alt": "",
-      "url": "products/CDuiptPVuCoAloDQ.png"
+      "url": "products/uEmPjurwiZIlDFpH.png"
     },
     {
       "alt": "",
-      "url": "products/fcHfQNBkWBOBLtMp.png"
+      "url": "products/dvkaSKxqJZbTKUvN.png"
     },
     {
       "alt": "",
-      "url": "products/UYlmhlyjHnYZENhe.png"
+      "url": "products/jzGqSmSJBbmImJOB.png"
     }
   ],
-  "name": "Ad maxime tempore.",
+  "name": "Accusantium.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "64.09",
+          "amount": "12.15",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "12.15",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "64.09",
+          "amount": "12.15",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "12.15",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "François",
-      "lastName": "Chatriand"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NjY="
+  "producer": {
+    "firstName": "Claudine",
+    "lastName": "Francillon"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/yYyfJpEGIspTMxhb-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "12.15",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "12.15",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTUxMDc=",
+      "costPrice": {
+        "amount": "44.62",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTUxMjc=",
       "isAvailable": true,
-      "name": "2l",
-      "stockQuantity": 32
+      "name": "S",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "12.15",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "12.15",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "917140814",
+      "stockQuantity": 301
     }
   ]
 }

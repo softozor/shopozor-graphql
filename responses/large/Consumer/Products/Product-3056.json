@@ -1,64 +1,85 @@
 {
-  "description": "Dolorum commodi facilis ducimus. Qui modi praesentium. Perspiciatis sed quasi in error assumenda.\nEx suscipit impedit distinctio vel. Quaerat asperiores commodi quibusdam natus.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2020-01-01T00:19:34+00:00"
+  },
+  "description": "Deleniti nulla similique. Aliquam nihil eum rerum repellendus. Rerum dolorem sed nostrum tempora natus.",
   "id": "UHJvZHVjdDozMDU2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/QwVUQorJokaLYRmB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iOUPxtSiZajJocgR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jnVNNUEbmxjGShYH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mnsoGIICkaTGFnjm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NHycnFxuqhCAniPO.png"
-    }
-  ],
-  "name": "Autem omnis nemo.",
+  "images": [],
+  "name": "Eveniet ex.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "21.97",
+          "amount": "30.36",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "30.36",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "21.97",
+          "amount": "30.36",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "30.36",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Yvonne",
-      "lastName": "Chappuis"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NzE="
+  "producer": {
+    "firstName": "Georgette",
+    "lastName": "Carraud"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/QwVUQorJokaLYRmB-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "30.36",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "30.36",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTU1MjQ=",
+      "costPrice": {
+        "amount": "43.23",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTU1NjA=",
       "isAvailable": true,
-      "name": "2.5l",
-      "stockQuantity": 60
+      "name": "45cm x 45cm",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "30.36",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "30.36",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "954828378",
+      "stockQuantity": 654
     }
   ]
 }

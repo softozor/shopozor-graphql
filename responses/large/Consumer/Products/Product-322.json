@@ -1,72 +1,126 @@
 {
-  "description": "Inventore dolores assumenda saepe. Neque libero quis incidunt. Eligendi exercitationem deserunt voluptatem sed commodi ex. Inventore occaecati minus beatae.",
+  "conservation": {
+    "mode": "au frigo",
+    "until": "2019-10-24T09:07:03+00:00"
+  },
+  "description": "Excepturi mollitia animi amet quo eos. Ullam eveniet voluptatum iste amet. Quidem impedit alias laudantium necessitatibus ut accusamus. Nisi quod nostrum praesentium fugiat animi sint.",
   "id": "UHJvZHVjdDozMjI=",
   "images": [
     {
       "alt": "",
-      "url": "products/QcdESPQpalfQEwgf.png"
+      "url": "products/dLdbhMpfhClISmDL.png"
     },
     {
       "alt": "",
-      "url": "products/xjhFTVFjDQJdTOGX.png"
+      "url": "products/YzQIhiqXIrmTBHHd.png"
     },
     {
       "alt": "",
-      "url": "products/iQatfCkSPHgzzpwz.png"
+      "url": "products/rBKhByIwaKGRhUxb.png"
     },
     {
       "alt": "",
-      "url": "products/fDDWKUQGBVyNGBCO.png"
+      "url": "products/gggfTLWlUstFDYJx.png"
     },
     {
       "alt": "",
-      "url": "products/QKGQIzsQHOmcgZjb.png"
+      "url": "products/FzNgiotJAlpTlxvE.png"
     },
     {
       "alt": "",
-      "url": "products/aRxsIaDxhEVoZjDs.png"
+      "url": "products/nPopoffUMKsJmUbk.png"
     },
     {
       "alt": "",
-      "url": "products/dTTlYFjmUBcBQLNu.png"
+      "url": "products/HDfFvgeDmIbZVhbB.png"
+    },
+    {
+      "alt": "",
+      "url": "products/xODDIzaQdjPaMXGv.png"
+    },
+    {
+      "alt": "",
+      "url": "products/mAFAZMLyJSaAzLLL.png"
+    },
+    {
+      "alt": "",
+      "url": "products/hdvQLCRNTAzHIpZG.png"
     }
   ],
-  "name": "Aliquid provident.",
+  "name": "Sed possimus doloremque.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "46.81",
+          "amount": "59.63",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "59.63",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "46.81",
+          "amount": "59.63",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "59.63",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Laurent",
-      "lastName": "Bugnon"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NDU="
+  "producer": {
+    "firstName": "Elisabeth",
+    "lastName": "Beguin"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/QcdESPQpalfQEwgf-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "59.63",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "59.63",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTY5OA==",
+      "costPrice": {
+        "amount": "9.24",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTY4Nw==",
       "isAvailable": true,
-      "name": "XL",
-      "stockQuantity": 471
+      "name": "250g",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "59.63",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "59.63",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "276982372",
+      "stockQuantity": 131
     }
   ]
 }

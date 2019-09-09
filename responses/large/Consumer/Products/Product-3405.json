@@ -1,52 +1,85 @@
 {
-  "description": "Similique ex id placeat dolor culpa consequuntur sapiente. Nulla molestias iure vitae a recusandae laudantium.",
+  "conservation": {
+    "mode": "au congélateur",
+    "until": "2020-03-29T01:06:59+00:00"
+  },
+  "description": "Accusantium maxime possimus nobis minus dolore veniam culpa.",
   "id": "UHJvZHVjdDozNDA1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/VMZlOlrLHkghjeAX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HpwgyQdnslxJSdfC.png"
-    }
-  ],
-  "name": "Consequatur laboriosam voluptatibus.",
+  "images": [],
+  "name": "Ipsa distinctio.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "5.5",
+          "amount": "5.63",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "5.63",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "5.5",
+          "amount": "5.63",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "5.63",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Patricia",
-      "lastName": "Chapuis"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NDU="
+  "producer": {
+    "firstName": "Patricia",
+    "lastName": "Bonvini"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/VMZlOlrLHkghjeAX-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "5.63",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "5.63",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODc=",
+      "costPrice": {
+        "amount": "34.99",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTcyOTY=",
       "isAvailable": true,
-      "name": "250ml",
-      "stockQuantity": 10
+      "name": "200g",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "5.63",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "5.63",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "540247232",
+      "stockQuantity": 559
     }
   ]
 }

@@ -1,60 +1,90 @@
 {
-  "description": "Atque veniam odio dolore quas ipsa.\nNulla recusandae eos quis eos vitae. Vero dolore voluptates necessitatibus doloremque.",
+  "conservation": {
+    "mode": "au soleil",
+    "until": "2020-08-09T23:05:50+00:00"
+  },
+  "description": "Reprehenderit non nemo quia itaque. Nobis consequatur voluptate voluptate.",
   "id": "UHJvZHVjdDozNTYy",
   "images": [
     {
       "alt": "",
-      "url": "products/fhIIDYXDxQLBypPx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dDdlrpIFVdZkDcgX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/thvnWQqepenyNtoQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ilvrnVEjoEWOdMgb.png"
+      "url": "products/kyHNVCHFGfAJbFnj.png"
     }
   ],
-  "name": "Vitae ad cumque.",
+  "name": "Neque quod nesciunt.",
   "pricing": {
     "priceRange": {
       "start": {
         "gross": {
-          "amount": "92.28",
+          "amount": "40.55",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "40.55",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       },
       "stop": {
         "gross": {
-          "amount": "92.28",
+          "amount": "40.55",
+          "currency": "CHF"
+        },
+        "net": {
+          "amount": "40.55",
+          "currency": "CHF"
+        },
+        "tax": {
+          "amount": 0,
           "currency": "CHF"
         }
       }
     }
   },
-  "producer": [
-    {
-      "firstName": "Emma",
-      "lastName": "Chatriand"
-    }
-  ],
-  "productType": {
-    "id": "UHJvZHVjdFR5cGU6NjY="
+  "producer": {
+    "firstName": "David",
+    "lastName": "Brahier"
   },
-  "thumbnail": {
-    "alt": "",
-    "url": "http://localhost:8000/media/__sized__/products/fhIIDYXDxQLBypPx-thumbnail-500x500.png"
+  "purchaseCost": {
+    "start": {
+      "amount": "40.55",
+      "currency": "CHF"
+    },
+    "stop": {
+      "amount": "40.55",
+      "currency": "CHF"
+    }
   },
   "variants": [
     {
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTgwODY=",
+      "costPrice": {
+        "amount": "73.38",
+        "currency": "CHF"
+      },
+      "id": "UHJvZHVjdFZhcmlhbnQ6MTgwNzE=",
       "isAvailable": true,
-      "name": "S",
-      "stockQuantity": 505
+      "name": "45cm x 45cm",
+      "pricing": {
+        "price": {
+          "gross": {
+            "amount": "40.55",
+            "currency": "CHF"
+          },
+          "net": {
+            "amount": "40.55",
+            "currency": "CHF"
+          },
+          "tax": {
+            "amount": 0,
+            "currency": "CHF"
+          }
+        }
+      },
+      "sku": "591405124",
+      "stockQuantity": 440
     }
   ]
 }
