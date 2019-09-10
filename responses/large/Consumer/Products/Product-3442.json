@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-06-18"
-  },
-  "description": "Doloremque natus aspernatur quos. Numquam officia nisi assumenda. Fugiat ab neque quo odit repellendus neque repellendus.",
-  "id": "UHJvZHVjdDozNDQy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/LiQpopFelHqQrgEA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fYjtyijJsKSlNAtU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yotwmYdnabCzikBU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oqCFfiMoWjAEPWyA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WODAgZnKbtYoZyCC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WPKLNEoBJYHkrgqe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OKeXCIHRMawEQhPa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zQQWOOjlxOcyPrFa.png"
-    }
-  ],
-  "name": "Quasi voluptate.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "51.12",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "51.12",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-06-18"
       },
-      "stop": {
-        "gross": {
-          "amount": "51.12",
-          "currency": "CHF"
+      "description": "Doloremque natus aspernatur quos. Numquam officia nisi assumenda. Fugiat ab neque quo odit repellendus neque repellendus.",
+      "id": "UHJvZHVjdDozNDQy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/LiQpopFelHqQrgEA.png"
         },
-        "net": {
-          "amount": "51.12",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fYjtyijJsKSlNAtU.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/yotwmYdnabCzikBU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oqCFfiMoWjAEPWyA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WODAgZnKbtYoZyCC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WPKLNEoBJYHkrgqe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/OKeXCIHRMawEQhPa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zQQWOOjlxOcyPrFa.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vincent",
-    "id": 1107,
-    "lastName": "Julliard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "23.43",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "23.43",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "23.43",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTcxODY=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Quasi voluptate.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "51.12",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "51.12",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "51.12",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "51.12",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "51.12",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "51.12",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 207
+      "producer": {
+        "firstName": "Vincent",
+        "id": "VXNlcjoxMTA3",
+        "lastName": "Julliard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "23.43",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "23.43",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "23.43",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTcxODY=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "51.12",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "51.12",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 207
+        }
+      ]
     }
-  ]
+  }
 }

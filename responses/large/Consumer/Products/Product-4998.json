@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-05-27"
-  },
-  "description": "Ducimus tempora quod officiis perferendis explicabo. Assumenda voluptate saepe officia in adipisci. Quidem nam ratione provident labore natus commodi.",
-  "id": "UHJvZHVjdDo0OTk4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/nWKPnfPXWwRybRCV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TnXPgJVmoeKPRWUe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qJeIpIDdKIskyFKW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ibrUFXymShcMndBO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rhDDvojIcNtSXlnY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wvfwpSpUWeAUqvKK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EvSxowewwUdzuVua.png"
-    }
-  ],
-  "name": "Beatae odit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "74.83",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "74.83",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-05-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "74.83",
-          "currency": "CHF"
+      "description": "Ducimus tempora quod officiis perferendis explicabo. Assumenda voluptate saepe officia in adipisci. Quidem nam ratione provident labore natus commodi.",
+      "id": "UHJvZHVjdDo0OTk4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/nWKPnfPXWwRybRCV.png"
         },
-        "net": {
-          "amount": "74.83",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/TnXPgJVmoeKPRWUe.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qJeIpIDdKIskyFKW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ibrUFXymShcMndBO.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rhDDvojIcNtSXlnY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/wvfwpSpUWeAUqvKK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/EvSxowewwUdzuVua.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "42.73",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "42.73",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "42.73",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjUxNDM=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Beatae odit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "74.83",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "74.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "74.83",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "74.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 383
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "42.73",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "42.73",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "42.73",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjUxNDM=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "74.83",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "74.83",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 383
+        }
+      ]
     }
-  ]
+  }
 }

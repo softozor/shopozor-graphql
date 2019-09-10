@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-07-21"
-  },
-  "description": "Vel animi totam reprehenderit unde non odit.\nSunt officiis quas omnis. At asperiores impedit animi. In error quasi tempore eos.",
-  "id": "UHJvZHVjdDozOTUx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ixnlZdrnGiHAglUs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mAfmAgEshKPcVSbS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TWhffzrAiuHrhfVK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pXwSeOeHLaifQuwW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vELpFfXHkmcrHLFZ.png"
-    }
-  ],
-  "name": "Odio et nulla.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "44.21",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "44.21",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-07-21"
       },
-      "stop": {
-        "gross": {
-          "amount": "44.21",
-          "currency": "CHF"
+      "description": "Vel animi totam reprehenderit unde non odit.\nSunt officiis quas omnis. At asperiores impedit animi. In error quasi tempore eos.",
+      "id": "UHJvZHVjdDozOTUx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ixnlZdrnGiHAglUs.png"
         },
-        "net": {
-          "amount": "44.21",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mAfmAgEshKPcVSbS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/TWhffzrAiuHrhfVK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pXwSeOeHLaifQuwW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vELpFfXHkmcrHLFZ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Albert",
-    "id": 1029,
-    "lastName": "Cousin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "29.03",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "29.03",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "29.03",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTk4MTg=",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Odio et nulla.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "44.21",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "44.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "44.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "44.21",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "44.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "44.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 174
+      "producer": {
+        "firstName": "Albert",
+        "id": "VXNlcjoxMDI5",
+        "lastName": "Cousin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "29.03",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "29.03",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "29.03",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk4MTg=",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "44.21",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "44.21",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 174
+        }
+      ]
     }
-  ]
+  }
 }

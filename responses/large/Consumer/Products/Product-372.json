@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-12-04"
-  },
-  "description": "Ex odit aspernatur esse odit. Laudantium repudiandae nemo. Ratione magnam numquam ea consequuntur excepturi neque.",
-  "id": "UHJvZHVjdDozNzI=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/YivVitDDtWUWHact.png"
-    },
-    {
-      "alt": "",
-      "url": "products/scHjzcsPgdghYFAl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ACQljqVCfjXNadpy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XCRaHIOyrpBWLfTR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZsKzDviSLsIAbycq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vEtdmIikhMLJkNYN.png"
-    }
-  ],
-  "name": "Similique fugit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "19.68",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "19.68",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-12-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "19.68",
-          "currency": "CHF"
+      "description": "Ex odit aspernatur esse odit. Laudantium repudiandae nemo. Ratione magnam numquam ea consequuntur excepturi neque.",
+      "id": "UHJvZHVjdDozNzI=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/YivVitDDtWUWHact.png"
         },
-        "net": {
-          "amount": "19.68",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/scHjzcsPgdghYFAl.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ACQljqVCfjXNadpy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XCRaHIOyrpBWLfTR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZsKzDviSLsIAbycq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vEtdmIikhMLJkNYN.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lucie",
-    "id": 1031,
-    "lastName": "Beuchat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "14.34",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "14.34",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "14.34",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTkwOQ==",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Similique fugit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "19.68",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "19.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "19.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "19.68",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "19.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "19.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 361
+      "producer": {
+        "firstName": "Lucie",
+        "id": "VXNlcjoxMDMx",
+        "lastName": "Beuchat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "14.34",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "14.34",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "14.34",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTkwOQ==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "19.68",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "19.68",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 361
+        }
+      ]
     }
-  ]
+  }
 }

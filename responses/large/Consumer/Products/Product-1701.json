@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-09-16"
-  },
-  "description": "Facere deleniti facere inventore reprehenderit qui blanditiis omnis.\nQuo deleniti odio aliquam fuga. Suscipit at provident molestias.",
-  "id": "UHJvZHVjdDoxNzAx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GrSLwskwgffnXxve.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PAjCOnHWJAmAAlGA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eBatEgwykxJJtdiF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ttPOOEXLepeVeNyE.png"
-    }
-  ],
-  "name": "Non itaque voluptate.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "66.65",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "66.65",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-09-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "66.65",
-          "currency": "CHF"
+      "description": "Facere deleniti facere inventore reprehenderit qui blanditiis omnis.\nQuo deleniti odio aliquam fuga. Suscipit at provident molestias.",
+      "id": "UHJvZHVjdDoxNzAx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GrSLwskwgffnXxve.png"
         },
-        "net": {
-          "amount": "66.65",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/PAjCOnHWJAmAAlGA.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/eBatEgwykxJJtdiF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ttPOOEXLepeVeNyE.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sara",
-    "id": 1070,
-    "lastName": "Carron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "48.54",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "48.54",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "48.54",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODQ4OA==",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Non itaque voluptate.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "66.65",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "66.65",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.65",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "66.65",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "66.65",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.65",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 586
+      "producer": {
+        "firstName": "Sara",
+        "id": "VXNlcjoxMDcw",
+        "lastName": "Carron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "48.54",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "48.54",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "48.54",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODQ4OA==",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "66.65",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "66.65",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 586
+        }
+      ]
     }
-  ]
+  }
 }

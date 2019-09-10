@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-02-22"
-  },
-  "description": "Necessitatibus repellendus accusantium facilis. Adipisci quibusdam labore dolore rem.\nAliquam tempora expedita ipsam. Voluptas praesentium molestias eos.",
-  "id": "UHJvZHVjdDoxMjMy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/SrGoLWxfOBOTPKjA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fzDfjIJxATEoLggP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kKQZQNynoiljNgqZ.png"
-    }
-  ],
-  "name": "Rem quis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "24.7",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "24.7",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-02-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "24.7",
-          "currency": "CHF"
+      "description": "Necessitatibus repellendus accusantium facilis. Adipisci quibusdam labore dolore rem.\nAliquam tempora expedita ipsam. Voluptas praesentium molestias eos.",
+      "id": "UHJvZHVjdDoxMjMy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/SrGoLWxfOBOTPKjA.png"
         },
-        "net": {
-          "amount": "24.7",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fzDfjIJxATEoLggP.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/kKQZQNynoiljNgqZ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vincent",
-    "id": 1107,
-    "lastName": "Julliard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.85",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.85",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.85",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjE0MQ==",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Rem quis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "24.7",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "24.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "24.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "24.7",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "24.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "24.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 33
+      "producer": {
+        "firstName": "Vincent",
+        "id": "VXNlcjoxMTA3",
+        "lastName": "Julliard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.85",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.85",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.85",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjE0MQ==",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "24.7",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "24.7",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 33
+        }
+      ]
     }
-  ]
+  }
 }

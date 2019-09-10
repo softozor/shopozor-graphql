@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-06-08"
-  },
-  "description": "Perferendis earum aliquid maxime. Impedit neque eligendi hic.\nMinima aliquid consequuntur est architecto accusamus ducimus. Architecto saepe vero ullam. Eligendi itaque optio ea.",
-  "id": "UHJvZHVjdDoxMDY4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/HLnMokCeafqcsgSe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uSMriVxYNqTsOHWR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FYkDslsFYlCPWVtx.png"
-    }
-  ],
-  "name": "Neque veritatis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "7.7",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "7.7",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-06-08"
       },
-      "stop": {
-        "gross": {
-          "amount": "7.7",
-          "currency": "CHF"
+      "description": "Perferendis earum aliquid maxime. Impedit neque eligendi hic.\nMinima aliquid consequuntur est architecto accusamus ducimus. Architecto saepe vero ullam. Eligendi itaque optio ea.",
+      "id": "UHJvZHVjdDoxMDY4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/HLnMokCeafqcsgSe.png"
         },
-        "net": {
-          "amount": "7.7",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/uSMriVxYNqTsOHWR.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/FYkDslsFYlCPWVtx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Manuel",
-    "id": 1106,
-    "lastName": "Rosselat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.59",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.59",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.59",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTM1Mw==",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Neque veritatis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "7.7",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "7.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "7.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "7.7",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "7.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "7.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 326
+      "producer": {
+        "firstName": "Manuel",
+        "id": "VXNlcjoxMTA2",
+        "lastName": "Rosselat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.59",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.59",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.59",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTM1Mw==",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "7.7",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "7.7",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 326
+        }
+      ]
     }
-  ]
+  }
 }

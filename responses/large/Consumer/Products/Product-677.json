@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-08-09"
-  },
-  "description": "Harum doloremque dolore architecto repellat error. Neque iure optio voluptatibus aspernatur tenetur. Corporis nesciunt iure nulla vero quae veritatis praesentium.\nOdio cumque neque.",
-  "id": "UHJvZHVjdDo2Nzc=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/VxHxQYlFkfxRcuBC.png"
-    }
-  ],
-  "name": "Ab nobis ullam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "11.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "11.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-08-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "11.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "11.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Harum doloremque dolore architecto repellat error. Neque iure optio voluptatibus aspernatur tenetur. Corporis nesciunt iure nulla vero quae veritatis praesentium.\nOdio cumque neque.",
+      "id": "UHJvZHVjdDo2Nzc=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/VxHxQYlFkfxRcuBC.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1111,
-    "lastName": "Corbat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.75",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.75",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.75",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzQzNA==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Ab nobis ullam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "11.41",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "11.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "11.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "11.41",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "11.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "11.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 34
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTEx",
+        "lastName": "Corbat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.75",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.75",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.75",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzQzNA==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "11.41",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "11.41",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 34
+        }
+      ]
     }
-  ]
+  }
 }

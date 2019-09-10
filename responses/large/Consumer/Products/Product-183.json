@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-01-27"
-  },
-  "description": "Perferendis nam hic cupiditate nesciunt fuga quidem a. Sapiente ipsam dolore vel quo maxime ipsam incidunt. Rem ipsa perspiciatis sunt nisi explicabo quae dicta.",
-  "id": "UHJvZHVjdDoxODM=",
-  "images": [],
-  "name": "Dolorem praesentium facilis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "96.72",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "96.72",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-01-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "96.72",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "96.72",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Mathilde",
-    "id": 1126,
-    "lastName": "Chevalley"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "6.84",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "6.84",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "6.84",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTY4",
-      "isAvailable": true,
-      "name": "2.5l",
+      "description": "Perferendis nam hic cupiditate nesciunt fuga quidem a. Sapiente ipsam dolore vel quo maxime ipsam incidunt. Rem ipsa perspiciatis sunt nisi explicabo quae dicta.",
+      "id": "UHJvZHVjdDoxODM=",
+      "images": [],
+      "name": "Dolorem praesentium facilis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "96.72",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "96.72",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "96.72",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "96.72",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "96.72",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "96.72",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 700
+      "producer": {
+        "firstName": "Mathilde",
+        "id": "VXNlcjoxMTI2",
+        "lastName": "Chevalley"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "6.84",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "6.84",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "6.84",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTY4",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "96.72",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "96.72",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 700
+        }
+      ]
     }
-  ]
+  }
 }

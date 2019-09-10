@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-07-11"
-  },
-  "description": "Atque doloremque quaerat. Rerum repellat vel praesentium mollitia. Ab accusantium ipsum quibusdam dolor ducimus.",
-  "id": "UHJvZHVjdDozNTQx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/OMgXscrfCrFWCfjl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/puVPpjlXpPUystgK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HrqFNYiZJBrSStcW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cSateIeRPjwxVLga.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VzJYhHTHKHWeAnIq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RuiZOovfdxyZbIxa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qKWaHOHGaGWRFDhS.png"
-    }
-  ],
-  "name": "Corrupti quo quod.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "43.76",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.76",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-07-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "43.76",
-          "currency": "CHF"
+      "description": "Atque doloremque quaerat. Rerum repellat vel praesentium mollitia. Ab accusantium ipsum quibusdam dolor ducimus.",
+      "id": "UHJvZHVjdDozNTQx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/OMgXscrfCrFWCfjl.png"
         },
-        "net": {
-          "amount": "43.76",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/puVPpjlXpPUystgK.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/HrqFNYiZJBrSStcW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cSateIeRPjwxVLga.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VzJYhHTHKHWeAnIq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/RuiZOovfdxyZbIxa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qKWaHOHGaGWRFDhS.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Odette",
-    "id": 1023,
-    "lastName": "Monney"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "15.1",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "15.1",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "15.1",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc3Mjc=",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Corrupti quo quod.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "43.76",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "43.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "43.76",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "43.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 467
+      "producer": {
+        "firstName": "Odette",
+        "id": "VXNlcjoxMDIz",
+        "lastName": "Monney"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "15.1",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "15.1",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "15.1",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc3Mjc=",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "43.76",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "43.76",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 467
+        }
+      ]
     }
-  ]
+  }
 }

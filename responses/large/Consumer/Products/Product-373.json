@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-10-22"
-  },
-  "description": "Quod voluptate commodi cupiditate.\nLaudantium corrupti tempora deserunt nihil placeat minima. Dolore sit aspernatur perspiciatis soluta.",
-  "id": "UHJvZHVjdDozNzM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/QxKeWFTugyFsBorz.png"
-    }
-  ],
-  "name": "Adipisci magnam et.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "59.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "59.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-10-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "59.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "59.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Quod voluptate commodi cupiditate.\nLaudantium corrupti tempora deserunt nihil placeat minima. Dolore sit aspernatur perspiciatis soluta.",
+      "id": "UHJvZHVjdDozNzM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/QxKeWFTugyFsBorz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "30.08",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "30.08",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "30.08",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTkxMQ==",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Adipisci magnam et.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "59.49",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "59.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "59.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "59.49",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "59.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "59.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 152
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "30.08",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "30.08",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "30.08",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTkxMQ==",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "59.49",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "59.49",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 152
+        }
+      ]
     }
-  ]
+  }
 }

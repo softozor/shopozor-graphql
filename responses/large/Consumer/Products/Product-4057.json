@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-03-19"
-  },
-  "description": "Laboriosam quidem numquam tempore quos porro. Id saepe beatae quas asperiores minima dolorum iure. Provident blanditiis maiores temporibus quidem.",
-  "id": "UHJvZHVjdDo0MDU3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/rdKqihNzrIKvlRTt.png"
-    }
-  ],
-  "name": "Repudiandae suscipit explicabo.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "64.27",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.27",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-03-19"
       },
-      "stop": {
-        "gross": {
-          "amount": "64.27",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.27",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Laboriosam quidem numquam tempore quos porro. Id saepe beatae quas asperiores minima dolorum iure. Provident blanditiis maiores temporibus quidem.",
+      "id": "UHJvZHVjdDo0MDU3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/rdKqihNzrIKvlRTt.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Patrick",
-    "id": 1085,
-    "lastName": "Chatriant"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "15.71",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "15.71",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "15.71",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjAzNzg=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Repudiandae suscipit explicabo.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "64.27",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "64.27",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.27",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "64.27",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "64.27",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.27",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 46
+      "producer": {
+        "firstName": "Patrick",
+        "id": "VXNlcjoxMDg1",
+        "lastName": "Chatriant"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "15.71",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "15.71",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "15.71",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjAzNzg=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "64.27",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "64.27",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 46
+        }
+      ]
     }
-  ]
+  }
 }

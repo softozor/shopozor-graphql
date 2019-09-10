@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-10-24"
-  },
-  "description": "In corporis veniam facilis dolore doloribus. Eveniet assumenda minima itaque nam illo. Occaecati necessitatibus magnam.",
-  "id": "UHJvZHVjdDo0Nzg3",
-  "images": [],
-  "name": "Autem illum placeat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "46.44",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "46.44",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-10-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "46.44",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "46.44",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Danielle",
-    "id": 1061,
-    "lastName": "Chaudet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "23.14",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "23.14",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "23.14",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQwNjE=",
-      "isAvailable": true,
-      "name": "250ml",
+      "description": "In corporis veniam facilis dolore doloribus. Eveniet assumenda minima itaque nam illo. Occaecati necessitatibus magnam.",
+      "id": "UHJvZHVjdDo0Nzg3",
+      "images": [],
+      "name": "Autem illum placeat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "46.44",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "46.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "46.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "46.44",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "46.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "46.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 59
+      "producer": {
+        "firstName": "Danielle",
+        "id": "VXNlcjoxMDYx",
+        "lastName": "Chaudet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "23.14",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "23.14",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "23.14",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQwNjE=",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "46.44",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "46.44",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 59
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-11-02"
-  },
-  "description": "Nisi mollitia fugit similique quasi voluptate. Quo ratione nostrum illo iure. Non omnis saepe tenetur.",
-  "id": "UHJvZHVjdDoyMDM4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/gKFYKiNQhyRBBIzT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lzffIBGOpGyBAaxM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LnYqOabbOyPzxuwj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wXcxwSRtmcFBrQEB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WWdiRCvrpAYhOvsu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ULWNlrUbZJqGZUIa.png"
-    }
-  ],
-  "name": "Occaecati facere quasi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "61.25",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "61.25",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-11-02"
       },
-      "stop": {
-        "gross": {
-          "amount": "61.25",
-          "currency": "CHF"
+      "description": "Nisi mollitia fugit similique quasi voluptate. Quo ratione nostrum illo iure. Non omnis saepe tenetur.",
+      "id": "UHJvZHVjdDoyMDM4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/gKFYKiNQhyRBBIzT.png"
         },
-        "net": {
-          "amount": "61.25",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lzffIBGOpGyBAaxM.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/LnYqOabbOyPzxuwj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/wXcxwSRtmcFBrQEB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WWdiRCvrpAYhOvsu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ULWNlrUbZJqGZUIa.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vanessa",
-    "id": 1091,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "23.88",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "23.88",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "23.88",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTAyMjE=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Occaecati facere quasi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "61.25",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "61.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "61.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "61.25",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "61.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "61.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 17
+      "producer": {
+        "firstName": "Vanessa",
+        "id": "VXNlcjoxMDkx",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "23.88",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "23.88",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "23.88",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTAyMjE=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "61.25",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "61.25",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 17
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-03-16"
-  },
-  "description": "Eveniet architecto voluptatibus molestias alias. Perferendis eum distinctio totam aspernatur.",
-  "id": "UHJvZHVjdDozMjQ0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NrXdIyuBesSHlreW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SxSJaurgvWnzwfnJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MaRhwURolELhNLgf.png"
-    }
-  ],
-  "name": "Aspernatur quidem.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "17.7",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "17.7",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-03-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "17.7",
-          "currency": "CHF"
+      "description": "Eveniet architecto voluptatibus molestias alias. Perferendis eum distinctio totam aspernatur.",
+      "id": "UHJvZHVjdDozMjQ0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NrXdIyuBesSHlreW.png"
         },
-        "net": {
-          "amount": "17.7",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SxSJaurgvWnzwfnJ.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/MaRhwURolELhNLgf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Odette",
-    "id": 1023,
-    "lastName": "Monney"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "13.47",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "13.47",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "13.47",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTYxNDE=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Aspernatur quidem.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "17.7",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "17.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "17.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "17.7",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "17.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "17.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 183
+      "producer": {
+        "firstName": "Odette",
+        "id": "VXNlcjoxMDIz",
+        "lastName": "Monney"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "13.47",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "13.47",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "13.47",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTYxNDE=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "17.7",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "17.7",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 183
+        }
+      ]
     }
-  ]
+  }
 }

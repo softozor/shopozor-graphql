@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-07-01"
-  },
-  "description": "Modi labore amet sunt aliquam dolor. Nostrum aliquid corrupti architecto laboriosam unde quasi.\nNon accusamus nostrum laboriosam cupiditate distinctio dicta. Quisquam totam molestias maiores.",
-  "id": "UHJvZHVjdDoxOTcz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/rriOKIZDkIKHFwHv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HbmfuFrbyIMtFbgb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BZGyIPZRQrnUlLHX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pAakbsmVIqtmqqVE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TiqVVSCUTgrbRiyr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lDhZigbPGRnnxgMe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MkLrzgHFgFmZIIDW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pOrfiHEyhMQJhoVv.png"
-    }
-  ],
-  "name": "Unde incidunt.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "50.71",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.71",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-07-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "50.71",
-          "currency": "CHF"
+      "description": "Modi labore amet sunt aliquam dolor. Nostrum aliquid corrupti architecto laboriosam unde quasi.\nNon accusamus nostrum laboriosam cupiditate distinctio dicta. Quisquam totam molestias maiores.",
+      "id": "UHJvZHVjdDoxOTcz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/rriOKIZDkIKHFwHv.png"
         },
-        "net": {
-          "amount": "50.71",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/HbmfuFrbyIMtFbgb.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BZGyIPZRQrnUlLHX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pAakbsmVIqtmqqVE.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TiqVVSCUTgrbRiyr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lDhZigbPGRnnxgMe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MkLrzgHFgFmZIIDW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pOrfiHEyhMQJhoVv.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vincent",
-    "id": 1107,
-    "lastName": "Julliard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "42.47",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "42.47",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "42.47",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTkwMg==",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Unde incidunt.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "50.71",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "50.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "50.71",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "50.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 491
+      "producer": {
+        "firstName": "Vincent",
+        "id": "VXNlcjoxMTA3",
+        "lastName": "Julliard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "42.47",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "42.47",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "42.47",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTkwMg==",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "50.71",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "50.71",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 491
+        }
+      ]
     }
-  ]
+  }
 }

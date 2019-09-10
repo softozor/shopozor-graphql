@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-10-30"
-  },
-  "description": "Odio nam velit optio quia vitae.",
-  "id": "UHJvZHVjdDoyMTM3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/LjBNiKiCykUQXKqF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mgNcfmAhuUYWAedX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RAFqkvMNVKmzzLOF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fRnFyiQCpZrUifTB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bkxEoccTqGwinWKS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JqqpySsLmlFjvrQv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pmajGWuFwOVCPsBT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vSnnrgYNjCOpkARt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BilsZjrOEZrYwehi.png"
-    }
-  ],
-  "name": "Quibusdam ipsam veniam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "49.03",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "49.03",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-10-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "49.03",
-          "currency": "CHF"
+      "description": "Odio nam velit optio quia vitae.",
+      "id": "UHJvZHVjdDoyMTM3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/LjBNiKiCykUQXKqF.png"
         },
-        "net": {
-          "amount": "49.03",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mgNcfmAhuUYWAedX.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RAFqkvMNVKmzzLOF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fRnFyiQCpZrUifTB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/bkxEoccTqGwinWKS.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JqqpySsLmlFjvrQv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pmajGWuFwOVCPsBT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vSnnrgYNjCOpkARt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BilsZjrOEZrYwehi.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georges",
-    "id": 1067,
-    "lastName": "Evéquoz"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "9.13",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "9.13",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "9.13",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MTE=",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Quibusdam ipsam veniam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "49.03",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "49.03",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "49.03",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "49.03",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "49.03",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "49.03",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 435
+      "producer": {
+        "firstName": "Georges",
+        "id": "VXNlcjoxMDY3",
+        "lastName": "Evéquoz"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "9.13",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "9.13",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "9.13",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MTE=",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "49.03",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "49.03",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 435
+        }
+      ]
     }
-  ]
+  }
 }

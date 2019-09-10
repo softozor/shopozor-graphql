@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-07-11"
-  },
-  "description": "Tempore aut tenetur doloremque. Fugit cum possimus nobis delectus dicta modi.",
-  "id": "UHJvZHVjdDoxODIx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/SrjPPZmGVvdOuGCm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vqUBnBAweTYdGjsz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yhrWBLHkYsRFKEJs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/czzAdsLlVBJCDLCi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zjdfKwYESpXzCcdA.png"
-    }
-  ],
-  "name": "Delectus optio ullam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "28.31",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "28.31",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-07-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "28.31",
-          "currency": "CHF"
+      "description": "Tempore aut tenetur doloremque. Fugit cum possimus nobis delectus dicta modi.",
+      "id": "UHJvZHVjdDoxODIx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/SrjPPZmGVvdOuGCm.png"
         },
-        "net": {
-          "amount": "28.31",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/vqUBnBAweTYdGjsz.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/yhrWBLHkYsRFKEJs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/czzAdsLlVBJCDLCi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zjdfKwYESpXzCcdA.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marcel",
-    "id": 1046,
-    "lastName": "Wicht"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "4.44",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "4.44",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "4.44",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTExNA==",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Delectus optio ullam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "28.31",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "28.31",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.31",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "28.31",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "28.31",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.31",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 6
+      "producer": {
+        "firstName": "Marcel",
+        "id": "VXNlcjoxMDQ2",
+        "lastName": "Wicht"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "4.44",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "4.44",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "4.44",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTExNA==",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "28.31",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "28.31",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 6
+        }
+      ]
     }
-  ]
+  }
 }

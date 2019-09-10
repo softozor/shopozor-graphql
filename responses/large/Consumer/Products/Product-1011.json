@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-01-01"
-  },
-  "description": "Nam consectetur eius harum sit officia eligendi. Quos iure libero officiis porro.",
-  "id": "UHJvZHVjdDoxMDEx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/RCHnlZlQeWEtDcuQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dTdaCHwJShBuqKcb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pjdRqDtkGFmzGdHp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XRLOOuphKGRHKpCv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dKwFmYIMMgxHWkvB.png"
-    }
-  ],
-  "name": "Officia iste.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "19.69",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "19.69",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-01-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "19.69",
-          "currency": "CHF"
+      "description": "Nam consectetur eius harum sit officia eligendi. Quos iure libero officiis porro.",
+      "id": "UHJvZHVjdDoxMDEx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/RCHnlZlQeWEtDcuQ.png"
         },
-        "net": {
-          "amount": "19.69",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/dTdaCHwJShBuqKcb.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/pjdRqDtkGFmzGdHp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XRLOOuphKGRHKpCv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dKwFmYIMMgxHWkvB.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georgette",
-    "id": 1032,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "14.58",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "14.58",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "14.58",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTA2OA==",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Officia iste.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "19.69",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "19.69",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "19.69",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "19.69",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "19.69",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "19.69",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 1
+      "producer": {
+        "firstName": "Georgette",
+        "id": "VXNlcjoxMDMy",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "14.58",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "14.58",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "14.58",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTA2OA==",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "19.69",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "19.69",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 1
+        }
+      ]
     }
-  ]
+  }
 }

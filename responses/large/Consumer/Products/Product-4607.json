@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-06-27"
-  },
-  "description": "Numquam cum veniam veniam placeat quibusdam. Possimus accusantium eos aperiam minus nam. Sapiente unde eveniet autem repellendus nemo ea. Provident voluptatum illo at exercitationem aliquam.",
-  "id": "UHJvZHVjdDo0NjA3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/BnUpkVgIMsWZKKEK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UIkcYYWjKUZHMvda.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VnaMpPdFhiptyqFW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KRkogDVbXtMTbGuX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZwOZtLNRtuudxjpW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zpHsTDywKlsuHnwD.png"
-    }
-  ],
-  "name": "Sapiente fuga consequuntur.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "22.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "22.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-06-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "22.57",
-          "currency": "CHF"
+      "description": "Numquam cum veniam veniam placeat quibusdam. Possimus accusantium eos aperiam minus nam. Sapiente unde eveniet autem repellendus nemo ea. Provident voluptatum illo at exercitationem aliquam.",
+      "id": "UHJvZHVjdDo0NjA3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/BnUpkVgIMsWZKKEK.png"
         },
-        "net": {
-          "amount": "22.57",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/UIkcYYWjKUZHMvda.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/VnaMpPdFhiptyqFW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KRkogDVbXtMTbGuX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZwOZtLNRtuudxjpW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zpHsTDywKlsuHnwD.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sarah",
-    "id": 1027,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.98",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.98",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.98",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjMwODk=",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Sapiente fuga consequuntur.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "22.57",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "22.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "22.57",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "22.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 366
+      "producer": {
+        "firstName": "Sarah",
+        "id": "VXNlcjoxMDI3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.98",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.98",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.98",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjMwODk=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "22.57",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "22.57",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 366
+        }
+      ]
     }
-  ]
+  }
 }

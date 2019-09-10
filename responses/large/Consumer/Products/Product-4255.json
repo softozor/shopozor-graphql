@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-06-13"
-  },
-  "description": "Animi at veritatis ex corporis.\nAdipisci itaque reiciendis fuga eveniet. Iste sit debitis.",
-  "id": "UHJvZHVjdDo0MjU1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/jxiBptZTGEEmZXnh.png"
-    }
-  ],
-  "name": "Id fugiat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "45.81",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "45.81",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-06-13"
       },
-      "stop": {
-        "gross": {
-          "amount": "45.81",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "45.81",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Animi at veritatis ex corporis.\nAdipisci itaque reiciendis fuga eveniet. Iste sit debitis.",
+      "id": "UHJvZHVjdDo0MjU1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/jxiBptZTGEEmZXnh.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Manuel",
-    "id": 1106,
-    "lastName": "Rosselat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.89",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.89",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.89",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjEzMzQ=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Id fugiat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "45.81",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "45.81",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "45.81",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "45.81",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "45.81",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "45.81",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 273
+      "producer": {
+        "firstName": "Manuel",
+        "id": "VXNlcjoxMTA2",
+        "lastName": "Rosselat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.89",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.89",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.89",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjEzMzQ=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "45.81",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "45.81",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 273
+        }
+      ]
     }
-  ]
+  }
 }

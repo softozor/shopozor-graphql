@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-04-01"
-  },
-  "description": "Voluptatem nisi voluptate explicabo aperiam quaerat tenetur.",
-  "id": "UHJvZHVjdDozMTg1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/wweVSmKLuPTmgJqB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/muATTzwrNcjoqlRd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jGkMJnXpEMlZJZDo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rxSQSNSrDAHjPBAl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/btKlaatmbwmFrBQU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qSHzbcppfquIVfyy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BcdBHjKxXxljwxNZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XkanBWjJYDxyvEEL.png"
-    }
-  ],
-  "name": "Nostrum necessitatibus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "43.21",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.21",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-04-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "43.21",
-          "currency": "CHF"
+      "description": "Voluptatem nisi voluptate explicabo aperiam quaerat tenetur.",
+      "id": "UHJvZHVjdDozMTg1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/wweVSmKLuPTmgJqB.png"
         },
-        "net": {
-          "amount": "43.21",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/muATTzwrNcjoqlRd.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jGkMJnXpEMlZJZDo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rxSQSNSrDAHjPBAl.png"
+        },
+        {
+          "alt": "",
+          "url": "products/btKlaatmbwmFrBQU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qSHzbcppfquIVfyy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BcdBHjKxXxljwxNZ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XkanBWjJYDxyvEEL.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "22.74",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "22.74",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "22.74",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTU4NTQ=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Nostrum necessitatibus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "43.21",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "43.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "43.21",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "43.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 630
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "22.74",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "22.74",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "22.74",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTU4NTQ=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "43.21",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "43.21",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 630
+        }
+      ]
     }
-  ]
+  }
 }

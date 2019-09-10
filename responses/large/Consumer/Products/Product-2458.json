@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-04-04"
-  },
-  "description": "Quos doloribus voluptatibus asperiores earum quos velit. Iure consectetur dicta cum ex sint. Provident non recusandae exercitationem. Nulla earum iusto quas vero.",
-  "id": "UHJvZHVjdDoyNDU4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/DsDZvICIumbjjByT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IChSkCQktKwrDCcY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xDtYYMTBaNEaIsMe.png"
-    }
-  ],
-  "name": "Natus accusantium dolorum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "94.96",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "94.96",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-04-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "94.96",
-          "currency": "CHF"
+      "description": "Quos doloribus voluptatibus asperiores earum quos velit. Iure consectetur dicta cum ex sint. Provident non recusandae exercitationem. Nulla earum iusto quas vero.",
+      "id": "UHJvZHVjdDoyNDU4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/DsDZvICIumbjjByT.png"
         },
-        "net": {
-          "amount": "94.96",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/IChSkCQktKwrDCcY.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xDtYYMTBaNEaIsMe.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nicole",
-    "id": 1092,
-    "lastName": "Vallélian"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.97",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.97",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.97",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTIyNzA=",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Natus accusantium dolorum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "94.96",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "94.96",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "94.96",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "94.96",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "94.96",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "94.96",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 15
+      "producer": {
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDky",
+        "lastName": "Vallélian"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.97",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.97",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.97",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTIyNzA=",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "94.96",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "94.96",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 15
+        }
+      ]
     }
-  ]
+  }
 }

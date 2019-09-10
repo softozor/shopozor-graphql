@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-02-02"
-  },
-  "description": "Modi blanditiis minus esse consequatur. Dolorem quos vero minima modi architecto. Quisquam doloremque quae consequatur.",
-  "id": "UHJvZHVjdDo0MDQz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/mDLROTHQInpMLICB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sLOgaSvGjWnEKGta.png"
-    }
-  ],
-  "name": "Earum voluptatum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "17.33",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "17.33",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-02-02"
       },
-      "stop": {
-        "gross": {
-          "amount": "17.33",
-          "currency": "CHF"
+      "description": "Modi blanditiis minus esse consequatur. Dolorem quos vero minima modi architecto. Quisquam doloremque quae consequatur.",
+      "id": "UHJvZHVjdDo0MDQz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/mDLROTHQInpMLICB.png"
         },
-        "net": {
-          "amount": "17.33",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/sLOgaSvGjWnEKGta.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sarah",
-    "id": 1027,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.84",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.84",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.84",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjAzMjI=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Earum voluptatum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "17.33",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "17.33",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "17.33",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "17.33",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "17.33",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "17.33",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 260
+      "producer": {
+        "firstName": "Sarah",
+        "id": "VXNlcjoxMDI3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.84",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.84",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.84",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjAzMjI=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "17.33",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "17.33",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 260
+        }
+      ]
     }
-  ]
+  }
 }

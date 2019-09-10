@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-06-13"
-  },
-  "description": "Iste fuga alias quos voluptatem repudiandae.\nOptio hic perspiciatis a. Quidem incidunt sint et.",
-  "id": "UHJvZHVjdDozNjE3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/coFiKtFCnbVHMIlQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AdkXEQXDCSEjGTcp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BFYhHSKsYmeRZpOe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MsBXhMkhcsZOMbTc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bpLlLQfigQIrsSeY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pQmKUTTgJqXLHpje.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gwoDgHmcurChuSgV.png"
-    }
-  ],
-  "name": "Velit voluptas ea.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.99",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.99",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-06-13"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.99",
-          "currency": "CHF"
+      "description": "Iste fuga alias quos voluptatem repudiandae.\nOptio hic perspiciatis a. Quidem incidunt sint et.",
+      "id": "UHJvZHVjdDozNjE3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/coFiKtFCnbVHMIlQ.png"
         },
-        "net": {
-          "amount": "1.99",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/AdkXEQXDCSEjGTcp.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BFYhHSKsYmeRZpOe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MsBXhMkhcsZOMbTc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/bpLlLQfigQIrsSeY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pQmKUTTgJqXLHpje.png"
+        },
+        {
+          "alt": "",
+          "url": "products/gwoDgHmcurChuSgV.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1148,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.28",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.28",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.28",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTgxMjk=",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Velit voluptas ea.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.99",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.99",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.99",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.99",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.99",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.99",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 305
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTQ4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.28",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.28",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.28",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTgxMjk=",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.99",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.99",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 305
+        }
+      ]
     }
-  ]
+  }
 }

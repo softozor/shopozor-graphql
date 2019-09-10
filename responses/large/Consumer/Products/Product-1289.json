@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-02-10"
-  },
-  "description": "Voluptatem nisi beatae sint veniam omnis libero. Totam sed harum rem necessitatibus aliquam.\nEnim possimus expedita facere voluptates minus.\nExplicabo maiores nobis cumque.",
-  "id": "UHJvZHVjdDoxMjg5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/lvmfAQialqNvRJse.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FNyyvkIqyoSbgVRo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/CkdPSMAdoKjhAjsH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uUmYqMifDjRTPgPg.png"
-    }
-  ],
-  "name": "Natus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "28.53",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "28.53",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-02-10"
       },
-      "stop": {
-        "gross": {
-          "amount": "28.53",
-          "currency": "CHF"
+      "description": "Voluptatem nisi beatae sint veniam omnis libero. Totam sed harum rem necessitatibus aliquam.\nEnim possimus expedita facere voluptates minus.\nExplicabo maiores nobis cumque.",
+      "id": "UHJvZHVjdDoxMjg5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/lvmfAQialqNvRJse.png"
         },
-        "net": {
-          "amount": "28.53",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/FNyyvkIqyoSbgVRo.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/CkdPSMAdoKjhAjsH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/uUmYqMifDjRTPgPg.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sara",
-    "id": 1070,
-    "lastName": "Carron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.14",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.14",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.14",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjQyNw==",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Natus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "28.53",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "28.53",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.53",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "28.53",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "28.53",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.53",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 83
+      "producer": {
+        "firstName": "Sara",
+        "id": "VXNlcjoxMDcw",
+        "lastName": "Carron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.14",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.14",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.14",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjQyNw==",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "28.53",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "28.53",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 83
+        }
+      ]
     }
-  ]
+  }
 }

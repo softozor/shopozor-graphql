@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-01-14"
-  },
-  "description": "Neque vero neque veritatis inventore. Maxime eaque magni qui incidunt possimus quam.\nOfficiis magni ab provident laborum corrupti eius. Saepe minus amet autem iusto tempore temporibus praesentium.",
-  "id": "UHJvZHVjdDoyNjY=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/zQNwzUkxnwAsoPPQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sbRRVClgbphJBczD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AoipIGXuDhKUTtLl.png"
-    }
-  ],
-  "name": "Voluptatum hic voluptate.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.71",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.71",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-01-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.71",
-          "currency": "CHF"
+      "description": "Neque vero neque veritatis inventore. Maxime eaque magni qui incidunt possimus quam.\nOfficiis magni ab provident laborum corrupti eius. Saepe minus amet autem iusto tempore temporibus praesentium.",
+      "id": "UHJvZHVjdDoyNjY=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/zQNwzUkxnwAsoPPQ.png"
         },
-        "net": {
-          "amount": "1.71",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/sbRRVClgbphJBczD.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/AoipIGXuDhKUTtLl.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Corinne",
-    "id": 124,
-    "lastName": "Monnet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.68",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.68",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.68",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODY3",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Voluptatum hic voluptate.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.71",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.71",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 90
+      "producer": {
+        "firstName": "Corinne",
+        "id": "VXNlcjoxMjQ=",
+        "lastName": "Monnet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.68",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.68",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.68",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODY3",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.71",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.71",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 90
+        }
+      ]
     }
-  ]
+  }
 }

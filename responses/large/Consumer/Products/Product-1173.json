@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-01-03"
-  },
-  "description": "Iure minus saepe asperiores omnis. Iusto accusantium ratione voluptatum rem repellendus impedit.",
-  "id": "UHJvZHVjdDoxMTcz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/kqfpjFlCgXymDdYB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/txQnsgJBLmcnJHTl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PGpawccqSCUNWTYZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vZjJxSCkQTPaqTOK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pvuWtkgXzPBaWFfv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JgwvLmNfQxYgXuiD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sjxvPQtZVFtEFflX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NEHtqWMNTxLOWZdy.png"
-    }
-  ],
-  "name": "Quod veritatis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "22.25",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "22.25",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-01-03"
       },
-      "stop": {
-        "gross": {
-          "amount": "22.25",
-          "currency": "CHF"
+      "description": "Iure minus saepe asperiores omnis. Iusto accusantium ratione voluptatum rem repellendus impedit.",
+      "id": "UHJvZHVjdDoxMTcz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/kqfpjFlCgXymDdYB.png"
         },
-        "net": {
-          "amount": "22.25",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/txQnsgJBLmcnJHTl.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/PGpawccqSCUNWTYZ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vZjJxSCkQTPaqTOK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pvuWtkgXzPBaWFfv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JgwvLmNfQxYgXuiD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sjxvPQtZVFtEFflX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NEHtqWMNTxLOWZdy.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1146,
-    "lastName": "Aeby"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.17",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.17",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.17",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTg0MQ==",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Quod veritatis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "22.25",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "22.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "22.25",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "22.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 152
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Aeby"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.17",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.17",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.17",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTg0MQ==",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "22.25",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "22.25",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 152
+        }
+      ]
     }
-  ]
+  }
 }

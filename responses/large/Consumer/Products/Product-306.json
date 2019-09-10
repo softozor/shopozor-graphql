@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-10-28"
-  },
-  "description": "Doloremque soluta placeat laboriosam fuga fuga quia.\nTenetur debitis soluta. Quam commodi libero nulla minus.",
-  "id": "UHJvZHVjdDozMDY=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/OwzcwxrkAOKzQcBI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BHOGMFGISdcakkrc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KyIlrJeTuoxAfdDN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tdiqljghhmjqpSAR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zECahCNsJrjrdLCv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HikCttWmMLlsFWgS.png"
-    }
-  ],
-  "name": "Non porro.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "27.88",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "27.88",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-10-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "27.88",
-          "currency": "CHF"
+      "description": "Doloremque soluta placeat laboriosam fuga fuga quia.\nTenetur debitis soluta. Quam commodi libero nulla minus.",
+      "id": "UHJvZHVjdDozMDY=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/OwzcwxrkAOKzQcBI.png"
         },
-        "net": {
-          "amount": "27.88",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BHOGMFGISdcakkrc.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/KyIlrJeTuoxAfdDN.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tdiqljghhmjqpSAR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zECahCNsJrjrdLCv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HikCttWmMLlsFWgS.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.84",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.84",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.84",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNA==",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Non porro.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "27.88",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "27.88",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "27.88",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "27.88",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "27.88",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "27.88",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 481
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.84",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.84",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.84",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNA==",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "27.88",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "27.88",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 481
+        }
+      ]
     }
-  ]
+  }
 }

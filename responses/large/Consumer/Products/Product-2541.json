@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-04-22"
-  },
-  "description": "Inventore neque autem odio doloremque nesciunt aliquam. Alias debitis assumenda iste molestiae.",
-  "id": "UHJvZHVjdDoyNTQx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/xiNrWyCcPwJEGLyv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uOxctoliqDjRoJvw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dlMyglVEdSfLfPdX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lsqtBfnTKZGqZgnB.png"
-    }
-  ],
-  "name": "Error beatae iusto.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "74.79",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "74.79",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-04-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "74.79",
-          "currency": "CHF"
+      "description": "Inventore neque autem odio doloremque nesciunt aliquam. Alias debitis assumenda iste molestiae.",
+      "id": "UHJvZHVjdDoyNTQx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/xiNrWyCcPwJEGLyv.png"
         },
-        "net": {
-          "amount": "74.79",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/uOxctoliqDjRoJvw.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/dlMyglVEdSfLfPdX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lsqtBfnTKZGqZgnB.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "66.17",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "66.17",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "66.17",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTI2NjA=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Error beatae iusto.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "74.79",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "74.79",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.79",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "74.79",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "74.79",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.79",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 31
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "66.17",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "66.17",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "66.17",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTI2NjA=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "74.79",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "74.79",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 31
+        }
+      ]
     }
-  ]
+  }
 }

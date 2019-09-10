@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-04-07"
-  },
-  "description": "Eum iure id quod. Iure quos iure minima. Animi impedit delectus.\nVitae rerum iure. Commodi dicta nostrum tempora.",
-  "id": "UHJvZHVjdDoxNTk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/sCCHDZdSwsuzalIh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ziLvJkzjYnTVyzKu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TpsJLsJDvSOJWlJk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cmEKgFEkpWmTzcEn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qWKodarosdgLGiLE.png"
-    }
-  ],
-  "name": "Fugiat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "25.68",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "25.68",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-04-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "25.68",
-          "currency": "CHF"
+      "description": "Eum iure id quod. Iure quos iure minima. Animi impedit delectus.\nVitae rerum iure. Commodi dicta nostrum tempora.",
+      "id": "UHJvZHVjdDoxNTk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/sCCHDZdSwsuzalIh.png"
         },
-        "net": {
-          "amount": "25.68",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ziLvJkzjYnTVyzKu.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/TpsJLsJDvSOJWlJk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cmEKgFEkpWmTzcEn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qWKodarosdgLGiLE.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "21.5",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "21.5",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "21.5",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODIw",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Fugiat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "25.68",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "25.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "25.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "25.68",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "25.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "25.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 872
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "21.5",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "21.5",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "21.5",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODIw",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "25.68",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "25.68",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 872
+        }
+      ]
     }
-  ]
+  }
 }

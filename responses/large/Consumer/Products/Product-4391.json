@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-10-28"
-  },
-  "description": "Possimus tenetur placeat. Amet dolore suscipit quas provident nobis.\nCommodi natus nulla pariatur. Adipisci voluptates accusantium quis. Cum ea doloribus at animi.",
-  "id": "UHJvZHVjdDo0Mzkx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/zxEnMuJLMzqNqxFp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SfvTabccMkudhgOi.png"
-    }
-  ],
-  "name": "Omnis ad.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "61.87",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "61.87",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-10-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "61.87",
-          "currency": "CHF"
+      "description": "Possimus tenetur placeat. Amet dolore suscipit quas provident nobis.\nCommodi natus nulla pariatur. Adipisci voluptates accusantium quis. Cum ea doloribus at animi.",
+      "id": "UHJvZHVjdDo0Mzkx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/zxEnMuJLMzqNqxFp.png"
         },
-        "net": {
-          "amount": "61.87",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SfvTabccMkudhgOi.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vanessa",
-    "id": 1091,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "49.34",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "49.34",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "49.34",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjIwMDU=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Omnis ad.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "61.87",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "61.87",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "61.87",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "61.87",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "61.87",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "61.87",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 99
+      "producer": {
+        "firstName": "Vanessa",
+        "id": "VXNlcjoxMDkx",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "49.34",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "49.34",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "49.34",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjIwMDU=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "61.87",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "61.87",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 99
+        }
+      ]
     }
-  ]
+  }
 }

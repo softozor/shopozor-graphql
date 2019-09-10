@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-11-25"
-  },
-  "description": "Consequuntur cupiditate ratione occaecati facere. Velit quod numquam saepe exercitationem id.",
-  "id": "UHJvZHVjdDo0NTM1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/SvaHuRZaBulUgBKl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zkESSUGBMWOxQPYj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nBlkIktqoTetLAbj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nBeLXCtVcCHtKJzQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iHcULGnuBibXQSsU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YKQSCzoVBDsPbCzm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WacpeQPdEeJWghDe.png"
-    }
-  ],
-  "name": "Consectetur voluptates alias ducimus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "67.91",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "67.91",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-11-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "67.91",
-          "currency": "CHF"
+      "description": "Consequuntur cupiditate ratione occaecati facere. Velit quod numquam saepe exercitationem id.",
+      "id": "UHJvZHVjdDo0NTM1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/SvaHuRZaBulUgBKl.png"
         },
-        "net": {
-          "amount": "67.91",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zkESSUGBMWOxQPYj.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/nBlkIktqoTetLAbj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nBeLXCtVcCHtKJzQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iHcULGnuBibXQSsU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YKQSCzoVBDsPbCzm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WacpeQPdEeJWghDe.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1148,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "33.2",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "33.2",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "33.2",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjI2OTk=",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Consectetur voluptates alias ducimus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "67.91",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "67.91",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "67.91",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "67.91",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "67.91",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "67.91",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 186
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTQ4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "33.2",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "33.2",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "33.2",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjI2OTk=",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "67.91",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "67.91",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 186
+        }
+      ]
     }
-  ]
+  }
 }

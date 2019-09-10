@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-01-26"
-  },
-  "description": "Repellat nobis aspernatur cum ut.\nVero quis nam culpa vero.\nMagni repudiandae repellendus praesentium ratione. Dolor aliquid quis recusandae facilis fugiat ab. Modi illum aut vero soluta pariatur.",
-  "id": "UHJvZHVjdDozMjQw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/nfGYBfEyAQfkuRpb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uzllxFSACLUfXKFH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gxrZUgwPAfnSJQWQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QiKqmhjzFpiUGYXv.png"
-    }
-  ],
-  "name": "Ut voluptas.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "43.08",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.08",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-01-26"
       },
-      "stop": {
-        "gross": {
-          "amount": "43.08",
-          "currency": "CHF"
+      "description": "Repellat nobis aspernatur cum ut.\nVero quis nam culpa vero.\nMagni repudiandae repellendus praesentium ratione. Dolor aliquid quis recusandae facilis fugiat ab. Modi illum aut vero soluta pariatur.",
+      "id": "UHJvZHVjdDozMjQw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/nfGYBfEyAQfkuRpb.png"
         },
-        "net": {
-          "amount": "43.08",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/uzllxFSACLUfXKFH.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gxrZUgwPAfnSJQWQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QiKqmhjzFpiUGYXv.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nathan",
-    "id": 1125,
-    "lastName": "Vienne"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.95",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.95",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.95",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTYxMjM=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Ut voluptas.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "43.08",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "43.08",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.08",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "43.08",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "43.08",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.08",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 23
+      "producer": {
+        "firstName": "Nathan",
+        "id": "VXNlcjoxMTI1",
+        "lastName": "Vienne"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.95",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.95",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.95",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTYxMjM=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "43.08",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "43.08",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 23
+        }
+      ]
     }
-  ]
+  }
 }

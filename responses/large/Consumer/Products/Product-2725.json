@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-04-29"
-  },
-  "description": "Vitae dolorum suscipit officiis minima. Corporis ex cupiditate tenetur odit. Alias ipsum ad ipsam iure.",
-  "id": "UHJvZHVjdDoyNzI1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/VsXZKvAByNscoeOK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LogKVxJGvdazCfUg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/syUXCLQmIqiQkULz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PrXHKyWOzlfjoobF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dnDTmsEVglhNFrqy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DKHBCRhvPWvMknEu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nAAebplyAlyQgHMT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YbwNXEwbezCkoUsP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IrCQXecOoHIeeVZR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tDBHSdPFBNZEDMfs.png"
-    }
-  ],
-  "name": "Nostrum sit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "6.76",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "6.76",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-04-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "6.76",
-          "currency": "CHF"
+      "description": "Vitae dolorum suscipit officiis minima. Corporis ex cupiditate tenetur odit. Alias ipsum ad ipsam iure.",
+      "id": "UHJvZHVjdDoyNzI1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/VsXZKvAByNscoeOK.png"
         },
-        "net": {
-          "amount": "6.76",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/LogKVxJGvdazCfUg.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/syUXCLQmIqiQkULz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/PrXHKyWOzlfjoobF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dnDTmsEVglhNFrqy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/DKHBCRhvPWvMknEu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nAAebplyAlyQgHMT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YbwNXEwbezCkoUsP.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IrCQXecOoHIeeVZR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tDBHSdPFBNZEDMfs.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Odette",
-    "id": 1023,
-    "lastName": "Monney"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "2.47",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "2.47",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "2.47",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM1NTg=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Nostrum sit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "6.76",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "6.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "6.76",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "6.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 23
+      "producer": {
+        "firstName": "Odette",
+        "id": "VXNlcjoxMDIz",
+        "lastName": "Monney"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "2.47",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "2.47",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "2.47",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM1NTg=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "6.76",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "6.76",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 23
+        }
+      ]
     }
-  ]
+  }
 }

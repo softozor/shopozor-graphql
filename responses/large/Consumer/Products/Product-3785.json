@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-11-01"
-  },
-  "description": "Voluptatem excepturi dignissimos harum est dolore optio ab. Atque pariatur adipisci. Earum vitae dolore corporis praesentium reiciendis sequi.",
-  "id": "UHJvZHVjdDozNzg1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/VKUmGOOZxuHXKlcy.png"
-    }
-  ],
-  "name": "Ipsa voluptatem beatae cumque.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "47.73",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.73",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-11-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "47.73",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.73",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Voluptatem excepturi dignissimos harum est dolore optio ab. Atque pariatur adipisci. Earum vitae dolore corporis praesentium reiciendis sequi.",
+      "id": "UHJvZHVjdDozNzg1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/VKUmGOOZxuHXKlcy.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marianne",
-    "id": 1121,
-    "lastName": "Balmat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "9.21",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "9.21",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "9.21",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MTk=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Ipsa voluptatem beatae cumque.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "47.73",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "47.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "47.73",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "47.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 225
+      "producer": {
+        "firstName": "Marianne",
+        "id": "VXNlcjoxMTIx",
+        "lastName": "Balmat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "9.21",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "9.21",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "9.21",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MTk=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "47.73",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "47.73",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 225
+        }
+      ]
     }
-  ]
+  }
 }

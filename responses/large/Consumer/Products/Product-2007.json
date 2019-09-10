@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-02-24"
-  },
-  "description": "Exercitationem non vel deserunt. Soluta eum rem aut eos.\nSuscipit odit cumque inventore. Reiciendis temporibus recusandae sed officiis repellat.",
-  "id": "UHJvZHVjdDoyMDA3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/RarQcGmQuqEXvITb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rbVOVkvhWeuVmcdG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gutLxdJxJLLHRGgO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BFrZYjbvrODsVgKJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SlkRvDWUmZBbskMa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vVryBORlRobsTgXx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SIrXFhBgCzsmqdxp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZpyTVZjGFIAPcFlu.png"
-    }
-  ],
-  "name": "Fugiat veritatis repellendus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "75.28",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "75.28",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-02-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "75.28",
-          "currency": "CHF"
+      "description": "Exercitationem non vel deserunt. Soluta eum rem aut eos.\nSuscipit odit cumque inventore. Reiciendis temporibus recusandae sed officiis repellat.",
+      "id": "UHJvZHVjdDoyMDA3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/RarQcGmQuqEXvITb.png"
         },
-        "net": {
-          "amount": "75.28",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rbVOVkvhWeuVmcdG.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gutLxdJxJLLHRGgO.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BFrZYjbvrODsVgKJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SlkRvDWUmZBbskMa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vVryBORlRobsTgXx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SIrXFhBgCzsmqdxp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZpyTVZjGFIAPcFlu.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Elodie",
-    "id": 1072,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "45.74",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "45.74",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "45.74",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTAwODA=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Fugiat veritatis repellendus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "75.28",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "75.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "75.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "75.28",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "75.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "75.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 865
+      "producer": {
+        "firstName": "Elodie",
+        "id": "VXNlcjoxMDcy",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "45.74",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "45.74",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "45.74",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTAwODA=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "75.28",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "75.28",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 865
+        }
+      ]
     }
-  ]
+  }
 }

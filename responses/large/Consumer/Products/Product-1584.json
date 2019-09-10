@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-07-29"
-  },
-  "description": "Odit corrupti quasi mollitia neque voluptate expedita. Explicabo odio cumque non odit laboriosam expedita.\nOptio perspiciatis ullam quasi itaque.\nMagnam quibusdam unde earum alias.",
-  "id": "UHJvZHVjdDoxNTg0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/nsXOTfvXiObGBIZq.png"
-    }
-  ],
-  "name": "Provident error autem.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "85.98",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "85.98",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-07-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "85.98",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "85.98",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Odit corrupti quasi mollitia neque voluptate expedita. Explicabo odio cumque non odit laboriosam expedita.\nOptio perspiciatis ullam quasi itaque.\nMagnam quibusdam unde earum alias.",
+      "id": "UHJvZHVjdDoxNTg0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/nsXOTfvXiObGBIZq.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "54.78",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "54.78",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "54.78",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6Nzg2NA==",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Provident error autem.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "85.98",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "85.98",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "85.98",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "85.98",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "85.98",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "85.98",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 114
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "54.78",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "54.78",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "54.78",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6Nzg2NA==",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "85.98",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "85.98",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 114
+        }
+      ]
     }
-  ]
+  }
 }

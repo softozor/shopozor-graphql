@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-09-14"
-  },
-  "description": "Consequatur ratione repellendus mollitia rem. Nemo exercitationem fugiat soluta sed asperiores delectus.",
-  "id": "UHJvZHVjdDozNjg=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/xvOpyDMAbsvMCdUa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zqwkbGWpLILcljpp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JqDQqCrogQGNuslj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fQXmQrIdfdifkxvn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GvOYBPcOAhTWAWxW.png"
-    }
-  ],
-  "name": "Aliquam rem illum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "39.85",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "39.85",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-09-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "39.85",
-          "currency": "CHF"
+      "description": "Consequatur ratione repellendus mollitia rem. Nemo exercitationem fugiat soluta sed asperiores delectus.",
+      "id": "UHJvZHVjdDozNjg=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/xvOpyDMAbsvMCdUa.png"
         },
-        "net": {
-          "amount": "39.85",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zqwkbGWpLILcljpp.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/JqDQqCrogQGNuslj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fQXmQrIdfdifkxvn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GvOYBPcOAhTWAWxW.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Yvonne",
-    "id": 1074,
-    "lastName": "Gilliéron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "29.37",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "29.37",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "29.37",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTg5Mw==",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Aliquam rem illum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "39.85",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "39.85",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.85",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "39.85",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "39.85",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.85",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 393
+      "producer": {
+        "firstName": "Yvonne",
+        "id": "VXNlcjoxMDc0",
+        "lastName": "Gilliéron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "29.37",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "29.37",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "29.37",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg5Mw==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "39.85",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "39.85",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 393
+        }
+      ]
     }
-  ]
+  }
 }

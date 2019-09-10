@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-07-03"
-  },
-  "description": "Occaecati quas incidunt eaque sequi eaque. Nemo iure voluptatem sit.\nAlias ex modi doloremque sit necessitatibus deserunt. Voluptatem reprehenderit enim.",
-  "id": "UHJvZHVjdDoyNTIy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/KjYGlXXayFqTKOSZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/CosrTsiketAvquHH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oawCfFQTIwklOsVH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JIBfptIRyOTVuaFw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oLXDvBlqANvSaTRX.png"
-    }
-  ],
-  "name": "Atque deleniti.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "70.25",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "70.25",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-07-03"
       },
-      "stop": {
-        "gross": {
-          "amount": "70.25",
-          "currency": "CHF"
+      "description": "Occaecati quas incidunt eaque sequi eaque. Nemo iure voluptatem sit.\nAlias ex modi doloremque sit necessitatibus deserunt. Voluptatem reprehenderit enim.",
+      "id": "UHJvZHVjdDoyNTIy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/KjYGlXXayFqTKOSZ.png"
         },
-        "net": {
-          "amount": "70.25",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/CosrTsiketAvquHH.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/oawCfFQTIwklOsVH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JIBfptIRyOTVuaFw.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oLXDvBlqANvSaTRX.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nicole",
-    "id": 1092,
-    "lastName": "Vallélian"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.11",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.11",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.11",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTI1Njg=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Atque deleniti.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "70.25",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "70.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "70.25",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "70.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 509
+      "producer": {
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDky",
+        "lastName": "Vallélian"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.11",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.11",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.11",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTI1Njg=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "70.25",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "70.25",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 509
+        }
+      ]
     }
-  ]
+  }
 }

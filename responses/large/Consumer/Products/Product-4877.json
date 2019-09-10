@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-05-19"
-  },
-  "description": "Eligendi necessitatibus ex autem ad. Nostrum quos odit non odit perferendis ipsum quos. Quam quia provident aperiam.\nNatus id eos velit rem commodi. Doloremque eligendi aliquam quaerat.",
-  "id": "UHJvZHVjdDo0ODc3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZdJAUtXsjFLbmhVU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eAGEZZppzyBLAlCM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QnVKRizRTUWbbeVp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JxUEVXMrHHUPGsfy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lbUOOwuxdtmVizBM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FQilqEYejdalntHp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ziGgGJSOPnVwzBTj.png"
-    }
-  ],
-  "name": "Perferendis voluptates autem.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "44.81",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "44.81",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-05-19"
       },
-      "stop": {
-        "gross": {
-          "amount": "44.81",
-          "currency": "CHF"
+      "description": "Eligendi necessitatibus ex autem ad. Nostrum quos odit non odit perferendis ipsum quos. Quam quia provident aperiam.\nNatus id eos velit rem commodi. Doloremque eligendi aliquam quaerat.",
+      "id": "UHJvZHVjdDo0ODc3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZdJAUtXsjFLbmhVU.png"
         },
-        "net": {
-          "amount": "44.81",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/eAGEZZppzyBLAlCM.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/QnVKRizRTUWbbeVp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JxUEVXMrHHUPGsfy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lbUOOwuxdtmVizBM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FQilqEYejdalntHp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ziGgGJSOPnVwzBTj.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.22",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.22",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.22",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQ1Mjc=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Perferendis voluptates autem.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "44.81",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "44.81",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "44.81",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "44.81",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "44.81",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "44.81",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 380
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.22",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.22",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.22",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ1Mjc=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "44.81",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "44.81",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 380
+        }
+      ]
     }
-  ]
+  }
 }

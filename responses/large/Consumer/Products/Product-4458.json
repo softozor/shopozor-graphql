@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-01-17"
-  },
-  "description": "Quo praesentium incidunt fuga repellat repellat. Optio minus fugiat quos iure eligendi iusto.",
-  "id": "UHJvZHVjdDo0NDU4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MKiXnXfuRypssGej.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zshEnwdeUpZOlOgZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HyJLqLYxaUTMoCnF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KUapUaklWfqIfLzo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VMnxNVnVDcCReZaI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tybYKmwbFIwvMRVD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZUWMddKfXYLkEkkh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ghKBQTMDrnZtCdMJ.png"
-    }
-  ],
-  "name": "Libero soluta tempore.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "27.91",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "27.91",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-01-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "27.91",
-          "currency": "CHF"
+      "description": "Quo praesentium incidunt fuga repellat repellat. Optio minus fugiat quos iure eligendi iusto.",
+      "id": "UHJvZHVjdDo0NDU4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MKiXnXfuRypssGej.png"
         },
-        "net": {
-          "amount": "27.91",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zshEnwdeUpZOlOgZ.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/HyJLqLYxaUTMoCnF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KUapUaklWfqIfLzo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VMnxNVnVDcCReZaI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tybYKmwbFIwvMRVD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZUWMddKfXYLkEkkh.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ghKBQTMDrnZtCdMJ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nicole",
-    "id": 1092,
-    "lastName": "Vallélian"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "16.31",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "16.31",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "16.31",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjIzMzI=",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Libero soluta tempore.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "27.91",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "27.91",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "27.91",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "27.91",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "27.91",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "27.91",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 220
+      "producer": {
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDky",
+        "lastName": "Vallélian"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "16.31",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "16.31",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "16.31",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjIzMzI=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "27.91",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "27.91",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 220
+        }
+      ]
     }
-  ]
+  }
 }

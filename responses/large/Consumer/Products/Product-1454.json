@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-05-30"
-  },
-  "description": "Quae praesentium quasi dolor esse laudantium. Quisquam doloribus magni quasi explicabo ipsa at.",
-  "id": "UHJvZHVjdDoxNDU0",
-  "images": [],
-  "name": "Alias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "50.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-05-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "50.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sarah",
-    "id": 1027,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "47.22",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "47.22",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "47.22",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzIwNw==",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      "description": "Quae praesentium quasi dolor esse laudantium. Quisquam doloribus magni quasi explicabo ipsa at.",
+      "id": "UHJvZHVjdDoxNDU0",
+      "images": [],
+      "name": "Alias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "50.48",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "50.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "50.48",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "50.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 145
+      "producer": {
+        "firstName": "Sarah",
+        "id": "VXNlcjoxMDI3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "47.22",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "47.22",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "47.22",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzIwNw==",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "50.48",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "50.48",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 145
+        }
+      ]
     }
-  ]
+  }
 }

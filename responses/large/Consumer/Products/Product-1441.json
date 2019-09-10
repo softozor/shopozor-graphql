@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-08-24"
-  },
-  "description": "Dolorem voluptatum commodi nisi blanditiis. Voluptatum repellat totam cupiditate nemo aliquam dolor.\nSapiente veniam modi libero dolores asperiores repellat. Atque veritatis autem ducimus.",
-  "id": "UHJvZHVjdDoxNDQx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/XzJQKtvRCYrRecIt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ExZaindxAgEAwFny.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EuunwGpqlazCDHdk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VIEAXWKmtsehrhQg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ujfdnrGWOswbmItx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IQCEBfOcudxqfGmN.png"
-    }
-  ],
-  "name": "Facilis molestiae tempora.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "10.94",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "10.94",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-08-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "10.94",
-          "currency": "CHF"
+      "description": "Dolorem voluptatum commodi nisi blanditiis. Voluptatum repellat totam cupiditate nemo aliquam dolor.\nSapiente veniam modi libero dolores asperiores repellat. Atque veritatis autem ducimus.",
+      "id": "UHJvZHVjdDoxNDQx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/XzJQKtvRCYrRecIt.png"
         },
-        "net": {
-          "amount": "10.94",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ExZaindxAgEAwFny.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/EuunwGpqlazCDHdk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VIEAXWKmtsehrhQg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ujfdnrGWOswbmItx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IQCEBfOcudxqfGmN.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Elodie",
-    "id": 1072,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "2.9",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "2.9",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "2.9",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzE1MQ==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Facilis molestiae tempora.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "10.94",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "10.94",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "10.94",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "10.94",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "10.94",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "10.94",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 62
+      "producer": {
+        "firstName": "Elodie",
+        "id": "VXNlcjoxMDcy",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "2.9",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "2.9",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "2.9",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzE1MQ==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "10.94",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "10.94",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 62
+        }
+      ]
     }
-  ]
+  }
 }

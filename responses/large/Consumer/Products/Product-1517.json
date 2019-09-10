@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-09-27"
-  },
-  "description": "Iste doloremque debitis voluptatibus at. Distinctio ducimus nesciunt corporis cupiditate nobis repudiandae.\nDicta mollitia vel cum. Sunt earum id ducimus. Laborum suscipit perspiciatis numquam.",
-  "id": "UHJvZHVjdDoxNTE3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/RYGSAiOLbBMrBNiR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RiEACtQDWqjEywRS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rptwOFBemUnPutSi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VKtDAtIFWcoOnEGz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tmbVIEogRzXLQjdp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uuPRujbXCJWWxDUG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NmBmXbJdDhqaMpaX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jKIMsSvWzHQXiqrn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kgFgXXNLAKlKFZhd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LKeJZaCltFQwKBGR.png"
-    }
-  ],
-  "name": "Excepturi sunt maiores officiis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "64.86",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.86",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-09-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "64.86",
-          "currency": "CHF"
+      "description": "Iste doloremque debitis voluptatibus at. Distinctio ducimus nesciunt corporis cupiditate nobis repudiandae.\nDicta mollitia vel cum. Sunt earum id ducimus. Laborum suscipit perspiciatis numquam.",
+      "id": "UHJvZHVjdDoxNTE3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/RYGSAiOLbBMrBNiR.png"
         },
-        "net": {
-          "amount": "64.86",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RiEACtQDWqjEywRS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rptwOFBemUnPutSi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VKtDAtIFWcoOnEGz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tmbVIEogRzXLQjdp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/uuPRujbXCJWWxDUG.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NmBmXbJdDhqaMpaX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/jKIMsSvWzHQXiqrn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/kgFgXXNLAKlKFZhd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LKeJZaCltFQwKBGR.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Jean-Claude",
-    "id": 1050,
-    "lastName": "Candaux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "16.35",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "16.35",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "16.35",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzUyMQ==",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Excepturi sunt maiores officiis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "64.86",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "64.86",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.86",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "64.86",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "64.86",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.86",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 472
+      "producer": {
+        "firstName": "Jean-Claude",
+        "id": "VXNlcjoxMDUw",
+        "lastName": "Candaux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "16.35",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "16.35",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "16.35",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzUyMQ==",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "64.86",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "64.86",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 472
+        }
+      ]
     }
-  ]
+  }
 }

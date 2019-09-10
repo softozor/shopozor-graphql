@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-06-25"
-  },
-  "description": "Provident laboriosam harum maxime impedit quaerat. Suscipit voluptatibus repellendus necessitatibus amet omnis.\nVoluptatem illum aspernatur fugit. Illum nam quo perferendis ducimus libero animi.",
-  "id": "UHJvZHVjdDozNzYw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/KVtusUpepIWSODxw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OojpicpGozTGTHbH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YOGBZBqESaktrGeA.png"
-    }
-  ],
-  "name": "Quia quo delectus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "19.17",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "19.17",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-06-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "19.17",
-          "currency": "CHF"
+      "description": "Provident laboriosam harum maxime impedit quaerat. Suscipit voluptatibus repellendus necessitatibus amet omnis.\nVoluptatem illum aspernatur fugit. Illum nam quo perferendis ducimus libero animi.",
+      "id": "UHJvZHVjdDozNzYw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/KVtusUpepIWSODxw.png"
         },
-        "net": {
-          "amount": "19.17",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OojpicpGozTGTHbH.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YOGBZBqESaktrGeA.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.41",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.41",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.41",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTg4MDE=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Quia quo delectus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "19.17",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "19.17",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "19.17",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "19.17",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "19.17",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "19.17",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 10
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.41",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.41",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.41",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg4MDE=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "19.17",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "19.17",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 10
+        }
+      ]
     }
-  ]
+  }
 }

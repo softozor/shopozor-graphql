@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-05-10"
-  },
-  "description": "Illum beatae autem qui dolores maiores quos. Praesentium minima nesciunt rem quae qui tenetur.",
-  "id": "UHJvZHVjdDoxODc2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NytwHWAeWKozDOFH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gbGupMXLzwvVVdND.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vIpovyrwMlAhfkha.png"
-    }
-  ],
-  "name": "Quibusdam quod.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "67.28",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "67.28",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-05-10"
       },
-      "stop": {
-        "gross": {
-          "amount": "67.28",
-          "currency": "CHF"
+      "description": "Illum beatae autem qui dolores maiores quos. Praesentium minima nesciunt rem quae qui tenetur.",
+      "id": "UHJvZHVjdDoxODc2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NytwHWAeWKozDOFH.png"
         },
-        "net": {
-          "amount": "67.28",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gbGupMXLzwvVVdND.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/vIpovyrwMlAhfkha.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sarah",
-    "id": 1027,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "19.25",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "19.25",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "19.25",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTM5MQ==",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Quibusdam quod.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "67.28",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "67.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "67.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "67.28",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "67.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "67.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 21
+      "producer": {
+        "firstName": "Sarah",
+        "id": "VXNlcjoxMDI3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "19.25",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "19.25",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "19.25",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTM5MQ==",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "67.28",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "67.28",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 21
+        }
+      ]
     }
-  ]
+  }
 }

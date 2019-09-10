@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-11-28"
-  },
-  "description": "Aliquid ipsam adipisci minima ducimus consequatur ex. Saepe qui incidunt autem quidem a expedita. Dolore eveniet amet repellat.",
-  "id": "UHJvZHVjdDoxOTc5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/CMwecnjnWUyekwOD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pWpTNOYdEujOLBYn.png"
-    }
-  ],
-  "name": "Unde quae dolor.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "14.59",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "14.59",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-11-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "14.59",
-          "currency": "CHF"
+      "description": "Aliquid ipsam adipisci minima ducimus consequatur ex. Saepe qui incidunt autem quidem a expedita. Dolore eveniet amet repellat.",
+      "id": "UHJvZHVjdDoxOTc5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/CMwecnjnWUyekwOD.png"
         },
-        "net": {
-          "amount": "14.59",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/pWpTNOYdEujOLBYn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sara",
-    "id": 1070,
-    "lastName": "Carron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "9.76",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "9.76",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "9.76",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTkzMA==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Unde quae dolor.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "14.59",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "14.59",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "14.59",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "14.59",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "14.59",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "14.59",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 86
+      "producer": {
+        "firstName": "Sara",
+        "id": "VXNlcjoxMDcw",
+        "lastName": "Carron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "9.76",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "9.76",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "9.76",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTkzMA==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "14.59",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "14.59",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 86
+        }
+      ]
     }
-  ]
+  }
 }

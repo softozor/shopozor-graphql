@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-09-14"
-  },
-  "description": "Repellendus earum sint harum cumque officiis. Et aliquam corporis et ea fugiat. Dicta animi ex deserunt fugiat.\nArchitecto quod voluptatem reiciendis.",
-  "id": "UHJvZHVjdDo1Njc=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZwKCvgQBRIWOlIZa.png"
-    }
-  ],
-  "name": "Facere.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "6.73",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "6.73",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-09-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "6.73",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "6.73",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Repellendus earum sint harum cumque officiis. Et aliquam corporis et ea fugiat. Dicta animi ex deserunt fugiat.\nArchitecto quod voluptatem reiciendis.",
+      "id": "UHJvZHVjdDo1Njc=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZwKCvgQBRIWOlIZa.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.55",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.55",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.55",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjkwMQ==",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Facere.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "6.73",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "6.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "6.73",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "6.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 447
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.55",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.55",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.55",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjkwMQ==",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "6.73",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "6.73",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 447
+        }
+      ]
     }
-  ]
+  }
 }

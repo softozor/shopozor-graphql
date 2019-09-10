@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-07-01"
-  },
-  "description": "Similique labore fugiat dolores ratione modi commodi. Quia rem quasi iusto fuga. Delectus ex dolore.\nQuae est sit deleniti numquam consectetur quos. Doloremque quia commodi esse architecto accusamus.",
-  "id": "UHJvZHVjdDozNDIy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NVsQsIjfdEOKflsp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JuqWNVlMGHXVNKox.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SalFzHEcJAcvSEFT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PQQgjbgMdJXmLMRU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ONrQoTrDaCerXuWq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JvbxhVRgsLNBfAeR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GUpOVjYJwbubCZhH.png"
-    }
-  ],
-  "name": "Quam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "35.18",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "35.18",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-07-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "35.18",
-          "currency": "CHF"
+      "description": "Similique labore fugiat dolores ratione modi commodi. Quia rem quasi iusto fuga. Delectus ex dolore.\nQuae est sit deleniti numquam consectetur quos. Doloremque quia commodi esse architecto accusamus.",
+      "id": "UHJvZHVjdDozNDIy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NVsQsIjfdEOKflsp.png"
         },
-        "net": {
-          "amount": "35.18",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/JuqWNVlMGHXVNKox.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SalFzHEcJAcvSEFT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/PQQgjbgMdJXmLMRU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ONrQoTrDaCerXuWq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JvbxhVRgsLNBfAeR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GUpOVjYJwbubCZhH.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1111,
-    "lastName": "Corbat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "34.87",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "34.87",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "34.87",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTcwNjc=",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Quam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "35.18",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "35.18",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "35.18",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "35.18",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "35.18",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "35.18",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 240
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTEx",
+        "lastName": "Corbat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "34.87",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "34.87",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "34.87",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTcwNjc=",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "35.18",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "35.18",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 240
+        }
+      ]
     }
-  ]
+  }
 }

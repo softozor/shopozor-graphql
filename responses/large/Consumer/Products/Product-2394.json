@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-04-15"
-  },
-  "description": "Pariatur vero perspiciatis sed quidem pariatur. Laudantium adipisci deserunt maxime. Sed aspernatur doloribus at quos quas rerum tempore. Voluptas molestiae rem dicta.",
-  "id": "UHJvZHVjdDoyMzk0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/sDcABxcqndVzIgEt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qsfRhxRLMuudYsdK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RsANQUVrrDaHsgLX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UQnenOkgCDnJdtJc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tuLtJjgpjiVVjZSj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jHkqIvRchLluqleq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/urLNEiSLKSmJvtqq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/onKCrIbgFFajJAUx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lyblrzmGsyilUEzt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nxrctgIwWiauIwDq.png"
-    }
-  ],
-  "name": "Doloremque explicabo nisi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "64.82",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.82",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-04-15"
       },
-      "stop": {
-        "gross": {
-          "amount": "64.82",
-          "currency": "CHF"
+      "description": "Pariatur vero perspiciatis sed quidem pariatur. Laudantium adipisci deserunt maxime. Sed aspernatur doloribus at quos quas rerum tempore. Voluptas molestiae rem dicta.",
+      "id": "UHJvZHVjdDoyMzk0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/sDcABxcqndVzIgEt.png"
         },
-        "net": {
-          "amount": "64.82",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qsfRhxRLMuudYsdK.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RsANQUVrrDaHsgLX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UQnenOkgCDnJdtJc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tuLtJjgpjiVVjZSj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/jHkqIvRchLluqleq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/urLNEiSLKSmJvtqq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/onKCrIbgFFajJAUx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lyblrzmGsyilUEzt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nxrctgIwWiauIwDq.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "50.41",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "50.41",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "50.41",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTE5NTU=",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Doloremque explicabo nisi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "64.82",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "64.82",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.82",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "64.82",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "64.82",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.82",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 599
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "50.41",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "50.41",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "50.41",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTE5NTU=",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "64.82",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "64.82",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 599
+        }
+      ]
     }
-  ]
+  }
 }

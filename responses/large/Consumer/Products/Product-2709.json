@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-01-20"
-  },
-  "description": "Unde cum numquam. Odio vel repudiandae nemo. Placeat explicabo doloribus ab voluptate fugit facere.\nOdio labore magni eum at hic. Vitae aliquid deleniti omnis vero sed quam. Autem ad odio et aperiam.",
-  "id": "UHJvZHVjdDoyNzA5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZrqIGPEaUjyhYEEF.png"
-    }
-  ],
-  "name": "Autem id.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "68.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "68.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-01-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "68.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "68.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Unde cum numquam. Odio vel repudiandae nemo. Placeat explicabo doloribus ab voluptate fugit facere.\nOdio labore magni eum at hic. Vitae aliquid deleniti omnis vero sed quam. Autem ad odio et aperiam.",
+      "id": "UHJvZHVjdDoyNzA5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZrqIGPEaUjyhYEEF.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marianne",
-    "id": 1121,
-    "lastName": "Balmat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "31.79",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "31.79",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "31.79",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM0OTU=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Autem id.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "68.57",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "68.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "68.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "68.57",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "68.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "68.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 60
+      "producer": {
+        "firstName": "Marianne",
+        "id": "VXNlcjoxMTIx",
+        "lastName": "Balmat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "31.79",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "31.79",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "31.79",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM0OTU=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "68.57",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "68.57",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 60
+        }
+      ]
     }
-  ]
+  }
 }

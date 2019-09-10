@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-08-20"
-  },
-  "description": "Praesentium fugiat minus consectetur neque aut sunt ab. Id ipsum harum expedita repellendus perspiciatis voluptatibus.",
-  "id": "UHJvZHVjdDozNzA5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ElleVzmOJxcfJNRz.png"
-    }
-  ],
-  "name": "Eveniet unde.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "30.97",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "30.97",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-08-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "30.97",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "30.97",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Praesentium fugiat minus consectetur neque aut sunt ab. Id ipsum harum expedita repellendus perspiciatis voluptatibus.",
+      "id": "UHJvZHVjdDozNzA5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ElleVzmOJxcfJNRz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1146,
-    "lastName": "Aeby"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "21.97",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "21.97",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "21.97",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTg1Njk=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Eveniet unde.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "30.97",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "30.97",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "30.97",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "30.97",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "30.97",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "30.97",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 817
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Aeby"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "21.97",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "21.97",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "21.97",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg1Njk=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "30.97",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "30.97",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 817
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-04-07"
-  },
-  "description": "Cum debitis neque sunt placeat assumenda dolorem nemo.\nAccusantium tenetur recusandae sequi dignissimos. Quam non ipsum dicta neque esse. Ipsam ipsum animi enim ipsum ratione sint.",
-  "id": "UHJvZHVjdDo1ODg=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GYFeVeemvgVRMfYv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fkwqZYdgzFJQiDNI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SHFTzTHCNPHniIfi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hPgmHdDLrSYuLWdj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TlzClnijkJNasEzR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JWdMpRbfvmilfxjR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dUJTIxmVITObwtHA.png"
-    }
-  ],
-  "name": "Aliquid quaerat voluptatem.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "96.11",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "96.11",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-04-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "96.11",
-          "currency": "CHF"
+      "description": "Cum debitis neque sunt placeat assumenda dolorem nemo.\nAccusantium tenetur recusandae sequi dignissimos. Quam non ipsum dicta neque esse. Ipsam ipsum animi enim ipsum ratione sint.",
+      "id": "UHJvZHVjdDo1ODg=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GYFeVeemvgVRMfYv.png"
         },
-        "net": {
-          "amount": "96.11",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fkwqZYdgzFJQiDNI.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SHFTzTHCNPHniIfi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hPgmHdDLrSYuLWdj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TlzClnijkJNasEzR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JWdMpRbfvmilfxjR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dUJTIxmVITObwtHA.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marcel",
-    "id": 1046,
-    "lastName": "Wicht"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "74.25",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "74.25",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "74.25",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6Mjk4NA==",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Aliquid quaerat voluptatem.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "96.11",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "96.11",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "96.11",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "96.11",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "96.11",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "96.11",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 208
+      "producer": {
+        "firstName": "Marcel",
+        "id": "VXNlcjoxMDQ2",
+        "lastName": "Wicht"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "74.25",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "74.25",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "74.25",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6Mjk4NA==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "96.11",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "96.11",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 208
+        }
+      ]
     }
-  ]
+  }
 }

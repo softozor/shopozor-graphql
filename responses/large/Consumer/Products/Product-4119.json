@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-03-09"
-  },
-  "description": "Adipisci veritatis tempore earum. Numquam consequatur praesentium.\nIn possimus unde placeat distinctio. Atque atque error delectus cum.",
-  "id": "UHJvZHVjdDo0MTE5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/pTjNamxEVqiWsVHA.png"
-    }
-  ],
-  "name": "Atque occaecati maxime.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "81.28",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "81.28",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-03-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "81.28",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "81.28",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Adipisci veritatis tempore earum. Numquam consequatur praesentium.\nIn possimus unde placeat distinctio. Atque atque error delectus cum.",
+      "id": "UHJvZHVjdDo0MTE5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/pTjNamxEVqiWsVHA.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1021,
-    "lastName": "Comman"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "51.64",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "51.64",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "51.64",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA2ODA=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Atque occaecati maxime.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "81.28",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "81.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "81.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "81.28",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "81.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "81.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 73
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMDIx",
+        "lastName": "Comman"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "51.64",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "51.64",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "51.64",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA2ODA=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "81.28",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "81.28",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 73
+        }
+      ]
     }
-  ]
+  }
 }

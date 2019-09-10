@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-11-10"
-  },
-  "description": "Quia sunt amet hic similique veritatis incidunt.\nVoluptas architecto dolor doloribus optio. Consequuntur tenetur rem modi.",
-  "id": "UHJvZHVjdDo2MTY=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NTyisndkwttjPHzz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cLcSWsBjHMZAIbFn.png"
-    }
-  ],
-  "name": "Doloribus nam deleniti.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.74",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.74",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-11-10"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.74",
-          "currency": "CHF"
+      "description": "Quia sunt amet hic similique veritatis incidunt.\nVoluptas architecto dolor doloribus optio. Consequuntur tenetur rem modi.",
+      "id": "UHJvZHVjdDo2MTY=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NTyisndkwttjPHzz.png"
         },
-        "net": {
-          "amount": "1.74",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cLcSWsBjHMZAIbFn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.51",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.51",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.51",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzE1MA==",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Doloribus nam deleniti.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.74",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.74",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.74",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.74",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.74",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.74",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 248
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.51",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.51",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.51",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzE1MA==",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.74",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.74",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 248
+        }
+      ]
     }
-  ]
+  }
 }

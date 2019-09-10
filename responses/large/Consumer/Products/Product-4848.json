@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-08-13"
-  },
-  "description": "Eos quae natus sequi molestiae sequi soluta.\nDicta harum dolor numquam. Aliquam facere consequuntur quisquam exercitationem.",
-  "id": "UHJvZHVjdDo0ODQ4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/TrIAajmhvLNQhKKo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aAGduCTIzhNdUjtv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WeTWFgedFSbDOSZd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QrjrAfosXrWJZsym.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aUhROFcXObEBmNBG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IPConbSngYsBpyni.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bqOiVfFgTioClsED.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VaIOfCRTCZmDJhKY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PABqaqUKUzfORcOE.png"
-    }
-  ],
-  "name": "Earum accusantium optio.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "90.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "90.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-08-13"
       },
-      "stop": {
-        "gross": {
-          "amount": "90.41",
-          "currency": "CHF"
+      "description": "Eos quae natus sequi molestiae sequi soluta.\nDicta harum dolor numquam. Aliquam facere consequuntur quisquam exercitationem.",
+      "id": "UHJvZHVjdDo0ODQ4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/TrIAajmhvLNQhKKo.png"
         },
-        "net": {
-          "amount": "90.41",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/aAGduCTIzhNdUjtv.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/WeTWFgedFSbDOSZd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QrjrAfosXrWJZsym.png"
+        },
+        {
+          "alt": "",
+          "url": "products/aUhROFcXObEBmNBG.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IPConbSngYsBpyni.png"
+        },
+        {
+          "alt": "",
+          "url": "products/bqOiVfFgTioClsED.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VaIOfCRTCZmDJhKY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/PABqaqUKUzfORcOE.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lisa",
-    "id": 1022,
-    "lastName": "Charpié"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "43.05",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "43.05",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "43.05",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQzNjg=",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      ],
+      "name": "Earum accusantium optio.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "90.41",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "90.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "90.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "90.41",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "90.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "90.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 74
+      "producer": {
+        "firstName": "Lisa",
+        "id": "VXNlcjoxMDIy",
+        "lastName": "Charpié"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "43.05",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "43.05",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "43.05",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQzNjg=",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "90.41",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "90.41",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 74
+        }
+      ]
     }
-  ]
+  }
 }

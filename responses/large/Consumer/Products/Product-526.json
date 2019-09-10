@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-01-27"
-  },
-  "description": "Perferendis itaque praesentium saepe. Magni asperiores necessitatibus dignissimos nesciunt hic consequuntur.",
-  "id": "UHJvZHVjdDo1MjY=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/PXagsPeQlCIiAlNw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IkmYsUPFcwEJlNEl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wofHvoppDgVbsbLO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jqNzjCWpsCBkZPdI.png"
-    }
-  ],
-  "name": "Eius quis eaque.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "68.73",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "68.73",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-01-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "68.73",
-          "currency": "CHF"
+      "description": "Perferendis itaque praesentium saepe. Magni asperiores necessitatibus dignissimos nesciunt hic consequuntur.",
+      "id": "UHJvZHVjdDo1MjY=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/PXagsPeQlCIiAlNw.png"
         },
-        "net": {
-          "amount": "68.73",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/IkmYsUPFcwEJlNEl.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wofHvoppDgVbsbLO.png"
+        },
+        {
+          "alt": "",
+          "url": "products/jqNzjCWpsCBkZPdI.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Albert",
-    "id": 1029,
-    "lastName": "Cousin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "30.87",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "30.87",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "30.87",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjY2Mw==",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Eius quis eaque.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "68.73",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "68.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "68.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "68.73",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "68.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "68.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 42
+      "producer": {
+        "firstName": "Albert",
+        "id": "VXNlcjoxMDI5",
+        "lastName": "Cousin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "30.87",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "30.87",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "30.87",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjY2Mw==",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "68.73",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "68.73",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 42
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-12-14"
-  },
-  "description": "Debitis earum fugit molestiae.\nTempora eos quod. Quae ratione ullam ducimus possimus.",
-  "id": "UHJvZHVjdDoxODI5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/kvMdKcirJjDZtmME.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RSSGcMoKUGSzkpQw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SwLXAjPchSAvMawJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GIqYfXASxPUygVHy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gUSCvRcBRtrxKejc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hjylDpLWZMgAGqvs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rgsTfCiFVMVTUHFG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rbRiigSRbnyeIuYn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VmQpsgTvsICFfUVO.png"
-    }
-  ],
-  "name": "Eaque at.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "3.84",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "3.84",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-12-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "3.84",
-          "currency": "CHF"
+      "description": "Debitis earum fugit molestiae.\nTempora eos quod. Quae ratione ullam ducimus possimus.",
+      "id": "UHJvZHVjdDoxODI5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/kvMdKcirJjDZtmME.png"
         },
-        "net": {
-          "amount": "3.84",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RSSGcMoKUGSzkpQw.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SwLXAjPchSAvMawJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GIqYfXASxPUygVHy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/gUSCvRcBRtrxKejc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hjylDpLWZMgAGqvs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rgsTfCiFVMVTUHFG.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rbRiigSRbnyeIuYn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VmQpsgTvsICFfUVO.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.43",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.43",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.43",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTE1MQ==",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      ],
+      "name": "Eaque at.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "3.84",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "3.84",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "3.84",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "3.84",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "3.84",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "3.84",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 411
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.43",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.43",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.43",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTE1MQ==",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "3.84",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "3.84",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 411
+        }
+      ]
     }
-  ]
+  }
 }

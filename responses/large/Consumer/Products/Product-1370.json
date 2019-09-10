@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-09-19"
-  },
-  "description": "Modi similique vel molestias. Eum modi asperiores ipsum officia.\nPlaceat tempora deserunt minima quia ipsa necessitatibus. Occaecati cum soluta laborum vero. Non voluptate maxime aperiam voluptas.",
-  "id": "UHJvZHVjdDoxMzcw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/TwLxAFdUzVMIUzKf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XPgweWvYSdAdmylA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JATDRiAyapevlhMM.png"
-    }
-  ],
-  "name": "Totam facilis officiis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "95.92",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "95.92",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-09-19"
       },
-      "stop": {
-        "gross": {
-          "amount": "95.92",
-          "currency": "CHF"
+      "description": "Modi similique vel molestias. Eum modi asperiores ipsum officia.\nPlaceat tempora deserunt minima quia ipsa necessitatibus. Occaecati cum soluta laborum vero. Non voluptate maxime aperiam voluptas.",
+      "id": "UHJvZHVjdDoxMzcw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/TwLxAFdUzVMIUzKf.png"
         },
-        "net": {
-          "amount": "95.92",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/XPgweWvYSdAdmylA.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/JATDRiAyapevlhMM.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "29.09",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "29.09",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "29.09",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjgxOQ==",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Totam facilis officiis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "95.92",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "95.92",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "95.92",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "95.92",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "95.92",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "95.92",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 93
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "29.09",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "29.09",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "29.09",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjgxOQ==",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "95.92",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "95.92",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 93
+        }
+      ]
     }
-  ]
+  }
 }

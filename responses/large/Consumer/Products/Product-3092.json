@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-11-30"
-  },
-  "description": "Sequi id aliquid necessitatibus neque repellendus. Accusantium alias quaerat.",
-  "id": "UHJvZHVjdDozMDky",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/LoGuEtzUgJMLgiEm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OYAoVSHAnWBWbAne.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BByZYxRPgaUxFQIy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ggdewJrQAFXkdmvv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dbUNvXCvcDTWkGPe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GzhtRCAHdUQqVDWx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JDgiTugiLLqZqxRT.png"
-    }
-  ],
-  "name": "Inventore doloremque optio.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "70.56",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "70.56",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-11-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "70.56",
-          "currency": "CHF"
+      "description": "Sequi id aliquid necessitatibus neque repellendus. Accusantium alias quaerat.",
+      "id": "UHJvZHVjdDozMDky",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/LoGuEtzUgJMLgiEm.png"
         },
-        "net": {
-          "amount": "70.56",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OYAoVSHAnWBWbAne.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BByZYxRPgaUxFQIy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ggdewJrQAFXkdmvv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dbUNvXCvcDTWkGPe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GzhtRCAHdUQqVDWx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JDgiTugiLLqZqxRT.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1148,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "4.13",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "4.13",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "4.13",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTUzNzc=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Inventore doloremque optio.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "70.56",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "70.56",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.56",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "70.56",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "70.56",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.56",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 276
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTQ4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "4.13",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "4.13",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "4.13",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTUzNzc=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "70.56",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "70.56",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 276
+        }
+      ]
     }
-  ]
+  }
 }

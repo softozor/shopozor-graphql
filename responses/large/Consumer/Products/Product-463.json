@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-12-01"
-  },
-  "description": "Voluptas quo ipsam neque iste est. Vitae officiis exercitationem esse accusantium autem velit. Reiciendis facilis dolorum ea reiciendis veritatis rerum.",
-  "id": "UHJvZHVjdDo0NjM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MMgFkmkDEqsDnWIy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gNFRWbedcjphVYgG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yUFHKSKJVdWiIkTp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rpQfAWVKAmYVOOWJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rMYWzsAkqTDwKwRK.png"
-    }
-  ],
-  "name": "Eos voluptatem at.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "66.2",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "66.2",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-12-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "66.2",
-          "currency": "CHF"
+      "description": "Voluptas quo ipsam neque iste est. Vitae officiis exercitationem esse accusantium autem velit. Reiciendis facilis dolorum ea reiciendis veritatis rerum.",
+      "id": "UHJvZHVjdDo0NjM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MMgFkmkDEqsDnWIy.png"
         },
-        "net": {
-          "amount": "66.2",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gNFRWbedcjphVYgG.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/yUFHKSKJVdWiIkTp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rpQfAWVKAmYVOOWJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rMYWzsAkqTDwKwRK.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Romain",
-    "id": 1028,
-    "lastName": "Cornut"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "19.41",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "19.41",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "19.41",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjM0NA==",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Eos voluptatem at.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "66.2",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "66.2",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.2",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "66.2",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "66.2",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.2",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 351
+      "producer": {
+        "firstName": "Romain",
+        "id": "VXNlcjoxMDI4",
+        "lastName": "Cornut"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "19.41",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "19.41",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "19.41",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjM0NA==",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "66.2",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "66.2",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 351
+        }
+      ]
     }
-  ]
+  }
 }

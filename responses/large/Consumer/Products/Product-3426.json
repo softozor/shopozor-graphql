@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-07-17"
-  },
-  "description": "Iste labore iste odio laboriosam optio nam enim. Recusandae minima totam vel. Illo eum tempore impedit pariatur accusamus beatae.",
-  "id": "UHJvZHVjdDozNDI2",
-  "images": [],
-  "name": "Atque quibusdam quibusdam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "20.89",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.89",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-07-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "20.89",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.89",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "8.94",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "8.94",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "8.94",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTcwOTQ=",
-      "isAvailable": true,
-      "name": "500g",
+      "description": "Iste labore iste odio laboriosam optio nam enim. Recusandae minima totam vel. Illo eum tempore impedit pariatur accusamus beatae.",
+      "id": "UHJvZHVjdDozNDI2",
+      "images": [],
+      "name": "Atque quibusdam quibusdam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "20.89",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "20.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "20.89",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "20.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 153
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "8.94",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "8.94",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "8.94",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTcwOTQ=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "20.89",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "20.89",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 153
+        }
+      ]
     }
-  ]
+  }
 }

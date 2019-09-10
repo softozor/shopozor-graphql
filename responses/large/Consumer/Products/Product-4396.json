@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-02-18"
-  },
-  "description": "Doloremque saepe ducimus sunt.\nProvident fugiat occaecati voluptatibus sapiente consequuntur. Ducimus occaecati laboriosam consectetur omnis. Ducimus nesciunt cupiditate.",
-  "id": "UHJvZHVjdDo0Mzk2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GnVzUgqqzJmrIzbf.png"
-    }
-  ],
-  "name": "Nesciunt debitis nobis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "80.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "80.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-02-18"
       },
-      "stop": {
-        "gross": {
-          "amount": "80.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "80.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Doloremque saepe ducimus sunt.\nProvident fugiat occaecati voluptatibus sapiente consequuntur. Ducimus occaecati laboriosam consectetur omnis. Ducimus nesciunt cupiditate.",
+      "id": "UHJvZHVjdDo0Mzk2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GnVzUgqqzJmrIzbf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Alexandre",
-    "id": 1049,
-    "lastName": "Corpataux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "80.21",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "80.21",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "80.21",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjIwMzA=",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Nesciunt debitis nobis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "80.41",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "80.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "80.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "80.41",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "80.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "80.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 421
+      "producer": {
+        "firstName": "Alexandre",
+        "id": "VXNlcjoxMDQ5",
+        "lastName": "Corpataux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "80.21",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "80.21",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "80.21",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjIwMzA=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "80.41",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "80.41",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 421
+        }
+      ]
     }
-  ]
+  }
 }

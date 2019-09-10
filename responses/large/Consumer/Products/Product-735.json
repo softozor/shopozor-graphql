@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-10-25"
-  },
-  "description": "Dolor non facere iure laudantium eaque vitae. Error ut architecto consequuntur alias velit distinctio quo. Nulla excepturi fuga expedita dolor sequi.",
-  "id": "UHJvZHVjdDo3MzU=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NoPMmuHJVsNMEbjI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mGAWNfLZOvBnQFsW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZYWPymYudHSOefBP.png"
-    }
-  ],
-  "name": "Id illum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "68.47",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "68.47",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-10-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "68.47",
-          "currency": "CHF"
+      "description": "Dolor non facere iure laudantium eaque vitae. Error ut architecto consequuntur alias velit distinctio quo. Nulla excepturi fuga expedita dolor sequi.",
+      "id": "UHJvZHVjdDo3MzU=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NoPMmuHJVsNMEbjI.png"
         },
-        "net": {
-          "amount": "68.47",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mGAWNfLZOvBnQFsW.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZYWPymYudHSOefBP.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Luca",
-    "id": 1149,
-    "lastName": "Rapin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "40.88",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "40.88",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "40.88",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzcxMg==",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Id illum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "68.47",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "68.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "68.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "68.47",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "68.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "68.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 36
+      "producer": {
+        "firstName": "Luca",
+        "id": "VXNlcjoxMTQ5",
+        "lastName": "Rapin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "40.88",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "40.88",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "40.88",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzcxMg==",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "68.47",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "68.47",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 36
+        }
+      ]
     }
-  ]
+  }
 }

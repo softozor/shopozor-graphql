@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-08-04"
-  },
-  "description": "Ipsam nisi ducimus quos laboriosam.\nMollitia libero provident assumenda optio vero quidem.\nSequi quis quos quae eaque. In ipsa nulla quas repellat. Neque libero a itaque.",
-  "id": "UHJvZHVjdDoxNjAx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/jbBGJspVOpqMLPcD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xSBRZqMhGaNdVJft.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sCBugTqZdErqJOhd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KBWTlEBKuJpqJJLY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZQesDePpyQbyPGkP.png"
-    }
-  ],
-  "name": "Autem distinctio.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "18.82",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.82",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-08-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "18.82",
-          "currency": "CHF"
+      "description": "Ipsam nisi ducimus quos laboriosam.\nMollitia libero provident assumenda optio vero quidem.\nSequi quis quos quae eaque. In ipsa nulla quas repellat. Neque libero a itaque.",
+      "id": "UHJvZHVjdDoxNjAx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/jbBGJspVOpqMLPcD.png"
         },
-        "net": {
-          "amount": "18.82",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xSBRZqMhGaNdVJft.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/sCBugTqZdErqJOhd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KBWTlEBKuJpqJJLY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZQesDePpyQbyPGkP.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Bernard",
-    "id": 1112,
-    "lastName": "Badan"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.99",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.99",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.99",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6Nzk2Ng==",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Autem distinctio.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "18.82",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "18.82",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.82",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "18.82",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "18.82",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.82",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 218
+      "producer": {
+        "firstName": "Bernard",
+        "id": "VXNlcjoxMTEy",
+        "lastName": "Badan"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.99",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.99",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.99",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6Nzk2Ng==",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "18.82",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "18.82",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 218
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-10-27"
-  },
-  "description": "Expedita velit mollitia qui ipsum ut. Ex qui dolore aperiam nemo.\nAccusantium nihil reiciendis totam. Repellat rerum eveniet a harum officia.",
-  "id": "UHJvZHVjdDo4MjM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/jWOywFBbROlBFqQE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZubZsQeLiEjwzKDZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BCTDnrrbHiBbAzUV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ToOgJzGqxctNmaiJ.png"
-    }
-  ],
-  "name": "Ea blanditiis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "40.75",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "40.75",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-10-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "40.75",
-          "currency": "CHF"
+      "description": "Expedita velit mollitia qui ipsum ut. Ex qui dolore aperiam nemo.\nAccusantium nihil reiciendis totam. Repellat rerum eveniet a harum officia.",
+      "id": "UHJvZHVjdDo4MjM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/jWOywFBbROlBFqQE.png"
         },
-        "net": {
-          "amount": "40.75",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZubZsQeLiEjwzKDZ.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BCTDnrrbHiBbAzUV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ToOgJzGqxctNmaiJ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sébastien",
-    "id": 1100,
-    "lastName": "Musy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "29.58",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "29.58",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "29.58",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDEzMA==",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Ea blanditiis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "40.75",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "40.75",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "40.75",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "40.75",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "40.75",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "40.75",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 165
+      "producer": {
+        "firstName": "Sébastien",
+        "id": "VXNlcjoxMTAw",
+        "lastName": "Musy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "29.58",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "29.58",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "29.58",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDEzMA==",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "40.75",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "40.75",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 165
+        }
+      ]
     }
-  ]
+  }
 }

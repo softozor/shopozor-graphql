@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-10-22"
-  },
-  "description": "Odit atque cumque aspernatur. Dignissimos in et quo iure fugiat.",
-  "id": "UHJvZHVjdDo0ODU1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/PCARUsPyjaRaUJwR.png"
-    }
-  ],
-  "name": "Veritatis assumenda est quaerat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "20.28",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.28",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-10-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "20.28",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.28",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Odit atque cumque aspernatur. Dignissimos in et quo iure fugiat.",
+      "id": "UHJvZHVjdDo0ODU1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/PCARUsPyjaRaUJwR.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nicole",
-    "id": 1092,
-    "lastName": "Vallélian"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.36",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.36",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.36",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQ0MDE=",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Veritatis assumenda est quaerat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "20.28",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "20.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "20.28",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "20.28",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.28",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 18
+      "producer": {
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDky",
+        "lastName": "Vallélian"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.36",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.36",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.36",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ0MDE=",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "20.28",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "20.28",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 18
+        }
+      ]
     }
-  ]
+  }
 }

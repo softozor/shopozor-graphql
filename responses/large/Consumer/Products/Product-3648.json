@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-10-29"
-  },
-  "description": "Laborum accusamus molestias ipsum vero commodi. Voluptatibus facere inventore nobis. Ratione repudiandae sint velit hic minima architecto. Quos eaque sequi ipsa eveniet illo sit suscipit.",
-  "id": "UHJvZHVjdDozNjQ4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MViHvNFznfShRpbb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OJqInyvtBkKMZLGI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RJGWBVCekpgWxJbh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UyOhnRxcTTJGrcfA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tFnYOcVHyhYnFNNK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AdkHmksgkxJqnZhT.png"
-    }
-  ],
-  "name": "Perferendis voluptatem voluptate.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "38.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "38.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-10-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "38.49",
-          "currency": "CHF"
+      "description": "Laborum accusamus molestias ipsum vero commodi. Voluptatibus facere inventore nobis. Ratione repudiandae sint velit hic minima architecto. Quos eaque sequi ipsa eveniet illo sit suscipit.",
+      "id": "UHJvZHVjdDozNjQ4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MViHvNFznfShRpbb.png"
         },
-        "net": {
-          "amount": "38.49",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OJqInyvtBkKMZLGI.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RJGWBVCekpgWxJbh.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UyOhnRxcTTJGrcfA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tFnYOcVHyhYnFNNK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/AdkHmksgkxJqnZhT.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marcel",
-    "id": 1046,
-    "lastName": "Wicht"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "9.01",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "9.01",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "9.01",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTgyNzI=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Perferendis voluptatem voluptate.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "38.49",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "38.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "38.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "38.49",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "38.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "38.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 4
+      "producer": {
+        "firstName": "Marcel",
+        "id": "VXNlcjoxMDQ2",
+        "lastName": "Wicht"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "9.01",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "9.01",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "9.01",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTgyNzI=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "38.49",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "38.49",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 4
+        }
+      ]
     }
-  ]
+  }
 }

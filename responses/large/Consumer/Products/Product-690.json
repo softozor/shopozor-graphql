@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-10-08"
-  },
-  "description": "Enim accusamus doloribus facilis praesentium non. Explicabo praesentium eligendi tempore.\nSuscipit magni molestiae totam odit. Eum necessitatibus debitis labore.",
-  "id": "UHJvZHVjdDo2OTA=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/dUwFzhwyjISRVTMq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OBDbiECAdRTpnglB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YDncNwzupnLaSkZA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RFrYCRqacufqOued.png"
-    }
-  ],
-  "name": "Qui eaque itaque.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "87.72",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "87.72",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-10-08"
       },
-      "stop": {
-        "gross": {
-          "amount": "87.72",
-          "currency": "CHF"
+      "description": "Enim accusamus doloribus facilis praesentium non. Explicabo praesentium eligendi tempore.\nSuscipit magni molestiae totam odit. Eum necessitatibus debitis labore.",
+      "id": "UHJvZHVjdDo2OTA=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/dUwFzhwyjISRVTMq.png"
         },
-        "net": {
-          "amount": "87.72",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OBDbiECAdRTpnglB.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YDncNwzupnLaSkZA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/RFrYCRqacufqOued.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "75.29",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "75.29",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "75.29",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzQ4OQ==",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Qui eaque itaque.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "87.72",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "87.72",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.72",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "87.72",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "87.72",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.72",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 338
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "75.29",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "75.29",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "75.29",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzQ4OQ==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "87.72",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "87.72",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 338
+        }
+      ]
     }
-  ]
+  }
 }

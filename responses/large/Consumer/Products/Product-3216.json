@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-05-01"
-  },
-  "description": "Cumque porro deserunt accusantium sint sed saepe. Excepturi ad nobis officia pariatur.\nConsectetur fuga laboriosam nesciunt quasi.",
-  "id": "UHJvZHVjdDozMjE2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/EunZQRasLuBwyeBJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SLQhVIkadSWBQSzO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WukGGpevlSRBfmkA.png"
-    }
-  ],
-  "name": "Totam nobis qui.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "70.83",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "70.83",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-05-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "70.83",
-          "currency": "CHF"
+      "description": "Cumque porro deserunt accusantium sint sed saepe. Excepturi ad nobis officia pariatur.\nConsectetur fuga laboriosam nesciunt quasi.",
+      "id": "UHJvZHVjdDozMjE2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/EunZQRasLuBwyeBJ.png"
         },
-        "net": {
-          "amount": "70.83",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SLQhVIkadSWBQSzO.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/WukGGpevlSRBfmkA.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Emma",
-    "id": 1004,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "69.45",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "69.45",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "69.45",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTYwMTE=",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Totam nobis qui.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "70.83",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "70.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "70.83",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "70.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 478
+      "producer": {
+        "firstName": "Emma",
+        "id": "VXNlcjoxMDA0",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "69.45",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "69.45",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "69.45",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTYwMTE=",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "70.83",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "70.83",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 478
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-02-05"
-  },
-  "description": "Aperiam fugit similique nobis deserunt voluptates deserunt exercitationem. Neque recusandae adipisci esse voluptatum.",
-  "id": "UHJvZHVjdDoxNDg=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MbHQSXfNUZKgwrUT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hCfPiCuFtXWcuXJx.png"
-    }
-  ],
-  "name": "Ea unde.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "4.63",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "4.63",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-02-05"
       },
-      "stop": {
-        "gross": {
-          "amount": "4.63",
-          "currency": "CHF"
+      "description": "Aperiam fugit similique nobis deserunt voluptates deserunt exercitationem. Neque recusandae adipisci esse voluptatum.",
+      "id": "UHJvZHVjdDoxNDg=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MbHQSXfNUZKgwrUT.png"
         },
-        "net": {
-          "amount": "4.63",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/hCfPiCuFtXWcuXJx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Pascal",
-    "id": 1127,
-    "lastName": "Robadey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.99",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.99",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.99",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzU2",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Ea unde.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "4.63",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "4.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "4.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "4.63",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "4.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "4.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 16
+      "producer": {
+        "firstName": "Pascal",
+        "id": "VXNlcjoxMTI3",
+        "lastName": "Robadey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.99",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.99",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.99",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzU2",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "4.63",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "4.63",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 16
+        }
+      ]
     }
-  ]
+  }
 }

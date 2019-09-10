@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-05-03"
-  },
-  "description": "Cumque veniam repellendus ab architecto. Voluptates nobis architecto recusandae ullam. Labore aliquam beatae dolorem in.",
-  "id": "UHJvZHVjdDo4Mjk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/oTenrbfgIxKwUooj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xXpVGLDTteUyThbG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vqBtmdLRnbsFdJjq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MhKbursCBDqMonJk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YqioacliqYztAKEj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dPJseswfPgbSFPBf.png"
-    }
-  ],
-  "name": "Nam facilis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "39.01",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "39.01",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-05-03"
       },
-      "stop": {
-        "gross": {
-          "amount": "39.01",
-          "currency": "CHF"
+      "description": "Cumque veniam repellendus ab architecto. Voluptates nobis architecto recusandae ullam. Labore aliquam beatae dolorem in.",
+      "id": "UHJvZHVjdDo4Mjk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/oTenrbfgIxKwUooj.png"
         },
-        "net": {
-          "amount": "39.01",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xXpVGLDTteUyThbG.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/vqBtmdLRnbsFdJjq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MhKbursCBDqMonJk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YqioacliqYztAKEj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dPJseswfPgbSFPBf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Bernard",
-    "id": 1112,
-    "lastName": "Badan"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.64",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.64",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.64",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDE3Mg==",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Nam facilis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "39.01",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "39.01",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.01",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "39.01",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "39.01",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.01",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 285
+      "producer": {
+        "firstName": "Bernard",
+        "id": "VXNlcjoxMTEy",
+        "lastName": "Badan"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.64",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.64",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.64",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDE3Mg==",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "39.01",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "39.01",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 285
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-06-30"
-  },
-  "description": "Voluptatibus sapiente sequi quibusdam. Facere aspernatur officia occaecati aut similique consectetur. Deleniti rerum corporis expedita.",
-  "id": "UHJvZHVjdDoxMzg3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/TbBuPLBMGSpueBLW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bohjroRzNiaMiMAc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qJUcjIMABKqvGRYa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/woljyBrpfOKZjTqD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/clSaOeXBiPDXmShv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TQubQqQFlbXUCUjI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WrfIhCXPHCBSKrhr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zEpzcWDRuHswJbqe.png"
-    }
-  ],
-  "name": "Ea aspernatur illo.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "92.32",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "92.32",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-06-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "92.32",
-          "currency": "CHF"
+      "description": "Voluptatibus sapiente sequi quibusdam. Facere aspernatur officia occaecati aut similique consectetur. Deleniti rerum corporis expedita.",
+      "id": "UHJvZHVjdDoxMzg3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/TbBuPLBMGSpueBLW.png"
         },
-        "net": {
-          "amount": "92.32",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/bohjroRzNiaMiMAc.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qJUcjIMABKqvGRYa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/woljyBrpfOKZjTqD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/clSaOeXBiPDXmShv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TQubQqQFlbXUCUjI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WrfIhCXPHCBSKrhr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zEpzcWDRuHswJbqe.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georges",
-    "id": 1008,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "86.82",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "86.82",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "86.82",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjkwOA==",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Ea aspernatur illo.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "92.32",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "92.32",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "92.32",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "92.32",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "92.32",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "92.32",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 693
+      "producer": {
+        "firstName": "Georges",
+        "id": "VXNlcjoxMDA4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "86.82",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "86.82",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "86.82",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjkwOA==",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "92.32",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "92.32",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 693
+        }
+      ]
     }
-  ]
+  }
 }

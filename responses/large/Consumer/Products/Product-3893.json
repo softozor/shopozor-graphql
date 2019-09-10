@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-07-15"
-  },
-  "description": "Repellendus quas dolore quas. Illum amet consectetur provident. Expedita voluptate molestias vel.",
-  "id": "UHJvZHVjdDozODkz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/cJqUKSTOFsjDZpGl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DmPAdoKVBeWruexk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tFssZTdmDeCUpnqa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iyxJWJDTsHNgQicy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YxDlXUnjiOrZEsWN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/snsDbzgcGRWgceYH.png"
-    }
-  ],
-  "name": "Repellat eius labore sapiente.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "94.83",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "94.83",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-07-15"
       },
-      "stop": {
-        "gross": {
-          "amount": "94.83",
-          "currency": "CHF"
+      "description": "Repellendus quas dolore quas. Illum amet consectetur provident. Expedita voluptate molestias vel.",
+      "id": "UHJvZHVjdDozODkz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/cJqUKSTOFsjDZpGl.png"
         },
-        "net": {
-          "amount": "94.83",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/DmPAdoKVBeWruexk.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/tFssZTdmDeCUpnqa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iyxJWJDTsHNgQicy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YxDlXUnjiOrZEsWN.png"
+        },
+        {
+          "alt": "",
+          "url": "products/snsDbzgcGRWgceYH.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Suzanne",
-    "id": 1036,
-    "lastName": "Monnet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "79.04",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "79.04",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "79.04",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTk1MTc=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Repellat eius labore sapiente.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "94.83",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "94.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "94.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "94.83",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "94.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "94.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 55
+      "producer": {
+        "firstName": "Suzanne",
+        "id": "VXNlcjoxMDM2",
+        "lastName": "Monnet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "79.04",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "79.04",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "79.04",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk1MTc=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "94.83",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "94.83",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 55
+        }
+      ]
     }
-  ]
+  }
 }

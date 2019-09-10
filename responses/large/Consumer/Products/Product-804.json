@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-04-06"
-  },
-  "description": "Corporis distinctio nemo laudantium nisi necessitatibus. Blanditiis quod mollitia cumque ipsa rerum nobis cupiditate.\nEius nostrum neque qui temporibus. Aut omnis architecto nam explicabo provident.",
-  "id": "UHJvZHVjdDo4MDQ=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/qgoOfjQBHmPildHl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hYuOILcJUenIilju.png"
-    }
-  ],
-  "name": "Architecto eligendi vero.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "46.59",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "46.59",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-04-06"
       },
-      "stop": {
-        "gross": {
-          "amount": "46.59",
-          "currency": "CHF"
+      "description": "Corporis distinctio nemo laudantium nisi necessitatibus. Blanditiis quod mollitia cumque ipsa rerum nobis cupiditate.\nEius nostrum neque qui temporibus. Aut omnis architecto nam explicabo provident.",
+      "id": "UHJvZHVjdDo4MDQ=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/qgoOfjQBHmPildHl.png"
         },
-        "net": {
-          "amount": "46.59",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/hYuOILcJUenIilju.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lucie",
-    "id": 1031,
-    "lastName": "Beuchat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "15.47",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "15.47",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "15.47",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDAzOA==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Architecto eligendi vero.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "46.59",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "46.59",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "46.59",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "46.59",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "46.59",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "46.59",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 204
+      "producer": {
+        "firstName": "Lucie",
+        "id": "VXNlcjoxMDMx",
+        "lastName": "Beuchat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "15.47",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "15.47",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "15.47",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDAzOA==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "46.59",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "46.59",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 204
+        }
+      ]
     }
-  ]
+  }
 }

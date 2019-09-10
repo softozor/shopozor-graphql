@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-09-25"
-  },
-  "description": "Nobis nostrum quis magnam. Autem cum quae laboriosam quos. Fugit soluta vitae in.\nQuas quo non distinctio non ipsa quis. Provident vitae quidem ea. Adipisci accusantium saepe quis.",
-  "id": "UHJvZHVjdDozMTAx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/aabPdrIwcMRYKQlZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/peHRNLNlEsbbVGMP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qoOMsNHaXMVyJKcL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/THAHQRDpjfKMhBiv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YItVDdnmRjLswqGU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rMKoxIcZUhGBRYbj.png"
-    }
-  ],
-  "name": "Placeat ratione.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "50.43",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.43",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-09-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "50.43",
-          "currency": "CHF"
+      "description": "Nobis nostrum quis magnam. Autem cum quae laboriosam quos. Fugit soluta vitae in.\nQuas quo non distinctio non ipsa quis. Provident vitae quidem ea. Adipisci accusantium saepe quis.",
+      "id": "UHJvZHVjdDozMTAx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/aabPdrIwcMRYKQlZ.png"
         },
-        "net": {
-          "amount": "50.43",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/peHRNLNlEsbbVGMP.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qoOMsNHaXMVyJKcL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/THAHQRDpjfKMhBiv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YItVDdnmRjLswqGU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rMKoxIcZUhGBRYbj.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lucie",
-    "id": 1031,
-    "lastName": "Beuchat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "20.65",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "20.65",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "20.65",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTU0MzE=",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Placeat ratione.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "50.43",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "50.43",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.43",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "50.43",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "50.43",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.43",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 125
+      "producer": {
+        "firstName": "Lucie",
+        "id": "VXNlcjoxMDMx",
+        "lastName": "Beuchat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "20.65",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "20.65",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "20.65",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTU0MzE=",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "50.43",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "50.43",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 125
+        }
+      ]
     }
-  ]
+  }
 }

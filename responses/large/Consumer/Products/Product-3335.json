@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-04-17"
-  },
-  "description": "Blanditiis hic ab architecto doloremque. Occaecati ut libero dolorem quod illum a. Distinctio autem nam reprehenderit. Neque saepe quos voluptatum explicabo.",
-  "id": "UHJvZHVjdDozMzM1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/PUlxwGIRgwGyScpD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rTryJVOraIjLbRuF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iNcBsGODDWNJrAoa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hKgERtZZKKAczQZA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UrjOrGIoXGtOsjXq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VnDqbxXhtkQeGrRo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ChIbZHRHLVhplGiK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fRYfFxpBWYNKYwjt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dwlCRJlbgngHLMlS.png"
-    }
-  ],
-  "name": "Mollitia sed magnam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "48.04",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "48.04",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-04-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "48.04",
-          "currency": "CHF"
+      "description": "Blanditiis hic ab architecto doloremque. Occaecati ut libero dolorem quod illum a. Distinctio autem nam reprehenderit. Neque saepe quos voluptatum explicabo.",
+      "id": "UHJvZHVjdDozMzM1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/PUlxwGIRgwGyScpD.png"
         },
-        "net": {
-          "amount": "48.04",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rTryJVOraIjLbRuF.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/iNcBsGODDWNJrAoa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hKgERtZZKKAczQZA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UrjOrGIoXGtOsjXq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VnDqbxXhtkQeGrRo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ChIbZHRHLVhplGiK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fRYfFxpBWYNKYwjt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dwlCRJlbgngHLMlS.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Yvonne",
-    "id": 1074,
-    "lastName": "Gilliéron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "28.55",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "28.55",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "28.55",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTY2MDg=",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Mollitia sed magnam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "48.04",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "48.04",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "48.04",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "48.04",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "48.04",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "48.04",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 211
+      "producer": {
+        "firstName": "Yvonne",
+        "id": "VXNlcjoxMDc0",
+        "lastName": "Gilliéron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "28.55",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "28.55",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "28.55",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTY2MDg=",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "48.04",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "48.04",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 211
+        }
+      ]
     }
-  ]
+  }
 }

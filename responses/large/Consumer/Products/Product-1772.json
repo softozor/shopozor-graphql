@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-06-22"
-  },
-  "description": "Suscipit magnam deleniti voluptatibus soluta. Praesentium perspiciatis reprehenderit ducimus recusandae voluptatem eaque. Enim commodi magnam.",
-  "id": "UHJvZHVjdDoxNzcy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/jxESlSDFrdmApUqq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YgNGKQNrpXWaIGjR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jgXDBSiZQwGxcWzX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LWszHKaGomRAvEXz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TjNoGvWkotarNAnf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tUxTWHgkkCxvMwyz.png"
-    }
-  ],
-  "name": "Sapiente officiis dolore.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "6.07",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "6.07",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-06-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "6.07",
-          "currency": "CHF"
+      "description": "Suscipit magnam deleniti voluptatibus soluta. Praesentium perspiciatis reprehenderit ducimus recusandae voluptatem eaque. Enim commodi magnam.",
+      "id": "UHJvZHVjdDoxNzcy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/jxESlSDFrdmApUqq.png"
         },
-        "net": {
-          "amount": "6.07",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YgNGKQNrpXWaIGjR.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jgXDBSiZQwGxcWzX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LWszHKaGomRAvEXz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TjNoGvWkotarNAnf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tUxTWHgkkCxvMwyz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Pascal",
-    "id": 1127,
-    "lastName": "Robadey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "4.8",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "4.8",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "4.8",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODg0MQ==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Sapiente officiis dolore.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "6.07",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "6.07",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.07",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "6.07",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "6.07",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.07",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 35
+      "producer": {
+        "firstName": "Pascal",
+        "id": "VXNlcjoxMTI3",
+        "lastName": "Robadey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "4.8",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "4.8",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "4.8",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODg0MQ==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "6.07",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "6.07",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 35
+        }
+      ]
     }
-  ]
+  }
 }

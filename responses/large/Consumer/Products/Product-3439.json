@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-08-20"
-  },
-  "description": "Asperiores dolores iste nostrum. Laborum expedita est quam expedita. Dolorum officiis illo deserunt.\nQuibusdam expedita suscipit ratione nihil doloribus quibusdam.",
-  "id": "UHJvZHVjdDozNDM5",
-  "images": [],
-  "name": "Temporibus reiciendis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "53.23",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "53.23",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-08-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "53.23",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "53.23",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1021,
-    "lastName": "Comman"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "2.4",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "2.4",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "2.4",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTcxNjY=",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      "description": "Asperiores dolores iste nostrum. Laborum expedita est quam expedita. Dolorum officiis illo deserunt.\nQuibusdam expedita suscipit ratione nihil doloribus quibusdam.",
+      "id": "UHJvZHVjdDozNDM5",
+      "images": [],
+      "name": "Temporibus reiciendis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "53.23",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "53.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "53.23",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "53.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 150
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMDIx",
+        "lastName": "Comman"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "2.4",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "2.4",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "2.4",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTcxNjY=",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "53.23",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "53.23",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 150
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-12-20"
-  },
-  "description": "Quasi praesentium numquam. Nemo quae recusandae.\nIure ipsam reiciendis nostrum error soluta nostrum. Vitae repellendus distinctio.",
-  "id": "UHJvZHVjdDo0NzY2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/CqXSDsHBNikzBHmd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cGpYTNoxiBCpXyNP.png"
-    }
-  ],
-  "name": "Illum aspernatur deleniti.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "88.95",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "88.95",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-12-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "88.95",
-          "currency": "CHF"
+      "description": "Quasi praesentium numquam. Nemo quae recusandae.\nIure ipsam reiciendis nostrum error soluta nostrum. Vitae repellendus distinctio.",
+      "id": "UHJvZHVjdDo0NzY2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/CqXSDsHBNikzBHmd.png"
         },
-        "net": {
-          "amount": "88.95",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cGpYTNoxiBCpXyNP.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Claude",
-    "id": 1065,
-    "lastName": "Martin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "33.28",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "33.28",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "33.28",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjM5NDk=",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Illum aspernatur deleniti.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "88.95",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "88.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "88.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "88.95",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "88.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "88.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 9
+      "producer": {
+        "firstName": "Claude",
+        "id": "VXNlcjoxMDY1",
+        "lastName": "Martin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "33.28",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "33.28",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "33.28",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjM5NDk=",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "88.95",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "88.95",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 9
+        }
+      ]
     }
-  ]
+  }
 }

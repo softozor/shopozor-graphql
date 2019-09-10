@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-04-27"
-  },
-  "description": "Rerum cum sunt earum iure ullam. Nisi sed odit maxime facilis. Maxime laboriosam aut.\nQuo beatae illo officiis beatae repellat nam. Unde delectus officiis corporis rerum.",
-  "id": "UHJvZHVjdDoxMjU1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/rgtnIQFqwMyPjkRq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eFKRnakOEHcmPWNq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rGVTusXEQFAnucQs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MawYJIJBJQsEfLeo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GYGaHzFdGwxfrgrJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dsMcOdbTHsJwOIyW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BSDSqtRTFedkNIpT.png"
-    }
-  ],
-  "name": "Molestias minus nostrum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "84.94",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "84.94",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-04-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "84.94",
-          "currency": "CHF"
+      "description": "Rerum cum sunt earum iure ullam. Nisi sed odit maxime facilis. Maxime laboriosam aut.\nQuo beatae illo officiis beatae repellat nam. Unde delectus officiis corporis rerum.",
+      "id": "UHJvZHVjdDoxMjU1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/rgtnIQFqwMyPjkRq.png"
         },
-        "net": {
-          "amount": "84.94",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/eFKRnakOEHcmPWNq.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rGVTusXEQFAnucQs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MawYJIJBJQsEfLeo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GYGaHzFdGwxfrgrJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dsMcOdbTHsJwOIyW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BSDSqtRTFedkNIpT.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lisa",
-    "id": 1022,
-    "lastName": "Charpié"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "22.27",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "22.27",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "22.27",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjI0Nw==",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Molestias minus nostrum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "84.94",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "84.94",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "84.94",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "84.94",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "84.94",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "84.94",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 11
+      "producer": {
+        "firstName": "Lisa",
+        "id": "VXNlcjoxMDIy",
+        "lastName": "Charpié"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "22.27",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "22.27",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "22.27",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjI0Nw==",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "84.94",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "84.94",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 11
+        }
+      ]
     }
-  ]
+  }
 }

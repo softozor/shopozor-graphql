@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-01-30"
-  },
-  "description": "Cum inventore magnam aperiam porro dolores quo. Consequuntur ducimus assumenda excepturi praesentium quidem.",
-  "id": "UHJvZHVjdDo0MDY5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/AhLPUXwzohbvGSob.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lhqzIyiyasoqcOpO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JUnhvHfBlkCkkEPC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MeKDbRLmJkRrDrFd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cYIMAvRjyMJXDFRh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SHemuORlGYkJQcSx.png"
-    }
-  ],
-  "name": "Doloribus praesentium magnam unde.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "95.03",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "95.03",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-01-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "95.03",
-          "currency": "CHF"
+      "description": "Cum inventore magnam aperiam porro dolores quo. Consequuntur ducimus assumenda excepturi praesentium quidem.",
+      "id": "UHJvZHVjdDo0MDY5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/AhLPUXwzohbvGSob.png"
         },
-        "net": {
-          "amount": "95.03",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lhqzIyiyasoqcOpO.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/JUnhvHfBlkCkkEPC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MeKDbRLmJkRrDrFd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cYIMAvRjyMJXDFRh.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SHemuORlGYkJQcSx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1021,
-    "lastName": "Comman"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "37.83",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "37.83",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "37.83",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA0MzU=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Doloribus praesentium magnam unde.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "95.03",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "95.03",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "95.03",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "95.03",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "95.03",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "95.03",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 39
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMDIx",
+        "lastName": "Comman"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "37.83",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "37.83",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "37.83",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA0MzU=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "95.03",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "95.03",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 39
+        }
+      ]
     }
-  ]
+  }
 }

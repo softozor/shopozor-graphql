@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-06-25"
-  },
-  "description": "Ad vel sed nulla ipsum. Ad cum sint saepe maiores occaecati magni.",
-  "id": "UHJvZHVjdDo0NzMy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/TpAYqzLDeCoXeJSA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sZdERuOoDlewVKmy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aLxRdPxtsDVDeKpv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kQrCscBrlqLrHTDf.png"
-    }
-  ],
-  "name": "Fugit vero ratione.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "92.76",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "92.76",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-06-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "92.76",
-          "currency": "CHF"
+      "description": "Ad vel sed nulla ipsum. Ad cum sint saepe maiores occaecati magni.",
+      "id": "UHJvZHVjdDo0NzMy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/TpAYqzLDeCoXeJSA.png"
         },
-        "net": {
-          "amount": "92.76",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/sZdERuOoDlewVKmy.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/aLxRdPxtsDVDeKpv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/kQrCscBrlqLrHTDf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marcel",
-    "id": 1046,
-    "lastName": "Wicht"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "23.31",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "23.31",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "23.31",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjM3ODU=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Fugit vero ratione.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "92.76",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "92.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "92.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "92.76",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "92.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "92.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 32
+      "producer": {
+        "firstName": "Marcel",
+        "id": "VXNlcjoxMDQ2",
+        "lastName": "Wicht"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "23.31",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "23.31",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "23.31",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjM3ODU=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "92.76",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "92.76",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 32
+        }
+      ]
     }
-  ]
+  }
 }

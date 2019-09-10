@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-03-26"
-  },
-  "description": "Delectus tempore eligendi molestiae. Sunt nobis quas sunt a.\nError facilis nesciunt et blanditiis ex hic. Quisquam repellat eveniet et earum quos. Quam aliquam quisquam nulla voluptatum.",
-  "id": "UHJvZHVjdDozNjA1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/mPUKgWokZYClECoa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GwuneldGJBRCGFIA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gvPxnNesMafUtock.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sNKeVppDHApAfjbM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PEghoHYJlApDiHYf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iAMHsmajcuqtSIyn.png"
-    }
-  ],
-  "name": "Veritatis accusantium.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "73.45",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "73.45",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-03-26"
       },
-      "stop": {
-        "gross": {
-          "amount": "73.45",
-          "currency": "CHF"
+      "description": "Delectus tempore eligendi molestiae. Sunt nobis quas sunt a.\nError facilis nesciunt et blanditiis ex hic. Quisquam repellat eveniet et earum quos. Quam aliquam quisquam nulla voluptatum.",
+      "id": "UHJvZHVjdDozNjA1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/mPUKgWokZYClECoa.png"
         },
-        "net": {
-          "amount": "73.45",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/GwuneldGJBRCGFIA.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gvPxnNesMafUtock.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sNKeVppDHApAfjbM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/PEghoHYJlApDiHYf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iAMHsmajcuqtSIyn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marcel",
-    "id": 1046,
-    "lastName": "Wicht"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "45.92",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "45.92",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "45.92",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTgwNTM=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Veritatis accusantium.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "73.45",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "73.45",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "73.45",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "73.45",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "73.45",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "73.45",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 162
+      "producer": {
+        "firstName": "Marcel",
+        "id": "VXNlcjoxMDQ2",
+        "lastName": "Wicht"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "45.92",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "45.92",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "45.92",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTgwNTM=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "73.45",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "73.45",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 162
+        }
+      ]
     }
-  ]
+  }
 }

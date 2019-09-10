@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-05-31"
-  },
-  "description": "Quos libero sed odit. Quisquam cumque laboriosam architecto quae dicta. Et minima quae vero unde asperiores facilis corrupti.\nAperiam dolorum ad.\nOccaecati laborum nam. Odit nisi voluptatem.",
-  "id": "UHJvZHVjdDo0MDEx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/UOHwFOYScbWKIhWm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xPRhoYGBCOCfRHHb.png"
-    }
-  ],
-  "name": "Ipsum similique blanditiis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "82.83",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "82.83",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-05-31"
       },
-      "stop": {
-        "gross": {
-          "amount": "82.83",
-          "currency": "CHF"
+      "description": "Quos libero sed odit. Quisquam cumque laboriosam architecto quae dicta. Et minima quae vero unde asperiores facilis corrupti.\nAperiam dolorum ad.\nOccaecati laborum nam. Odit nisi voluptatem.",
+      "id": "UHJvZHVjdDo0MDEx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/UOHwFOYScbWKIhWm.png"
         },
-        "net": {
-          "amount": "82.83",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xPRhoYGBCOCfRHHb.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "28.41",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "28.41",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "28.41",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjAxNzY=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Ipsum similique blanditiis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "82.83",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "82.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "82.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "82.83",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "82.83",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "82.83",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 542
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "28.41",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "28.41",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "28.41",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjAxNzY=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "82.83",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "82.83",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 542
+        }
+      ]
     }
-  ]
+  }
 }

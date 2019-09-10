@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-07-29"
-  },
-  "description": "Delectus mollitia error. Ut error illum assumenda. Distinctio aperiam atque voluptatem quisquam accusamus unde.",
-  "id": "UHJvZHVjdDoyNzEz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/rLpqYzoPktEWtMKy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uyfXJEKGTxtLQmQA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RJdbZjyAsyDapinL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oPQkjDqVZzwAotuS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tkxTNuCKoPVTiaXV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aIycxDcABVZzENyc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OqCbdXmUgnpALxhR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dyRSFMQTuzbInjiU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/symjxFhzzgksuzax.png"
-    }
-  ],
-  "name": "Necessitatibus repellat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "20.47",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.47",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-07-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "20.47",
-          "currency": "CHF"
+      "description": "Delectus mollitia error. Ut error illum assumenda. Distinctio aperiam atque voluptatem quisquam accusamus unde.",
+      "id": "UHJvZHVjdDoyNzEz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/rLpqYzoPktEWtMKy.png"
         },
-        "net": {
-          "amount": "20.47",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/uyfXJEKGTxtLQmQA.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RJdbZjyAsyDapinL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oPQkjDqVZzwAotuS.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tkxTNuCKoPVTiaXV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/aIycxDcABVZzENyc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/OqCbdXmUgnpALxhR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dyRSFMQTuzbInjiU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/symjxFhzzgksuzax.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "13.86",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "13.86",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "13.86",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM1MDY=",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Necessitatibus repellat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "20.47",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "20.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "20.47",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "20.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 330
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "13.86",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "13.86",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "13.86",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM1MDY=",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "20.47",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "20.47",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 330
+        }
+      ]
     }
-  ]
+  }
 }

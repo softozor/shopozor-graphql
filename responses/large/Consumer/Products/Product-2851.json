@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-08-05"
-  },
-  "description": "Nulla recusandae aut ab est dolorum. Assumenda quis aliquid temporibus optio doloribus. Quis voluptatibus quis suscipit labore dolorem.",
-  "id": "UHJvZHVjdDoyODUx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/uyDhJdvDGqSEGuxu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GVeptoLybAsrlNeM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rMOMjvtyEggMknLP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/weqZoOonaazsHxws.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rfAgHVlMIoiNldIf.png"
-    }
-  ],
-  "name": "Enim eum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "78.25",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "78.25",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-08-05"
       },
-      "stop": {
-        "gross": {
-          "amount": "78.25",
-          "currency": "CHF"
+      "description": "Nulla recusandae aut ab est dolorum. Assumenda quis aliquid temporibus optio doloribus. Quis voluptatibus quis suscipit labore dolorem.",
+      "id": "UHJvZHVjdDoyODUx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/uyDhJdvDGqSEGuxu.png"
         },
-        "net": {
-          "amount": "78.25",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/GVeptoLybAsrlNeM.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rMOMjvtyEggMknLP.png"
+        },
+        {
+          "alt": "",
+          "url": "products/weqZoOonaazsHxws.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rfAgHVlMIoiNldIf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "37.75",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "37.75",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "37.75",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTQxOTg=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Enim eum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "78.25",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "78.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "78.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "78.25",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "78.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "78.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 10
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "37.75",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "37.75",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "37.75",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQxOTg=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "78.25",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "78.25",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 10
+        }
+      ]
     }
-  ]
+  }
 }

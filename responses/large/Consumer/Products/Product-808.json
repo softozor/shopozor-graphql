@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-08-16"
-  },
-  "description": "Incidunt aut id accusamus reprehenderit numquam architecto. Explicabo sapiente consequuntur temporibus esse. Nam vel fuga repellat eos.",
-  "id": "UHJvZHVjdDo4MDg=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/BLTHujvhaVMYzwbz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eRsnRRholSvVmYWy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NRIYmIlybWUvPpFo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/byOIbqAQXNvvbToc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RGBUynZgUgJUFzLH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FvBJRCoPzgVUsgiT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NgMWQhlHfEcaWenC.png"
-    }
-  ],
-  "name": "Impedit deleniti.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "62.3",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "62.3",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-08-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "62.3",
-          "currency": "CHF"
+      "description": "Incidunt aut id accusamus reprehenderit numquam architecto. Explicabo sapiente consequuntur temporibus esse. Nam vel fuga repellat eos.",
+      "id": "UHJvZHVjdDo4MDg=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/BLTHujvhaVMYzwbz.png"
         },
-        "net": {
-          "amount": "62.3",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/eRsnRRholSvVmYWy.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/NRIYmIlybWUvPpFo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/byOIbqAQXNvvbToc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/RGBUynZgUgJUFzLH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FvBJRCoPzgVUsgiT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NgMWQhlHfEcaWenC.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Emma",
-    "id": 1004,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.79",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.79",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.79",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDA1Nw==",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Impedit deleniti.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "62.3",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "62.3",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "62.3",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "62.3",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "62.3",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "62.3",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 502
+      "producer": {
+        "firstName": "Emma",
+        "id": "VXNlcjoxMDA0",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.79",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.79",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.79",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDA1Nw==",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "62.3",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "62.3",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 502
+        }
+      ]
     }
-  ]
+  }
 }

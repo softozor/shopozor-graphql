@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-03-10"
-  },
-  "description": "Cupiditate provident corporis nesciunt inventore porro.\nOptio est soluta ipsa non laboriosam rerum. Iusto saepe culpa nostrum voluptatum fugiat. Cumque corporis explicabo explicabo iure veniam.",
-  "id": "UHJvZHVjdDozNDc1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/vgVtEYlUVDHHTALN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WOdmAZejuBMoBRRs.png"
-    }
-  ],
-  "name": "Consequatur ipsam dolore.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "66.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "66.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-03-10"
       },
-      "stop": {
-        "gross": {
-          "amount": "66.41",
-          "currency": "CHF"
+      "description": "Cupiditate provident corporis nesciunt inventore porro.\nOptio est soluta ipsa non laboriosam rerum. Iusto saepe culpa nostrum voluptatum fugiat. Cumque corporis explicabo explicabo iure veniam.",
+      "id": "UHJvZHVjdDozNDc1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/vgVtEYlUVDHHTALN.png"
         },
-        "net": {
-          "amount": "66.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/WOdmAZejuBMoBRRs.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Elisabeth",
-    "id": 1136,
-    "lastName": "Beguin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "33.03",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "33.03",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "33.03",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTczNjg=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Consequatur ipsam dolore.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "66.41",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "66.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "66.41",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "66.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 622
+      "producer": {
+        "firstName": "Elisabeth",
+        "id": "VXNlcjoxMTM2",
+        "lastName": "Beguin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "33.03",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "33.03",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "33.03",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTczNjg=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "66.41",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "66.41",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 622
+        }
+      ]
     }
-  ]
+  }
 }

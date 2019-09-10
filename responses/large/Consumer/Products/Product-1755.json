@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-10-13"
-  },
-  "description": "Delectus praesentium pariatur aperiam expedita. Porro laborum commodi repellendus.",
-  "id": "UHJvZHVjdDoxNzU1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/jesGQFIUtKKRxcgI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jpKmENuqMBIczaBr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jGSMQbyGtGCVfvqc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wqWzQqSvTLaWDvmC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BmhqHCdCwGCgQBno.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FshVKMSHYRXsMkCE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rChSoSxIPpGmZMFY.png"
-    }
-  ],
-  "name": "Alias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "31.42",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "31.42",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-10-13"
       },
-      "stop": {
-        "gross": {
-          "amount": "31.42",
-          "currency": "CHF"
+      "description": "Delectus praesentium pariatur aperiam expedita. Porro laborum commodi repellendus.",
+      "id": "UHJvZHVjdDoxNzU1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/jesGQFIUtKKRxcgI.png"
         },
-        "net": {
-          "amount": "31.42",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jpKmENuqMBIczaBr.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jGSMQbyGtGCVfvqc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/wqWzQqSvTLaWDvmC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BmhqHCdCwGCgQBno.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FshVKMSHYRXsMkCE.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rChSoSxIPpGmZMFY.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1021,
-    "lastName": "Comman"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "9.44",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "9.44",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "9.44",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODc1NA==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Alias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "31.42",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "31.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "31.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "31.42",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "31.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "31.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 375
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMDIx",
+        "lastName": "Comman"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "9.44",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "9.44",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "9.44",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODc1NA==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "31.42",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "31.42",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 375
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-09-16"
-  },
-  "description": "Temporibus eaque voluptates eius architecto rerum. Sequi beatae id non blanditiis est similique.",
-  "id": "UHJvZHVjdDo0Nzg5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/JEuezTKaUUjZxCnL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XiGNfNeFAoZVcpsJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dIalOMiMJbLhzveO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vsVMEzQOeGoYLlnH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mHAsmSXEjKkQnDzv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ggawsrXRzqgZHqLS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LnvsuIqrzmCeWgIn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VaFqdCttXDTESFys.png"
-    },
-    {
-      "alt": "",
-      "url": "products/necrTnqpoAwxRjur.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FXOmtqMfeRGRUZSB.png"
-    }
-  ],
-  "name": "Pariatur deleniti a.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "25.89",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "25.89",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-09-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "25.89",
-          "currency": "CHF"
+      "description": "Temporibus eaque voluptates eius architecto rerum. Sequi beatae id non blanditiis est similique.",
+      "id": "UHJvZHVjdDo0Nzg5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/JEuezTKaUUjZxCnL.png"
         },
-        "net": {
-          "amount": "25.89",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/XiGNfNeFAoZVcpsJ.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/dIalOMiMJbLhzveO.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vsVMEzQOeGoYLlnH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mHAsmSXEjKkQnDzv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ggawsrXRzqgZHqLS.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LnvsuIqrzmCeWgIn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VaFqdCttXDTESFys.png"
+        },
+        {
+          "alt": "",
+          "url": "products/necrTnqpoAwxRjur.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FXOmtqMfeRGRUZSB.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "25.56",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "25.56",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "25.56",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQwNzY=",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Pariatur deleniti a.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "25.89",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "25.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "25.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "25.89",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "25.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "25.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 61
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "25.56",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "25.56",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "25.56",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQwNzY=",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "25.89",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "25.89",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 61
+        }
+      ]
     }
-  ]
+  }
 }

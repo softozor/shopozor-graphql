@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-10-18"
-  },
-  "description": "Quam natus odit eius iste provident. Quae optio ducimus iste modi cupiditate omnis facere.\nVoluptates omnis natus labore reprehenderit.",
-  "id": "UHJvZHVjdDoxMDU5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/tAgkGzsDPPNkguyM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hLqmdEKxTmewDkXG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vmDAtPbkynAlXTSe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dvpcWicvKXtWQFeU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YSdJPMJYdtQLgyWK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WZCGGKIsfeVikUal.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gFHJtAjlkdxwIAEe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ERStXPrrcjNoWFEV.png"
-    }
-  ],
-  "name": "Cupiditate neque.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "64.54",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.54",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-10-18"
       },
-      "stop": {
-        "gross": {
-          "amount": "64.54",
-          "currency": "CHF"
+      "description": "Quam natus odit eius iste provident. Quae optio ducimus iste modi cupiditate omnis facere.\nVoluptates omnis natus labore reprehenderit.",
+      "id": "UHJvZHVjdDoxMDU5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/tAgkGzsDPPNkguyM.png"
         },
-        "net": {
-          "amount": "64.54",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/hLqmdEKxTmewDkXG.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/vmDAtPbkynAlXTSe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dvpcWicvKXtWQFeU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YSdJPMJYdtQLgyWK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WZCGGKIsfeVikUal.png"
+        },
+        {
+          "alt": "",
+          "url": "products/gFHJtAjlkdxwIAEe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ERStXPrrcjNoWFEV.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Monique",
-    "id": 1047,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "3.69",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "3.69",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "3.69",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTMxNQ==",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Cupiditate neque.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "64.54",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "64.54",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.54",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "64.54",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "64.54",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.54",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 78
+      "producer": {
+        "firstName": "Monique",
+        "id": "VXNlcjoxMDQ3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "3.69",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "3.69",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "3.69",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTMxNQ==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "64.54",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "64.54",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 78
+        }
+      ]
     }
-  ]
+  }
 }

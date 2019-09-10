@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-05-26"
-  },
-  "description": "Officia dignissimos suscipit qui aspernatur magni officia. Quod vel commodi accusantium debitis.\nProvident dolore vitae quo voluptatem saepe culpa commodi.",
-  "id": "UHJvZHVjdDoxMzA2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/YRxTIFQVQQZduSEy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KFPkTTXoxgDnVXSl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vddAUuYDBNbwRdHU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HCcOqRWSZmhbpuAK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yqwZqLexoGoCnoaY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oDFJaQbVQQEtEFUL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iTCxdiNhnSVESPIF.png"
-    }
-  ],
-  "name": "Officiis iusto qui.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "54.32",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "54.32",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-05-26"
       },
-      "stop": {
-        "gross": {
-          "amount": "54.32",
-          "currency": "CHF"
+      "description": "Officia dignissimos suscipit qui aspernatur magni officia. Quod vel commodi accusantium debitis.\nProvident dolore vitae quo voluptatem saepe culpa commodi.",
+      "id": "UHJvZHVjdDoxMzA2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/YRxTIFQVQQZduSEy.png"
         },
-        "net": {
-          "amount": "54.32",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/KFPkTTXoxgDnVXSl.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/vddAUuYDBNbwRdHU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HCcOqRWSZmhbpuAK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/yqwZqLexoGoCnoaY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oDFJaQbVQQEtEFUL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iTCxdiNhnSVESPIF.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sarah",
-    "id": 1027,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.77",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.77",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.77",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjUxMA==",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Officiis iusto qui.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "54.32",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "54.32",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "54.32",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "54.32",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "54.32",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "54.32",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 535
+      "producer": {
+        "firstName": "Sarah",
+        "id": "VXNlcjoxMDI3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.77",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.77",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.77",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjUxMA==",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "54.32",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "54.32",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 535
+        }
+      ]
     }
-  ]
+  }
 }

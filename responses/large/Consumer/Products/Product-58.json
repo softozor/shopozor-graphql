@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-12-14"
-  },
-  "description": "Fugiat ex inventore sed quod alias. Occaecati voluptatum aut totam. Sint laboriosam nesciunt laboriosam.\nVel dolore beatae aspernatur possimus. Doloribus neque error laudantium.",
-  "id": "UHJvZHVjdDo1OA==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/rIkhmkMcuBhLithq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wHhivUQcujuZuYym.png"
-    },
-    {
-      "alt": "",
-      "url": "products/itokDhprTFksVipE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pEwXKdicorgAJHIc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nyJcQsLzWukxCFca.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xvegaklfHdoMdoGz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KcRaIWeGcyFgQMLP.png"
-    }
-  ],
-  "name": "Illo facilis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "55.63",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "55.63",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-12-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "55.63",
-          "currency": "CHF"
+      "description": "Fugiat ex inventore sed quod alias. Occaecati voluptatum aut totam. Sint laboriosam nesciunt laboriosam.\nVel dolore beatae aspernatur possimus. Doloribus neque error laudantium.",
+      "id": "UHJvZHVjdDo1OA==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/rIkhmkMcuBhLithq.png"
         },
-        "net": {
-          "amount": "55.63",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wHhivUQcujuZuYym.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/itokDhprTFksVipE.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pEwXKdicorgAJHIc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nyJcQsLzWukxCFca.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xvegaklfHdoMdoGz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KcRaIWeGcyFgQMLP.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sarah",
-    "id": 1027,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "38.96",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "38.96",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "38.96",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzA1",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Illo facilis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "55.63",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "55.63",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 275
+      "producer": {
+        "firstName": "Sarah",
+        "id": "VXNlcjoxMDI3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "38.96",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "38.96",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "38.96",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzA1",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "55.63",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "55.63",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 275
+        }
+      ]
     }
-  ]
+  }
 }

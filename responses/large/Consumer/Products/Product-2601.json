@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-04-04"
-  },
-  "description": "Tenetur ipsa distinctio perspiciatis. Reiciendis molestias odio ab at.\nSunt veniam quod deleniti. Veritatis illo culpa reprehenderit labore vitae ullam quod.",
-  "id": "UHJvZHVjdDoyNjAx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/tvxXvHYvnHpBMeQD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QYiIzUSvumDyXlyX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pjapWzYALOLAoZtp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kiROsHYwYDtXXyFi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rPjRFCjVeOqICoaF.png"
-    }
-  ],
-  "name": "Perspiciatis dicta provident.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "40.89",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "40.89",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-04-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "40.89",
-          "currency": "CHF"
+      "description": "Tenetur ipsa distinctio perspiciatis. Reiciendis molestias odio ab at.\nSunt veniam quod deleniti. Veritatis illo culpa reprehenderit labore vitae ullam quod.",
+      "id": "UHJvZHVjdDoyNjAx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/tvxXvHYvnHpBMeQD.png"
         },
-        "net": {
-          "amount": "40.89",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/QYiIzUSvumDyXlyX.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/pjapWzYALOLAoZtp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/kiROsHYwYDtXXyFi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rPjRFCjVeOqICoaF.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Danielle",
-    "id": 1061,
-    "lastName": "Chaudet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "29.18",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "29.18",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "29.18",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NDU=",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Perspiciatis dicta provident.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "40.89",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "40.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "40.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "40.89",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "40.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "40.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 408
+      "producer": {
+        "firstName": "Danielle",
+        "id": "VXNlcjoxMDYx",
+        "lastName": "Chaudet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "29.18",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "29.18",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "29.18",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NDU=",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "40.89",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "40.89",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 408
+        }
+      ]
     }
-  ]
+  }
 }

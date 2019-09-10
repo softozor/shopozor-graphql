@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-10-20"
-  },
-  "description": "Consequuntur assumenda quisquam. Eligendi voluptates necessitatibus voluptate. Quaerat quae voluptatum aperiam dolorum debitis suscipit.",
-  "id": "UHJvZHVjdDo2MA==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/SANSelurhXiPDJAd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BpisSDceQeAdOHLY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/buAQTAlRmWiejPKl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eAMqNoXsVfgeIAvc.png"
-    }
-  ],
-  "name": "Ad sapiente error.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "4.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "4.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-10-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "4.41",
-          "currency": "CHF"
+      "description": "Consequuntur assumenda quisquam. Eligendi voluptates necessitatibus voluptate. Quaerat quae voluptatum aperiam dolorum debitis suscipit.",
+      "id": "UHJvZHVjdDo2MA==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/SANSelurhXiPDJAd.png"
         },
-        "net": {
-          "amount": "4.41",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BpisSDceQeAdOHLY.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/buAQTAlRmWiejPKl.png"
+        },
+        {
+          "alt": "",
+          "url": "products/eAMqNoXsVfgeIAvc.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Samuel",
-    "id": 59,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "3.61",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "3.61",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "3.61",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTQw",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Ad sapiente error.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "4.41",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "4.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "4.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "4.41",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "4.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "4.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 429
+      "producer": {
+        "firstName": "Samuel",
+        "id": "VXNlcjo1OQ==",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "3.61",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "3.61",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "3.61",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQw",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "4.41",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "4.41",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 429
+        }
+      ]
     }
-  ]
+  }
 }

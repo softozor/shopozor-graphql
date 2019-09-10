@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-04-10"
-  },
-  "description": "Natus ipsum numquam error cum voluptates error. Eius aperiam ut architecto optio.",
-  "id": "UHJvZHVjdDo0NDE2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/vZLAIQmgjTPdKnvi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/CyUMZFGgXbevgjvo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XzCMkVhwIjqPyzJC.png"
-    }
-  ],
-  "name": "Ducimus ipsam optio.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "37.41",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "37.41",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-04-10"
       },
-      "stop": {
-        "gross": {
-          "amount": "37.41",
-          "currency": "CHF"
+      "description": "Natus ipsum numquam error cum voluptates error. Eius aperiam ut architecto optio.",
+      "id": "UHJvZHVjdDo0NDE2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/vZLAIQmgjTPdKnvi.png"
         },
-        "net": {
-          "amount": "37.41",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/CyUMZFGgXbevgjvo.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/XzCMkVhwIjqPyzJC.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marcel",
-    "id": 1046,
-    "lastName": "Wicht"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.0",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.0",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.0",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjIxMjI=",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Ducimus ipsam optio.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "37.41",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "37.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "37.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "37.41",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "37.41",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "37.41",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 205
+      "producer": {
+        "firstName": "Marcel",
+        "id": "VXNlcjoxMDQ2",
+        "lastName": "Wicht"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.0",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.0",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.0",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjIxMjI=",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "37.41",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "37.41",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 205
+        }
+      ]
     }
-  ]
+  }
 }

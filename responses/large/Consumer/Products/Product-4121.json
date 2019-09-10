@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-07-29"
-  },
-  "description": "Repudiandae eius eligendi molestiae voluptatum odit iusto nesciunt. Sed cupiditate sunt eum repellat earum culpa. Voluptates velit sint nihil. Cumque a porro inventore sunt ullam commodi.",
-  "id": "UHJvZHVjdDo0MTIx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/vgbeTZMkzmKCjRKE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rBvLYckVsYZgVhrm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iZTYoiuejxRpfyPV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mPOyEGlHLxMiFbeE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BqrPhfcmBnaxIpFK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GcOCLrpOXgfGejuL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/klyPFOLxaknkAVrL.png"
-    }
-  ],
-  "name": "Optio quasi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "55.23",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "55.23",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-07-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "55.23",
-          "currency": "CHF"
+      "description": "Repudiandae eius eligendi molestiae voluptatum odit iusto nesciunt. Sed cupiditate sunt eum repellat earum culpa. Voluptates velit sint nihil. Cumque a porro inventore sunt ullam commodi.",
+      "id": "UHJvZHVjdDo0MTIx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/vgbeTZMkzmKCjRKE.png"
         },
-        "net": {
-          "amount": "55.23",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rBvLYckVsYZgVhrm.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/iZTYoiuejxRpfyPV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mPOyEGlHLxMiFbeE.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BqrPhfcmBnaxIpFK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GcOCLrpOXgfGejuL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/klyPFOLxaknkAVrL.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Emma",
-    "id": 1004,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.25",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.25",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.25",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA2OTI=",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Optio quasi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "55.23",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "55.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "55.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "55.23",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "55.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "55.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 0
+      "producer": {
+        "firstName": "Emma",
+        "id": "VXNlcjoxMDA0",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.25",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.25",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.25",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA2OTI=",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "55.23",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "55.23",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 0
+        }
+      ]
     }
-  ]
+  }
 }

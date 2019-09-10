@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-10-24"
-  },
-  "description": "Dolores totam ad asperiores maiores earum animi. Natus voluptates corrupti.\nAsperiores reprehenderit nam doloribus itaque animi. Ut iure ex.",
-  "id": "UHJvZHVjdDoxNTc2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NClYPEwHmsrTnXcI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YHhkxuWQuiFtWhBW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bExQhicPMHhFQwPh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AQQaWCXEXpqsEkdQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fEKVeSkRCoaaDXBd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MukisUoyOChXvDos.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vLEqUYNkuwWnrnEQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cjJjZFfBRiWdTkEQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SZIMSQcEMWhBGqFI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zIljOnEYlisqruwl.png"
-    }
-  ],
-  "name": "Commodi labore.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "79.79",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "79.79",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-10-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "79.79",
-          "currency": "CHF"
+      "description": "Dolores totam ad asperiores maiores earum animi. Natus voluptates corrupti.\nAsperiores reprehenderit nam doloribus itaque animi. Ut iure ex.",
+      "id": "UHJvZHVjdDoxNTc2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NClYPEwHmsrTnXcI.png"
         },
-        "net": {
-          "amount": "79.79",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YHhkxuWQuiFtWhBW.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/bExQhicPMHhFQwPh.png"
+        },
+        {
+          "alt": "",
+          "url": "products/AQQaWCXEXpqsEkdQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fEKVeSkRCoaaDXBd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MukisUoyOChXvDos.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vLEqUYNkuwWnrnEQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cjJjZFfBRiWdTkEQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SZIMSQcEMWhBGqFI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zIljOnEYlisqruwl.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Julie",
-    "id": 1087,
-    "lastName": "Bochud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.15",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.15",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.15",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzgxNA==",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Commodi labore.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "79.79",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "79.79",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "79.79",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "79.79",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "79.79",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "79.79",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 463
+      "producer": {
+        "firstName": "Julie",
+        "id": "VXNlcjoxMDg3",
+        "lastName": "Bochud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.15",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.15",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.15",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzgxNA==",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "79.79",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "79.79",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 463
+        }
+      ]
     }
-  ]
+  }
 }

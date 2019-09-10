@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-09-04"
-  },
-  "description": "Debitis quidem assumenda quam consequatur ea fugit. Totam sunt inventore reiciendis dicta eius. Numquam dolores tenetur.",
-  "id": "UHJvZHVjdDo3MA==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/JAGHxQalUCfUBqPz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ApWmfrPgBjuQwGYr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ADtJqBmbhtcilwPb.png"
-    }
-  ],
-  "name": "Molestias nisi quisquam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "99.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "99.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-09-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "99.49",
-          "currency": "CHF"
+      "description": "Debitis quidem assumenda quam consequatur ea fugit. Totam sunt inventore reiciendis dicta eius. Numquam dolores tenetur.",
+      "id": "UHJvZHVjdDo3MA==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/JAGHxQalUCfUBqPz.png"
         },
-        "net": {
-          "amount": "99.49",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ApWmfrPgBjuQwGYr.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ADtJqBmbhtcilwPb.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Corinne",
-    "id": 124,
-    "lastName": "Monnet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "67.24",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "67.24",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "67.24",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjI2",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Molestias nisi quisquam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "99.49",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "99.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "99.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "99.49",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "99.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "99.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 102
+      "producer": {
+        "firstName": "Corinne",
+        "id": "VXNlcjoxMjQ=",
+        "lastName": "Monnet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "67.24",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "67.24",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "67.24",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjI2",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "99.49",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "99.49",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 102
+        }
+      ]
     }
-  ]
+  }
 }

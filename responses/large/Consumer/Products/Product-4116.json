@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-08-23"
-  },
-  "description": "Dolorem maxime illum dolor quos laboriosam quasi. Dolorem repellendus voluptatum qui debitis. Dolores doloremque esse nam aliquam.\nAmet odit magni ullam eaque.",
-  "id": "UHJvZHVjdDo0MTE2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/nPEWYJuSTIMlerTd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kWdktCMXtPljiIHV.png"
-    }
-  ],
-  "name": "Voluptatem ex.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "18.47",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.47",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-08-23"
       },
-      "stop": {
-        "gross": {
-          "amount": "18.47",
-          "currency": "CHF"
+      "description": "Dolorem maxime illum dolor quos laboriosam quasi. Dolorem repellendus voluptatum qui debitis. Dolores doloremque esse nam aliquam.\nAmet odit magni ullam eaque.",
+      "id": "UHJvZHVjdDo0MTE2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/nPEWYJuSTIMlerTd.png"
         },
-        "net": {
-          "amount": "18.47",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/kWdktCMXtPljiIHV.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1082,
-    "lastName": "Chatriand"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "3.25",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "3.25",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "3.25",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NTk=",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      ],
+      "name": "Voluptatem ex.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "18.47",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "18.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "18.47",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "18.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 573
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDgy",
+        "lastName": "Chatriand"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "3.25",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "3.25",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "3.25",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NTk=",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "18.47",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "18.47",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 573
+        }
+      ]
     }
-  ]
+  }
 }

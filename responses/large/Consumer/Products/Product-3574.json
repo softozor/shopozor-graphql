@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-10-20"
-  },
-  "description": "Sint est ex soluta sequi rem totam. Totam reiciendis recusandae cumque distinctio dolore.",
-  "id": "UHJvZHVjdDozNTc0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/xDFLgepOGKgwyqAa.png"
-    }
-  ],
-  "name": "Magnam cumque commodi quo.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "53.15",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "53.15",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-10-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "53.15",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "53.15",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Sint est ex soluta sequi rem totam. Totam reiciendis recusandae cumque distinctio dolore.",
+      "id": "UHJvZHVjdDozNTc0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/xDFLgepOGKgwyqAa.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Claude",
-    "id": 1065,
-    "lastName": "Martin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "35.25",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "35.25",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "35.25",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc4OTA=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Magnam cumque commodi quo.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "53.15",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "53.15",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.15",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "53.15",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "53.15",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.15",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 775
+      "producer": {
+        "firstName": "Claude",
+        "id": "VXNlcjoxMDY1",
+        "lastName": "Martin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "35.25",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "35.25",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "35.25",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc4OTA=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "53.15",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "53.15",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 775
+        }
+      ]
     }
-  ]
+  }
 }

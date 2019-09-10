@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-09-26"
-  },
-  "description": "Occaecati itaque mollitia rem autem. Sint voluptatibus inventore nam.\nUnde sapiente eos ullam consequatur excepturi eligendi. Porro dolorem esse.",
-  "id": "UHJvZHVjdDoyMDA1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/NQzkEIgyKdHaYzHj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PNgJotkJQuJUCDGT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ncmTVaGjJNVjFOao.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rpZdXPKKVFVfUorL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UmaDXbnvpkuWcMcC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FZIAnkEKWZyerlRL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mHGaYsrefwudOdAg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/obsjnVdlArgKCsdN.png"
-    }
-  ],
-  "name": "Velit quia.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "29.14",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "29.14",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-09-26"
       },
-      "stop": {
-        "gross": {
-          "amount": "29.14",
-          "currency": "CHF"
+      "description": "Occaecati itaque mollitia rem autem. Sint voluptatibus inventore nam.\nUnde sapiente eos ullam consequatur excepturi eligendi. Porro dolorem esse.",
+      "id": "UHJvZHVjdDoyMDA1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/NQzkEIgyKdHaYzHj.png"
         },
-        "net": {
-          "amount": "29.14",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/PNgJotkJQuJUCDGT.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ncmTVaGjJNVjFOao.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rpZdXPKKVFVfUorL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UmaDXbnvpkuWcMcC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FZIAnkEKWZyerlRL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mHGaYsrefwudOdAg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/obsjnVdlArgKCsdN.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Germaine",
-    "id": 1084,
-    "lastName": "Cosendey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "12.21",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "12.21",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "12.21",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjk=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Velit quia.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "29.14",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "29.14",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "29.14",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "29.14",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "29.14",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "29.14",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 16
+      "producer": {
+        "firstName": "Germaine",
+        "id": "VXNlcjoxMDg0",
+        "lastName": "Cosendey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "12.21",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "12.21",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "12.21",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNjk=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "29.14",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "29.14",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 16
+        }
+      ]
     }
-  ]
+  }
 }

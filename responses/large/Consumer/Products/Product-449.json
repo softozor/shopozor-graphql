@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-01-12"
-  },
-  "description": "Itaque itaque non similique. Amet eius possimus. Ipsam perspiciatis odio ipsa soluta nihil.",
-  "id": "UHJvZHVjdDo0NDk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/BHmKNMTrNDmaKwgp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kyumDuEzpJdFjZur.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lnhEqQZaqJjpYlFM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FtssdPTSHANSczPm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qkXpZXBKyUHubPSw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VpuAWtKpDiXGhyBs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZjnMpToGIdFJWohi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ClUvWSSGEBXlrNXe.png"
-    }
-  ],
-  "name": "Minus labore similique.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "31.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "31.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-01-12"
       },
-      "stop": {
-        "gross": {
-          "amount": "31.57",
-          "currency": "CHF"
+      "description": "Itaque itaque non similique. Amet eius possimus. Ipsam perspiciatis odio ipsa soluta nihil.",
+      "id": "UHJvZHVjdDo0NDk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/BHmKNMTrNDmaKwgp.png"
         },
-        "net": {
-          "amount": "31.57",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/kyumDuEzpJdFjZur.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lnhEqQZaqJjpYlFM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FtssdPTSHANSczPm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qkXpZXBKyUHubPSw.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VpuAWtKpDiXGhyBs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZjnMpToGIdFJWohi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ClUvWSSGEBXlrNXe.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Claude",
-    "id": 1065,
-    "lastName": "Martin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "8.83",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "8.83",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "8.83",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjI3OA==",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Minus labore similique.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "31.57",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "31.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "31.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "31.57",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "31.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "31.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 185
+      "producer": {
+        "firstName": "Claude",
+        "id": "VXNlcjoxMDY1",
+        "lastName": "Martin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "8.83",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "8.83",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "8.83",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjI3OA==",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "31.57",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "31.57",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 185
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-06-21"
-  },
-  "description": "Omnis temporibus laborum deserunt. Aliquam recusandae sed amet eos. Beatae sed debitis quo et quas.\nNecessitatibus incidunt itaque suscipit nam. Numquam dolore deserunt aut molestiae neque facere.",
-  "id": "UHJvZHVjdDoxNTE1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/eoVTrbLrJKBcaDYN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UaWarSzPqBMpFVMv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pWUNmUfRKLeeKFHw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HEywLPOvvtCEnWvr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mVWpTyQXKOzPxtwZ.png"
-    }
-  ],
-  "name": "Voluptate et fugit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "6.5",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "6.5",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-06-21"
       },
-      "stop": {
-        "gross": {
-          "amount": "6.5",
-          "currency": "CHF"
+      "description": "Omnis temporibus laborum deserunt. Aliquam recusandae sed amet eos. Beatae sed debitis quo et quas.\nNecessitatibus incidunt itaque suscipit nam. Numquam dolore deserunt aut molestiae neque facere.",
+      "id": "UHJvZHVjdDoxNTE1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/eoVTrbLrJKBcaDYN.png"
         },
-        "net": {
-          "amount": "6.5",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/UaWarSzPqBMpFVMv.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/pWUNmUfRKLeeKFHw.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HEywLPOvvtCEnWvr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mVWpTyQXKOzPxtwZ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georges",
-    "id": 1008,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.76",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.76",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.76",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzUxNQ==",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Voluptate et fugit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "6.5",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "6.5",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.5",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "6.5",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "6.5",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "6.5",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 89
+      "producer": {
+        "firstName": "Georges",
+        "id": "VXNlcjoxMDA4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.76",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.76",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.76",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzUxNQ==",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "6.5",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "6.5",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 89
+        }
+      ]
     }
-  ]
+  }
 }

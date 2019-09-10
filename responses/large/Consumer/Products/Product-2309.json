@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-10-15"
-  },
-  "description": "Culpa numquam facilis commodi quidem architecto. Esse sunt exercitationem quos totam officiis quo. Maiores sequi recusandae molestiae possimus.",
-  "id": "UHJvZHVjdDoyMzA5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/koBPxeeZSyeeGPAF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bcsyIiwSOiiuKOez.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tWLQaGtLlUnjSYDr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HQovWTpAdsJxGPnq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IodiAnuGguehObDp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NpjBLrkgsUHxYuxj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RPnYMPSyZDmgHgRf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QYhAGBCJXIZnqZhn.png"
-    }
-  ],
-  "name": "Neque commodi temporibus molestias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "95.78",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "95.78",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-10-15"
       },
-      "stop": {
-        "gross": {
-          "amount": "95.78",
-          "currency": "CHF"
+      "description": "Culpa numquam facilis commodi quidem architecto. Esse sunt exercitationem quos totam officiis quo. Maiores sequi recusandae molestiae possimus.",
+      "id": "UHJvZHVjdDoyMzA5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/koBPxeeZSyeeGPAF.png"
         },
-        "net": {
-          "amount": "95.78",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/bcsyIiwSOiiuKOez.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/tWLQaGtLlUnjSYDr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HQovWTpAdsJxGPnq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IodiAnuGguehObDp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NpjBLrkgsUHxYuxj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/RPnYMPSyZDmgHgRf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QYhAGBCJXIZnqZhn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1146,
-    "lastName": "Aeby"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "14.08",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "14.08",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "14.08",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTE1MDg=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Neque commodi temporibus molestias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "95.78",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "95.78",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "95.78",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "95.78",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "95.78",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "95.78",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 164
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Aeby"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "14.08",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "14.08",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "14.08",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTE1MDg=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "95.78",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "95.78",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 164
+        }
+      ]
     }
-  ]
+  }
 }

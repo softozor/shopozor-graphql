@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-01-30"
-  },
-  "description": "Vero tenetur nam harum facere temporibus enim ducimus.\nPorro amet harum minima odio magni saepe enim. Minus ea quisquam. Beatae aliquid ducimus numquam reprehenderit ducimus.",
-  "id": "UHJvZHVjdDozNA==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZQRRHUrBbWTFEMOi.png"
-    }
-  ],
-  "name": "Qui sapiente sed.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "11.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "11.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-01-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "11.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "11.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Vero tenetur nam harum facere temporibus enim ducimus.\nPorro amet harum minima odio magni saepe enim. Minus ea quisquam. Beatae aliquid ducimus numquam reprehenderit ducimus.",
+      "id": "UHJvZHVjdDozNA==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZQRRHUrBbWTFEMOi.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lisa",
-    "id": 112,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.74",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.74",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.74",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODI=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Qui sapiente sed.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "11.48",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "11.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "11.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "11.48",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "11.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "11.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 471
+      "producer": {
+        "firstName": "Lisa",
+        "id": "VXNlcjoxMTI=",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.74",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.74",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.74",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODI=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "11.48",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "11.48",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 471
+        }
+      ]
     }
-  ]
+  }
 }

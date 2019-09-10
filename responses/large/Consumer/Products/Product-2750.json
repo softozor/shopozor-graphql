@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-03-28"
-  },
-  "description": "Ullam debitis deserunt vero. Sequi dolor consequuntur.\nHarum non delectus cumque aut.",
-  "id": "UHJvZHVjdDoyNzUw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/XONlnfksxdwsomdF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xwnofENCIEQjawEY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZBBEGxjwoqrMgtcG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GQdTXbHfBAkhBSLz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IzeJDsPakczuXUFU.png"
-    }
-  ],
-  "name": "Quae delectus ea.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "97.44",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "97.44",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-03-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "97.44",
-          "currency": "CHF"
+      "description": "Ullam debitis deserunt vero. Sequi dolor consequuntur.\nHarum non delectus cumque aut.",
+      "id": "UHJvZHVjdDoyNzUw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/XONlnfksxdwsomdF.png"
         },
-        "net": {
-          "amount": "97.44",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xwnofENCIEQjawEY.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZBBEGxjwoqrMgtcG.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GQdTXbHfBAkhBSLz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IzeJDsPakczuXUFU.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georgette",
-    "id": 1038,
-    "lastName": "Robert"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "70.89",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "70.89",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "70.89",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM2ODc=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Quae delectus ea.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "97.44",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "97.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "97.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "97.44",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "97.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "97.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 236
+      "producer": {
+        "firstName": "Georgette",
+        "id": "VXNlcjoxMDM4",
+        "lastName": "Robert"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "70.89",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "70.89",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "70.89",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM2ODc=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "97.44",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "97.44",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 236
+        }
+      ]
     }
-  ]
+  }
 }

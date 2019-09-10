@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-07-17"
-  },
-  "description": "Asperiores placeat tenetur suscipit. Dolorum eius repudiandae asperiores nam natus. Debitis aspernatur quibusdam explicabo expedita iste quisquam.",
-  "id": "UHJvZHVjdDo0NjY1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MkfFZBcHuiZutBeH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bfCoUXiSAWgyMCxT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cIFkXIvFAUPmTjgq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VnXrlDsEFqdcnEUQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kteByEXKUGKomdXV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KzRgomJxURVJnMgu.png"
-    }
-  ],
-  "name": "Optio natus optio.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "98.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "98.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-07-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "98.48",
-          "currency": "CHF"
+      "description": "Asperiores placeat tenetur suscipit. Dolorum eius repudiandae asperiores nam natus. Debitis aspernatur quibusdam explicabo expedita iste quisquam.",
+      "id": "UHJvZHVjdDo0NjY1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MkfFZBcHuiZutBeH.png"
         },
-        "net": {
-          "amount": "98.48",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/bfCoUXiSAWgyMCxT.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cIFkXIvFAUPmTjgq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VnXrlDsEFqdcnEUQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/kteByEXKUGKomdXV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KzRgomJxURVJnMgu.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Emma",
-    "id": 1004,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "14.27",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "14.27",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "14.27",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjM0MjM=",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Optio natus optio.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "98.48",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "98.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "98.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "98.48",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "98.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "98.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 13
+      "producer": {
+        "firstName": "Emma",
+        "id": "VXNlcjoxMDA0",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "14.27",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "14.27",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "14.27",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjM0MjM=",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "98.48",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "98.48",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 13
+        }
+      ]
     }
-  ]
+  }
 }

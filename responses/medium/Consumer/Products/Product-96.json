@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-05-12"
-  },
-  "description": "Maiores vero iusto eveniet. Asperiores quo harum eligendi minima sapiente dolores.\nMaiores odio itaque consequatur. Repellendus error consequuntur porro.",
-  "id": "UHJvZHVjdDo5Ng==",
-  "images": [],
-  "name": "Impedit culpa.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "43.72",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.72",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-05-12"
       },
-      "stop": {
-        "gross": {
-          "amount": "43.72",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.72",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Bernard",
-    "id": 106,
-    "lastName": "Barbey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "13.84",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "13.84",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "13.84",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzAz",
-      "isAvailable": true,
-      "name": "100g",
+      "description": "Maiores vero iusto eveniet. Asperiores quo harum eligendi minima sapiente dolores.\nMaiores odio itaque consequatur. Repellendus error consequuntur porro.",
+      "id": "UHJvZHVjdDo5Ng==",
+      "images": [],
+      "name": "Impedit culpa.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "43.72",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "43.72",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.72",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "43.72",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "43.72",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.72",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 568
+      "producer": {
+        "firstName": "Bernard",
+        "id": "VXNlcjoxMDY=",
+        "lastName": "Barbey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "13.84",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "13.84",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "13.84",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzAz",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "43.72",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "43.72",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 568
+        }
+      ]
     }
-  ]
+  }
 }

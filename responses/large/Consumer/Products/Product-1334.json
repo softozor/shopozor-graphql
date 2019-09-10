@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-03-11"
-  },
-  "description": "Facilis minus aperiam. Necessitatibus soluta eum deleniti quam magni.\nIste consequatur quae nulla expedita hic rem. Perferendis facilis porro eaque nostrum. Occaecati enim facilis modi sunt.",
-  "id": "UHJvZHVjdDoxMzM0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/PjbFgRmVXFhgdfKf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ujdMTmJQoRMLinXG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KENkIFdhvfjNppOw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VDueijKgsnSrSaLz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iyFyKNKFTQisUyNb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lWGPZQnVNjrMHyIi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ENyhiHElQumcwzoK.png"
-    }
-  ],
-  "name": "Quaerat id.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "87.92",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "87.92",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-03-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "87.92",
-          "currency": "CHF"
+      "description": "Facilis minus aperiam. Necessitatibus soluta eum deleniti quam magni.\nIste consequatur quae nulla expedita hic rem. Perferendis facilis porro eaque nostrum. Occaecati enim facilis modi sunt.",
+      "id": "UHJvZHVjdDoxMzM0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/PjbFgRmVXFhgdfKf.png"
         },
-        "net": {
-          "amount": "87.92",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ujdMTmJQoRMLinXG.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/KENkIFdhvfjNppOw.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VDueijKgsnSrSaLz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iyFyKNKFTQisUyNb.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lWGPZQnVNjrMHyIi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ENyhiHElQumcwzoK.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Monique",
-    "id": 1047,
-    "lastName": "Crevoisier"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "47.96",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "47.96",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "47.96",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjY1OQ==",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Quaerat id.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "87.92",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "87.92",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.92",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "87.92",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "87.92",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.92",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 71
+      "producer": {
+        "firstName": "Monique",
+        "id": "VXNlcjoxMDQ3",
+        "lastName": "Crevoisier"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "47.96",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "47.96",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "47.96",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjY1OQ==",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "87.92",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "87.92",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 71
+        }
+      ]
     }
-  ]
+  }
 }

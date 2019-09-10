@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-03-25"
-  },
-  "description": "Consequuntur ipsa quos deserunt ipsum. Illum optio hic ipsa earum quam aspernatur.\nRem sed fugiat assumenda. Occaecati quo ullam saepe eos.\nCommodi magni quia dolor minima esse recusandae ducimus.",
-  "id": "UHJvZHVjdDoyMA==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/uoqkNTSBFoAwHsxc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cEbkAIEwPTeNugfC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OsGmCIeXDoiaKVhX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GEHlfrAgoHHjRKQH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/CWbIhbBGXABvcIyT.png"
-    }
-  ],
-  "name": "Repellat laudantium.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "87.25",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "87.25",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-03-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "87.25",
-          "currency": "CHF"
+      "description": "Consequuntur ipsa quos deserunt ipsum. Illum optio hic ipsa earum quam aspernatur.\nRem sed fugiat assumenda. Occaecati quo ullam saepe eos.\nCommodi magni quia dolor minima esse recusandae ducimus.",
+      "id": "UHJvZHVjdDoyMA==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/uoqkNTSBFoAwHsxc.png"
         },
-        "net": {
-          "amount": "87.25",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cEbkAIEwPTeNugfC.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OsGmCIeXDoiaKVhX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GEHlfrAgoHHjRKQH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/CWbIhbBGXABvcIyT.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Corinne",
-    "id": 124,
-    "lastName": "Monnet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "6.88",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "6.88",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "6.88",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTg=",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Repellat laudantium.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "87.25",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "87.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "87.25",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "87.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 21
+      "producer": {
+        "firstName": "Corinne",
+        "id": "VXNlcjoxMjQ=",
+        "lastName": "Monnet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "6.88",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "6.88",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "6.88",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTg=",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "87.25",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "87.25",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 21
+        }
+      ]
     }
-  ]
+  }
 }

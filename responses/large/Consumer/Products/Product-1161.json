@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-08-25"
-  },
-  "description": "Minus delectus deleniti consectetur necessitatibus alias doloribus. Beatae vel deleniti exercitationem quidem odio dolor quia.",
-  "id": "UHJvZHVjdDoxMTYx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/dscYuVthGbCNyjAX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fjteNmduizWEtUPS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EMzmOfvgBOwykXtb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QPRFHZutZXdtogNe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wWoelQHDjJZyYOEk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lTabkegxTnmffkkQ.png"
-    }
-  ],
-  "name": "Voluptate tempore aperiam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "15.1",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "15.1",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-08-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "15.1",
-          "currency": "CHF"
+      "description": "Minus delectus deleniti consectetur necessitatibus alias doloribus. Beatae vel deleniti exercitationem quidem odio dolor quia.",
+      "id": "UHJvZHVjdDoxMTYx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/dscYuVthGbCNyjAX.png"
         },
-        "net": {
-          "amount": "15.1",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fjteNmduizWEtUPS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/EMzmOfvgBOwykXtb.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QPRFHZutZXdtogNe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/wWoelQHDjJZyYOEk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lTabkegxTnmffkkQ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Anna",
-    "id": 1098,
-    "lastName": "Barbey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.31",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.31",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.31",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTc2Ng==",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Voluptate tempore aperiam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "15.1",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "15.1",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "15.1",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "15.1",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "15.1",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "15.1",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 783
+      "producer": {
+        "firstName": "Anna",
+        "id": "VXNlcjoxMDk4",
+        "lastName": "Barbey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.31",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.31",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.31",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTc2Ng==",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "15.1",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "15.1",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 783
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-10-29"
-  },
-  "description": "Molestias nam saepe consectetur. Facilis facilis cupiditate quis.\nExplicabo hic ipsam animi consectetur magnam.",
-  "id": "UHJvZHVjdDoyNjE5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/svMYxAYEzlLmPppp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iqECDNQlNXjdHYBa.png"
-    }
-  ],
-  "name": "Saepe sapiente.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "78.77",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "78.77",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-10-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "78.77",
-          "currency": "CHF"
+      "description": "Molestias nam saepe consectetur. Facilis facilis cupiditate quis.\nExplicabo hic ipsam animi consectetur magnam.",
+      "id": "UHJvZHVjdDoyNjE5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/svMYxAYEzlLmPppp.png"
         },
-        "net": {
-          "amount": "78.77",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/iqECDNQlNXjdHYBa.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Emma",
-    "id": 1004,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "75.44",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "75.44",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "75.44",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTMwNDI=",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Saepe sapiente.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "78.77",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "78.77",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "78.77",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "78.77",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "78.77",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "78.77",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 392
+      "producer": {
+        "firstName": "Emma",
+        "id": "VXNlcjoxMDA0",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "75.44",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "75.44",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "75.44",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTMwNDI=",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "78.77",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "78.77",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 392
+        }
+      ]
     }
-  ]
+  }
 }

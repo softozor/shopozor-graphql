@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-02-03"
-  },
-  "description": "Ex recusandae rerum reiciendis possimus consectetur temporibus. Temporibus necessitatibus magni magnam.",
-  "id": "UHJvZHVjdDo0NzM3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/aPMuNfsrqrWqsJvd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/InKrUvoPReLyVuEp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/glbICelMVqnjLSXA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FqbIBvocoDKEInPN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VKNCeJOerTDrGgTi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vcycANDGzNuViNcL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BWuqlkvnjJBwCoQy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hverSEKNYDrYxkFo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/CBzfylVRHfMUgZuo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hsrbManfjEzXYgnC.png"
-    }
-  ],
-  "name": "Ratione tempora.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "39.69",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "39.69",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-02-03"
       },
-      "stop": {
-        "gross": {
-          "amount": "39.69",
-          "currency": "CHF"
+      "description": "Ex recusandae rerum reiciendis possimus consectetur temporibus. Temporibus necessitatibus magni magnam.",
+      "id": "UHJvZHVjdDo0NzM3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/aPMuNfsrqrWqsJvd.png"
         },
-        "net": {
-          "amount": "39.69",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/InKrUvoPReLyVuEp.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/glbICelMVqnjLSXA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FqbIBvocoDKEInPN.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VKNCeJOerTDrGgTi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vcycANDGzNuViNcL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BWuqlkvnjJBwCoQy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hverSEKNYDrYxkFo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/CBzfylVRHfMUgZuo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hsrbManfjEzXYgnC.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Julie",
-    "id": 1087,
-    "lastName": "Bochud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.65",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.65",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.65",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjM4MDU=",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Ratione tempora.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "39.69",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "39.69",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.69",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "39.69",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "39.69",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.69",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 627
+      "producer": {
+        "firstName": "Julie",
+        "id": "VXNlcjoxMDg3",
+        "lastName": "Bochud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.65",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.65",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.65",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjM4MDU=",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "39.69",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "39.69",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 627
+        }
+      ]
     }
-  ]
+  }
 }

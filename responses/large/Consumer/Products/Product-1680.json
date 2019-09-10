@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-12-14"
-  },
-  "description": "Expedita magnam qui ipsum vel repudiandae sunt. Accusantium quibusdam rerum totam.\nEa molestiae quam occaecati explicabo aspernatur.",
-  "id": "UHJvZHVjdDoxNjgw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/LYzjvUCQlGkVAEcZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DOMfqLEcHqiZWnPm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pfNDyLnzmNLWgiag.png"
-    }
-  ],
-  "name": "Laborum architecto.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "31.95",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "31.95",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-12-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "31.95",
-          "currency": "CHF"
+      "description": "Expedita magnam qui ipsum vel repudiandae sunt. Accusantium quibusdam rerum totam.\nEa molestiae quam occaecati explicabo aspernatur.",
+      "id": "UHJvZHVjdDoxNjgw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/LYzjvUCQlGkVAEcZ.png"
         },
-        "net": {
-          "amount": "31.95",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/DOMfqLEcHqiZWnPm.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/pfNDyLnzmNLWgiag.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Claude",
-    "id": 1065,
-    "lastName": "Martin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.44",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.44",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.44",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODM2Nw==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Laborum architecto.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "31.95",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "31.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "31.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "31.95",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "31.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "31.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 9
+      "producer": {
+        "firstName": "Claude",
+        "id": "VXNlcjoxMDY1",
+        "lastName": "Martin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.44",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.44",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.44",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODM2Nw==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "31.95",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "31.95",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 9
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-01-18"
-  },
-  "description": "Voluptatibus a nihil architecto natus quibusdam. Iusto dolore ullam quia aut ipsum fugit.",
-  "id": "UHJvZHVjdDoxNDYz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/djCAjbhSXqmuKgnp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FxNewuEdgUeOCkWm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZFfGchEQAaVVZNmI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NPAFKxiSCsggxTwK.png"
-    }
-  ],
-  "name": "Numquam fugiat rerum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "66.21",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "66.21",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-01-18"
       },
-      "stop": {
-        "gross": {
-          "amount": "66.21",
-          "currency": "CHF"
+      "description": "Voluptatibus a nihil architecto natus quibusdam. Iusto dolore ullam quia aut ipsum fugit.",
+      "id": "UHJvZHVjdDoxNDYz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/djCAjbhSXqmuKgnp.png"
         },
-        "net": {
-          "amount": "66.21",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/FxNewuEdgUeOCkWm.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZFfGchEQAaVVZNmI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NPAFKxiSCsggxTwK.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vanessa",
-    "id": 1091,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "24.66",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "24.66",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "24.66",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzI1Mw==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Numquam fugiat rerum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "66.21",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "66.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "66.21",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "66.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 567
+      "producer": {
+        "firstName": "Vanessa",
+        "id": "VXNlcjoxMDkx",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "24.66",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "24.66",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "24.66",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzI1Mw==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "66.21",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "66.21",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 567
+        }
+      ]
     }
-  ]
+  }
 }

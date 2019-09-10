@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-02-15"
-  },
-  "description": "Quasi sunt facere nobis harum eligendi delectus reprehenderit. Nemo exercitationem aliquam aperiam. Voluptates asperiores ut nihil quia.",
-  "id": "UHJvZHVjdDo0ODg0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/sBQndZLCIAXddbYM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PSHclZjfrliqdLub.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jkdMwlSYkEvcBGpr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iHQXYQjfyXUSqoJp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IkqYZkmyQbsoLaJz.png"
-    }
-  ],
-  "name": "Itaque.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "42.23",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "42.23",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-02-15"
       },
-      "stop": {
-        "gross": {
-          "amount": "42.23",
-          "currency": "CHF"
+      "description": "Quasi sunt facere nobis harum eligendi delectus reprehenderit. Nemo exercitationem aliquam aperiam. Voluptates asperiores ut nihil quia.",
+      "id": "UHJvZHVjdDo0ODg0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/sBQndZLCIAXddbYM.png"
         },
-        "net": {
-          "amount": "42.23",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/PSHclZjfrliqdLub.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jkdMwlSYkEvcBGpr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iHQXYQjfyXUSqoJp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IkqYZkmyQbsoLaJz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "32.79",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "32.79",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "32.79",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQ1NzY=",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Itaque.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "42.23",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "42.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "42.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "42.23",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "42.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "42.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 836
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "32.79",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "32.79",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "32.79",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ1NzY=",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "42.23",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "42.23",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 836
+        }
+      ]
     }
-  ]
+  }
 }

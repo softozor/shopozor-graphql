@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-02-23"
-  },
-  "description": "Rem est possimus. Voluptatum aliquid tempore quod accusamus repellat quae. Quas est distinctio quae at officiis laudantium.",
-  "id": "UHJvZHVjdDozOTY5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/neHyvVWCMwaysKde.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AaXBCkwPZhLNqoYg.png"
-    }
-  ],
-  "name": "Occaecati quaerat blanditiis quibusdam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "27.12",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "27.12",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-02-23"
       },
-      "stop": {
-        "gross": {
-          "amount": "27.12",
-          "currency": "CHF"
+      "description": "Rem est possimus. Voluptatum aliquid tempore quod accusamus repellat quae. Quas est distinctio quae at officiis laudantium.",
+      "id": "UHJvZHVjdDozOTY5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/neHyvVWCMwaysKde.png"
         },
-        "net": {
-          "amount": "27.12",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/AaXBCkwPZhLNqoYg.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sébastien",
-    "id": 1100,
-    "lastName": "Musy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "18.46",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "18.46",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "18.46",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTk5MzA=",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Occaecati quaerat blanditiis quibusdam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "27.12",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "27.12",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "27.12",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "27.12",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "27.12",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "27.12",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 27
+      "producer": {
+        "firstName": "Sébastien",
+        "id": "VXNlcjoxMTAw",
+        "lastName": "Musy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "18.46",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "18.46",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "18.46",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk5MzA=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "27.12",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "27.12",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 27
+        }
+      ]
     }
-  ]
+  }
 }

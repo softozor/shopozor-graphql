@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-11-03"
-  },
-  "description": "Dignissimos porro minima ducimus corporis asperiores soluta. Optio dolorem commodi. Dolore similique impedit eius esse odit vero.\nUnde vitae quis fugiat reiciendis eius. Sapiente quod nihil.",
-  "id": "UHJvZHVjdDoxNzM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/xsJUetYjFnsmJxrV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OynPoucuVEYbGfAd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PJyNvMSUNKEvbOKB.png"
-    }
-  ],
-  "name": "Ut ex.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "64.31",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.31",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-11-03"
       },
-      "stop": {
-        "gross": {
-          "amount": "64.31",
-          "currency": "CHF"
+      "description": "Dignissimos porro minima ducimus corporis asperiores soluta. Optio dolorem commodi. Dolore similique impedit eius esse odit vero.\nUnde vitae quis fugiat reiciendis eius. Sapiente quod nihil.",
+      "id": "UHJvZHVjdDoxNzM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/xsJUetYjFnsmJxrV.png"
         },
-        "net": {
-          "amount": "64.31",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OynPoucuVEYbGfAd.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/PJyNvMSUNKEvbOKB.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Claude",
-    "id": 1065,
-    "lastName": "Martin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "49.44",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "49.44",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "49.44",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTA1",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Ut ex.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "64.31",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "64.31",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.31",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "64.31",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "64.31",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.31",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 290
+      "producer": {
+        "firstName": "Claude",
+        "id": "VXNlcjoxMDY1",
+        "lastName": "Martin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "49.44",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "49.44",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "49.44",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTA1",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "64.31",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "64.31",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 290
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-07-02"
-  },
-  "description": "Quo suscipit laudantium neque.\nTempore expedita aspernatur consequuntur fugiat doloribus pariatur. Rem quae eos id veniam.",
-  "id": "UHJvZHVjdDoyOTQw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/IBcXtRssrgWWKAPG.png"
-    }
-  ],
-  "name": "Pariatur iste aut.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "70.75",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "70.75",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-07-02"
       },
-      "stop": {
-        "gross": {
-          "amount": "70.75",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "70.75",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Quo suscipit laudantium neque.\nTempore expedita aspernatur consequuntur fugiat doloribus pariatur. Rem quae eos id veniam.",
+      "id": "UHJvZHVjdDoyOTQw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/IBcXtRssrgWWKAPG.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "44.73",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "44.73",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "44.73",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTQ2MzY=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Pariatur iste aut.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "70.75",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "70.75",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.75",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "70.75",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "70.75",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.75",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 473
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "44.73",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "44.73",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "44.73",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQ2MzY=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "70.75",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "70.75",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 473
+        }
+      ]
     }
-  ]
+  }
 }

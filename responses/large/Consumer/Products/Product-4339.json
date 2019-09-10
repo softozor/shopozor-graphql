@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-07-30"
-  },
-  "description": "Ipsa eveniet tenetur. Est dicta sequi accusantium rem. Tenetur officiis commodi sunt. Sequi officiis cumque.",
-  "id": "UHJvZHVjdDo0MzM5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/RVkXMGgymsBBHlfB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hstcbQQtoFqWpuvE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lofdVdVuxAobNzzK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zjpxuehsokcwXUWN.png"
-    }
-  ],
-  "name": "Nisi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "89.09",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "89.09",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-07-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "89.09",
-          "currency": "CHF"
+      "description": "Ipsa eveniet tenetur. Est dicta sequi accusantium rem. Tenetur officiis commodi sunt. Sequi officiis cumque.",
+      "id": "UHJvZHVjdDo0MzM5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/RVkXMGgymsBBHlfB.png"
         },
-        "net": {
-          "amount": "89.09",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/hstcbQQtoFqWpuvE.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lofdVdVuxAobNzzK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zjpxuehsokcwXUWN.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1146,
-    "lastName": "Aeby"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "11.61",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "11.61",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "11.61",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjE3NTM=",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Nisi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "89.09",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "89.09",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "89.09",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "89.09",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "89.09",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "89.09",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 20
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Aeby"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "11.61",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "11.61",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "11.61",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjE3NTM=",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "89.09",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "89.09",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 20
+        }
+      ]
     }
-  ]
+  }
 }

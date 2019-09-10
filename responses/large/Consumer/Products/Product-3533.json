@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-12-22"
-  },
-  "description": "Eligendi enim saepe nobis. Mollitia omnis non veritatis nisi. Hic libero illo quis quaerat molestias voluptatem libero.",
-  "id": "UHJvZHVjdDozNTMz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/yhLIsbvCPLkepxpA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xIOWlBPqTYwTGcFr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZJPLyDWQJRwCiLxD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UkHCSFKpWZKXhpBd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GgOcpREjoovgRLKO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eYTECnfqPRjOmMel.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dGVNaKfgKRtxyKzd.png"
-    }
-  ],
-  "name": "Commodi eius consectetur.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "16.13",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "16.13",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-12-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "16.13",
-          "currency": "CHF"
+      "description": "Eligendi enim saepe nobis. Mollitia omnis non veritatis nisi. Hic libero illo quis quaerat molestias voluptatem libero.",
+      "id": "UHJvZHVjdDozNTMz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/yhLIsbvCPLkepxpA.png"
         },
-        "net": {
-          "amount": "16.13",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xIOWlBPqTYwTGcFr.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZJPLyDWQJRwCiLxD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UkHCSFKpWZKXhpBd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GgOcpREjoovgRLKO.png"
+        },
+        {
+          "alt": "",
+          "url": "products/eYTECnfqPRjOmMel.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dGVNaKfgKRtxyKzd.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lisa",
-    "id": 1022,
-    "lastName": "Charpié"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "6.29",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "6.29",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "6.29",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc2ODI=",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Commodi eius consectetur.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "16.13",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "16.13",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "16.13",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "16.13",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "16.13",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "16.13",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 53
+      "producer": {
+        "firstName": "Lisa",
+        "id": "VXNlcjoxMDIy",
+        "lastName": "Charpié"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "6.29",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "6.29",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "6.29",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc2ODI=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "16.13",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "16.13",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 53
+        }
+      ]
     }
-  ]
+  }
 }

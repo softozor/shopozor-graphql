@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-01-27"
-  },
-  "description": "Rem nihil itaque doloremque. Pariatur quo ullam voluptas possimus quas sint.",
-  "id": "UHJvZHVjdDozMjM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZXDZnFLarquzVGNS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VKEJzhnhaNYLnhbk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/enZosLIfJUognhxZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WQrdbIQWDnrWNpKk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rnboEacamGqlnAzl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aCfMOMUJqXiHQfEh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fjWcbOCxnZelYOWV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MPXSiygcaDBWCTgx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AYyjcAryJpqTxsxd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eHJbfJlavYEmcsfy.png"
-    }
-  ],
-  "name": "Illum facere sapiente.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "69.3",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "69.3",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-01-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "69.3",
-          "currency": "CHF"
+      "description": "Rem nihil itaque doloremque. Pariatur quo ullam voluptas possimus quas sint.",
+      "id": "UHJvZHVjdDozMjM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZXDZnFLarquzVGNS.png"
         },
-        "net": {
-          "amount": "69.3",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/VKEJzhnhaNYLnhbk.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/enZosLIfJUognhxZ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WQrdbIQWDnrWNpKk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rnboEacamGqlnAzl.png"
+        },
+        {
+          "alt": "",
+          "url": "products/aCfMOMUJqXiHQfEh.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fjWcbOCxnZelYOWV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MPXSiygcaDBWCTgx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/AYyjcAryJpqTxsxd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/eHJbfJlavYEmcsfy.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "52.78",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "52.78",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "52.78",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTY4NQ==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Illum facere sapiente.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "69.3",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "69.3",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "69.3",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "69.3",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "69.3",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "69.3",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 124
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "52.78",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "52.78",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "52.78",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTY4NQ==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "69.3",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "69.3",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 124
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-02-14"
-  },
-  "description": "Illo possimus labore at modi iste numquam. Ea quae molestiae iure ipsam consequuntur reprehenderit.\nOdio voluptate exercitationem ad natus repellendus ea. Adipisci iste quae.",
-  "id": "UHJvZHVjdDoyNDc2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/VBNHtZOnTVodKomZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/noujiEvtWeLHGhnz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zurLlxDLkFJfVcVu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gxCkILyygKbncAjC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TIBpUeXazRYmiPRW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fTBEgaKBRhQybdyz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sJCpgXdeXhnhowMM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TrtfbPxGfjLKkpxT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tAdWUxmfFAUUaXJn.png"
-    }
-  ],
-  "name": "Aliquam nemo ullam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "50.84",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.84",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-02-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "50.84",
-          "currency": "CHF"
+      "description": "Illo possimus labore at modi iste numquam. Ea quae molestiae iure ipsam consequuntur reprehenderit.\nOdio voluptate exercitationem ad natus repellendus ea. Adipisci iste quae.",
+      "id": "UHJvZHVjdDoyNDc2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/VBNHtZOnTVodKomZ.png"
         },
-        "net": {
-          "amount": "50.84",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/noujiEvtWeLHGhnz.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zurLlxDLkFJfVcVu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/gxCkILyygKbncAjC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TIBpUeXazRYmiPRW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fTBEgaKBRhQybdyz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sJCpgXdeXhnhowMM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TrtfbPxGfjLKkpxT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tAdWUxmfFAUUaXJn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Odette",
-    "id": 1023,
-    "lastName": "Monney"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "42.42",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "42.42",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "42.42",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTIzNjM=",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Aliquam nemo ullam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "50.84",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "50.84",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.84",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "50.84",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "50.84",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.84",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 419
+      "producer": {
+        "firstName": "Odette",
+        "id": "VXNlcjoxMDIz",
+        "lastName": "Monney"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "42.42",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "42.42",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "42.42",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTIzNjM=",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "50.84",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "50.84",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 419
+        }
+      ]
     }
-  ]
+  }
 }

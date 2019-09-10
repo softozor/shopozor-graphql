@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-04-09"
-  },
-  "description": "Iusto itaque qui voluptatum vel.\nAsperiores quo nemo molestiae minus. Nemo vitae natus necessitatibus consequatur sint saepe veritatis.",
-  "id": "UHJvZHVjdDoyNzMz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/elyZAwcFrBRimFmH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RQNROBHgvpxbYTnI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YRMsmIGgzVjRFHHa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TMkyXSJBNAOXwHeR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ROMkzyoMRbdINHsQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ANHtAUnqaCRMGtPm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BRSAhpElSYSExJtQ.png"
-    }
-  ],
-  "name": "Magni quasi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "22.11",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "22.11",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-04-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "22.11",
-          "currency": "CHF"
+      "description": "Iusto itaque qui voluptatum vel.\nAsperiores quo nemo molestiae minus. Nemo vitae natus necessitatibus consequatur sint saepe veritatis.",
+      "id": "UHJvZHVjdDoyNzMz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/elyZAwcFrBRimFmH.png"
         },
-        "net": {
-          "amount": "22.11",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RQNROBHgvpxbYTnI.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YRMsmIGgzVjRFHHa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TMkyXSJBNAOXwHeR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ROMkzyoMRbdINHsQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ANHtAUnqaCRMGtPm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BRSAhpElSYSExJtQ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georgette",
-    "id": 1038,
-    "lastName": "Robert"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "6.92",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "6.92",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "6.92",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM1OTE=",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Magni quasi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "22.11",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "22.11",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.11",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "22.11",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "22.11",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.11",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 9
+      "producer": {
+        "firstName": "Georgette",
+        "id": "VXNlcjoxMDM4",
+        "lastName": "Robert"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "6.92",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "6.92",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "6.92",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM1OTE=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "22.11",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "22.11",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 9
+        }
+      ]
     }
-  ]
+  }
 }

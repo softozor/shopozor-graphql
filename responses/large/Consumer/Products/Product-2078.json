@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-11-25"
-  },
-  "description": "Et consequuntur atque fugiat nulla voluptas laborum.\nConsequuntur cum voluptas sequi expedita laboriosam sit. Laboriosam et illum eos nemo dolores odit.",
-  "id": "UHJvZHVjdDoyMDc4",
-  "images": [],
-  "name": "Iure maxime rerum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "5.87",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "5.87",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-11-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "5.87",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "5.87",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Albert",
-    "id": 1029,
-    "lastName": "Cousin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.61",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.61",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.61",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTA0MTI=",
-      "isAvailable": true,
-      "name": "2l",
+      "description": "Et consequuntur atque fugiat nulla voluptas laborum.\nConsequuntur cum voluptas sequi expedita laboriosam sit. Laboriosam et illum eos nemo dolores odit.",
+      "id": "UHJvZHVjdDoyMDc4",
+      "images": [],
+      "name": "Iure maxime rerum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "5.87",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "5.87",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "5.87",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "5.87",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "5.87",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "5.87",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 176
+      "producer": {
+        "firstName": "Albert",
+        "id": "VXNlcjoxMDI5",
+        "lastName": "Cousin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.61",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.61",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.61",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTA0MTI=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "5.87",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "5.87",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 176
+        }
+      ]
     }
-  ]
+  }
 }

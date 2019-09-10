@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-04-07"
-  },
-  "description": "Illum minus fuga sint cupiditate. Odio quasi assumenda. Soluta accusantium eaque at cumque blanditiis perspiciatis.",
-  "id": "UHJvZHVjdDo4OTI=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/zTtrsDsYWgKuUVCl.png"
-    }
-  ],
-  "name": "Beatae unde accusamus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "44.08",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "44.08",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-04-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "44.08",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "44.08",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Illum minus fuga sint cupiditate. Odio quasi assumenda. Soluta accusantium eaque at cumque blanditiis perspiciatis.",
+      "id": "UHJvZHVjdDo4OTI=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/zTtrsDsYWgKuUVCl.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sylvie",
-    "id": 1059,
-    "lastName": "Müller"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "32.15",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "32.15",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "32.15",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDQ5Mg==",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Beatae unde accusamus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "44.08",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "44.08",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "44.08",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "44.08",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "44.08",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "44.08",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 282
+      "producer": {
+        "firstName": "Sylvie",
+        "id": "VXNlcjoxMDU5",
+        "lastName": "Müller"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "32.15",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "32.15",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "32.15",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDQ5Mg==",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "44.08",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "44.08",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 282
+        }
+      ]
     }
-  ]
+  }
 }

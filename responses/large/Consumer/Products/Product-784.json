@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-01-20"
-  },
-  "description": "Asperiores eum quia eveniet vero excepturi. Vero odit laboriosam. Tempora veniam eius iste corporis eius. Deleniti culpa harum accusamus hic similique dicta.",
-  "id": "UHJvZHVjdDo3ODQ=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/PgOzjkdIOAMWRjbX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OvftoqOcBCTFVKHn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yblixeNPPTnLtgox.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ugLcFxONDSJdXuAB.png"
-    }
-  ],
-  "name": "Pariatur aspernatur mollitia.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "50.81",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.81",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-01-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "50.81",
-          "currency": "CHF"
+      "description": "Asperiores eum quia eveniet vero excepturi. Vero odit laboriosam. Tempora veniam eius iste corporis eius. Deleniti culpa harum accusamus hic similique dicta.",
+      "id": "UHJvZHVjdDo3ODQ=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/PgOzjkdIOAMWRjbX.png"
         },
-        "net": {
-          "amount": "50.81",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/OvftoqOcBCTFVKHn.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/yblixeNPPTnLtgox.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ugLcFxONDSJdXuAB.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "38.22",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "38.22",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "38.22",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzkyNQ==",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Pariatur aspernatur mollitia.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "50.81",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "50.81",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.81",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "50.81",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "50.81",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.81",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 544
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "38.22",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "38.22",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "38.22",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzkyNQ==",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "50.81",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "50.81",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 544
+        }
+      ]
     }
-  ]
+  }
 }

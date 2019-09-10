@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-06-09"
-  },
-  "description": "Quaerat quos nihil ut laudantium reiciendis consequuntur. Eos impedit suscipit iure voluptates. Facere in deserunt accusantium earum eum quas consequatur.",
-  "id": "UHJvZHVjdDozNTI3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/vsvNHlUTSmYcUvvO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sKbiQHfUQmiDDajj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DrUhSodKPokBMPMH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IyEsNPCdKxrZswOD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AIJECcZyzuGgmuyP.png"
-    }
-  ],
-  "name": "Perferendis dolor.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "8.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "8.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-06-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "8.49",
-          "currency": "CHF"
+      "description": "Quaerat quos nihil ut laudantium reiciendis consequuntur. Eos impedit suscipit iure voluptates. Facere in deserunt accusantium earum eum quas consequatur.",
+      "id": "UHJvZHVjdDozNTI3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/vsvNHlUTSmYcUvvO.png"
         },
-        "net": {
-          "amount": "8.49",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/sKbiQHfUQmiDDajj.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/DrUhSodKPokBMPMH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IyEsNPCdKxrZswOD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/AIJECcZyzuGgmuyP.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Bernard",
-    "id": 1112,
-    "lastName": "Badan"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.52",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.52",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.52",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc2Mzg=",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Perferendis dolor.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "8.49",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "8.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "8.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "8.49",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "8.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "8.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 54
+      "producer": {
+        "firstName": "Bernard",
+        "id": "VXNlcjoxMTEy",
+        "lastName": "Badan"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.52",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.52",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.52",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc2Mzg=",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "8.49",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "8.49",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 54
+        }
+      ]
     }
-  ]
+  }
 }

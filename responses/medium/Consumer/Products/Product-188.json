@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-12-17"
-  },
-  "description": "Fugiat ex inventore sed quod alias. Occaecati voluptatum aut totam. Sint laboriosam nesciunt laboriosam.\nVel dolore beatae aspernatur possimus. Doloribus neque error laudantium.",
-  "id": "UHJvZHVjdDoxODg=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/lykytgZZFHjXMlPr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YMASmCRrHdkmjvHq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/EOkVwodtaxwLqEOq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XROZkVIWShvAnrsM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NRNSrppDfriJiZoz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nFQkPEwWYrOgxBsJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vQRdJwGprjuFlwfp.png"
-    }
-  ],
-  "name": "Illo facilis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "55.63",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "55.63",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-12-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "55.63",
-          "currency": "CHF"
+      "description": "Fugiat ex inventore sed quod alias. Occaecati voluptatum aut totam. Sint laboriosam nesciunt laboriosam.\nVel dolore beatae aspernatur possimus. Doloribus neque error laudantium.",
+      "id": "UHJvZHVjdDoxODg=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/lykytgZZFHjXMlPr.png"
         },
-        "net": {
-          "amount": "55.63",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YMASmCRrHdkmjvHq.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/EOkVwodtaxwLqEOq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XROZkVIWShvAnrsM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NRNSrppDfriJiZoz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nFQkPEwWYrOgxBsJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vQRdJwGprjuFlwfp.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Corinne",
-    "id": 124,
-    "lastName": "Monnet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "3.61",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "3.61",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "3.61",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjEx",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Illo facilis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "55.63",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "55.63",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "55.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 542
+      "producer": {
+        "firstName": "Corinne",
+        "id": "VXNlcjoxMjQ=",
+        "lastName": "Monnet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "3.61",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "3.61",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "3.61",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjEx",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "55.63",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "55.63",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 542
+        }
+      ]
     }
-  ]
+  }
 }

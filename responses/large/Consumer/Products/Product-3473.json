@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-03-24"
-  },
-  "description": "In perspiciatis nulla asperiores modi. Rerum molestiae animi dolorem.\nDeleniti distinctio eius. Maxime corporis eius cupiditate.\nRerum rem alias. Quae ipsam ea veniam.",
-  "id": "UHJvZHVjdDozNDcz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/pUVdnNONmOwGDwTs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QsjobfjreuWaMLHf.png"
-    }
-  ],
-  "name": "Aspernatur sequi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "74.18",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "74.18",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-03-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "74.18",
-          "currency": "CHF"
+      "description": "In perspiciatis nulla asperiores modi. Rerum molestiae animi dolorem.\nDeleniti distinctio eius. Maxime corporis eius cupiditate.\nRerum rem alias. Quae ipsam ea veniam.",
+      "id": "UHJvZHVjdDozNDcz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/pUVdnNONmOwGDwTs.png"
         },
-        "net": {
-          "amount": "74.18",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/QsjobfjreuWaMLHf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Danielle",
-    "id": 1061,
-    "lastName": "Chaudet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "16.31",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "16.31",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "16.31",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTczNjE=",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      ],
+      "name": "Aspernatur sequi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "74.18",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "74.18",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.18",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "74.18",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "74.18",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.18",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 277
+      "producer": {
+        "firstName": "Danielle",
+        "id": "VXNlcjoxMDYx",
+        "lastName": "Chaudet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "16.31",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "16.31",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "16.31",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTczNjE=",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "74.18",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "74.18",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 277
+        }
+      ]
     }
-  ]
+  }
 }

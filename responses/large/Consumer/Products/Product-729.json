@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-11-17"
-  },
-  "description": "Neque placeat modi debitis. Itaque iste asperiores accusantium hic dicta expedita.",
-  "id": "UHJvZHVjdDo3Mjk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/pRfzaDHqaryTfhgN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XozDSaTEheoaCWpi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fIpWFUZiRvVnYKzY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YVNuQeWLRaFKszeU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zZbBWAzDyvEMxXQw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fonTqhsjOBCqkBTI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZFlfxdXlKstJZNgm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZPMfjfutQJsanHbx.png"
-    }
-  ],
-  "name": "Consequuntur nostrum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "83.5",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "83.5",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-11-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "83.5",
-          "currency": "CHF"
+      "description": "Neque placeat modi debitis. Itaque iste asperiores accusantium hic dicta expedita.",
+      "id": "UHJvZHVjdDo3Mjk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/pRfzaDHqaryTfhgN.png"
         },
-        "net": {
-          "amount": "83.5",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/XozDSaTEheoaCWpi.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fIpWFUZiRvVnYKzY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YVNuQeWLRaFKszeU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zZbBWAzDyvEMxXQw.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fonTqhsjOBCqkBTI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZFlfxdXlKstJZNgm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZPMfjfutQJsanHbx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "73.74",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "73.74",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "73.74",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzY3MQ==",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Consequuntur nostrum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "83.5",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "83.5",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "83.5",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "83.5",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "83.5",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "83.5",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 105
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "73.74",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "73.74",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "73.74",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzY3MQ==",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "83.5",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "83.5",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 105
+        }
+      ]
     }
-  ]
+  }
 }

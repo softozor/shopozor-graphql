@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-08-12"
-  },
-  "description": "Neque voluptates assumenda eius aliquid consequuntur.\nImpedit nam nesciunt. Expedita harum nisi.",
-  "id": "UHJvZHVjdDoxNzE3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GpkCauEDajALjYvk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JrBYBoOdGptYVyMl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WMxVyDoJjnEBdHUx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mvilweMnIvrPcsBs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hamZNCexLjZVeayf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pkCBghKYsKXLjBQk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SRbhCEtbTKRJgDPs.png"
-    }
-  ],
-  "name": "Nostrum soluta velit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "47.76",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.76",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-08-12"
       },
-      "stop": {
-        "gross": {
-          "amount": "47.76",
-          "currency": "CHF"
+      "description": "Neque voluptates assumenda eius aliquid consequuntur.\nImpedit nam nesciunt. Expedita harum nisi.",
+      "id": "UHJvZHVjdDoxNzE3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GpkCauEDajALjYvk.png"
         },
-        "net": {
-          "amount": "47.76",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/JrBYBoOdGptYVyMl.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/WMxVyDoJjnEBdHUx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mvilweMnIvrPcsBs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hamZNCexLjZVeayf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pkCBghKYsKXLjBQk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SRbhCEtbTKRJgDPs.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Jean-Claude",
-    "id": 1050,
-    "lastName": "Candaux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "14.24",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "14.24",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "14.24",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODU3Nw==",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Nostrum soluta velit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "47.76",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "47.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "47.76",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "47.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 367
+      "producer": {
+        "firstName": "Jean-Claude",
+        "id": "VXNlcjoxMDUw",
+        "lastName": "Candaux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "14.24",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "14.24",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "14.24",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODU3Nw==",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "47.76",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "47.76",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 367
+        }
+      ]
     }
-  ]
+  }
 }

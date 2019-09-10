@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-08-30"
-  },
-  "description": "Nobis dolores nobis vel ducimus quae eaque.\nDicta voluptates ad repellat id minus optio. Numquam corrupti ad dignissimos fugiat incidunt. Nulla similique ex soluta exercitationem.",
-  "id": "UHJvZHVjdDoxMTc3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/LbgeCbyYpaqNHQGz.png"
-    }
-  ],
-  "name": "Vitae ab.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "28.63",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "28.63",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-08-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "28.63",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "28.63",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Nobis dolores nobis vel ducimus quae eaque.\nDicta voluptates ad repellat id minus optio. Numquam corrupti ad dignissimos fugiat incidunt. Nulla similique ex soluta exercitationem.",
+      "id": "UHJvZHVjdDoxMTc3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/LbgeCbyYpaqNHQGz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Mathilde",
-    "id": 1126,
-    "lastName": "Chevalley"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.84",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.84",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.84",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTg2Ng==",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Vitae ab.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "28.63",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "28.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "28.63",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "28.63",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.63",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 697
+      "producer": {
+        "firstName": "Mathilde",
+        "id": "VXNlcjoxMTI2",
+        "lastName": "Chevalley"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.84",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.84",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.84",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTg2Ng==",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "28.63",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "28.63",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 697
+        }
+      ]
     }
-  ]
+  }
 }

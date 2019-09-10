@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-04-25"
-  },
-  "description": "Optio iste nisi amet. Numquam aperiam deleniti. Iusto neque quo laudantium ipsa eligendi.\nMaxime blanditiis ipsam consectetur. Nobis deleniti occaecati fuga fugiat sint saepe porro.",
-  "id": "UHJvZHVjdDozNTEw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/gxiJYBXBeYHLyaXR.png"
-    }
-  ],
-  "name": "Doloremque libero.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "47.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-04-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "47.49",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.49",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Optio iste nisi amet. Numquam aperiam deleniti. Iusto neque quo laudantium ipsa eligendi.\nMaxime blanditiis ipsam consectetur. Nobis deleniti occaecati fuga fugiat sint saepe porro.",
+      "id": "UHJvZHVjdDozNTEw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/gxiJYBXBeYHLyaXR.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "32.11",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "32.11",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "32.11",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc1NDE=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Doloremque libero.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "47.49",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "47.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "47.49",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "47.49",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.49",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 93
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "32.11",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "32.11",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "32.11",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc1NDE=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "47.49",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "47.49",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 93
+        }
+      ]
     }
-  ]
+  }
 }

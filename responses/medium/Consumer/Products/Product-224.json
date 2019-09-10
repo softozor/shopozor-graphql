@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-01-14"
-  },
-  "description": "Illum officiis facilis asperiores eaque.\nLabore eaque illo fugit amet magnam illo. Consequuntur alias iste consequatur libero facilis. Voluptates laboriosam atque voluptatum impedit.",
-  "id": "UHJvZHVjdDoyMjQ=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/SyLgkaYIzuchHAqF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/abJvwLMGySbrAWYN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KrDDTTskndTGThlo.png"
-    }
-  ],
-  "name": "Commodi sequi ex.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "69.91",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "69.91",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-01-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "69.91",
-          "currency": "CHF"
+      "description": "Illum officiis facilis asperiores eaque.\nLabore eaque illo fugit amet magnam illo. Consequuntur alias iste consequatur libero facilis. Voluptates laboriosam atque voluptatum impedit.",
+      "id": "UHJvZHVjdDoyMjQ=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/SyLgkaYIzuchHAqF.png"
         },
-        "net": {
-          "amount": "69.91",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/abJvwLMGySbrAWYN.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/KrDDTTskndTGThlo.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Zoé",
-    "id": 113,
-    "lastName": "Crivelli"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "57.72",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "57.72",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "57.72",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzAy",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Commodi sequi ex.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "69.91",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "69.91",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "69.91",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "69.91",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "69.91",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "69.91",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 63
+      "producer": {
+        "firstName": "Zoé",
+        "id": "VXNlcjoxMTM=",
+        "lastName": "Crivelli"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "57.72",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "57.72",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "57.72",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzAy",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "69.91",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "69.91",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 63
+        }
+      ]
     }
-  ]
+  }
 }

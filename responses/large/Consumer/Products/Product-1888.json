@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-09-26"
-  },
-  "description": "Quam delectus reprehenderit doloremque minus incidunt officia. Quod at impedit praesentium voluptate deleniti ipsam temporibus. Voluptatum minus libero aliquam consequuntur totam deserunt tempora.",
-  "id": "UHJvZHVjdDoxODg4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/OUCNDhmReZCFKxfB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XrubDkVeCfnQYVoN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cfOqUHBMhnuVvavb.png"
-    }
-  ],
-  "name": "Natus cupiditate aut.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "88.04",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "88.04",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-09-26"
       },
-      "stop": {
-        "gross": {
-          "amount": "88.04",
-          "currency": "CHF"
+      "description": "Quam delectus reprehenderit doloremque minus incidunt officia. Quod at impedit praesentium voluptate deleniti ipsam temporibus. Voluptatum minus libero aliquam consequuntur totam deserunt tempora.",
+      "id": "UHJvZHVjdDoxODg4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/OUCNDhmReZCFKxfB.png"
         },
-        "net": {
-          "amount": "88.04",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/XrubDkVeCfnQYVoN.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cfOqUHBMhnuVvavb.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nicole",
-    "id": 1092,
-    "lastName": "Vallélian"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "49.37",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "49.37",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "49.37",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTQ1OQ==",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Natus cupiditate aut.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "88.04",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "88.04",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "88.04",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "88.04",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "88.04",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "88.04",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 201
+      "producer": {
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDky",
+        "lastName": "Vallélian"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "49.37",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "49.37",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "49.37",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTQ1OQ==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "88.04",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "88.04",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 201
+        }
+      ]
     }
-  ]
+  }
 }

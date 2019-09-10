@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-08-11"
-  },
-  "description": "Aspernatur quis id suscipit necessitatibus ipsum. Odit non alias optio molestias quas doloribus quam.\nQui quo minima minus quidem deleniti. Quis nesciunt recusandae voluptatem officia.",
-  "id": "UHJvZHVjdDo1NzY=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MLvTYHnzuOSdmKRI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FmvzuOYyKCTukOzR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KhNXLXFxNIDMmfCy.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BBaybFMvrMIRTyAn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kKWfefbGsEMoabDb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rUqtolronmceqZOr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MahXNITLERapTNBn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KkafMWSmYFasQCIm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cXYQQweCbjdjPOSX.png"
-    }
-  ],
-  "name": "Sequi sit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "59.34",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "59.34",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-08-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "59.34",
-          "currency": "CHF"
+      "description": "Aspernatur quis id suscipit necessitatibus ipsum. Odit non alias optio molestias quas doloribus quam.\nQui quo minima minus quidem deleniti. Quis nesciunt recusandae voluptatem officia.",
+      "id": "UHJvZHVjdDo1NzY=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MLvTYHnzuOSdmKRI.png"
         },
-        "net": {
-          "amount": "59.34",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/FmvzuOYyKCTukOzR.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/KhNXLXFxNIDMmfCy.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BBaybFMvrMIRTyAn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/kKWfefbGsEMoabDb.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rUqtolronmceqZOr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MahXNITLERapTNBn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KkafMWSmYFasQCIm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cXYQQweCbjdjPOSX.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Jean-Claude",
-    "id": 1050,
-    "lastName": "Candaux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "13.97",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "13.97",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "13.97",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjkzNw==",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Sequi sit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "59.34",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "59.34",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "59.34",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "59.34",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "59.34",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "59.34",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 197
+      "producer": {
+        "firstName": "Jean-Claude",
+        "id": "VXNlcjoxMDUw",
+        "lastName": "Candaux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "13.97",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "13.97",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "13.97",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjkzNw==",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "59.34",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "59.34",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 197
+        }
+      ]
     }
-  ]
+  }
 }

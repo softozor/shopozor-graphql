@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-12-21"
-  },
-  "description": "Ullam exercitationem repudiandae reiciendis. Natus blanditiis quaerat vel accusamus architecto repellendus.\nSint laborum quidem ex. Qui libero quo laudantium dolorem dolor.",
-  "id": "UHJvZHVjdDo0ODIz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/mwxSrEUHbBpxBlbp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TJeQQatRbwOSIeUS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tPaLBKkurvztDzkT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fHQcrndMZJZrWAli.png"
-    },
-    {
-      "alt": "",
-      "url": "products/keLRrMsUzPgDsISt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ADUVGdVJfhwzvzlC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dcKitkOzvKvLshpx.png"
-    }
-  ],
-  "name": "Sed tenetur.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "22.92",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "22.92",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-12-21"
       },
-      "stop": {
-        "gross": {
-          "amount": "22.92",
-          "currency": "CHF"
+      "description": "Ullam exercitationem repudiandae reiciendis. Natus blanditiis quaerat vel accusamus architecto repellendus.\nSint laborum quidem ex. Qui libero quo laudantium dolorem dolor.",
+      "id": "UHJvZHVjdDo0ODIz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/mwxSrEUHbBpxBlbp.png"
         },
-        "net": {
-          "amount": "22.92",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/TJeQQatRbwOSIeUS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/tPaLBKkurvztDzkT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/fHQcrndMZJZrWAli.png"
+        },
+        {
+          "alt": "",
+          "url": "products/keLRrMsUzPgDsISt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ADUVGdVJfhwzvzlC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dcKitkOzvKvLshpx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sébastien",
-    "id": 1100,
-    "lastName": "Musy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "15.19",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "15.19",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "15.19",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQyNDM=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Sed tenetur.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "22.92",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "22.92",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.92",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "22.92",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "22.92",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "22.92",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 265
+      "producer": {
+        "firstName": "Sébastien",
+        "id": "VXNlcjoxMTAw",
+        "lastName": "Musy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "15.19",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "15.19",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "15.19",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQyNDM=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "22.92",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "22.92",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 265
+        }
+      ]
     }
-  ]
+  }
 }

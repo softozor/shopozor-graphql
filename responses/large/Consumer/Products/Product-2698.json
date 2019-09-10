@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-06-09"
-  },
-  "description": "Dolorem alias natus et ipsum ratione hic.\nVoluptatem cumque rem vero ipsam iusto omnis provident.\nSunt aut corporis eum.\nEnim ex iusto veniam nesciunt magni quaerat.",
-  "id": "UHJvZHVjdDoyNjk4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GZjGOlJgczLjWFTg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xyWnaayvinBiBQlS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QvygPFUQSuwVcYNQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pCCosvGmZfbhojSt.png"
-    }
-  ],
-  "name": "Ipsum totam recusandae.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "29.09",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "29.09",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-06-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "29.09",
-          "currency": "CHF"
+      "description": "Dolorem alias natus et ipsum ratione hic.\nVoluptatem cumque rem vero ipsam iusto omnis provident.\nSunt aut corporis eum.\nEnim ex iusto veniam nesciunt magni quaerat.",
+      "id": "UHJvZHVjdDoyNjk4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GZjGOlJgczLjWFTg.png"
         },
-        "net": {
-          "amount": "29.09",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xyWnaayvinBiBQlS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/QvygPFUQSuwVcYNQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pCCosvGmZfbhojSt.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vanessa",
-    "id": 1091,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "24.18",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "24.18",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "24.18",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM0MzE=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Ipsum totam recusandae.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "29.09",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "29.09",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "29.09",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "29.09",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "29.09",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "29.09",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 615
+      "producer": {
+        "firstName": "Vanessa",
+        "id": "VXNlcjoxMDkx",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "24.18",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "24.18",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "24.18",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM0MzE=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "29.09",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "29.09",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 615
+        }
+      ]
     }
-  ]
+  }
 }

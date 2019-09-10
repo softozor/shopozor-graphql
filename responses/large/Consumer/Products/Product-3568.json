@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-03-08"
-  },
-  "description": "Tenetur odit explicabo beatae iure officiis. Quam aut minima fuga tenetur voluptatibus enim. Dolorum dolores reprehenderit molestias ducimus atque.",
-  "id": "UHJvZHVjdDozNTY4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/LkVJXMJiDIlZwReh.png"
-    }
-  ],
-  "name": "Deleniti repellat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.1",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.1",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-03-08"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.1",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.1",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Tenetur odit explicabo beatae iure officiis. Quam aut minima fuga tenetur voluptatibus enim. Dolorum dolores reprehenderit molestias ducimus atque.",
+      "id": "UHJvZHVjdDozNTY4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/LkVJXMJiDIlZwReh.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1146,
-    "lastName": "Aeby"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.02",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.02",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.02",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc4NTI=",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Deleniti repellat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.1",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.1",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.1",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.1",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.1",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.1",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 85
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Aeby"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.02",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.02",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.02",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc4NTI=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.1",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.1",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 85
+        }
+      ]
     }
-  ]
+  }
 }

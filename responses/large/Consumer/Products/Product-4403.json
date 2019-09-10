@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-04-24"
-  },
-  "description": "Id rem eum. Voluptatem tempore nam quibusdam ipsam quidem expedita.",
-  "id": "UHJvZHVjdDo0NDAz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZuVlknoYGndnRMhR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lcJcvKGrHVtYUoKB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/peiDGKVKpZwUSdhJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YtFqrUwwYrLqxinV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yAsoMYoPXtQXiXUl.png"
-    }
-  ],
-  "name": "Deleniti molestias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "99.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "99.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-04-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "99.57",
-          "currency": "CHF"
+      "description": "Id rem eum. Voluptatem tempore nam quibusdam ipsam quidem expedita.",
+      "id": "UHJvZHVjdDo0NDAz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZuVlknoYGndnRMhR.png"
         },
-        "net": {
-          "amount": "99.57",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lcJcvKGrHVtYUoKB.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/peiDGKVKpZwUSdhJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YtFqrUwwYrLqxinV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/yAsoMYoPXtQXiXUl.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Henri",
-    "id": 1002,
-    "lastName": "Beurret"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "8.13",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "8.13",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "8.13",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjIwNTM=",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Deleniti molestias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "99.57",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "99.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "99.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "99.57",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "99.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "99.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 368
+      "producer": {
+        "firstName": "Henri",
+        "id": "VXNlcjoxMDAy",
+        "lastName": "Beurret"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "8.13",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "8.13",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "8.13",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjIwNTM=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "99.57",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "99.57",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 368
+        }
+      ]
     }
-  ]
+  }
 }

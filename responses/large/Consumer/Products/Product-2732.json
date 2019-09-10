@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-06-04"
-  },
-  "description": "Repellat adipisci expedita dolores officia. Beatae consequatur quaerat blanditiis itaque. Tempora aspernatur molestiae eum fuga officia alias.",
-  "id": "UHJvZHVjdDoyNzMy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/EbWFfvOqdAaGWKJz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HIdPZhhIbqQwtfAt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bijWVkwXOLdYMVyj.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UAMeiKTSXJYldwwM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ojpZenIaYKrVVPfQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UAtdrZDQkqyOJJdQ.png"
-    }
-  ],
-  "name": "Maxime alias vitae.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "90.35",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "90.35",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-06-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "90.35",
-          "currency": "CHF"
+      "description": "Repellat adipisci expedita dolores officia. Beatae consequatur quaerat blanditiis itaque. Tempora aspernatur molestiae eum fuga officia alias.",
+      "id": "UHJvZHVjdDoyNzMy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/EbWFfvOqdAaGWKJz.png"
         },
-        "net": {
-          "amount": "90.35",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/HIdPZhhIbqQwtfAt.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/bijWVkwXOLdYMVyj.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UAMeiKTSXJYldwwM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ojpZenIaYKrVVPfQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UAtdrZDQkqyOJJdQ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nicole",
-    "id": 1092,
-    "lastName": "Vallélian"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "6.49",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "6.49",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "6.49",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM1ODg=",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Maxime alias vitae.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "90.35",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "90.35",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "90.35",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "90.35",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "90.35",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "90.35",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 111
+      "producer": {
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDky",
+        "lastName": "Vallélian"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "6.49",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "6.49",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "6.49",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM1ODg=",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "90.35",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "90.35",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 111
+        }
+      ]
     }
-  ]
+  }
 }

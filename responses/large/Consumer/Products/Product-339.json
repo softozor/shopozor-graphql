@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-05-30"
-  },
-  "description": "Repellat cupiditate natus quae. Iste aut sapiente ipsa architecto.\nOfficiis doloremque excepturi aliquid. Eos suscipit eius facere excepturi.",
-  "id": "UHJvZHVjdDozMzk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/hYRyCfLrITHZhNmx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iUzKmnlOPJXebrjt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xFrRgqeiIiPOtpgL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sPhbCBLdcsOTNjoE.png"
-    }
-  ],
-  "name": "Dolorem quasi alias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "85.25",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "85.25",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-05-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "85.25",
-          "currency": "CHF"
+      "description": "Repellat cupiditate natus quae. Iste aut sapiente ipsa architecto.\nOfficiis doloremque excepturi aliquid. Eos suscipit eius facere excepturi.",
+      "id": "UHJvZHVjdDozMzk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/hYRyCfLrITHZhNmx.png"
         },
-        "net": {
-          "amount": "85.25",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/iUzKmnlOPJXebrjt.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xFrRgqeiIiPOtpgL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sPhbCBLdcsOTNjoE.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Romain",
-    "id": 1028,
-    "lastName": "Cornut"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "32.63",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "32.63",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "32.63",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTc0OQ==",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Dolorem quasi alias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "85.25",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "85.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "85.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "85.25",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "85.25",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "85.25",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 7
+      "producer": {
+        "firstName": "Romain",
+        "id": "VXNlcjoxMDI4",
+        "lastName": "Cornut"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "32.63",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "32.63",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "32.63",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc0OQ==",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "85.25",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "85.25",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 7
+        }
+      ]
     }
-  ]
+  }
 }

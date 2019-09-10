@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-11-08"
-  },
-  "description": "Ullam soluta deserunt quae est. Unde neque eaque explicabo asperiores dignissimos. Veniam ea autem quos fugiat.\nIste perspiciatis quam eveniet. Voluptatem atque suscipit eum facere.",
-  "id": "UHJvZHVjdDoxMzI4",
-  "images": [],
-  "name": "Modi alias officiis nemo.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "18.79",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.79",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-11-08"
       },
-      "stop": {
-        "gross": {
-          "amount": "18.79",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.79",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georges",
-    "id": 1067,
-    "lastName": "Evéquoz"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.99",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.99",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.99",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjYzMQ==",
-      "isAvailable": true,
-      "name": "L",
+      "description": "Ullam soluta deserunt quae est. Unde neque eaque explicabo asperiores dignissimos. Veniam ea autem quos fugiat.\nIste perspiciatis quam eveniet. Voluptatem atque suscipit eum facere.",
+      "id": "UHJvZHVjdDoxMzI4",
+      "images": [],
+      "name": "Modi alias officiis nemo.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "18.79",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "18.79",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.79",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "18.79",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "18.79",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.79",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 26
+      "producer": {
+        "firstName": "Georges",
+        "id": "VXNlcjoxMDY3",
+        "lastName": "Evéquoz"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.99",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.99",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.99",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjYzMQ==",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "18.79",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "18.79",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 26
+        }
+      ]
     }
-  ]
+  }
 }

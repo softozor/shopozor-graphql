@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-05-27"
-  },
-  "description": "Reprehenderit praesentium necessitatibus deserunt. Nulla repellendus odit exercitationem doloremque ad. Minima et totam id blanditiis unde unde. Deserunt ipsam aspernatur cupiditate.",
-  "id": "UHJvZHVjdDozOQ==",
-  "images": [],
-  "name": "Ipsum quasi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "8.53",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "8.53",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-05-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "8.53",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "8.53",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Albert",
-    "id": 1029,
-    "lastName": "Cousin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.59",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.59",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.59",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjIx",
-      "isAvailable": true,
-      "name": "2.5l",
+      "description": "Reprehenderit praesentium necessitatibus deserunt. Nulla repellendus odit exercitationem doloremque ad. Minima et totam id blanditiis unde unde. Deserunt ipsam aspernatur cupiditate.",
+      "id": "UHJvZHVjdDozOQ==",
+      "images": [],
+      "name": "Ipsum quasi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "8.53",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "8.53",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "8.53",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "8.53",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "8.53",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "8.53",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 24
+      "producer": {
+        "firstName": "Albert",
+        "id": "VXNlcjoxMDI5",
+        "lastName": "Cousin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.59",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.59",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.59",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjIx",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "8.53",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "8.53",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 24
+        }
+      ]
     }
-  ]
+  }
 }

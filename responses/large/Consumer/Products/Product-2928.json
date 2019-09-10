@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-05-14"
-  },
-  "description": "Reiciendis quisquam nostrum nulla a occaecati debitis inventore. Aut sunt minima optio exercitationem.",
-  "id": "UHJvZHVjdDoyOTI4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/WoYZRiEPTyoauRfW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/CiuXAEuHyFTznxwS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/edctfUhlxNlpKPEf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/anrxYgKxLBHNNDgB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FdPwdziYXKdCyptm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bnfLnvpPbhbPedre.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mGvdYLvfUXOJxvWe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LaGeURbPUcalDhAu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ebBiWOmauKcHPbvE.png"
-    }
-  ],
-  "name": "Officiis esse possimus labore.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "58.42",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "58.42",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-05-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "58.42",
-          "currency": "CHF"
+      "description": "Reiciendis quisquam nostrum nulla a occaecati debitis inventore. Aut sunt minima optio exercitationem.",
+      "id": "UHJvZHVjdDoyOTI4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/WoYZRiEPTyoauRfW.png"
         },
-        "net": {
-          "amount": "58.42",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/CiuXAEuHyFTznxwS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/edctfUhlxNlpKPEf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/anrxYgKxLBHNNDgB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FdPwdziYXKdCyptm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/bnfLnvpPbhbPedre.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mGvdYLvfUXOJxvWe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LaGeURbPUcalDhAu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ebBiWOmauKcHPbvE.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "29.36",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "29.36",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "29.36",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTQ1NzU=",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Officiis esse possimus labore.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "58.42",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "58.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "58.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "58.42",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "58.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "58.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 131
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "29.36",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "29.36",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "29.36",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQ1NzU=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "58.42",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "58.42",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 131
+        }
+      ]
     }
-  ]
+  }
 }

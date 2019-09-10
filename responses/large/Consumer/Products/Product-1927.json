@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-12-25"
-  },
-  "description": "Consequuntur ea harum commodi aliquam. Mollitia quos facere quia nobis voluptatem illum sed. Possimus dolor tempora quas magnam nam.",
-  "id": "UHJvZHVjdDoxOTI3",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/WeShLlTXCGAhXbzZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ONyVUbVGxYYdFElD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VDbpIWXOCkkeUIHo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZsulFSzWCYPELWCf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ESfOusUXrEzIrUvF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GOzqoBiHnQzLMFgz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UdLISilclAIJdsHL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vLPIgojRRxIaMDXY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oyUDpufUNuZvRdPP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZzSkadZNIkWLQTTU.png"
-    }
-  ],
-  "name": "Omnis doloribus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "32.51",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "32.51",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-12-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "32.51",
-          "currency": "CHF"
+      "description": "Consequuntur ea harum commodi aliquam. Mollitia quos facere quia nobis voluptatem illum sed. Possimus dolor tempora quas magnam nam.",
+      "id": "UHJvZHVjdDoxOTI3",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/WeShLlTXCGAhXbzZ.png"
         },
-        "net": {
-          "amount": "32.51",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ONyVUbVGxYYdFElD.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/VDbpIWXOCkkeUIHo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZsulFSzWCYPELWCf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ESfOusUXrEzIrUvF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GOzqoBiHnQzLMFgz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UdLISilclAIJdsHL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vLPIgojRRxIaMDXY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oyUDpufUNuZvRdPP.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZzSkadZNIkWLQTTU.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1111,
-    "lastName": "Corbat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "30.75",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "30.75",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "30.75",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTY0OA==",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Omnis doloribus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "32.51",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "32.51",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "32.51",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "32.51",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "32.51",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "32.51",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 156
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTEx",
+        "lastName": "Corbat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "30.75",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "30.75",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "30.75",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTY0OA==",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "32.51",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "32.51",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 156
+        }
+      ]
     }
-  ]
+  }
 }

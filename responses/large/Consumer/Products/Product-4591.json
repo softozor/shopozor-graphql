@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-10-22"
-  },
-  "description": "Maiores totam amet fuga laboriosam id reiciendis. Doloribus vel quam deserunt. Fuga voluptates fuga consequuntur rerum magni reiciendis.",
-  "id": "UHJvZHVjdDo0NTkx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/cYwXPKPewiEHnNLx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mEiNKMkniULmWMgN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RsOGvVzkQwmIHLZg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WlptlChJYDEFmrxU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MrwcxGRlqgHahOpF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ywRNocBabbeOSlOx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nvjpHaDabbDDkYrn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mqXnndoeTQtZgpYo.png"
-    }
-  ],
-  "name": "Consequuntur in esse totam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "41.32",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "41.32",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-10-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "41.32",
-          "currency": "CHF"
+      "description": "Maiores totam amet fuga laboriosam id reiciendis. Doloribus vel quam deserunt. Fuga voluptates fuga consequuntur rerum magni reiciendis.",
+      "id": "UHJvZHVjdDo0NTkx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/cYwXPKPewiEHnNLx.png"
         },
-        "net": {
-          "amount": "41.32",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mEiNKMkniULmWMgN.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/RsOGvVzkQwmIHLZg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WlptlChJYDEFmrxU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MrwcxGRlqgHahOpF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ywRNocBabbeOSlOx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nvjpHaDabbDDkYrn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mqXnndoeTQtZgpYo.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sandra",
-    "id": 1146,
-    "lastName": "Aeby"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.09",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.09",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.09",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjMwMDU=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Consequuntur in esse totam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "41.32",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "41.32",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "41.32",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "41.32",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "41.32",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "41.32",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 120
+      "producer": {
+        "firstName": "Sandra",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Aeby"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.09",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.09",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.09",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjMwMDU=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "41.32",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "41.32",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 120
+        }
+      ]
     }
-  ]
+  }
 }

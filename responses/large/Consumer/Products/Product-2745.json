@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-02-04"
-  },
-  "description": "Voluptas amet fugiat recusandae. Ex facere voluptate perferendis molestiae quam est eos.",
-  "id": "UHJvZHVjdDoyNzQ1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/DZFzPIfgeUHzJPNv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YsZJWtCaVCypAoxn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UEeiqTSwduTJTRrR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JlQmIRBVzTBKuzRZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xfqkskrzxwIHVfnI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gdXjkETBRgOIjyPU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xNlBLmWQuQXSgEwD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QphwXIhJXGEUzyHr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xrfVWkAfQUFgXXRg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/JLeicLGtYEAYBgMa.png"
-    }
-  ],
-  "name": "Ea.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "74.95",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "74.95",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-02-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "74.95",
-          "currency": "CHF"
+      "description": "Voluptas amet fugiat recusandae. Ex facere voluptate perferendis molestiae quam est eos.",
+      "id": "UHJvZHVjdDoyNzQ1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/DZFzPIfgeUHzJPNv.png"
         },
-        "net": {
-          "amount": "74.95",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/YsZJWtCaVCypAoxn.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/UEeiqTSwduTJTRrR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JlQmIRBVzTBKuzRZ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xfqkskrzxwIHVfnI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/gdXjkETBRgOIjyPU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xNlBLmWQuQXSgEwD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QphwXIhJXGEUzyHr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xrfVWkAfQUFgXXRg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/JLeicLGtYEAYBgMa.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gérard",
-    "id": 1068,
-    "lastName": "Cretton"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "42.99",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "42.99",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "42.99",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTM2NTU=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Ea.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "74.95",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "74.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "74.95",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "74.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 355
+      "producer": {
+        "firstName": "Gérard",
+        "id": "VXNlcjoxMDY4",
+        "lastName": "Cretton"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "42.99",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "42.99",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "42.99",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM2NTU=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "74.95",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "74.95",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 355
+        }
+      ]
     }
-  ]
+  }
 }

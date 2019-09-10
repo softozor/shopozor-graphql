@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-09-27"
-  },
-  "description": "Iure aliquam modi ipsum necessitatibus enim. Quod quidem voluptas doloremque dolore.\nPlaceat quis adipisci delectus. Aut ipsa ipsa.",
-  "id": "UHJvZHVjdDo0MTI4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/TjdvqiNVObBhofaa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FXygOMiXCHcewQRq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xIwTBiPVZaEkcxtE.png"
-    }
-  ],
-  "name": "Dolores odit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "74.2",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "74.2",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-09-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "74.2",
-          "currency": "CHF"
+      "description": "Iure aliquam modi ipsum necessitatibus enim. Quod quidem voluptas doloremque dolore.\nPlaceat quis adipisci delectus. Aut ipsa ipsa.",
+      "id": "UHJvZHVjdDo0MTI4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/TjdvqiNVObBhofaa.png"
         },
-        "net": {
-          "amount": "74.2",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/FXygOMiXCHcewQRq.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xIwTBiPVZaEkcxtE.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "46.62",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "46.62",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "46.62",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA3Mjc=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Dolores odit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "74.2",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "74.2",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.2",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "74.2",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "74.2",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "74.2",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 11
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "46.62",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "46.62",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "46.62",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA3Mjc=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "74.2",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "74.2",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 11
+        }
+      ]
     }
-  ]
+  }
 }

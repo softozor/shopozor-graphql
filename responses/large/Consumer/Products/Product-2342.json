@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-02-01"
-  },
-  "description": "Recusandae voluptatem dolores nam. Facere nostrum laudantium provident inventore ipsam suscipit.\nVoluptates sapiente ipsum quisquam eius. Saepe earum animi blanditiis. Ea natus molestias at.",
-  "id": "UHJvZHVjdDoyMzQy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/abNovGDJjEXYJVgx.png"
-    }
-  ],
-  "name": "Voluptas distinctio aut.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "99.59",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "99.59",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-02-01"
       },
-      "stop": {
-        "gross": {
-          "amount": "99.59",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "99.59",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Recusandae voluptatem dolores nam. Facere nostrum laudantium provident inventore ipsam suscipit.\nVoluptates sapiente ipsum quisquam eius. Saepe earum animi blanditiis. Ea natus molestias at.",
+      "id": "UHJvZHVjdDoyMzQy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/abNovGDJjEXYJVgx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.99",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.99",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.99",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTE2ODA=",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Voluptas distinctio aut.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "99.59",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "99.59",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "99.59",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "99.59",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "99.59",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "99.59",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 276
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.99",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.99",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.99",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTE2ODA=",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "99.59",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "99.59",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 276
+        }
+      ]
     }
-  ]
+  }
 }

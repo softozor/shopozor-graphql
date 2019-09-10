@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-06-09"
-  },
-  "description": "Laudantium porro illum maxime. Voluptatum qui assumenda accusamus minus vero quis.\nMaiores nesciunt quod sequi quaerat.\nAtque aspernatur eos in totam. Quia corporis tempora labore est quae.",
-  "id": "UHJvZHVjdDoxMjA0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/apelFQgslcDMBhNR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cwQMhqYsEFZcrDMU.png"
-    }
-  ],
-  "name": "Atque quia suscipit laudantium.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "96.21",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "96.21",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-06-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "96.21",
-          "currency": "CHF"
+      "description": "Laudantium porro illum maxime. Voluptatum qui assumenda accusamus minus vero quis.\nMaiores nesciunt quod sequi quaerat.\nAtque aspernatur eos in totam. Quia corporis tempora labore est quae.",
+      "id": "UHJvZHVjdDoxMjA0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/apelFQgslcDMBhNR.png"
         },
-        "net": {
-          "amount": "96.21",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cwQMhqYsEFZcrDMU.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Manuel",
-    "id": 1106,
-    "lastName": "Rosselat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "22.79",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "22.79",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "22.79",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjAwMw==",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Atque quia suscipit laudantium.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "96.21",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "96.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "96.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "96.21",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "96.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "96.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 132
+      "producer": {
+        "firstName": "Manuel",
+        "id": "VXNlcjoxMTA2",
+        "lastName": "Rosselat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "22.79",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "22.79",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "22.79",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjAwMw==",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "96.21",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "96.21",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 132
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-04-29"
-  },
-  "description": "Perferendis laborum doloribus cupiditate quisquam perspiciatis optio. Fuga deleniti neque suscipit nobis pariatur praesentium.",
-  "id": "UHJvZHVjdDoyNTA3",
-  "images": [],
-  "name": "Reiciendis unde.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "32.42",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "32.42",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-04-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "32.42",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "32.42",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1148,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "24.69",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "24.69",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "24.69",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTI0OTI=",
-      "isAvailable": true,
-      "name": "2l",
+      "description": "Perferendis laborum doloribus cupiditate quisquam perspiciatis optio. Fuga deleniti neque suscipit nobis pariatur praesentium.",
+      "id": "UHJvZHVjdDoyNTA3",
+      "images": [],
+      "name": "Reiciendis unde.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "32.42",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "32.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "32.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "32.42",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "32.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "32.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 384
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTQ4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "24.69",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "24.69",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "24.69",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTI0OTI=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "32.42",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "32.42",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 384
+        }
+      ]
     }
-  ]
+  }
 }

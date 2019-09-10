@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-10-04"
-  },
-  "description": "Tempora minima eum fugit modi exercitationem. Debitis placeat id deleniti nobis. Sed reiciendis occaecati possimus.\nVeritatis eius vel. Nemo reiciendis at corrupti.",
-  "id": "UHJvZHVjdDo0MDI4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/TlpoSQzPvKPrmgFI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/omncHJJREZwbRcJV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yxjjSkTBKKtutjro.png"
-    },
-    {
-      "alt": "",
-      "url": "products/StwCwUYjZYCoRjXL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DCoyMCCxJBvemQGr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dhsvcTwbRZYqxZIM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QpraYwqPpYKIIUtz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qtQflIiNFiYrcZHD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/tndUPaAjfPLTfuEX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uARGHGdVrMSFXIOe.png"
-    }
-  ],
-  "name": "Minus quisquam corporis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "65.23",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "65.23",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-10-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "65.23",
-          "currency": "CHF"
+      "description": "Tempora minima eum fugit modi exercitationem. Debitis placeat id deleniti nobis. Sed reiciendis occaecati possimus.\nVeritatis eius vel. Nemo reiciendis at corrupti.",
+      "id": "UHJvZHVjdDo0MDI4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/TlpoSQzPvKPrmgFI.png"
         },
-        "net": {
-          "amount": "65.23",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/omncHJJREZwbRcJV.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/yxjjSkTBKKtutjro.png"
+        },
+        {
+          "alt": "",
+          "url": "products/StwCwUYjZYCoRjXL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/DCoyMCCxJBvemQGr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/dhsvcTwbRZYqxZIM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QpraYwqPpYKIIUtz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qtQflIiNFiYrcZHD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/tndUPaAjfPLTfuEX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/uARGHGdVrMSFXIOe.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Manuel",
-    "id": 1106,
-    "lastName": "Rosselat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "42.49",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "42.49",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "42.49",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjAyNjE=",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Minus quisquam corporis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "65.23",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "65.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "65.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "65.23",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "65.23",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "65.23",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 19
+      "producer": {
+        "firstName": "Manuel",
+        "id": "VXNlcjoxMTA2",
+        "lastName": "Rosselat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "42.49",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "42.49",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "42.49",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjAyNjE=",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "65.23",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "65.23",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 19
+        }
+      ]
     }
-  ]
+  }
 }

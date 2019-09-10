@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-03-14"
-  },
-  "description": "Dignissimos atque occaecati provident autem. Sint id odio reiciendis placeat. Voluptate illum culpa nemo nostrum quisquam.",
-  "id": "UHJvZHVjdDoyMDA2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/srQzKhHHyvEbMhNE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BlwbzniSfFOyYzli.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MEbpruKYWFQDPtAg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kIctcVAfoTFncSRq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jnCQnlurxneWbRVt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wuHBtXJaQeNYNLJr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nLamzchWrEJVZNnw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KAhgAxwmsFxzqqJn.png"
-    }
-  ],
-  "name": "Quia quas quisquam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "92.68",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "92.68",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-03-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "92.68",
-          "currency": "CHF"
+      "description": "Dignissimos atque occaecati provident autem. Sint id odio reiciendis placeat. Voluptate illum culpa nemo nostrum quisquam.",
+      "id": "UHJvZHVjdDoyMDA2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/srQzKhHHyvEbMhNE.png"
         },
-        "net": {
-          "amount": "92.68",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BlwbzniSfFOyYzli.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/MEbpruKYWFQDPtAg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/kIctcVAfoTFncSRq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/jnCQnlurxneWbRVt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/wuHBtXJaQeNYNLJr.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nLamzchWrEJVZNnw.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KAhgAxwmsFxzqqJn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Alexandre",
-    "id": 1049,
-    "lastName": "Corpataux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "19.33",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "19.33",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "19.33",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNzU=",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Quia quas quisquam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "92.68",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "92.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "92.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "92.68",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "92.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "92.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 1
+      "producer": {
+        "firstName": "Alexandre",
+        "id": "VXNlcjoxMDQ5",
+        "lastName": "Corpataux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "19.33",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "19.33",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "19.33",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNzU=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "92.68",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "92.68",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 1
+        }
+      ]
     }
-  ]
+  }
 }

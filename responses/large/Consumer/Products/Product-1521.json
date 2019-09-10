@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-03-12"
-  },
-  "description": "Suscipit nemo eius laudantium architecto consequatur. Commodi molestiae quasi similique repellendus.",
-  "id": "UHJvZHVjdDoxNTIx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/IRZlfuhSkSaEgQdk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gnNSzFWUeApgmeZg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sGZIEFfQqNGKgBaF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jYKoWzbeJbGQwWLK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vBjMybswjPBLOuLl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WZGBxEYlcnxywBEV.png"
-    }
-  ],
-  "name": "Quod eos sequi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "56.76",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "56.76",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-03-12"
       },
-      "stop": {
-        "gross": {
-          "amount": "56.76",
-          "currency": "CHF"
+      "description": "Suscipit nemo eius laudantium architecto consequatur. Commodi molestiae quasi similique repellendus.",
+      "id": "UHJvZHVjdDoxNTIx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/IRZlfuhSkSaEgQdk.png"
         },
-        "net": {
-          "amount": "56.76",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gnNSzFWUeApgmeZg.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/sGZIEFfQqNGKgBaF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/jYKoWzbeJbGQwWLK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vBjMybswjPBLOuLl.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WZGBxEYlcnxywBEV.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Stéphane",
-    "id": 1001,
-    "lastName": "Tinguely"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "43.61",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "43.61",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "43.61",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzU0NA==",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Quod eos sequi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "56.76",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "56.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "56.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "56.76",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "56.76",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "56.76",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 50
+      "producer": {
+        "firstName": "Stéphane",
+        "id": "VXNlcjoxMDAx",
+        "lastName": "Tinguely"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "43.61",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "43.61",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "43.61",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzU0NA==",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "56.76",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "56.76",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 50
+        }
+      ]
     }
-  ]
+  }
 }

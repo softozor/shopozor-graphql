@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-11-30"
-  },
-  "description": "Deleniti repellat voluptates autem inventore. Similique expedita pariatur quo porro quo sapiente sed.",
-  "id": "UHJvZHVjdDoxNzEy",
-  "images": [],
-  "name": "Maiores cupiditate iure.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "12.53",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "12.53",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-11-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "12.53",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "12.53",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Emma",
-    "id": 1004,
-    "lastName": "Babey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "11.4",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "11.4",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "11.4",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODU0Nw==",
-      "isAvailable": true,
-      "name": "250g",
+      "description": "Deleniti repellat voluptates autem inventore. Similique expedita pariatur quo porro quo sapiente sed.",
+      "id": "UHJvZHVjdDoxNzEy",
+      "images": [],
+      "name": "Maiores cupiditate iure.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "12.53",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "12.53",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "12.53",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "12.53",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "12.53",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "12.53",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 6
+      "producer": {
+        "firstName": "Emma",
+        "id": "VXNlcjoxMDA0",
+        "lastName": "Babey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "11.4",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "11.4",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "11.4",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODU0Nw==",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "12.53",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "12.53",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 6
+        }
+      ]
     }
-  ]
+  }
 }

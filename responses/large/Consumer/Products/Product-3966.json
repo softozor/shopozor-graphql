@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-07-02"
-  },
-  "description": "Aliquid eius libero nisi itaque. Assumenda a quibusdam magni error incidunt.\nEveniet veritatis aperiam est iure fugit deserunt. Cum quisquam in.",
-  "id": "UHJvZHVjdDozOTY2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/mJnNXmGSxTMWnORg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dbdjsjumCJBIAPYR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UQfmezSlieVQvHxS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eXtqhpiutoIgeKIQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/PnvfGwRCPYtJaUev.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NuNZnuaLxylQWRRT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZQStDutoCMSWTYqT.png"
-    }
-  ],
-  "name": "Aspernatur similique.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "53.84",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "53.84",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-07-02"
       },
-      "stop": {
-        "gross": {
-          "amount": "53.84",
-          "currency": "CHF"
+      "description": "Aliquid eius libero nisi itaque. Assumenda a quibusdam magni error incidunt.\nEveniet veritatis aperiam est iure fugit deserunt. Cum quisquam in.",
+      "id": "UHJvZHVjdDozOTY2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/mJnNXmGSxTMWnORg.png"
         },
-        "net": {
-          "amount": "53.84",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/dbdjsjumCJBIAPYR.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/UQfmezSlieVQvHxS.png"
+        },
+        {
+          "alt": "",
+          "url": "products/eXtqhpiutoIgeKIQ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/PnvfGwRCPYtJaUev.png"
+        },
+        {
+          "alt": "",
+          "url": "products/NuNZnuaLxylQWRRT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZQStDutoCMSWTYqT.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Marianne",
-    "id": 1121,
-    "lastName": "Balmat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "34.69",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "34.69",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "34.69",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTk5MTE=",
-      "isAvailable": true,
-      "name": "1kg",
+      ],
+      "name": "Aspernatur similique.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "53.84",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "53.84",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.84",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "53.84",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "53.84",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.84",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 3
+      "producer": {
+        "firstName": "Marianne",
+        "id": "VXNlcjoxMTIx",
+        "lastName": "Balmat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "34.69",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "34.69",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "34.69",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk5MTE=",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "53.84",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "53.84",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 3
+        }
+      ]
     }
-  ]
+  }
 }

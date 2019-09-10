@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-12-07"
-  },
-  "description": "Perspiciatis earum illum esse tempora. Accusamus corrupti nostrum cum asperiores ipsa. Maiores voluptate quam molestias eaque saepe ullam.",
-  "id": "UHJvZHVjdDo5NjI=",
-  "images": [],
-  "name": "Sed quia.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "12.89",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "12.89",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-12-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "12.89",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "12.89",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Georges",
-    "id": 1008,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.62",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.62",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.62",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDgwNA==",
-      "isAvailable": true,
-      "name": "M",
+      "description": "Perspiciatis earum illum esse tempora. Accusamus corrupti nostrum cum asperiores ipsa. Maiores voluptate quam molestias eaque saepe ullam.",
+      "id": "UHJvZHVjdDo5NjI=",
+      "images": [],
+      "name": "Sed quia.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "12.89",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "12.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "12.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "12.89",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "12.89",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "12.89",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 47
+      "producer": {
+        "firstName": "Georges",
+        "id": "VXNlcjoxMDA4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.62",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.62",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.62",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDgwNA==",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "12.89",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "12.89",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 47
+        }
+      ]
     }
-  ]
+  }
 }

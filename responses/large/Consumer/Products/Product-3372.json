@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-09-27"
-  },
-  "description": "Quod vel ad cumque sit dolor. Optio officiis eligendi dolore voluptatibus qui. Eveniet maiores laboriosam a earum numquam totam.",
-  "id": "UHJvZHVjdDozMzcy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ldGqeWUAQzdUkdNU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/goAYiNPtcNflEmIp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fcbYXpkIyOGXTukT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sgdlvVXTCNvSqGMF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QhAChxQhLhBHRvLo.png"
-    }
-  ],
-  "name": "Expedita velit architecto.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "35.33",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "35.33",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-09-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "35.33",
-          "currency": "CHF"
+      "description": "Quod vel ad cumque sit dolor. Optio officiis eligendi dolore voluptatibus qui. Eveniet maiores laboriosam a earum numquam totam.",
+      "id": "UHJvZHVjdDozMzcy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ldGqeWUAQzdUkdNU.png"
         },
-        "net": {
-          "amount": "35.33",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/goAYiNPtcNflEmIp.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fcbYXpkIyOGXTukT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sgdlvVXTCNvSqGMF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QhAChxQhLhBHRvLo.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.24",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.24",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.24",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTY4MDk=",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Expedita velit architecto.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "35.33",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "35.33",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "35.33",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "35.33",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "35.33",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "35.33",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 9
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.24",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.24",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.24",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTY4MDk=",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "35.33",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "35.33",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 9
+        }
+      ]
     }
-  ]
+  }
 }

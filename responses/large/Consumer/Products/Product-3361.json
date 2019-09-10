@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-06-29"
-  },
-  "description": "Sapiente alias eum cum dicta. Ut blanditiis provident alias ipsam amet earum exercitationem.\nIllum ullam laudantium cumque maxime vero. Minus iure consequatur dignissimos.",
-  "id": "UHJvZHVjdDozMzYx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ySpNEncbocdZhPea.png"
-    },
-    {
-      "alt": "",
-      "url": "products/AmwDBZTNWXixtBWh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vSzgnpxYFTQEksgz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mMjfwbQJmDKlJLoq.png"
-    }
-  ],
-  "name": "Occaecati facere consequatur.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "70.7",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "70.7",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-06-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "70.7",
-          "currency": "CHF"
+      "description": "Sapiente alias eum cum dicta. Ut blanditiis provident alias ipsam amet earum exercitationem.\nIllum ullam laudantium cumque maxime vero. Minus iure consequatur dignissimos.",
+      "id": "UHJvZHVjdDozMzYx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ySpNEncbocdZhPea.png"
         },
-        "net": {
-          "amount": "70.7",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/AmwDBZTNWXixtBWh.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/vSzgnpxYFTQEksgz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mMjfwbQJmDKlJLoq.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "22.3",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "22.3",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "22.3",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTY3NDk=",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Occaecati facere consequatur.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "70.7",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "70.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "70.7",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "70.7",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "70.7",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 8
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "22.3",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "22.3",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "22.3",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTY3NDk=",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "70.7",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "70.7",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 8
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-04-06"
-  },
-  "description": "Commodi sed illo harum quas mollitia consequatur. Libero dignissimos labore animi velit vero deserunt.\nInventore quod qui dolor est voluptate. Est fugit est sunt.",
-  "id": "UHJvZHVjdDo5Njk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/iBmXjqCGGNAWNhRI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mmvHhfCoqLTeVWsR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SBDfcrqaKHLhLLQR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SsfVXLGtkkGBMdVi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zSLrGOTTLsjMkyfq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cdHNkmOpUrtYGCEn.png"
-    }
-  ],
-  "name": "Quasi.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "25.19",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "25.19",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-04-06"
       },
-      "stop": {
-        "gross": {
-          "amount": "25.19",
-          "currency": "CHF"
+      "description": "Commodi sed illo harum quas mollitia consequatur. Libero dignissimos labore animi velit vero deserunt.\nInventore quod qui dolor est voluptate. Est fugit est sunt.",
+      "id": "UHJvZHVjdDo5Njk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/iBmXjqCGGNAWNhRI.png"
         },
-        "net": {
-          "amount": "25.19",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mmvHhfCoqLTeVWsR.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SBDfcrqaKHLhLLQR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SsfVXLGtkkGBMdVi.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zSLrGOTTLsjMkyfq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cdHNkmOpUrtYGCEn.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sara",
-    "id": 1070,
-    "lastName": "Carron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "2.2",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "2.2",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "2.2",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDg0Mw==",
-      "isAvailable": true,
-      "name": "500ml",
+      ],
+      "name": "Quasi.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "25.19",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "25.19",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "25.19",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "25.19",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "25.19",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "25.19",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 312
+      "producer": {
+        "firstName": "Sara",
+        "id": "VXNlcjoxMDcw",
+        "lastName": "Carron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "2.2",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "2.2",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "2.2",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDg0Mw==",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "25.19",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "25.19",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 312
+        }
+      ]
     }
-  ]
+  }
 }

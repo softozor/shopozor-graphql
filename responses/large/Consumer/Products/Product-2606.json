@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-07-28"
-  },
-  "description": "Sapiente distinctio quam modi error deleniti. Eos cum delectus iusto molestiae dolores placeat. Dolorem provident eius iusto. Corrupti delectus beatae natus ducimus doloribus.",
-  "id": "UHJvZHVjdDoyNjA2",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/SVcoAXxVBKfPZPrJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mQJNnWHzEmDUcevQ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BDTfSJDhSpPMNYBK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yqEBMdWulGsKiCgM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zkEybvZIlBcHLtaN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FmoUmKiVERPMPCaF.png"
-    }
-  ],
-  "name": "Quis adipisci modi ab.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "76.68",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "76.68",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-07-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "76.68",
-          "currency": "CHF"
+      "description": "Sapiente distinctio quam modi error deleniti. Eos cum delectus iusto molestiae dolores placeat. Dolorem provident eius iusto. Corrupti delectus beatae natus ducimus doloribus.",
+      "id": "UHJvZHVjdDoyNjA2",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/SVcoAXxVBKfPZPrJ.png"
         },
-        "net": {
-          "amount": "76.68",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mQJNnWHzEmDUcevQ.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BDTfSJDhSpPMNYBK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/yqEBMdWulGsKiCgM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zkEybvZIlBcHLtaN.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FmoUmKiVERPMPCaF.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Christophe",
-    "id": 1142,
-    "lastName": "Cossy"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "67.71",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "67.71",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "67.71",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NjY=",
-      "isAvailable": true,
-      "name": "2l",
+      ],
+      "name": "Quis adipisci modi ab.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "76.68",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "76.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "76.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "76.68",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "76.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "76.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 120
+      "producer": {
+        "firstName": "Christophe",
+        "id": "VXNlcjoxMTQy",
+        "lastName": "Cossy"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "67.71",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "67.71",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "67.71",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NjY=",
+          "isAvailable": true,
+          "name": "2l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "76.68",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "76.68",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 120
+        }
+      ]
     }
-  ]
+  }
 }

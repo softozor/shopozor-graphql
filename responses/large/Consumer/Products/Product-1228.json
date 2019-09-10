@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-11-05"
-  },
-  "description": "Non perferendis quibusdam voluptates iure ab. Quam iusto quisquam. Eveniet asperiores hic nostrum laboriosam ab. Molestiae maiores exercitationem magnam molestiae.",
-  "id": "UHJvZHVjdDoxMjI4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZDWVnzXVcoAxxccp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iUPyqmcBzfeNiKaS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/POntSKpXekMoKaYF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xgCIrrIifMgosygL.png"
-    }
-  ],
-  "name": "Quos.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "23.33",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "23.33",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-11-05"
       },
-      "stop": {
-        "gross": {
-          "amount": "23.33",
-          "currency": "CHF"
+      "description": "Non perferendis quibusdam voluptates iure ab. Quam iusto quisquam. Eveniet asperiores hic nostrum laboriosam ab. Molestiae maiores exercitationem magnam molestiae.",
+      "id": "UHJvZHVjdDoxMjI4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZDWVnzXVcoAxxccp.png"
         },
-        "net": {
-          "amount": "23.33",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/iUPyqmcBzfeNiKaS.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/POntSKpXekMoKaYF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xgCIrrIifMgosygL.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "8.5",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "8.5",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "8.5",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjExMg==",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Quos.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "23.33",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "23.33",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "23.33",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "23.33",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "23.33",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "23.33",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 196
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "8.5",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "8.5",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "8.5",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjExMg==",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "23.33",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "23.33",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 196
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-09-27"
-  },
-  "description": "Molestiae perferendis sequi dignissimos. Nesciunt nulla alias necessitatibus expedita delectus ea recusandae.",
-  "id": "UHJvZHVjdDoxOTE0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/WBJkmDToelHNPlvi.png"
-    },
-    {
-      "alt": "",
-      "url": "products/keZAdxlsGEWoTvIn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ncUjvEQTAYDRXSxu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZpkYnYxNrMfEfkys.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MKNYkHEzJEaXYSkG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GJeeuKRqKedYSJaJ.png"
-    }
-  ],
-  "name": "Necessitatibus corporis enim.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "81.36",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "81.36",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-09-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "81.36",
-          "currency": "CHF"
+      "description": "Molestiae perferendis sequi dignissimos. Nesciunt nulla alias necessitatibus expedita delectus ea recusandae.",
+      "id": "UHJvZHVjdDoxOTE0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/WBJkmDToelHNPlvi.png"
         },
-        "net": {
-          "amount": "81.36",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/keZAdxlsGEWoTvIn.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ncUjvEQTAYDRXSxu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ZpkYnYxNrMfEfkys.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MKNYkHEzJEaXYSkG.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GJeeuKRqKedYSJaJ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sara",
-    "id": 1070,
-    "lastName": "Carron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "76.95",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "76.95",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "76.95",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTU5OQ==",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      ],
+      "name": "Necessitatibus corporis enim.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "81.36",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "81.36",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "81.36",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "81.36",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "81.36",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "81.36",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 81
+      "producer": {
+        "firstName": "Sara",
+        "id": "VXNlcjoxMDcw",
+        "lastName": "Carron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "76.95",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "76.95",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "76.95",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTU5OQ==",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "81.36",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "81.36",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 81
+        }
+      ]
     }
-  ]
+  }
 }

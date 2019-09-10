@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-05-22"
-  },
-  "description": "Molestias dicta eius illum. Vero quos possimus at assumenda id non.\nSapiente dolores neque non officiis. Alias optio aliquam in. Eos quia illum veniam.",
-  "id": "UHJvZHVjdDo0Mzc1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/VXKmHduFhHOqrCfR.png"
-    }
-  ],
-  "name": "Vitae quod quia.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "43.04",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.04",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-05-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "43.04",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "43.04",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Molestias dicta eius illum. Vero quos possimus at assumenda id non.\nSapiente dolores neque non officiis. Alias optio aliquam in. Eos quia illum veniam.",
+      "id": "UHJvZHVjdDo0Mzc1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/VXKmHduFhHOqrCfR.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lucie",
-    "id": 1031,
-    "lastName": "Beuchat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "32.21",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "32.21",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "32.21",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjE5MDc=",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Vitae quod quia.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "43.04",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "43.04",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.04",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "43.04",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "43.04",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "43.04",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 363
+      "producer": {
+        "firstName": "Lucie",
+        "id": "VXNlcjoxMDMx",
+        "lastName": "Beuchat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "32.21",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "32.21",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "32.21",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjE5MDc=",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "43.04",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "43.04",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 363
+        }
+      ]
     }
-  ]
+  }
 }

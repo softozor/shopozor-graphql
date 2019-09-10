@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2019-10-24"
-  },
-  "description": "Omnis illum sequi ipsa eligendi delectus id. Quisquam provident nemo quaerat.",
-  "id": "UHJvZHVjdDo1MTE=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/sZflmCooWPYAesbg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IvrcGECmXgtfiJbg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nPYpIkwIkFnpzyZa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BidKQLUfcLqWryxV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/YoPRPpxgjsYTtYOs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FukrOvSIhwoWDIfJ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oLTIsEBrnOtTjcQx.png"
-    }
-  ],
-  "name": "Reiciendis nesciunt consequatur.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.64",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.64",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2019-10-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.64",
-          "currency": "CHF"
+      "description": "Omnis illum sequi ipsa eligendi delectus id. Quisquam provident nemo quaerat.",
+      "id": "UHJvZHVjdDo1MTE=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/sZflmCooWPYAesbg.png"
         },
-        "net": {
-          "amount": "1.64",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/IvrcGECmXgtfiJbg.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/nPYpIkwIkFnpzyZa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BidKQLUfcLqWryxV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/YoPRPpxgjsYTtYOs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FukrOvSIhwoWDIfJ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oLTIsEBrnOtTjcQx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.42",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.42",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.42",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjU5MA==",
-      "isAvailable": true,
-      "name": "250g",
+      ],
+      "name": "Reiciendis nesciunt consequatur.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.64",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.64",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.64",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.64",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.64",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.64",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 295
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.42",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.42",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.42",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjU5MA==",
+          "isAvailable": true,
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.64",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.64",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 295
+        }
+      ]
     }
-  ]
+  }
 }

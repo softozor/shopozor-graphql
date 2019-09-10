@@ -1,116 +1,120 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-07-11"
-  },
-  "description": "Odio aperiam nulla consectetur nam. Maxime iusto quisquam enim cupiditate quos eligendi. Tempore quod quidem totam.",
-  "id": "UHJvZHVjdDoyMDY=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/WgwcyUCqMXscagqS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hykXePesGjEkJLQK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gezYPIMBtnvOCFgp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mmCgiFInnKnvpTLU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LTUnGWrVliOxnyMe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OCfMxpmsypGfOMYn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HZqnIjIOSSyoptis.png"
-    }
-  ],
-  "name": "Molestiae fugit.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "86.46",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "86.46",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-07-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "86.46",
-          "currency": "CHF"
+      "description": "Odio aperiam nulla consectetur nam. Maxime iusto quisquam enim cupiditate quos eligendi. Tempore quod quidem totam.",
+      "id": "UHJvZHVjdDoyMDY=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/WgwcyUCqMXscagqS.png"
         },
-        "net": {
-          "amount": "86.46",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/hykXePesGjEkJLQK.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/gezYPIMBtnvOCFgp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mmCgiFInnKnvpTLU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LTUnGWrVliOxnyMe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/OCfMxpmsypGfOMYn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HZqnIjIOSSyoptis.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Germaine",
-    "id": 1084,
-    "lastName": "Cosendey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "63.62",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "63.62",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "63.62",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTA2Mg==",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Molestiae fugit.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "86.46",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "86.46",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "86.46",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "86.46",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "86.46",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "86.46",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 47
+      "producer": {
+        "firstName": "Germaine",
+        "id": "VXNlcjoxMDg0",
+        "lastName": "Cosendey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "63.62",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "63.62",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "63.62",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTA2Mg==",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "86.46",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "86.46",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 47
+        }
+      ]
     }
-  ]
+  }
 }

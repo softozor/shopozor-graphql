@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-09-16"
-  },
-  "description": "Quaerat quidem perspiciatis magnam repellat iure officia. Aperiam officiis dolor quidem aliquid recusandae labore fuga.",
-  "id": "UHJvZHVjdDo0MTE0",
-  "images": [],
-  "name": "Repellendus esse.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-09-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.57",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.57",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Sara",
-    "id": 1070,
-    "lastName": "Carron"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.4",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.4",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.4",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NTQ=",
-      "isAvailable": true,
-      "name": "M",
+      "description": "Quaerat quidem perspiciatis magnam repellat iure officia. Aperiam officiis dolor quidem aliquid recusandae labore fuga.",
+      "id": "UHJvZHVjdDo0MTE0",
+      "images": [],
+      "name": "Repellendus esse.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.57",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.57",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.57",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.57",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 791
+      "producer": {
+        "firstName": "Sara",
+        "id": "VXNlcjoxMDcw",
+        "lastName": "Carron"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.4",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.4",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.4",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA2NTQ=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.57",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.57",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 791
+        }
+      ]
     }
-  ]
+  }
 }

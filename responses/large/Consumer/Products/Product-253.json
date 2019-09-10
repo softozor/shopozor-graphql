@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-01-20"
-  },
-  "description": "Iste nobis distinctio harum assumenda cumque molestiae. Ipsa distinctio expedita illum quod.",
-  "id": "UHJvZHVjdDoyNTM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/fRZlItiOOroRqqJa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FAKXitadVOsRmSWr.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rFKwdzudgpxnFAaB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rimIvNXrhJIpvhUa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aAdddysolNfafMde.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QpIBxYFkwKVtsjRd.png"
-    }
-  ],
-  "name": "Eum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "16.01",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "16.01",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-01-20"
       },
-      "stop": {
-        "gross": {
-          "amount": "16.01",
-          "currency": "CHF"
+      "description": "Iste nobis distinctio harum assumenda cumque molestiae. Ipsa distinctio expedita illum quod.",
+      "id": "UHJvZHVjdDoyNTM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/fRZlItiOOroRqqJa.png"
         },
-        "net": {
-          "amount": "16.01",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/FAKXitadVOsRmSWr.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/rFKwdzudgpxnFAaB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rimIvNXrhJIpvhUa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/aAdddysolNfafMde.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QpIBxYFkwKVtsjRd.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "15.97",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "15.97",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "15.97",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTMyMQ==",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Eum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "16.01",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "16.01",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "16.01",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "16.01",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "16.01",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "16.01",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 273
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "15.97",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "15.97",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "15.97",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTMyMQ==",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "16.01",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "16.01",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 273
+        }
+      ]
     }
-  ]
+  }
 }

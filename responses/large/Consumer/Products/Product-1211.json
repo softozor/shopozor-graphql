@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-09-11"
-  },
-  "description": "At laborum est earum illum voluptatibus. Veniam veritatis enim ratione explicabo quas odit.",
-  "id": "UHJvZHVjdDoxMjEx",
-  "images": [],
-  "name": "Voluptatum minus dolores saepe.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "12.58",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "12.58",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-09-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "12.58",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "12.58",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Nathan",
-    "id": 1125,
-    "lastName": "Vienne"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "10.2",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "10.2",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "10.2",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjA0Mg==",
-      "isAvailable": true,
-      "name": "250ml",
+      "description": "At laborum est earum illum voluptatibus. Veniam veritatis enim ratione explicabo quas odit.",
+      "id": "UHJvZHVjdDoxMjEx",
+      "images": [],
+      "name": "Voluptatum minus dolores saepe.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "12.58",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "12.58",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "12.58",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "12.58",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "12.58",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "12.58",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 3
+      "producer": {
+        "firstName": "Nathan",
+        "id": "VXNlcjoxMTI1",
+        "lastName": "Vienne"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "10.2",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "10.2",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "10.2",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjA0Mg==",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "12.58",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "12.58",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 3
+        }
+      ]
     }
-  ]
+  }
 }

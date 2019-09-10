@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-03-08"
-  },
-  "description": "Voluptatibus sequi ullam quisquam officiis cupiditate magni animi. Quod voluptatibus quaerat deserunt aliquid expedita rem.",
-  "id": "UHJvZHVjdDozMDk4",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/gtnwCgibpMHvAQJT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DnHsFccOSOJKHmku.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jyIzSCqaEsXsJlGb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zfEdLpDClwlfQdnd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/aavfXFOButXfRzaV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GOPyCoLfDsVRaTUm.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FeOHXebTubwRhsIc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ThVuTasVvdiUwpHA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sXgEZfnyxGBDkMfH.png"
-    }
-  ],
-  "name": "Eos accusantium id alias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "67.88",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "67.88",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-03-08"
       },
-      "stop": {
-        "gross": {
-          "amount": "67.88",
-          "currency": "CHF"
+      "description": "Voluptatibus sequi ullam quisquam officiis cupiditate magni animi. Quod voluptatibus quaerat deserunt aliquid expedita rem.",
+      "id": "UHJvZHVjdDozMDk4",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/gtnwCgibpMHvAQJT.png"
         },
-        "net": {
-          "amount": "67.88",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/DnHsFccOSOJKHmku.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jyIzSCqaEsXsJlGb.png"
+        },
+        {
+          "alt": "",
+          "url": "products/zfEdLpDClwlfQdnd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/aavfXFOButXfRzaV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GOPyCoLfDsVRaTUm.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FeOHXebTubwRhsIc.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ThVuTasVvdiUwpHA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sXgEZfnyxGBDkMfH.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "24.32",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "24.32",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "24.32",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTU0MTU=",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Eos accusantium id alias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "67.88",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "67.88",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "67.88",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "67.88",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "67.88",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "67.88",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 819
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "24.32",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "24.32",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "24.32",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTU0MTU=",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "67.88",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "67.88",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 819
+        }
+      ]
     }
-  ]
+  }
 }

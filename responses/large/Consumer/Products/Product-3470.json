@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-07-15"
-  },
-  "description": "Est doloremque veritatis error. Autem quisquam maiores adipisci distinctio error.\nCorporis ipsum amet officiis. Explicabo fugit quod soluta cum ea. Atque cupiditate eaque.",
-  "id": "UHJvZHVjdDozNDcw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GKviFsAuUjeXfDcL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/NWcbChnQCLszPHos.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qQIoEDIqCyXtggGt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WQnLjsULKzxiFFqB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yIvQIYdpUhLNXCFp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FVJkpyCIDnNlVTpd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/oOfsqDrnDPqueXDV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TiLPDjsnZxusJhoH.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rkzwqsaVQBJUZsYG.png"
-    }
-  ],
-  "name": "Enim dolor.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "2.74",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "2.74",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-07-15"
       },
-      "stop": {
-        "gross": {
-          "amount": "2.74",
-          "currency": "CHF"
+      "description": "Est doloremque veritatis error. Autem quisquam maiores adipisci distinctio error.\nCorporis ipsum amet officiis. Explicabo fugit quod soluta cum ea. Atque cupiditate eaque.",
+      "id": "UHJvZHVjdDozNDcw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GKviFsAuUjeXfDcL.png"
         },
-        "net": {
-          "amount": "2.74",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/NWcbChnQCLszPHos.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qQIoEDIqCyXtggGt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WQnLjsULKzxiFFqB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/yIvQIYdpUhLNXCFp.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FVJkpyCIDnNlVTpd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/oOfsqDrnDPqueXDV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TiLPDjsnZxusJhoH.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rkzwqsaVQBJUZsYG.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "2.3",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "2.3",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "2.3",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTczNDE=",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Enim dolor.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "2.74",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "2.74",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "2.74",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "2.74",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "2.74",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "2.74",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 3
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "2.3",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "2.3",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "2.3",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTczNDE=",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "2.74",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "2.74",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 3
+        }
+      ]
     }
-  ]
+  }
 }

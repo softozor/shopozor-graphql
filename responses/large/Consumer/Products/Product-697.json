@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-06-16"
-  },
-  "description": "Corporis dolores ipsam incidunt. Nesciunt nam culpa. Asperiores suscipit ipsa explicabo.\nQuos nemo accusamus tenetur blanditiis eaque. Culpa tempora nesciunt quos similique labore placeat.",
-  "id": "UHJvZHVjdDo2OTc=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MFMLoSIxebeShhhL.png"
-    }
-  ],
-  "name": "Reiciendis natus voluptates.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "18.01",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.01",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-06-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "18.01",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.01",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Corporis dolores ipsam incidunt. Nesciunt nam culpa. Asperiores suscipit ipsa explicabo.\nQuos nemo accusamus tenetur blanditiis eaque. Culpa tempora nesciunt quos similique labore placeat.",
+      "id": "UHJvZHVjdDo2OTc=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MFMLoSIxebeShhhL.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lisa",
-    "id": 1022,
-    "lastName": "Charpié"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "14.53",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "14.53",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "14.53",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzUyOA==",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Reiciendis natus voluptates.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "18.01",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "18.01",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.01",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "18.01",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "18.01",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.01",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 899
+      "producer": {
+        "firstName": "Lisa",
+        "id": "VXNlcjoxMDIy",
+        "lastName": "Charpié"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "14.53",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "14.53",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "14.53",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzUyOA==",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "18.01",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "18.01",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 899
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-04-27"
-  },
-  "description": "Deleniti suscipit ullam earum corrupti.\nRem veritatis natus in maiores.\nSunt fugit nemo voluptas sit. Incidunt voluptatum nihil nemo eum sunt eum.\nSapiente cupiditate hic aliquam.",
-  "id": "UHJvZHVjdDoyMzQ=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/tImKMpqLahfWZGip.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QBOmyWJgpGvReMip.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qZnaeIOPcmAoYDXM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cetdFBSvJksdXYRo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wkNeZKcwrRbHZHlF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vYrPmLfGlGkJETDK.png"
-    }
-  ],
-  "name": "Non dicta.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "39.68",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "39.68",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-04-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "39.68",
-          "currency": "CHF"
+      "description": "Deleniti suscipit ullam earum corrupti.\nRem veritatis natus in maiores.\nSunt fugit nemo voluptas sit. Incidunt voluptatum nihil nemo eum sunt eum.\nSapiente cupiditate hic aliquam.",
+      "id": "UHJvZHVjdDoyMzQ=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/tImKMpqLahfWZGip.png"
         },
-        "net": {
-          "amount": "39.68",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/QBOmyWJgpGvReMip.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qZnaeIOPcmAoYDXM.png"
+        },
+        {
+          "alt": "",
+          "url": "products/cetdFBSvJksdXYRo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/wkNeZKcwrRbHZHlF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vYrPmLfGlGkJETDK.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lisa",
-    "id": 112,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "31.72",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "31.72",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "31.72",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzM0",
-      "isAvailable": true,
-      "name": "45cm x 45cm",
+      ],
+      "name": "Non dicta.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "39.68",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "39.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "39.68",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "39.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "39.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 150
+      "producer": {
+        "firstName": "Lisa",
+        "id": "VXNlcjoxMTI=",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "31.72",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "31.72",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "31.72",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzM0",
+          "isAvailable": true,
+          "name": "45cm x 45cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "39.68",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "39.68",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 150
+        }
+      ]
     }
-  ]
+  }
 }

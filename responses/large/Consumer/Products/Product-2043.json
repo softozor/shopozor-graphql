@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-03-09"
-  },
-  "description": "Fugit illo enim enim. Consequuntur labore enim dolorem natus eum aliquam. Ea fuga corporis totam. Praesentium ad earum ipsum incidunt iste voluptates modi.",
-  "id": "UHJvZHVjdDoyMDQz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/gakcoyQlqsKSSgdC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/fLvGCZSjISUlSYeI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dHbMIeiLxcXCtfKe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LHwUFHmIUJWegJAa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jZUDYUkfzGsxYCmx.png"
-    }
-  ],
-  "name": "Nemo repellat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "21.99",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "21.99",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-03-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "21.99",
-          "currency": "CHF"
+      "description": "Fugit illo enim enim. Consequuntur labore enim dolorem natus eum aliquam. Ea fuga corporis totam. Praesentium ad earum ipsum incidunt iste voluptates modi.",
+      "id": "UHJvZHVjdDoyMDQz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/gakcoyQlqsKSSgdC.png"
         },
-        "net": {
-          "amount": "21.99",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/fLvGCZSjISUlSYeI.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/dHbMIeiLxcXCtfKe.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LHwUFHmIUJWegJAa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/jZUDYUkfzGsxYCmx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Jean-Claude",
-    "id": 1050,
-    "lastName": "Candaux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "19.44",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "19.44",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "19.44",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTAyNTA=",
-      "isAvailable": true,
-      "name": "S",
+      ],
+      "name": "Nemo repellat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "21.99",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "21.99",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "21.99",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "21.99",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "21.99",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "21.99",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 98
+      "producer": {
+        "firstName": "Jean-Claude",
+        "id": "VXNlcjoxMDUw",
+        "lastName": "Candaux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "19.44",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "19.44",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "19.44",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTAyNTA=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "21.99",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "21.99",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 98
+        }
+      ]
     }
-  ]
+  }
 }

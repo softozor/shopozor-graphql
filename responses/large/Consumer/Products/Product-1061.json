@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-12-11"
-  },
-  "description": "Repudiandae a doloribus asperiores id. Voluptates minus ab quasi dolorem quibusdam sequi.\nCum magnam sunt.",
-  "id": "UHJvZHVjdDoxMDYx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/HwFwxqBlUkkfbFRt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jIbyoMIXKCIspSBg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uRReQjUtnPrnfjCz.png"
-    }
-  ],
-  "name": "Asperiores.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "32.82",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "32.82",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-12-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "32.82",
-          "currency": "CHF"
+      "description": "Repudiandae a doloribus asperiores id. Voluptates minus ab quasi dolorem quibusdam sequi.\nCum magnam sunt.",
+      "id": "UHJvZHVjdDoxMDYx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/HwFwxqBlUkkfbFRt.png"
         },
-        "net": {
-          "amount": "32.82",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jIbyoMIXKCIspSBg.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/uRReQjUtnPrnfjCz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Anna",
-    "id": 1098,
-    "lastName": "Barbey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "25.47",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "25.47",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "25.47",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTMyMg==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Asperiores.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "32.82",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "32.82",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "32.82",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "32.82",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "32.82",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "32.82",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 16
+      "producer": {
+        "firstName": "Anna",
+        "id": "VXNlcjoxMDk4",
+        "lastName": "Barbey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "25.47",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "25.47",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "25.47",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTMyMg==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "32.82",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "32.82",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 16
+        }
+      ]
     }
-  ]
+  }
 }

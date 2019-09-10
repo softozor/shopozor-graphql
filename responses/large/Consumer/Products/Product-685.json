@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-01-12"
-  },
-  "description": "Alias consectetur enim eligendi. Nulla dolores id culpa.\nOmnis labore nostrum quis dignissimos sapiente. Modi quae tempore pariatur eius.",
-  "id": "UHJvZHVjdDo2ODU=",
-  "images": [],
-  "name": "Vitae minus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "47.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-01-12"
       },
-      "stop": {
-        "gross": {
-          "amount": "47.48",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "47.48",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.13",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.13",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.13",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzQ2Nw==",
-      "isAvailable": true,
-      "name": "1kg",
+      "description": "Alias consectetur enim eligendi. Nulla dolores id culpa.\nOmnis labore nostrum quis dignissimos sapiente. Modi quae tempore pariatur eius.",
+      "id": "UHJvZHVjdDo2ODU=",
+      "images": [],
+      "name": "Vitae minus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "47.48",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "47.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "47.48",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "47.48",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "47.48",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 3
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.13",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.13",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.13",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzQ2Nw==",
+          "isAvailable": true,
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "47.48",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "47.48",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 3
+        }
+      ]
     }
-  ]
+  }
 }

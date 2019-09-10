@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2019-09-29"
-  },
-  "description": "Fugiat rerum rerum voluptate ducimus natus sed et. Excepturi incidunt itaque sed delectus. Odio minima delectus quam animi animi consectetur.",
-  "id": "UHJvZHVjdDo1MDk=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/ZoPuwAlqyUhhxfoe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LRxJbrUqFmDTleYp.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BnBMNeSiHPrSXGhB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HaFpjtaxUqTEnTbR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HreFtCJDfCNuUELh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bqdJwJhardhyAfZD.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MKSxBKzSdjtmnMft.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IdVrWPTdDqlTYxpW.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mHhCuiVMrHoeorsk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lDvFoHIloLRGlVwc.png"
-    }
-  ],
-  "name": "Modi sed error.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "17.86",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "17.86",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2019-09-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "17.86",
-          "currency": "CHF"
+      "description": "Fugiat rerum rerum voluptate ducimus natus sed et. Excepturi incidunt itaque sed delectus. Odio minima delectus quam animi animi consectetur.",
+      "id": "UHJvZHVjdDo1MDk=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/ZoPuwAlqyUhhxfoe.png"
         },
-        "net": {
-          "amount": "17.86",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/LRxJbrUqFmDTleYp.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/BnBMNeSiHPrSXGhB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HaFpjtaxUqTEnTbR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HreFtCJDfCNuUELh.png"
+        },
+        {
+          "alt": "",
+          "url": "products/bqdJwJhardhyAfZD.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MKSxBKzSdjtmnMft.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IdVrWPTdDqlTYxpW.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mHhCuiVMrHoeorsk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lDvFoHIloLRGlVwc.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Maxime",
-    "id": 1044,
-    "lastName": "Morard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.74",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.74",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.74",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjU4Nw==",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Modi sed error.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "17.86",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "17.86",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "17.86",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "17.86",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "17.86",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "17.86",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 265
+      "producer": {
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDQ0",
+        "lastName": "Morard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.74",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.74",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.74",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjU4Nw==",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "17.86",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "17.86",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 265
+        }
+      ]
     }
-  ]
+  }
 }

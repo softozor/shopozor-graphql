@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-06-28"
-  },
-  "description": "Modi reprehenderit repellendus libero vero nihil aperiam. Eum sint molestias atque alias. Accusantium iure eaque.\nEst animi totam repellendus. Officia repudiandae quas.",
-  "id": "UHJvZHVjdDoyODcx",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GPobxRmVydDStAqN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZTwOkSZERbZxKSrq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SDTjzjCsUnfHtVrP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OGsLnbrHOgydtBza.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WzsmlbwkKRSdrpUA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/locdGlgmABlfAUVz.png"
-    }
-  ],
-  "name": "Non.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "98.3",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "98.3",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-06-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "98.3",
-          "currency": "CHF"
+      "description": "Modi reprehenderit repellendus libero vero nihil aperiam. Eum sint molestias atque alias. Accusantium iure eaque.\nEst animi totam repellendus. Officia repudiandae quas.",
+      "id": "UHJvZHVjdDoyODcx",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GPobxRmVydDStAqN.png"
         },
-        "net": {
-          "amount": "98.3",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZTwOkSZERbZxKSrq.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/SDTjzjCsUnfHtVrP.png"
+        },
+        {
+          "alt": "",
+          "url": "products/OGsLnbrHOgydtBza.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WzsmlbwkKRSdrpUA.png"
+        },
+        {
+          "alt": "",
+          "url": "products/locdGlgmABlfAUVz.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Romain",
-    "id": 1028,
-    "lastName": "Cornut"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "42.66",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "42.66",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "42.66",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTQyOTc=",
-      "isAvailable": true,
-      "name": "100g",
+      ],
+      "name": "Non.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "98.3",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "98.3",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "98.3",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "98.3",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "98.3",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "98.3",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 536
+      "producer": {
+        "firstName": "Romain",
+        "id": "VXNlcjoxMDI4",
+        "lastName": "Cornut"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "42.66",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "42.66",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "42.66",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQyOTc=",
+          "isAvailable": true,
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "98.3",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "98.3",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 536
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-07-28"
-  },
-  "description": "Voluptatibus veniam alias perferendis veritatis. Rerum quaerat velit sequi. Culpa itaque eum et quod quaerat rerum assumenda.",
-  "id": "UHJvZHVjdDo5NA==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/GtYrFCiieHuxDpaB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HhHqTBMqkFtqcYOk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xYUrnucXCAIWZixG.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vbgsIBBnoOFNAOeF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WdYlpOwqMXCcwdgZ.png"
-    },
-    {
-      "alt": "",
-      "url": "products/gPNAOBueOjFUeBkL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sVEuwNuttaiSGaxu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/iUyyEJvhFayjmLyn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uiTGbJwMVysZOpBy.png"
-    }
-  ],
-  "name": "Quaerat consectetur.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "34.75",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "34.75",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-07-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "34.75",
-          "currency": "CHF"
+      "description": "Voluptatibus veniam alias perferendis veritatis. Rerum quaerat velit sequi. Culpa itaque eum et quod quaerat rerum assumenda.",
+      "id": "UHJvZHVjdDo5NA==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/GtYrFCiieHuxDpaB.png"
         },
-        "net": {
-          "amount": "34.75",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/HhHqTBMqkFtqcYOk.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xYUrnucXCAIWZixG.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vbgsIBBnoOFNAOeF.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WdYlpOwqMXCcwdgZ.png"
+        },
+        {
+          "alt": "",
+          "url": "products/gPNAOBueOjFUeBkL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sVEuwNuttaiSGaxu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/iUyyEJvhFayjmLyn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/uiTGbJwMVysZOpBy.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Luca",
-    "id": 121,
-    "lastName": "Piccand"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "25.03",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "25.03",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "25.03",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6Mjk0",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Quaerat consectetur.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "34.75",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "34.75",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "34.75",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "34.75",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "34.75",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "34.75",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 27
+      "producer": {
+        "firstName": "Luca",
+        "id": "VXNlcjoxMjE=",
+        "lastName": "Piccand"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "25.03",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "25.03",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "25.03",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6Mjk0",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "34.75",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "34.75",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 27
+        }
+      ]
     }
-  ]
+  }
 }

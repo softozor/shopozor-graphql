@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-04-28"
-  },
-  "description": "Quisquam vero consequatur libero ipsa repellendus debitis. Repellendus veritatis distinctio voluptatum consectetur soluta maiores. Et delectus vel.",
-  "id": "UHJvZHVjdDo4MDM=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/wAZxmJyJcDnsTqim.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zbqtAOaLyULYlXRx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ysctqFhtTQcNuyrl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ExCWupwHMVBHdGsN.png"
-    }
-  ],
-  "name": "Aliquid.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "1.21",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "1.21",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-04-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "1.21",
-          "currency": "CHF"
+      "description": "Quisquam vero consequatur libero ipsa repellendus debitis. Repellendus veritatis distinctio voluptatum consectetur soluta maiores. Et delectus vel.",
+      "id": "UHJvZHVjdDo4MDM=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/wAZxmJyJcDnsTqim.png"
         },
-        "net": {
-          "amount": "1.21",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zbqtAOaLyULYlXRx.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ysctqFhtTQcNuyrl.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ExCWupwHMVBHdGsN.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1148,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.87",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.87",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.87",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMA==",
-      "isAvailable": true,
-      "name": "2.5l",
+      ],
+      "name": "Aliquid.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "1.21",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "1.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "1.21",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "1.21",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "1.21",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 317
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTQ4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.87",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.87",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.87",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMA==",
+          "isAvailable": true,
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "1.21",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "1.21",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 317
+        }
+      ]
     }
-  ]
+  }
 }

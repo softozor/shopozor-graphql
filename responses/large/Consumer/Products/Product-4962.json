@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-12-24"
-  },
-  "description": "Ullam neque labore nesciunt repellendus quisquam et sunt. Explicabo incidunt ipsum minus ipsa. Assumenda perferendis est deserunt.",
-  "id": "UHJvZHVjdDo0OTYy",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/xgOdpfGrqfiRxfOx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nmEynMBlDsmweJAf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/bmSSYIneGQZVxKwg.png"
-    }
-  ],
-  "name": "Nemo tenetur saepe.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "83.19",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "83.19",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-12-24"
       },
-      "stop": {
-        "gross": {
-          "amount": "83.19",
-          "currency": "CHF"
+      "description": "Ullam neque labore nesciunt repellendus quisquam et sunt. Explicabo incidunt ipsum minus ipsa. Assumenda perferendis est deserunt.",
+      "id": "UHJvZHVjdDo0OTYy",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/xgOdpfGrqfiRxfOx.png"
         },
-        "net": {
-          "amount": "83.19",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/nmEynMBlDsmweJAf.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/bmSSYIneGQZVxKwg.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Bernard",
-    "id": 1112,
-    "lastName": "Badan"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "60.81",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "60.81",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "60.81",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQ5NTg=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Nemo tenetur saepe.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "83.19",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "83.19",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "83.19",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "83.19",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "83.19",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "83.19",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 105
+      "producer": {
+        "firstName": "Bernard",
+        "id": "VXNlcjoxMTEy",
+        "lastName": "Badan"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "60.81",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "60.81",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "60.81",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ5NTg=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "83.19",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "83.19",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 105
+        }
+      ]
     }
-  ]
+  }
 }

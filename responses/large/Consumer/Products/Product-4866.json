@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2019-12-07"
-  },
-  "description": "Reiciendis dolorem tempore praesentium voluptatem officia nostrum. Quidem repellendus possimus voluptatum minus. Dolores eveniet ullam.",
-  "id": "UHJvZHVjdDo0ODY2",
-  "images": [],
-  "name": "Quod maiores.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "75.71",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "75.71",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2019-12-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "75.71",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "75.71",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Ethan",
-    "id": 1052,
-    "lastName": "Bourquard"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "62.15",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "62.15",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "62.15",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjQ0NjY=",
-      "isAvailable": true,
-      "name": "500ml",
+      "description": "Reiciendis dolorem tempore praesentium voluptatem officia nostrum. Quidem repellendus possimus voluptatum minus. Dolores eveniet ullam.",
+      "id": "UHJvZHVjdDo0ODY2",
+      "images": [],
+      "name": "Quod maiores.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "75.71",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "75.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "75.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "75.71",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "75.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "75.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 88
+      "producer": {
+        "firstName": "Ethan",
+        "id": "VXNlcjoxMDUy",
+        "lastName": "Bourquard"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "62.15",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "62.15",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "62.15",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ0NjY=",
+          "isAvailable": true,
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "75.71",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "75.71",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 88
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-05-04"
-  },
-  "description": "Consectetur inventore nihil totam eos. Quae quasi nobis exercitationem voluptatum. Eaque illum quos alias aperiam. Laborum necessitatibus ipsam.",
-  "id": "UHJvZHVjdDo0MTYw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/fTldpsicTobMcJyK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HdRFFqZIoEnNMykO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/efqJlAbwpDdkOUbq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qHxscGGHmRLeiICa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LUSAXhXvgKYBgTKk.png"
-    }
-  ],
-  "name": "Possimus itaque dolor.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "65.42",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "65.42",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-05-04"
       },
-      "stop": {
-        "gross": {
-          "amount": "65.42",
-          "currency": "CHF"
+      "description": "Consectetur inventore nihil totam eos. Quae quasi nobis exercitationem voluptatum. Eaque illum quos alias aperiam. Laborum necessitatibus ipsam.",
+      "id": "UHJvZHVjdDo0MTYw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/fTldpsicTobMcJyK.png"
         },
-        "net": {
-          "amount": "65.42",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/HdRFFqZIoEnNMykO.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/efqJlAbwpDdkOUbq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qHxscGGHmRLeiICa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LUSAXhXvgKYBgTKk.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Germaine",
-    "id": 1084,
-    "lastName": "Cosendey"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "48.42",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "48.42",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "48.42",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjA5MDc=",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Possimus itaque dolor.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "65.42",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "65.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "65.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "65.42",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "65.42",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "65.42",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 425
+      "producer": {
+        "firstName": "Germaine",
+        "id": "VXNlcjoxMDg0",
+        "lastName": "Cosendey"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "48.42",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "48.42",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "48.42",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjA5MDc=",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "65.42",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "65.42",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 425
+        }
+      ]
     }
-  ]
+  }
 }

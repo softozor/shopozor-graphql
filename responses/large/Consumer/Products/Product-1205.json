@@ -1,124 +1,128 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2019-10-07"
-  },
-  "description": "Occaecati sapiente laborum magnam. Provident sint nihil consectetur. Aperiam debitis repellat eum.\nMaxime id ex est accusamus. Hic quisquam assumenda itaque officia aliquid voluptas laboriosam.",
-  "id": "UHJvZHVjdDoxMjA1",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/qmCyeaLpjLYDoeJq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zUxswfQtelxQfiRx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/dtwysyPCkcYkSAiz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IHZONmqoVPrbHdhB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/egTLqqCyvOiKfypT.png"
-    },
-    {
-      "alt": "",
-      "url": "products/FmoPbjtagiEOuEfX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UMZzrtFdpFmXdMEv.png"
-    },
-    {
-      "alt": "",
-      "url": "products/LymYaYVEQUcOTrcU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/RwJotDmTtzIPoWgc.png"
-    }
-  ],
-  "name": "Repudiandae corrupti magni.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "72.05",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "72.05",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2019-10-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "72.05",
-          "currency": "CHF"
+      "description": "Occaecati sapiente laborum magnam. Provident sint nihil consectetur. Aperiam debitis repellat eum.\nMaxime id ex est accusamus. Hic quisquam assumenda itaque officia aliquid voluptas laboriosam.",
+      "id": "UHJvZHVjdDoxMjA1",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/qmCyeaLpjLYDoeJq.png"
         },
-        "net": {
-          "amount": "72.05",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zUxswfQtelxQfiRx.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/dtwysyPCkcYkSAiz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IHZONmqoVPrbHdhB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/egTLqqCyvOiKfypT.png"
+        },
+        {
+          "alt": "",
+          "url": "products/FmoPbjtagiEOuEfX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UMZzrtFdpFmXdMEv.png"
+        },
+        {
+          "alt": "",
+          "url": "products/LymYaYVEQUcOTrcU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/RwJotDmTtzIPoWgc.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Romain",
-    "id": 1028,
-    "lastName": "Cornut"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "1.08",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "1.08",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "1.08",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjAxMw==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Repudiandae corrupti magni.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "72.05",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "72.05",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "72.05",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "72.05",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "72.05",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "72.05",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 24
+      "producer": {
+        "firstName": "Romain",
+        "id": "VXNlcjoxMDI4",
+        "lastName": "Cornut"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "1.08",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "1.08",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "1.08",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjAxMw==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "72.05",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "72.05",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 24
+        }
+      ]
     }
-  ]
+  }
 }

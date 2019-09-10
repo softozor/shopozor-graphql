@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à la cave",
-    "until": "2020-04-09"
-  },
-  "description": "Sequi quo illum modi optio veniam. Odio vitae sunt cumque iste minima error. Excepturi accusantium vel odio modi corrupti minus.",
-  "id": "UHJvZHVjdDoxNjg0",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/tGjMEoFTHEAoBDaa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nvOmAqNUVmOddSoh.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xYGTiQDumhQZcpwI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/GRZeUIWecftpOHhz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/MrTEyGegccFUfMDX.png"
-    },
-    {
-      "alt": "",
-      "url": "products/nxttuxQMDddQhyGC.png"
-    }
-  ],
-  "name": "Repellendus quas.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "0.29",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "0.29",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à la cave",
+        "until": "2020-04-09"
       },
-      "stop": {
-        "gross": {
-          "amount": "0.29",
-          "currency": "CHF"
+      "description": "Sequi quo illum modi optio veniam. Odio vitae sunt cumque iste minima error. Excepturi accusantium vel odio modi corrupti minus.",
+      "id": "UHJvZHVjdDoxNjg0",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/tGjMEoFTHEAoBDaa.png"
         },
-        "net": {
-          "amount": "0.29",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/nvOmAqNUVmOddSoh.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/xYGTiQDumhQZcpwI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/GRZeUIWecftpOHhz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/MrTEyGegccFUfMDX.png"
+        },
+        {
+          "alt": "",
+          "url": "products/nxttuxQMDddQhyGC.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Julie",
-    "id": 1087,
-    "lastName": "Bochud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "0.05",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "0.05",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "0.05",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6ODM4Mg==",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Repellendus quas.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "0.29",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "0.29",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "0.29",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "0.29",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "0.29",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "0.29",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 99
+      "producer": {
+        "firstName": "Julie",
+        "id": "VXNlcjoxMDg3",
+        "lastName": "Bochud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "0.05",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "0.05",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "0.05",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODM4Mg==",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "0.29",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "0.29",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 99
+        }
+      ]
     }
-  ]
+  }
 }

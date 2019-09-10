@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2019-12-30"
-  },
-  "description": "Ipsa adipisci nostrum harum eligendi labore. Quia rem quaerat nostrum voluptates voluptatum.\nSuscipit accusamus reprehenderit occaecati eos. Ab accusamus enim quasi. Accusamus praesentium minima.",
-  "id": "UHJvZHVjdDo2NjI=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/RHAxzBDnANMefhDf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/zCtYvYreXfHEYArY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DxSfJwkTgJxQVcjg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ocqQJlPaWmFEHhzS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/VHTPkVxLLUSDeMHg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UPfedwCMhiiwrazx.png"
-    }
-  ],
-  "name": "Sapiente consequuntur quia.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "64.11",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "64.11",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2019-12-30"
       },
-      "stop": {
-        "gross": {
-          "amount": "64.11",
-          "currency": "CHF"
+      "description": "Ipsa adipisci nostrum harum eligendi labore. Quia rem quaerat nostrum voluptates voluptatum.\nSuscipit accusamus reprehenderit occaecati eos. Ab accusamus enim quasi. Accusamus praesentium minima.",
+      "id": "UHJvZHVjdDo2NjI=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/RHAxzBDnANMefhDf.png"
         },
-        "net": {
-          "amount": "64.11",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/zCtYvYreXfHEYArY.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/DxSfJwkTgJxQVcjg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/ocqQJlPaWmFEHhzS.png"
+        },
+        {
+          "alt": "",
+          "url": "products/VHTPkVxLLUSDeMHg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/UPfedwCMhiiwrazx.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "45.45",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "45.45",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "45.45",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzM2MA==",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Sapiente consequuntur quia.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "64.11",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "64.11",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.11",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "64.11",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "64.11",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "64.11",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 103
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "45.45",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "45.45",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "45.45",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzM2MA==",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "64.11",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "64.11",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 103
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,120 +1,124 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-05-14"
-  },
-  "description": "Inventore dolore quis hic reiciendis quod. Culpa in quae distinctio nesciunt. Maiores placeat dolorem repudiandae enim ipsam asperiores.",
-  "id": "UHJvZHVjdDoxNDU5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/dQtxfsHfjrdqDDyA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KRuBgSvCkLwdwkOz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wamYnqjrMDdhlFKb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mEddexBhSHmuleGP.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yKUmhBUaTnOTkSPg.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XxyZcXZThgMRIAVB.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XEvVRxJVPvgYbVHn.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xNFgTJmKnsyhBFSJ.png"
-    }
-  ],
-  "name": "Ut perferendis.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "56.17",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "56.17",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-05-14"
       },
-      "stop": {
-        "gross": {
-          "amount": "56.17",
-          "currency": "CHF"
+      "description": "Inventore dolore quis hic reiciendis quod. Culpa in quae distinctio nesciunt. Maiores placeat dolorem repudiandae enim ipsam asperiores.",
+      "id": "UHJvZHVjdDoxNDU5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/dQtxfsHfjrdqDDyA.png"
         },
-        "net": {
-          "amount": "56.17",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/KRuBgSvCkLwdwkOz.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wamYnqjrMDdhlFKb.png"
+        },
+        {
+          "alt": "",
+          "url": "products/mEddexBhSHmuleGP.png"
+        },
+        {
+          "alt": "",
+          "url": "products/yKUmhBUaTnOTkSPg.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XxyZcXZThgMRIAVB.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XEvVRxJVPvgYbVHn.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xNFgTJmKnsyhBFSJ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Claude",
-    "id": 1065,
-    "lastName": "Martin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "5.95",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "5.95",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "5.95",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzIzNQ==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Ut perferendis.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "56.17",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "56.17",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "56.17",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "56.17",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "56.17",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "56.17",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 344
+      "producer": {
+        "firstName": "Claude",
+        "id": "VXNlcjoxMDY1",
+        "lastName": "Martin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "5.95",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "5.95",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "5.95",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzIzNQ==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "56.17",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "56.17",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 344
+        }
+      ]
     }
-  ]
+  }
 }

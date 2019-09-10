@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "à l'abri de la lumière",
-    "until": "2020-02-25"
-  },
-  "description": "Occaecati possimus odio rem nostrum laudantium. Veritatis fugiat tempora officia consequatur consequuntur.",
-  "id": "UHJvZHVjdDoyOTE=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/zxJZVcKATXoEQISf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uQDGEyFGjznxbCSe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/kJNecBfIdDsKtFvq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/XunMEWHhitDmjJJI.png"
-    }
-  ],
-  "name": "Dolorum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "65.73",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "65.73",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à l'abri de la lumière",
+        "until": "2020-02-25"
       },
-      "stop": {
-        "gross": {
-          "amount": "65.73",
-          "currency": "CHF"
+      "description": "Occaecati possimus odio rem nostrum laudantium. Veritatis fugiat tempora officia consequatur consequuntur.",
+      "id": "UHJvZHVjdDoyOTE=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/zxJZVcKATXoEQISf.png"
         },
-        "net": {
-          "amount": "65.73",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/uQDGEyFGjznxbCSe.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/kJNecBfIdDsKtFvq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/XunMEWHhitDmjJJI.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Romain",
-    "id": 109,
-    "lastName": "Monnet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "16.76",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "16.76",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "16.76",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6OTUw",
-      "isAvailable": true,
-      "name": "L",
+      ],
+      "name": "Dolorum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "65.73",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "65.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "65.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "65.73",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "65.73",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "65.73",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 51
+      "producer": {
+        "firstName": "Romain",
+        "id": "VXNlcjoxMDk=",
+        "lastName": "Monnet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "16.76",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "16.76",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "16.76",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTUw",
+          "isAvailable": true,
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "65.73",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "65.73",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 51
+        }
+      ]
     }
-  ]
+  }
 }

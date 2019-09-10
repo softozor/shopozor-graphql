@@ -1,96 +1,100 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-07-11"
-  },
-  "description": "Nemo et praesentium illum nobis facere. Molestias quis mollitia numquam culpa nemo cum. Ducimus dolores quis velit nulla necessitatibus a.",
-  "id": "UHJvZHVjdDoxNTE=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/UzOlyXUOZzrSPPQd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lLKhUJsSKJUjaqtj.png"
-    }
-  ],
-  "name": "Aut ullam.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "87.47",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "87.47",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-07-11"
       },
-      "stop": {
-        "gross": {
-          "amount": "87.47",
-          "currency": "CHF"
+      "description": "Nemo et praesentium illum nobis facere. Molestias quis mollitia numquam culpa nemo cum. Ducimus dolores quis velit nulla necessitatibus a.",
+      "id": "UHJvZHVjdDoxNTE=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/UzOlyXUOZzrSPPQd.png"
         },
-        "net": {
-          "amount": "87.47",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lLKhUJsSKJUjaqtj.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Gilbert",
-    "id": 1131,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "62.98",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "62.98",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "62.98",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6Nzc0",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      ],
+      "name": "Aut ullam.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "87.47",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "87.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "87.47",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "87.47",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "87.47",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 556
+      "producer": {
+        "firstName": "Gilbert",
+        "id": "VXNlcjoxMTMx",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "62.98",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "62.98",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "62.98",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6Nzc0",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "87.47",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "87.47",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 556
+        }
+      ]
     }
-  ]
+  }
 }

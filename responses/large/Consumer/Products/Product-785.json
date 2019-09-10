@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-12-28"
-  },
-  "description": "Incidunt enim deleniti ipsam vel eius. Excepturi veritatis veritatis laudantium nemo corrupti cum aliquid.",
-  "id": "UHJvZHVjdDo3ODU=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/uAgMfWnbPoYYzUET.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qzibzOgoDRpOrxNw.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wdVjrScAtmKeXfnU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/xdfIEtoFgZjFNgwz.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TLiXEoRdSNXQtXxs.png"
-    },
-    {
-      "alt": "",
-      "url": "products/OECXkHkeLADDiHPN.png"
-    }
-  ],
-  "name": "Maxime repellendus.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "50.68",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "50.68",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-12-28"
       },
-      "stop": {
-        "gross": {
-          "amount": "50.68",
-          "currency": "CHF"
+      "description": "Incidunt enim deleniti ipsam vel eius. Excepturi veritatis veritatis laudantium nemo corrupti cum aliquid.",
+      "id": "UHJvZHVjdDo3ODU=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/uAgMfWnbPoYYzUET.png"
         },
-        "net": {
-          "amount": "50.68",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/qzibzOgoDRpOrxNw.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wdVjrScAtmKeXfnU.png"
+        },
+        {
+          "alt": "",
+          "url": "products/xdfIEtoFgZjFNgwz.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TLiXEoRdSNXQtXxs.png"
+        },
+        {
+          "alt": "",
+          "url": "products/OECXkHkeLADDiHPN.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Charlotte",
-    "id": 1066,
-    "lastName": "Vermeil"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "30.96",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "30.96",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "30.96",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MzkzMw==",
-      "isAvailable": true,
-      "name": "1l",
+      ],
+      "name": "Maxime repellendus.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "50.68",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "50.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "50.68",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "50.68",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "50.68",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 16
+      "producer": {
+        "firstName": "Charlotte",
+        "id": "VXNlcjoxMDY2",
+        "lastName": "Vermeil"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "30.96",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "30.96",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "30.96",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzkzMw==",
+          "isAvailable": true,
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "50.68",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "50.68",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 16
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2019-11-16"
-  },
-  "description": "Voluptates ab expedita magni suscipit temporibus. Totam nobis quia veritatis autem.",
-  "id": "UHJvZHVjdDozOTMz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/uUsQpHPrIVdVplfe.png"
-    },
-    {
-      "alt": "",
-      "url": "products/umZNckuCIGZJhSnO.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WPNuyFGoHpocCYJb.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pculmzoFEDlqtZlE.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eoTFouTywydqZnqI.png"
-    }
-  ],
-  "name": "Dolor.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "33.44",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "33.44",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2019-11-16"
       },
-      "stop": {
-        "gross": {
-          "amount": "33.44",
-          "currency": "CHF"
+      "description": "Voluptates ab expedita magni suscipit temporibus. Totam nobis quia veritatis autem.",
+      "id": "UHJvZHVjdDozOTMz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/uUsQpHPrIVdVplfe.png"
         },
-        "net": {
-          "amount": "33.44",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/umZNckuCIGZJhSnO.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/WPNuyFGoHpocCYJb.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pculmzoFEDlqtZlE.png"
+        },
+        {
+          "alt": "",
+          "url": "products/eoTFouTywydqZnqI.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "32.52",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "32.52",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "32.52",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTk3MDY=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Dolor.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "33.44",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "33.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "33.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "33.44",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "33.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "33.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 896
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "32.52",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "32.52",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "32.52",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk3MDY=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "33.44",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "33.44",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 896
+        }
+      ]
     }
-  ]
+  }
 }

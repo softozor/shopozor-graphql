@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2019-11-07"
-  },
-  "description": "Adipisci iste odit.\nVel autem quaerat sapiente praesentium laudantium quae. Voluptate quo odit atque hic.\nCommodi ipsum aspernatur ullam delectus aspernatur. Blanditiis corrupti facere dolores.",
-  "id": "UHJvZHVjdDoxMDQz",
-  "images": [],
-  "name": "Voluptatem ducimus aut.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "20.71",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.71",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2019-11-07"
       },
-      "stop": {
-        "gross": {
-          "amount": "20.71",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "20.71",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Vanessa",
-    "id": 1091,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "13.78",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "13.78",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "13.78",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTIzMw==",
-      "isAvailable": true,
-      "name": "55cm x 55cm",
+      "description": "Adipisci iste odit.\nVel autem quaerat sapiente praesentium laudantium quae. Voluptate quo odit atque hic.\nCommodi ipsum aspernatur ullam delectus aspernatur. Blanditiis corrupti facere dolores.",
+      "id": "UHJvZHVjdDoxMDQz",
+      "images": [],
+      "name": "Voluptatem ducimus aut.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "20.71",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "20.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "20.71",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "20.71",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "20.71",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 292
+      "producer": {
+        "firstName": "Vanessa",
+        "id": "VXNlcjoxMDkx",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "13.78",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "13.78",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "13.78",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTIzMw==",
+          "isAvailable": true,
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "20.71",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "20.71",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 292
+        }
+      ]
     }
-  ]
+  }
 }

@@ -1,104 +1,108 @@
 {
-  "conservation": {
-    "mode": "dans du papier d'alu",
-    "until": "2020-03-29"
-  },
-  "description": "Maxime nihil ullam sunt ipsa repudiandae tenetur. Deserunt consequatur cumque. Tempore veritatis fugiat sit dolor quibusdam error asperiores.\nSit officiis consequuntur.",
-  "id": "UHJvZHVjdDo4MjQ=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/MHUTwowYGrvwjGli.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lgzZbkroiaJcEbeA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/DDlarRKOunTSqUBu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BjnUkKklJFHwurhG.png"
-    }
-  ],
-  "name": "Nulla repellat nulla.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "82.44",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "82.44",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "dans du papier d'alu",
+        "until": "2020-03-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "82.44",
-          "currency": "CHF"
+      "description": "Maxime nihil ullam sunt ipsa repudiandae tenetur. Deserunt consequatur cumque. Tempore veritatis fugiat sit dolor quibusdam error asperiores.\nSit officiis consequuntur.",
+      "id": "UHJvZHVjdDo4MjQ=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/MHUTwowYGrvwjGli.png"
         },
-        "net": {
-          "amount": "82.44",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/lgzZbkroiaJcEbeA.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/DDlarRKOunTSqUBu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BjnUkKklJFHwurhG.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Léa",
-    "id": 1055,
-    "lastName": "Carraud"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "62.76",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "62.76",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "62.76",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NDEzMw==",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Nulla repellat nulla.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "82.44",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "82.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "82.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "82.44",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "82.44",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "82.44",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 397
+      "producer": {
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDU1",
+        "lastName": "Carraud"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "62.76",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "62.76",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "62.76",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDEzMw==",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "82.44",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "82.44",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 397
+        }
+      ]
     }
-  ]
+  }
 }

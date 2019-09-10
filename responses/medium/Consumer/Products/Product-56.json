@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-08-05"
-  },
-  "description": "Quo dignissimos repellat dolorum veniam. Fuga consectetur alias ducimus officia cum dolor quasi. Architecto eos vel temporibus omnis dolorem distinctio dignissimos.",
-  "id": "UHJvZHVjdDo1Ng==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/XFaBAFxamhvbEtdM.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ZMzOnnLyBzAkdIpN.png"
-    },
-    {
-      "alt": "",
-      "url": "products/ypuZkEQzBUsINnER.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yFZWVvkjcsIDjHbI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/IZNHmFqwwScJwGtY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/sgJzSEKrEsxCHepF.png"
-    }
-  ],
-  "name": "Occaecati earum.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "53.24",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "53.24",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-08-05"
       },
-      "stop": {
-        "gross": {
-          "amount": "53.24",
-          "currency": "CHF"
+      "description": "Quo dignissimos repellat dolorum veniam. Fuga consectetur alias ducimus officia cum dolor quasi. Architecto eos vel temporibus omnis dolorem distinctio dignissimos.",
+      "id": "UHJvZHVjdDo1Ng==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/XFaBAFxamhvbEtdM.png"
         },
-        "net": {
-          "amount": "53.24",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ZMzOnnLyBzAkdIpN.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/ypuZkEQzBUsINnER.png"
+        },
+        {
+          "alt": "",
+          "url": "products/yFZWVvkjcsIDjHbI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/IZNHmFqwwScJwGtY.png"
+        },
+        {
+          "alt": "",
+          "url": "products/sgJzSEKrEsxCHepF.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Michel",
-    "id": 107,
-    "lastName": "Broquet"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "26.75",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "26.75",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "26.75",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTcz",
-      "isAvailable": true,
-      "name": "250ml",
+      ],
+      "name": "Occaecati earum.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "53.24",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "53.24",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.24",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "53.24",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "53.24",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "53.24",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 149
+      "producer": {
+        "firstName": "Michel",
+        "id": "VXNlcjoxMDc=",
+        "lastName": "Broquet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "26.75",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "26.75",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "26.75",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTcz",
+          "isAvailable": true,
+          "name": "250ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "53.24",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "53.24",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 149
+        }
+      ]
     }
-  ]
+  }
 }

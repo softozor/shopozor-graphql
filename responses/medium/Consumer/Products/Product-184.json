@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-01-27"
-  },
-  "description": "Velit officia deleniti ex debitis aut temporibus. Quam aliquid neque ipsa nulla laboriosam nisi. Sequi iusto nobis sapiente iste impedit.\nSunt reiciendis nulla mollitia accusantium animi.",
-  "id": "UHJvZHVjdDoxODQ=",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/UCNsuxCAhSntdLAo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/UeBVwtThxhsQCAFx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wQddcWlsFXipbjjo.png"
-    },
-    {
-      "alt": "",
-      "url": "products/uZtSSsmlSVjRFgkL.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TZsWODYbrPKJVCUV.png"
-    },
-    {
-      "alt": "",
-      "url": "products/hxFljcTnJqcjRjQx.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KIdyZcYQdkKBdrFk.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BqczpZtnOkrdKIbq.png"
-    },
-    {
-      "alt": "",
-      "url": "products/WiTqrgmNyHbjbkXd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pLAQhxchTnQDhVou.png"
-    }
-  ],
-  "name": "Soluta praesentium quis fuga.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "59.29",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "59.29",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-01-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "59.29",
-          "currency": "CHF"
+      "description": "Velit officia deleniti ex debitis aut temporibus. Quam aliquid neque ipsa nulla laboriosam nisi. Sequi iusto nobis sapiente iste impedit.\nSunt reiciendis nulla mollitia accusantium animi.",
+      "id": "UHJvZHVjdDoxODQ=",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/UCNsuxCAhSntdLAo.png"
         },
-        "net": {
-          "amount": "59.29",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/UeBVwtThxhsQCAFx.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wQddcWlsFXipbjjo.png"
+        },
+        {
+          "alt": "",
+          "url": "products/uZtSSsmlSVjRFgkL.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TZsWODYbrPKJVCUV.png"
+        },
+        {
+          "alt": "",
+          "url": "products/hxFljcTnJqcjRjQx.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KIdyZcYQdkKBdrFk.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BqczpZtnOkrdKIbq.png"
+        },
+        {
+          "alt": "",
+          "url": "products/WiTqrgmNyHbjbkXd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/pLAQhxchTnQDhVou.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Clara",
-    "id": 125,
-    "lastName": "Grojean"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "26.86",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "26.86",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "26.86",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NTkx",
-      "isAvailable": true,
-      "name": "5l",
+      ],
+      "name": "Soluta praesentium quis fuga.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "59.29",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "59.29",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "59.29",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "59.29",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "59.29",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "59.29",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 571
+      "producer": {
+        "firstName": "Clara",
+        "id": "VXNlcjoxMjU=",
+        "lastName": "Grojean"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "26.86",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "26.86",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "26.86",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NTkx",
+          "isAvailable": true,
+          "name": "5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "59.29",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "59.29",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 571
+        }
+      ]
     }
-  ]
+  }
 }

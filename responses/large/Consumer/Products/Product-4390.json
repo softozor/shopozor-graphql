@@ -1,112 +1,116 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-04-27"
-  },
-  "description": "Ullam soluta veritatis reprehenderit temporibus. Alias maxime tempora provident nesciunt. Expedita sunt ratione est animi porro.",
-  "id": "UHJvZHVjdDo0Mzkw",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/eHmhjERllFmSIJDc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/pTDXIeMcqyZzGZny.png"
-    },
-    {
-      "alt": "",
-      "url": "products/jfzxxFzSHVXQDpDu.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vJiROUIfAHXHjpRt.png"
-    },
-    {
-      "alt": "",
-      "url": "products/BOCiwUvGAjhFzswd.png"
-    },
-    {
-      "alt": "",
-      "url": "products/SpLSMaRNcJcUgCGf.png"
-    }
-  ],
-  "name": "Ullam veniam error quaerat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "63.12",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "63.12",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-04-27"
       },
-      "stop": {
-        "gross": {
-          "amount": "63.12",
-          "currency": "CHF"
+      "description": "Ullam soluta veritatis reprehenderit temporibus. Alias maxime tempora provident nesciunt. Expedita sunt ratione est animi porro.",
+      "id": "UHJvZHVjdDo0Mzkw",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/eHmhjERllFmSIJDc.png"
         },
-        "net": {
-          "amount": "63.12",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/pTDXIeMcqyZzGZny.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/jfzxxFzSHVXQDpDu.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vJiROUIfAHXHjpRt.png"
+        },
+        {
+          "alt": "",
+          "url": "products/BOCiwUvGAjhFzswd.png"
+        },
+        {
+          "alt": "",
+          "url": "products/SpLSMaRNcJcUgCGf.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Alexandre",
-    "id": 1049,
-    "lastName": "Corpataux"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "39.42",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "39.42",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "39.42",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MjE5OTU=",
-      "isAvailable": true,
-      "name": "XL",
+      ],
+      "name": "Ullam veniam error quaerat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "63.12",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "63.12",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "63.12",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "63.12",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "63.12",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "63.12",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 520
+      "producer": {
+        "firstName": "Alexandre",
+        "id": "VXNlcjoxMDQ5",
+        "lastName": "Corpataux"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "39.42",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "39.42",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "39.42",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjE5OTU=",
+          "isAvailable": true,
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "63.12",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "63.12",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 520
+        }
+      ]
     }
-  ]
+  }
 }

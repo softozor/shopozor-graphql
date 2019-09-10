@@ -1,87 +1,91 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-04-29"
-  },
-  "description": "Numquam quis at. Deserunt voluptatem ullam reiciendis aut cum.",
-  "id": "UHJvZHVjdDozNQ==",
-  "images": [],
-  "name": "Adipisci reprehenderit ratione incidunt.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "28.95",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "28.95",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-04-29"
       },
-      "stop": {
-        "gross": {
-          "amount": "28.95",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "28.95",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Samuel",
-    "id": 59,
-    "lastName": "Nusslé"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "3.36",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "3.36",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "3.36",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NzQ=",
-      "isAvailable": true,
-      "name": "S",
+      "description": "Numquam quis at. Deserunt voluptatem ullam reiciendis aut cum.",
+      "id": "UHJvZHVjdDozNQ==",
+      "images": [],
+      "name": "Adipisci reprehenderit ratione incidunt.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "28.95",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "28.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "28.95",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "28.95",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "28.95",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 12
+      "producer": {
+        "firstName": "Samuel",
+        "id": "VXNlcjo1OQ==",
+        "lastName": "Nusslé"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "3.36",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "3.36",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "3.36",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzQ=",
+          "isAvailable": true,
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "28.95",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "28.95",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 12
+        }
+      ]
     }
-  ]
+  }
 }

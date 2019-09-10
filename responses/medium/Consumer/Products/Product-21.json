@@ -1,108 +1,112 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-03-22"
-  },
-  "description": "Praesentium incidunt sapiente veniam consequuntur iste. Eius itaque doloribus incidunt eligendi veniam molestiae.\nHic amet accusamus. Magni quas aperiam quo quis.",
-  "id": "UHJvZHVjdDoyMQ==",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/EuepgUHRWKVkGKdU.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TElscBQOcFTDSpOY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wbNaoupxAuLCJdvI.png"
-    },
-    {
-      "alt": "",
-      "url": "products/TCWtXozcoWXLONzR.png"
-    },
-    {
-      "alt": "",
-      "url": "products/HckqvhQPednwKTcj.png"
-    }
-  ],
-  "name": "Perspiciatis molestias.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "18.9",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "18.9",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-03-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "18.9",
-          "currency": "CHF"
+      "description": "Praesentium incidunt sapiente veniam consequuntur iste. Eius itaque doloribus incidunt eligendi veniam molestiae.\nHic amet accusamus. Magni quas aperiam quo quis.",
+      "id": "UHJvZHVjdDoyMQ==",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/EuepgUHRWKVkGKdU.png"
         },
-        "net": {
-          "amount": "18.9",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/TElscBQOcFTDSpOY.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wbNaoupxAuLCJdvI.png"
+        },
+        {
+          "alt": "",
+          "url": "products/TCWtXozcoWXLONzR.png"
+        },
+        {
+          "alt": "",
+          "url": "products/HckqvhQPednwKTcj.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Elodie",
-    "id": 122,
-    "lastName": "Bonvin"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "18.18",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "18.18",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "18.18",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6NjE=",
-      "isAvailable": true,
-      "name": "XS",
+      ],
+      "name": "Perspiciatis molestias.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "18.9",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "18.9",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.9",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "18.9",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "18.9",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "18.9",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 454
+      "producer": {
+        "firstName": "Elodie",
+        "id": "VXNlcjoxMjI=",
+        "lastName": "Bonvin"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "18.18",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "18.18",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "18.18",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjE=",
+          "isAvailable": true,
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "18.9",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "18.9",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 454
+        }
+      ]
     }
-  ]
+  }
 }

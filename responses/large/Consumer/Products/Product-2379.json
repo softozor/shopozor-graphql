@@ -1,100 +1,104 @@
 {
-  "conservation": {
-    "mode": "au frigo",
-    "until": "2020-02-21"
-  },
-  "description": "Eligendi placeat debitis reiciendis magnam at quia. Iusto ullam magnam.\nFuga cumque iusto nihil illum. Nobis labore quo hic ad ratione. Suscipit blanditiis ad aspernatur.",
-  "id": "UHJvZHVjdDoyMzc5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/dsshqHlHRTsfNwEA.png"
-    },
-    {
-      "alt": "",
-      "url": "products/wqzRVzRBpEJJypKF.png"
-    },
-    {
-      "alt": "",
-      "url": "products/yFVajGwerDsgaCvA.png"
-    }
-  ],
-  "name": "Numquam iste.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "30.56",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "30.56",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au frigo",
+        "until": "2020-02-21"
       },
-      "stop": {
-        "gross": {
-          "amount": "30.56",
-          "currency": "CHF"
+      "description": "Eligendi placeat debitis reiciendis magnam at quia. Iusto ullam magnam.\nFuga cumque iusto nihil illum. Nobis labore quo hic ad ratione. Suscipit blanditiis ad aspernatur.",
+      "id": "UHJvZHVjdDoyMzc5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/dsshqHlHRTsfNwEA.png"
         },
-        "net": {
-          "amount": "30.56",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/wqzRVzRBpEJJypKF.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/yFVajGwerDsgaCvA.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "François",
-    "id": 1053,
-    "lastName": "Jacot-Descombes"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "26.54",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "26.54",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "26.54",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTE4NTk=",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Numquam iste.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "30.56",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "30.56",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "30.56",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "30.56",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "30.56",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "30.56",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 8
+      "producer": {
+        "firstName": "François",
+        "id": "VXNlcjoxMDUz",
+        "lastName": "Jacot-Descombes"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "26.54",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "26.54",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "26.54",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTE4NTk=",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "30.56",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "30.56",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 8
+        }
+      ]
     }
-  ]
+  }
 }

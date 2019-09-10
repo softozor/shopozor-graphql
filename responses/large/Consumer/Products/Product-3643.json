@@ -1,128 +1,132 @@
 {
-  "conservation": {
-    "mode": "au congélateur",
-    "until": "2020-05-22"
-  },
-  "description": "Aliquam neque veritatis in dignissimos eaque. Ut maiores voluptatibus.\nEarum rerum atque quibusdam non. Consequatur dolores eligendi esse.",
-  "id": "UHJvZHVjdDozNjQz",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/HUWrwGuApjMSOsdc.png"
-    },
-    {
-      "alt": "",
-      "url": "products/cXWXfgsOZCiJtpzY.png"
-    },
-    {
-      "alt": "",
-      "url": "products/mzxeTNnBCXaLilgC.png"
-    },
-    {
-      "alt": "",
-      "url": "products/vqlihOWGvaBjqZvf.png"
-    },
-    {
-      "alt": "",
-      "url": "products/KuMNIDNyGpCJbAnK.png"
-    },
-    {
-      "alt": "",
-      "url": "products/eNOSumnGvqjGKiTl.png"
-    },
-    {
-      "alt": "",
-      "url": "products/QANoWFfewfBzzCIS.png"
-    },
-    {
-      "alt": "",
-      "url": "products/lqIoDxRUKQYiwKio.png"
-    },
-    {
-      "alt": "",
-      "url": "products/rnGdaGcRcbzbanqa.png"
-    },
-    {
-      "alt": "",
-      "url": "products/qKGeZEIsIznvtXcO.png"
-    }
-  ],
-  "name": "Assumenda.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "62.38",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "62.38",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-05-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "62.38",
-          "currency": "CHF"
+      "description": "Aliquam neque veritatis in dignissimos eaque. Ut maiores voluptatibus.\nEarum rerum atque quibusdam non. Consequatur dolores eligendi esse.",
+      "id": "UHJvZHVjdDozNjQz",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/HUWrwGuApjMSOsdc.png"
         },
-        "net": {
-          "amount": "62.38",
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/cXWXfgsOZCiJtpzY.png"
         },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+        {
+          "alt": "",
+          "url": "products/mzxeTNnBCXaLilgC.png"
+        },
+        {
+          "alt": "",
+          "url": "products/vqlihOWGvaBjqZvf.png"
+        },
+        {
+          "alt": "",
+          "url": "products/KuMNIDNyGpCJbAnK.png"
+        },
+        {
+          "alt": "",
+          "url": "products/eNOSumnGvqjGKiTl.png"
+        },
+        {
+          "alt": "",
+          "url": "products/QANoWFfewfBzzCIS.png"
+        },
+        {
+          "alt": "",
+          "url": "products/lqIoDxRUKQYiwKio.png"
+        },
+        {
+          "alt": "",
+          "url": "products/rnGdaGcRcbzbanqa.png"
+        },
+        {
+          "alt": "",
+          "url": "products/qKGeZEIsIznvtXcO.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Lucie",
-    "id": 1031,
-    "lastName": "Beuchat"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "19.78",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "19.78",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "19.78",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTgyNTE=",
-      "isAvailable": true,
-      "name": "M",
+      ],
+      "name": "Assumenda.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "62.38",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "62.38",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "62.38",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "62.38",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "62.38",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "62.38",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 297
+      "producer": {
+        "firstName": "Lucie",
+        "id": "VXNlcjoxMDMx",
+        "lastName": "Beuchat"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "19.78",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "19.78",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "19.78",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTgyNTE=",
+          "isAvailable": true,
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "62.38",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "62.38",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 297
+        }
+      ]
     }
-  ]
+  }
 }

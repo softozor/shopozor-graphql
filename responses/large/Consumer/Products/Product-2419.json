@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "à température ambiante",
-    "until": "2020-04-17"
-  },
-  "description": "Maxime rem iste doloremque quis velit repellendus. Asperiores veniam iste a earum unde dicta.\nQuam dolore reiciendis porro ipsam fugit eius.",
-  "id": "UHJvZHVjdDoyNDE5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/QIdXElqrfJFNisqs.png"
-    }
-  ],
-  "name": "Fugiat iusto placeat.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "66.67",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "66.67",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "à température ambiante",
+        "until": "2020-04-17"
       },
-      "stop": {
-        "gross": {
-          "amount": "66.67",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "66.67",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Maxime rem iste doloremque quis velit repellendus. Asperiores veniam iste a earum unde dicta.\nQuam dolore reiciendis porro ipsam fugit eius.",
+      "id": "UHJvZHVjdDoyNDE5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/QIdXElqrfJFNisqs.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Madeleine",
-    "id": 1148,
-    "lastName": "Menthonnex"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "7.78",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "7.78",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "7.78",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTIwODE=",
-      "isAvailable": true,
-      "name": "500g",
+      ],
+      "name": "Fugiat iusto placeat.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "66.67",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "66.67",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.67",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "66.67",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "66.67",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "66.67",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 358
+      "producer": {
+        "firstName": "Madeleine",
+        "id": "VXNlcjoxMTQ4",
+        "lastName": "Menthonnex"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "7.78",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "7.78",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "7.78",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTIwODE=",
+          "isAvailable": true,
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "66.67",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "66.67",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 358
+        }
+      ]
     }
-  ]
+  }
 }

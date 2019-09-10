@@ -1,92 +1,96 @@
 {
-  "conservation": {
-    "mode": "au soleil",
-    "until": "2020-02-22"
-  },
-  "description": "Repudiandae provident animi deleniti quam. Voluptatem quia natus impedit.\nQuibusdam dolorum provident consequatur pariatur officia accusantium quos. Repellat deleniti enim exercitationem vel.",
-  "id": "UHJvZHVjdDozODg5",
-  "images": [
-    {
-      "alt": "",
-      "url": "products/BqJwhOhsVbBniUIQ.png"
-    }
-  ],
-  "name": "Explicabo qui dolores.",
-  "pricing": {
-    "priceRange": {
-      "start": {
-        "gross": {
-          "amount": "72.58",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "72.58",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
-        }
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au soleil",
+        "until": "2020-02-22"
       },
-      "stop": {
-        "gross": {
-          "amount": "72.58",
-          "currency": "CHF"
-        },
-        "net": {
-          "amount": "72.58",
-          "currency": "CHF"
-        },
-        "tax": {
-          "amount": 0,
-          "currency": "CHF"
+      "description": "Repudiandae provident animi deleniti quam. Voluptatem quia natus impedit.\nQuibusdam dolorum provident consequatur pariatur officia accusantium quos. Repellat deleniti enim exercitationem vel.",
+      "id": "UHJvZHVjdDozODg5",
+      "images": [
+        {
+          "alt": "",
+          "url": "products/BqJwhOhsVbBniUIQ.png"
         }
-      }
-    }
-  },
-  "producer": {
-    "firstName": "Mathilde",
-    "id": 1126,
-    "lastName": "Chevalley"
-  },
-  "purchaseCost": {
-    "start": {
-      "_type": "Money",
-      "amount": "56.19",
-      "currency": "CHF"
-    },
-    "stop": {
-      "_type": "Money",
-      "amount": "56.19",
-      "currency": "CHF"
-    }
-  },
-  "variants": [
-    {
-      "costPrice": {
-        "amount": "56.19",
-        "currency": "CHF"
-      },
-      "id": "UHJvZHVjdFZhcmlhbnQ6MTk0OTE=",
-      "isAvailable": true,
-      "name": "200g",
+      ],
+      "name": "Explicabo qui dolores.",
       "pricing": {
-        "price": {
-          "gross": {
-            "amount": "72.58",
-            "currency": "CHF"
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": "72.58",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "72.58",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           },
-          "net": {
-            "amount": "72.58",
-            "currency": "CHF"
-          },
-          "tax": {
-            "amount": 0,
-            "currency": "CHF"
+          "stop": {
+            "gross": {
+              "amount": "72.58",
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": "72.58",
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0,
+              "currency": "CHF"
+            }
           }
         }
       },
-      "stockQuantity": 169
+      "producer": {
+        "firstName": "Mathilde",
+        "id": "VXNlcjoxMTI2",
+        "lastName": "Chevalley"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "56.19",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "56.19",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "56.19",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk0OTE=",
+          "isAvailable": true,
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": "72.58",
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": "72.58",
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 169
+        }
+      ]
     }
-  ]
+  }
 }
