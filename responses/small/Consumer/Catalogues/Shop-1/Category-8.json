@@ -1,12 +1,139 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDU=",
+            "name": "Optio quam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "15.44",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "15.44",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mg=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/sarYMWAkDoyoGcsn-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ4",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 19
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDU=",
+            "name": "Optio quam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "69.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "69.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mg=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/sarYMWAkDoyoGcsn-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ5",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 8
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDU=",
+            "name": "Optio quam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "20.71",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "20.71",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mg=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/sarYMWAkDoyoGcsn-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjUw",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 442
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

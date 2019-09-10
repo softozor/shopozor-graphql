@@ -1,12 +1,391 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.76",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.76",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU0NA==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 50
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.42",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.42",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU0NQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 9
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "15.94",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "15.94",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU0Ng==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 622
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "80.57",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "80.57",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU0Nw==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 324
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "32.55",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "32.55",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU0OA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 22
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.42",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.42",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU0OQ==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 469
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "21.9",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "21.9",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU1MA==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 75
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "53.03",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "53.03",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU1MQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 557
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTIx",
+            "name": "Quod eos sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "59.42",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "59.42",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Stéphane",
+              "id": 1001,
+              "lastName": "Tinguely"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IRZlfuhSkSaEgQdk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU1Mg==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 101
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjg=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 9
     }
   }
 }

@@ -1,12 +1,223 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNDA=",
+            "name": "Quo maiores ducimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "37.38",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "37.38",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "André",
+              "id": 115,
+              "lastName": "Corboz"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MjI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kMxngYxEaOGjhdag-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzYy",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 123
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNDA=",
+            "name": "Quo maiores ducimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "37.38",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "37.38",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "André",
+              "id": 115,
+              "lastName": "Corboz"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MjI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kMxngYxEaOGjhdag-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzYz",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 645
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNDA=",
+            "name": "Quo maiores ducimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "62.31",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "62.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "André",
+              "id": 115,
+              "lastName": "Corboz"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MjI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kMxngYxEaOGjhdag-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY0",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 74
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNDA=",
+            "name": "Quo maiores ducimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "30.63",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "30.63",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "André",
+              "id": 115,
+              "lastName": "Corboz"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MjI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kMxngYxEaOGjhdag-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY1",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 78
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNDA=",
+            "name": "Quo maiores ducimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "84.99",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "84.99",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "André",
+              "id": 115,
+              "lastName": "Corboz"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MjI="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/kMxngYxEaOGjhdag-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY2",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 13
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 5
     }
   }
 }

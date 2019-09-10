@@ -1,12 +1,139 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTk=",
+            "name": "Necessitatibus corporis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "6.3",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "6.3",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Clara",
+              "id": 125,
+              "lastName": "Grojean"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JDNQEUGuINZEdrXD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzg2",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 86
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTk=",
+            "name": "Necessitatibus corporis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "6.3",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "6.3",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Clara",
+              "id": 125,
+              "lastName": "Grojean"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JDNQEUGuINZEdrXD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzg3",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 50
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTk=",
+            "name": "Necessitatibus corporis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "6.3",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "6.3",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Clara",
+              "id": 125,
+              "lastName": "Grojean"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JDNQEUGuINZEdrXD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzg4",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 86
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

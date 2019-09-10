@@ -1,12 +1,55 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzM1",
+            "name": "Mollitia sed magnam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "48.04",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "48.04",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Yvonne",
+              "id": 1074,
+              "lastName": "Gilliéron"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTE="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/PUlxwGIRgwGyScpD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY2MDg=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 211
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

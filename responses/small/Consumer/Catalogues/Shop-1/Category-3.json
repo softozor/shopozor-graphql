@@ -1,12 +1,181 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MQ==",
+            "name": "Ea autem voluptatum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "90.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "90.84",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xRHctpbmvtGsQXEI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MQ==",
+            "name": "Ea autem voluptatum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "24.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xRHctpbmvtGsQXEI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk5",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 265
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MQ==",
+            "name": "Ea autem voluptatum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "24.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xRHctpbmvtGsQXEI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAw",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 4
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MQ==",
+            "name": "Ea autem voluptatum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "24.49",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "24.49",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 61,
+              "lastName": "Boillat"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTY="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/xRHctpbmvtGsQXEI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAx",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 402
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 4
     }
   }
 }

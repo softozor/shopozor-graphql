@@ -1,12 +1,559 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM2",
+            "name": "Facilis ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "26.31",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "26.31",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CqbqjzkvPNPRHHpd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3MDI=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 232
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM2",
+            "name": "Facilis ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "86.47",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "86.47",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CqbqjzkvPNPRHHpd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3MDM=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 18
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM2",
+            "name": "Facilis ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "5.44",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "5.44",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CqbqjzkvPNPRHHpd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3MDQ=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 358
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM2",
+            "name": "Facilis ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "66.79",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "66.79",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CqbqjzkvPNPRHHpd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3MDU=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 312
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM2",
+            "name": "Facilis ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "48.1",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "48.1",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CqbqjzkvPNPRHHpd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3MDY=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 383
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNTM2",
+            "name": "Facilis ipsum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "86.47",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "86.47",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/CqbqjzkvPNPRHHpd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3MDc=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 793
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "88.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "88.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMjU=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 60
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "28.54",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "28.54",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMjY=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 271
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "29.56",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "29.56",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMjc=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 87
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "1.25",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "1.25",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMjg=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 274
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "74.13",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "74.13",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMjk=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 750
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "88.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "88.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMzA=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 256
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODU5",
+            "name": "Sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "88.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "88.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 1072,
+              "lastName": "Babey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/IdwWWvMCGlsgxSks-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkzMzE=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 363
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEy",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 13
     }
   }
 }

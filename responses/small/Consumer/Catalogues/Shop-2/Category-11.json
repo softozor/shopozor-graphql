@@ -1,12 +1,181 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzk=",
+            "name": "Quaerat accusantium sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "56.01",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "56.01",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": 59,
+              "lastName": "Nusslé"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SBpLHRtuhVVBvUfc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM1",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 415
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzk=",
+            "name": "Quaerat accusantium sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "85.8",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "85.8",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": 59,
+              "lastName": "Nusslé"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SBpLHRtuhVVBvUfc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 280
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzk=",
+            "name": "Quaerat accusantium sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.27",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.27",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": 59,
+              "lastName": "Nusslé"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SBpLHRtuhVVBvUfc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM3",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 33
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzk=",
+            "name": "Quaerat accusantium sequi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.27",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.27",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": 59,
+              "lastName": "Nusslé"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SBpLHRtuhVVBvUfc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM4",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 115
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 4
     }
   }
 }

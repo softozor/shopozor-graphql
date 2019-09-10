@@ -1,95 +1,12 @@
 {
   "data": {
     "products": {
-      "edges": [
-        {
-          "node": {
-            "id": "UHJvZHVjdDox",
-            "name": "Consequatur delectus.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": "0.34",
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": "0.34",
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Romain",
-              "lastName": "Monnet"
-            },
-            "productType": {
-              "id": "UHJvZHVjdFR5cGU6Mzg="
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/AulkWsYANUonQeqK-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MQ==",
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 256
-              }
-            ]
-          }
-        },
-        {
-          "node": {
-            "id": "UHJvZHVjdDox",
-            "name": "Consequatur delectus.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": "27.12",
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": "27.12",
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Romain",
-              "lastName": "Monnet"
-            },
-            "productType": {
-              "id": "UHJvZHVjdFR5cGU6Mzg="
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "http://localhost:8000/media/__sized__/products/AulkWsYANUonQeqK-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Mg==",
-                "isAvailable": true,
-                "name": "XS",
-                "stockQuantity": 38
-              }
-            ]
-          }
-        }
-      ],
+      "edges": [],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 0
     }
   }
 }

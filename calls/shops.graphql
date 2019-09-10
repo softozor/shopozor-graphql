@@ -1,5 +1,5 @@
-query Shops {
-  shops {
+query Shops($first: Int!, $after: String = "") {
+  shops(first: $first, after: $after) {
     edges {
       node {
         description

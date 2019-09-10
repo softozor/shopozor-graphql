@@ -1,12 +1,391 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "26.27",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "26.27",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODI=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 280
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "46.78",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "46.78",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODM=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 224
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "45.53",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "45.53",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODQ=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 0
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "70.67",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "70.67",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODU=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 88
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "70.67",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "70.67",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODY=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 397
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "4.81",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "4.81",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODc=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 103
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "94.68",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "94.68",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODg=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 321
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "70.67",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "70.67",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyODk=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 599
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNDU5",
+            "name": "At vero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "18.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "18.39",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": 1129,
+              "lastName": "Barman"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MzA="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcyOTA=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 399
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjg=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 9
     }
   }
 }

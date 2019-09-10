@@ -1,12 +1,265 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Ng==",
+            "name": "Impedit culpa.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "43.72",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.72",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MQ=="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzAz",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 568
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Ng==",
+            "name": "Impedit culpa.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "43.72",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.72",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MQ=="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA0",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 363
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Ng==",
+            "name": "Impedit culpa.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "43.72",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "43.72",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MQ=="
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "http://localhost:8000/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA1",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 50
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjU=",
+            "name": "Vero libero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "99.93",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "99.93",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 122,
+              "lastName": "Bonvin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mg=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XEaYnkUMLOpmaucu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTM4",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 53
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjU=",
+            "name": "Vero libero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "53.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "53.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 122,
+              "lastName": "Bonvin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mg=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XEaYnkUMLOpmaucu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTM5",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 199
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjU=",
+            "name": "Vero libero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "63.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "63.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elodie",
+              "id": 122,
+              "lastName": "Bonvin"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mg=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XEaYnkUMLOpmaucu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTQw",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 196
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjU=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 6
     }
   }
 }

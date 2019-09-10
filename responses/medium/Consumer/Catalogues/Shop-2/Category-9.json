@@ -1,12 +1,223 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOA==",
+            "name": "Adipisci reprehenderit ratione incidunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "76.32",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "76.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JiATSJbzdXtUIvmS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzM=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 101
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOA==",
+            "name": "Adipisci reprehenderit ratione incidunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "83.56",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "83.56",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JiATSJbzdXtUIvmS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzQ=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 195
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOA==",
+            "name": "Adipisci reprehenderit ratione incidunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "97.32",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "97.32",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JiATSJbzdXtUIvmS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzU=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 263
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOA==",
+            "name": "Adipisci reprehenderit ratione incidunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "28.95",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "28.95",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JiATSJbzdXtUIvmS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzY=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 139
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOA==",
+            "name": "Adipisci reprehenderit ratione incidunt.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "28.95",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "28.95",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": 106,
+              "lastName": "Barbey"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NQ=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/JiATSJbzdXtUIvmS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 500
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 5
     }
   }
 }

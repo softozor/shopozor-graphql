@@ -1,12 +1,475 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "76.68",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "76.68",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NjY=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 120
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5Njc=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "3.35",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "3.35",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5Njg=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 64
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5Njk=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 35
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "51.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "51.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NzA=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 50
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NzE=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 335
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NzI=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 74
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "58.92",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NzM=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 626
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjA2",
+            "name": "Quis adipisci modi ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "84.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "84.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6MTM="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/SVcoAXxVBKfPZPrJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NzQ=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 101
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODUx",
+            "name": "Enim eum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "78.25",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "78.25",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uyDhJdvDGqSEGuxu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQxOTg=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 10
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODUx",
+            "name": "Enim eum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "78.25",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "78.25",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Christophe",
+              "id": 1142,
+              "lastName": "Cossy"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6Mw=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/uyDhJdvDGqSEGuxu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQxOTk=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 363
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjEw",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 11
     }
   }
 }

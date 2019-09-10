@@ -31,11 +31,9 @@ query ShopCatalogue(
           }
         }
         producer {
+          id
           firstName
           lastName
-        }
-        productType {
-          id
         }
         thumbnail(size: $thumbnailSize) {
           alt

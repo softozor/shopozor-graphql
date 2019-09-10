@@ -1,12 +1,223 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Ng==",
+            "name": "Occaecati earum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "53.24",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "53.24",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Michel",
+              "id": 107,
+              "lastName": "Broquet"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XFaBAFxamhvbEtdM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTcz",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 149
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Ng==",
+            "name": "Occaecati earum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "12.69",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "12.69",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Michel",
+              "id": 107,
+              "lastName": "Broquet"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XFaBAFxamhvbEtdM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc0",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 372
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Ng==",
+            "name": "Occaecati earum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "14.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "14.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Michel",
+              "id": 107,
+              "lastName": "Broquet"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XFaBAFxamhvbEtdM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc1",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 26
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Ng==",
+            "name": "Occaecati earum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "15.88",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "15.88",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Michel",
+              "id": 107,
+              "lastName": "Broquet"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XFaBAFxamhvbEtdM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc2",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 95
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Ng==",
+            "name": "Occaecati earum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "86.09",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "86.09",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Michel",
+              "id": 107,
+              "lastName": "Broquet"
+            },
+            "productType": {
+              "id": "UHJvZHVjdFR5cGU6NA=="
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "http://localhost:8000/media/__sized__/products/XFaBAFxamhvbEtdM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc3",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 74
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 5
     }
   }
 }
