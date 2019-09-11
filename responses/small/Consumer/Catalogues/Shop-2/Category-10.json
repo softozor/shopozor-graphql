@@ -1,12 +1,130 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDQ=",
+            "name": "Quasi unde veritatis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "20.2",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "20.2",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/UBBXjkJQXYalJAzv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ1",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 57
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDQ=",
+            "name": "Quasi unde veritatis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "77.54",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "77.54",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/UBBXjkJQXYalJAzv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ2",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 809
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDQ=",
+            "name": "Quasi unde veritatis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "76.18",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "76.18",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/UBBXjkJQXYalJAzv-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ3",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 79
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

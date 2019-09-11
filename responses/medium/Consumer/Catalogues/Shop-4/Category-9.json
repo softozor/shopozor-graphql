@@ -1,12 +1,91 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzE=",
+            "name": "Saepe quaerat reiciendis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "94.77",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "94.77",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Loïc",
+              "id": "VXNlcjoxMTg=",
+              "lastName": "Cornut"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/BpiKHmNUHKRbynNF-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDE1",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 682
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzE=",
+            "name": "Saepe quaerat reiciendis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "38.57",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "38.57",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Loïc",
+              "id": "VXNlcjoxMTg=",
+              "lastName": "Cornut"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/BpiKHmNUHKRbynNF-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDE2",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 31
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

@@ -1,12 +1,130 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjAx",
+            "name": "Perspiciatis dicta provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "40.89",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "40.89",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sara",
+              "id": "VXNlcjoxMDcw",
+              "lastName": "Carron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/tvxXvHYvnHpBMeQD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NDU=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 408
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjAx",
+            "name": "Perspiciatis dicta provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "66.54",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "66.54",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sara",
+              "id": "VXNlcjoxMDcw",
+              "lastName": "Carron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/tvxXvHYvnHpBMeQD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NDY=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 220
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjAx",
+            "name": "Perspiciatis dicta provident.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "66.54",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "66.54",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sara",
+              "id": "VXNlcjoxMDcw",
+              "lastName": "Carron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/tvxXvHYvnHpBMeQD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI5NDc=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 776
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

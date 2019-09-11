@@ -43,6 +43,7 @@ query ProductDetails($productId: ID!) {
       }
     }
     producer {
+      description
       id
       firstName
       lastName

@@ -1,12 +1,91 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Njg5",
+            "name": "Ipsum explicabo.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "27.75",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "27.75",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Albert",
+              "id": "VXNlcjoxMDI5",
+              "lastName": "Cousin"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/RISAuapaTbZOPzGy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM1NjU=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 334
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0Njg5",
+            "name": "Ipsum explicabo.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "14.82",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "14.82",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Albert",
+              "id": "VXNlcjoxMDI5",
+              "lastName": "Cousin"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/RISAuapaTbZOPzGy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM1NjY=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 130
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }
