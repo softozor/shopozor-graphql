@@ -1,12 +1,130 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Ng==",
+            "name": "Iure qui.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "2.07",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.07",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Léa",
+              "id": "VXNlcjoxMDY=",
+              "lastName": "Paccot"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/iawodZhfGhsIbrVx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM2",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 225
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Ng==",
+            "name": "Iure qui.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "2.07",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.07",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Léa",
+              "id": "VXNlcjoxMDY=",
+              "lastName": "Paccot"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/iawodZhfGhsIbrVx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 5
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo3Ng==",
+            "name": "Iure qui.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "2.07",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "2.07",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Léa",
+              "id": "VXNlcjoxMDY=",
+              "lastName": "Paccot"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/iawodZhfGhsIbrVx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM4",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 88
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

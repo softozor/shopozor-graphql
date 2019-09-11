@@ -43,6 +43,12 @@ query ProductDetails($productId: ID!) {
       }
     }
     producer {
+      address {
+        city
+        country
+        postalCode
+        streetAddress1
+      }
       description
       id
       firstName

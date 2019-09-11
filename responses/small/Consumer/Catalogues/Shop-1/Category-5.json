@@ -1,12 +1,208 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNw==",
+            "name": "Qui sapiente sed.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "81.39",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "81.39",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hugo",
+              "id": "VXNlcjo2NA==",
+              "lastName": "Courvoisier"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/YQftlThXTHkXiPLQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODg=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 449
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNw==",
+            "name": "Qui sapiente sed.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "72.36",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "72.36",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hugo",
+              "id": "VXNlcjo2NA==",
+              "lastName": "Courvoisier"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/YQftlThXTHkXiPLQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODk=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 143
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTE=",
+            "name": "Iste.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "41.25",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "41.25",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Véronique",
+              "id": "VXNlcjo1Nw==",
+              "lastName": "Botteron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/FktxTaHcUDFNwBCs-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjY0",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 557
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTE=",
+            "name": "Iste.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "48.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "48.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Véronique",
+              "id": "VXNlcjo1Nw==",
+              "lastName": "Botteron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/FktxTaHcUDFNwBCs-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjY1",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 320
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTE=",
+            "name": "Iste.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "48.14",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "48.14",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Véronique",
+              "id": "VXNlcjo1Nw==",
+              "lastName": "Botteron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/FktxTaHcUDFNwBCs-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjY2",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 522
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 5
     }
   }
 }

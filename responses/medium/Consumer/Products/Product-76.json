@@ -2,22 +2,55 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à la cave",
-        "until": "2020-09-04"
+        "mode": "au soleil",
+        "until": "2020-03-02"
       },
-      "description": "Laboriosam consequuntur quos iure. Voluptate perferendis earum soluta omnis officiis quae. Rem sunt nobis debitis expedita.\nMolestiae eum dolorum labore nihil dolorum. Reiciendis a cum.",
+      "description": "Sint soluta pariatur ullam saepe iusto cumque. At quos voluptate atque laudantium consequatur ullam. Non aut at architecto hic.",
       "id": "UHJvZHVjdDo3Ng==",
-      "images": [],
-      "name": "Distinctio doloribus.",
+      "images": [
+        {
+          "alt": "",
+          "url": "/media/products/iawodZhfGhsIbrVx.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/ZaTaIMxIScZEOVot.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/JdMjbKotlAOrECHc.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/JjzyfRaKEHGcEneY.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/HGfswZzzQPMZvniJ.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/ClEfrpUtyzpjbhud.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/wgHVFlmrozHwDnKi.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/rxmkBEKjIYSeMTiQ.png"
+        }
+      ],
+      "name": "Iure qui.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "74.38",
+              "amount": "2.07",
               "currency": "CHF"
             },
             "net": {
-              "amount": "74.38",
+              "amount": "2.07",
               "currency": "CHF"
             },
             "tax": {
@@ -27,11 +60,11 @@
           },
           "stop": {
             "gross": {
-              "amount": "74.38",
+              "amount": "2.07",
               "currency": "CHF"
             },
             "net": {
-              "amount": "74.38",
+              "amount": "2.07",
               "currency": "CHF"
             },
             "tax": {
@@ -42,40 +75,46 @@
         }
       },
       "producer": {
-        "description": "Delectus perferendis porro rerum. Saepe repellendus suscipit odit. Velit eligendi saepe odit.",
-        "firstName": "Loïc",
-        "id": "VXNlcjoxMTg=",
-        "lastName": "Cornut"
+        "address": {
+          "city": "Georges",
+          "country": "CH",
+          "postalCode": "6496",
+          "streetAddress1": "rue Anna Monnet 26"
+        },
+        "description": "Asperiores iure ad culpa. Perspiciatis veniam rerum dolorem doloribus. Iste placeat quas atque impedit soluta.\nDucimus atque at unde repudiandae velit. Eligendi vero ipsa est cum maiores eum non.",
+        "firstName": "Léa",
+        "id": "VXNlcjoxMDY=",
+        "lastName": "Paccot"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "0.96",
+          "amount": "0.44",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "0.96",
+          "amount": "0.44",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "0.96",
+            "amount": "0.44",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ2",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjM2",
           "isAvailable": true,
-          "name": "S",
+          "name": "45cm x 45cm",
           "pricing": {
             "price": {
               "gross": {
-                "amount": "74.38",
+                "amount": "2.07",
                 "currency": "CHF"
               },
               "net": {
-                "amount": "74.38",
+                "amount": "2.07",
                 "currency": "CHF"
               },
               "tax": {
@@ -84,7 +123,7 @@
               }
             }
           },
-          "stockQuantity": 226
+          "stockQuantity": 225
         }
       ]
     }

@@ -1,12 +1,130 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5OTU=",
+            "name": "Optio ullam distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "12.84",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "12.84",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Alice",
+              "id": "VXNlcjoxMDI0",
+              "lastName": "Badel"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/pxWEDlTBZZAFZOWP-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDk2NA==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 16
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5OTU=",
+            "name": "Optio ullam distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "9.05",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "9.05",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Alice",
+              "id": "VXNlcjoxMDI0",
+              "lastName": "Badel"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/pxWEDlTBZZAFZOWP-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDk2NQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 23
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTE5",
+            "name": "Facere expedita atque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "39.78",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "39.78",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nathalie",
+              "id": "VXNlcjoxMDE2",
+              "lastName": "Chevalley"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/WwDoHQZYnWSeiqaL-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0OTA=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 245
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

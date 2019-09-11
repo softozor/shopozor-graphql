@@ -2,39 +2,31 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à la cave",
-        "until": "2020-03-06"
+        "mode": "à l'abri de la lumière",
+        "until": "2020-04-08"
       },
-      "description": "Mollitia consequuntur laboriosam iure.\nQuos voluptates vitae itaque mollitia repellat. Alias est in sed unde itaque vitae.",
+      "description": "Consectetur adipisci amet alias quia corporis blanditiis. Modi aliquid consequatur dolor voluptate placeat unde.",
       "id": "UHJvZHVjdDozMzc0",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/OPJDMgXXZjdvxmAT.png"
+          "url": "/media/products/JeDBcMqmSRTQYlCC.png"
         },
         {
           "alt": "",
-          "url": "/media/products/WilWezPyDOBXQbox.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/hJpsHbipYKjRpEBw.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/JtCbasZLjidwjZex.png"
+          "url": "/media/products/LHyykyyeQtBbkzdx.png"
         }
       ],
-      "name": "Perferendis.",
+      "name": "Quis iure sit.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "14.88",
+              "amount": "24.2",
               "currency": "CHF"
             },
             "net": {
-              "amount": "14.88",
+              "amount": "24.2",
               "currency": "CHF"
             },
             "tax": {
@@ -44,11 +36,11 @@
           },
           "stop": {
             "gross": {
-              "amount": "14.88",
+              "amount": "24.2",
               "currency": "CHF"
             },
             "net": {
-              "amount": "14.88",
+              "amount": "24.2",
               "currency": "CHF"
             },
             "tax": {
@@ -59,40 +51,46 @@
         }
       },
       "producer": {
-        "description": "Deserunt laudantium saepe tempore placeat at voluptatum. Deserunt consequatur laudantium aut voluptate placeat ipsam. Accusamus nesciunt esse numquam minima nisi odit.",
-        "firstName": "Anna",
-        "id": "VXNlcjoxMDk4",
-        "lastName": "Barbey"
+        "address": {
+          "city": "Bouvier (OW)",
+          "country": "CH",
+          "postalCode": "6601",
+          "streetAddress1": "avenue de Délèze 52"
+        },
+        "description": "Architecto dolore minus corporis eos occaecati velit facilis. Delectus et unde delectus quibusdam cumque cupiditate. Explicabo magni expedita quo rerum.",
+        "firstName": "Michael",
+        "id": "VXNlcjoxMDQ3",
+        "lastName": "Deshusses"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "0.04",
+          "amount": "14.83",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "0.04",
+          "amount": "14.83",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "0.04",
+            "amount": "14.83",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTY4MTg=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTY4MTI=",
           "isAvailable": true,
-          "name": "500ml",
+          "name": "XL",
           "pricing": {
             "price": {
               "gross": {
-                "amount": "14.88",
+                "amount": "24.2",
                 "currency": "CHF"
               },
               "net": {
-                "amount": "14.88",
+                "amount": "24.2",
                 "currency": "CHF"
               },
               "tax": {
@@ -101,7 +99,7 @@
               }
             }
           },
-          "stockQuantity": 300
+          "stockQuantity": 4
         }
       ]
     }

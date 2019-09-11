@@ -2,22 +2,43 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au congélateur",
-        "until": "2019-12-01"
+        "mode": "à l'abri de la lumière",
+        "until": "2019-09-26"
       },
-      "description": "Deleniti repellat voluptates autem inventore. Similique expedita pariatur quo porro quo sapiente sed.",
+      "description": "Delectus praesentium pariatur aperiam expedita. Porro laborum commodi repellendus.",
       "id": "UHJvZHVjdDoxNzEy",
-      "images": [],
-      "name": "Maiores cupiditate iure.",
+      "images": [
+        {
+          "alt": "",
+          "url": "/media/products/rBpzmSkUfVistfYg.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/oKoJcKMrkOSCtqXo.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/yvYZYObitEgumZeA.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/vUbWcxqKLoIHRDfY.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/uqXblCYoccErfGBK.png"
+        }
+      ],
+      "name": "Alias.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "12.53",
+              "amount": "77.14",
               "currency": "CHF"
             },
             "net": {
-              "amount": "12.53",
+              "amount": "77.14",
               "currency": "CHF"
             },
             "tax": {
@@ -27,11 +48,11 @@
           },
           "stop": {
             "gross": {
-              "amount": "12.53",
+              "amount": "77.14",
               "currency": "CHF"
             },
             "net": {
-              "amount": "12.53",
+              "amount": "77.14",
               "currency": "CHF"
             },
             "tax": {
@@ -42,40 +63,46 @@
         }
       },
       "producer": {
-        "description": "Delectus quisquam distinctio quibusdam eius totam accusantium. Libero impedit officiis reiciendis sequi voluptas ullam. Quae molestiae enim quae soluta officia.",
-        "firstName": "Léo",
-        "id": "VXNlcjoxMDQ4",
-        "lastName": "Alber"
+        "address": {
+          "city": "Bochud",
+          "country": "CH",
+          "postalCode": "5163",
+          "streetAddress1": "boulevard Isabelle Duroux"
+        },
+        "description": "Delectus nostrum consectetur molestiae nemo dolorum laboriosam. Nobis sint tempora explicabo.\nId facere neque expedita impedit alias. Dicta odio suscipit quidem id officia.",
+        "firstName": "Claudine",
+        "id": "VXNlcjoxMDM3",
+        "lastName": "Barbey"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "11.4",
+          "amount": "6.4",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "11.4",
+          "amount": "6.4",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "11.4",
+            "amount": "6.4",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6ODU0Nw==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODUyMw==",
           "isAvailable": true,
           "name": "250g",
           "pricing": {
             "price": {
               "gross": {
-                "amount": "12.53",
+                "amount": "77.14",
                 "currency": "CHF"
               },
               "net": {
-                "amount": "12.53",
+                "amount": "77.14",
                 "currency": "CHF"
               },
               "tax": {
@@ -84,7 +111,7 @@
               }
             }
           },
-          "stockQuantity": 6
+          "stockQuantity": 169
         }
       ]
     }
