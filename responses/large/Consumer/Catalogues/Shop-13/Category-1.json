@@ -4,49 +4,88 @@
       "edges": [
         {
           "node": {
-            "id": "UHJvZHVjdDo0NDcz",
-            "name": "Dolor soluta.",
+            "id": "UHJvZHVjdDoyNzE2",
+            "name": "Sit laborum.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": "6.91",
+                    "amount": "40.99",
                     "currency": "CHF"
                   }
                 },
                 "stop": {
                   "gross": {
-                    "amount": "6.91",
+                    "amount": "40.99",
                     "currency": "CHF"
                   }
                 }
               }
             },
             "producer": {
-              "firstName": "Nelly",
-              "id": "VXNlcjoxMDQz",
-              "lastName": "Galland"
+              "firstName": "Marcel",
+              "id": "VXNlcjoxMTEy",
+              "lastName": "Besançon"
             },
             "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/nNEGDmsHeOPzaYBC-thumbnail-500x500.png"
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
             },
             "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjIzNjQ=",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ5MzY=",
                 "isAvailable": true,
-                "name": "S",
-                "stockQuantity": 114
+                "name": "250ml",
+                "stockQuantity": 145
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzE2",
+            "name": "Sit laborum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "49.7",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "49.7",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Marcel",
+              "id": "VXNlcjoxMTEy",
+              "lastName": "Besançon"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ5Mzc=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 603
               }
             ]
           }
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 1
+      "totalCount": 2
     }
   }
 }

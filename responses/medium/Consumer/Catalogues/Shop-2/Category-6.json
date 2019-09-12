@@ -1,12 +1,208 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1",
+            "name": "Maxime nemo possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "16.37",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "16.37",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "id": "VXNlcjoxMTk=",
+              "lastName": "Délèze"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/kvGNosnxsTjeIWpp-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 475
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1",
+            "name": "Maxime nemo possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "75.6",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "75.6",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Julien",
+              "id": "VXNlcjoxMTk=",
+              "lastName": "Délèze"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/kvGNosnxsTjeIWpp-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 96
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Mg==",
+            "name": "Ab quasi est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "75.1",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "75.1",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": "VXNlcjoxMjU=",
+              "lastName": "Diesbach"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/BSSFQhCbeNhPUmhZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk2",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 236
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Mg==",
+            "name": "Ab quasi est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "7.28",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "7.28",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": "VXNlcjoxMjU=",
+              "lastName": "Diesbach"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/BSSFQhCbeNhPUmhZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk3",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 39
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Mg==",
+            "name": "Ab quasi est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": "31.95",
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": "31.95",
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Samuel",
+              "id": "VXNlcjoxMjU=",
+              "lastName": "Diesbach"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/BSSFQhCbeNhPUmhZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 57
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjQ=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 5
     }
   }
 }
