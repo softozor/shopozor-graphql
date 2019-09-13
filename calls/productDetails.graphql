@@ -9,6 +9,38 @@ query ProductDetails($productId: ID!) {
       alt
       url
     }
+    margin {
+      manager {
+        start {
+          amount
+          currency
+        }
+        stop {
+          amount
+          currency
+        }
+      }
+      rex {
+        start {
+          amount
+          currency
+        }
+        stop {
+          amount
+          currency
+        }
+      } 
+      softozor {
+        start {
+          amount
+          currency
+        }
+        stop {
+          amount
+          currency
+        }
+      }
+    }
     name
     pricing {
       priceRange {
@@ -21,9 +53,13 @@ query ProductDetails($productId: ID!) {
             amount
             currency
           }
-          tax {
+          productTax {
             amount
             currency
+          }
+          serviceTax {
+            amount
+            currency 
           }
         }
         stop {
@@ -35,8 +71,12 @@ query ProductDetails($productId: ID!) {
             amount
             currency
           }
-          tax {
+          productTax {
             amount
+            currency
+          }
+          serviceTax {
+            amount 
             currency
           }
         }
@@ -71,6 +111,20 @@ query ProductDetails($productId: ID!) {
       }
       id
       isAvailable
+      margin {
+        manager {
+          amount
+          currency
+        }
+        rex {
+          amount
+          currency
+        } 
+        softozor {
+          amount
+          currency
+        }
+      }
       name
       pricing {
         price {
@@ -82,7 +136,11 @@ query ProductDetails($productId: ID!) {
             amount
             currency
           }
-          tax {
+          productTax {
+            amount
+            currency
+          }
+          serviceTax {
             amount
             currency
           }
