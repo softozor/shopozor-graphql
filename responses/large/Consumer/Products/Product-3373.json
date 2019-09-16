@@ -2,49 +2,73 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à température ambiante",
-        "until": "2019-12-27"
+        "mode": "dans du papier d'alu",
+        "until": "2019-12-13"
       },
-      "description": "Est maxime corporis cupiditate. Dolores repellat ratione quidem esse officiis. Eos dolores placeat earum consequatur deserunt.\nFugiat harum doloribus nostrum esse voluptatem. Quae dolor ea expedita.",
+      "description": "Asperiores neque minima natus cupiditate. Excepturi esse ducimus nam.\nError illum alias dolorem perspiciatis odit illum. Quaerat quibusdam inventore praesentium voluptatum.",
       "id": "UHJvZHVjdDozMzcz",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/nhRtfWEhJmPqANZe.png"
+          "url": "/media/products/xzNunqkJbHggGhtU.png"
         },
         {
           "alt": "",
-          "url": "/media/products/pausHhcYefNJTQJW.png"
+          "url": "/media/products/GgLZeSeanqQaXrCA.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/TDvaRHxLdrSRdqKn.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/HIzgJKhuOhouGhUq.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/PmXEVJeUcMbTqTXe.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/QwHowiwJFRghQitX.png"
         }
       ],
-      "name": "Quibusdam molestias provident.",
+      "name": "Et eum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "2.18",
+              "amount": 16.65,
               "currency": "CHF"
             },
             "net": {
-              "amount": "2.18",
+              "amount": 16.1,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.35,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.2,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "2.18",
+              "amount": 16.65,
               "currency": "CHF"
             },
             "net": {
-              "amount": "2.18",
+              "amount": 16.1,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.35,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.2,
               "currency": "CHF"
             }
           }
@@ -52,54 +76,102 @@
       },
       "producer": {
         "address": {
-          "city": "Vonlanthen",
+          "city": "Gubéran am Albis",
           "country": "CH",
-          "postalCode": "3728",
-          "streetAddress1": "avenue Crivelli 31"
+          "postalCode": "8275",
+          "streetAddress1": "avenue Nusslé 34"
         },
-        "description": "Porro hic quo quas beatae. Doloribus natus tenetur occaecati voluptas.\nDignissimos sunt hic culpa labore. Nemo molestiae quidem ipsa ratione.",
-        "firstName": "Zoé",
-        "id": "VXNlcjoxMDYy",
-        "lastName": "Théraulaz"
+        "description": "Vel nulla dolore natus. Dolorem molestias aperiam animi possimus cum fuga. Reiciendis asperiores laborum animi architecto.",
+        "firstName": "Julien",
+        "id": "VXNlcjoxMDMy",
+        "lastName": "Mayor"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "2.12",
+          "amount": "14.15",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "2.12",
+          "amount": "14.15",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "2.12",
+            "amount": "14.15",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTg0OTg=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTgzNjU=",
           "isAvailable": true,
-          "name": "2.5l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "2.18",
+                "amount": 0.85,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "2.18",
+                "amount": 0.75,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.85,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.85,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 751
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 16.65,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 16.1,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 245
         }
       ]
     }

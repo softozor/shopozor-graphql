@@ -1,0 +1,154 @@
+{
+  "data": {
+    "product": {
+      "conservation": {
+        "mode": "au congélateur",
+        "until": "2020-04-24"
+      },
+      "description": "Ullam ut totam commodi dolorum. Magnam dolor et id ipsam.",
+      "id": "UHJvZHVjdDoxMTE4",
+      "images": [],
+      "name": "Iste.",
+      "pricing": {
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": 100.2,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 97.05,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 2.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.05,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 100.2,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 97.05,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 2.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.05,
+              "currency": "CHF"
+            }
+          }
+        }
+      },
+      "producer": {
+        "address": {
+          "city": "Cornut",
+          "country": "CH",
+          "postalCode": "7376",
+          "streetAddress1": "rue Christian Polla 72"
+        },
+        "description": "Pariatur nulla aliquam neque vel quisquam. Iure explicabo suscipit soluta vero tenetur sed. Tenetur distinctio a corrupti quos.",
+        "firstName": "Isabelle",
+        "id": "VXNlcjoxMTA0",
+        "lastName": "Pellet"
+      },
+      "purchaseCost": {
+        "start": {
+          "_type": "Money",
+          "amount": "85.15",
+          "currency": "CHF"
+        },
+        "stop": {
+          "_type": "Money",
+          "amount": "85.15",
+          "currency": "CHF"
+        }
+      },
+      "variants": [
+        {
+          "costPrice": {
+            "amount": "85.15",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMg==",
+          "isAvailable": true,
+          "margin": {
+            "manager": {
+              "gross": {
+                "amount": 5.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 5.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 5.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            }
+          },
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 100.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 97.05,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 2.1,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 1.05,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 10
+        }
+      ]
+    }
+  }
+}

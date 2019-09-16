@@ -90,8 +90,8 @@ query ProductDetails($productId: ID!) {
         streetAddress1
       }
       description
-      id
       firstName
+	  id
       lastName
     }
     purchaseCost {

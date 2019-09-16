@@ -2,49 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au frigo",
-        "until": "2020-05-02"
+        "mode": "à la cave",
+        "until": "2020-05-12"
       },
-      "description": "Delectus natus quia optio quas repellat. Nostrum ut atque dolorum magnam.",
+      "description": "Quidem consequatur cum nam tempore earum. Sit voluptate ex nihil ex modi.",
       "id": "UHJvZHVjdDoxMzkz",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/jwaVGWvwDdPRfjEv.png"
+          "url": "/media/products/AcJzlGEvMNJyrFJn.png"
         },
         {
           "alt": "",
-          "url": "/media/products/IgEeqtACwPzTNHTM.png"
+          "url": "/media/products/RimWvbshgsmhQTMC.png"
         }
       ],
-      "name": "Nihil nulla.",
+      "name": "Veniam quidem.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "31.95",
+              "amount": 47.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "31.95",
+              "amount": 45.6,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.0,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.5,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "31.95",
+              "amount": 47.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "31.95",
+              "amount": 45.6,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.0,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.5,
               "currency": "CHF"
             }
           }
@@ -52,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Boillat",
+          "city": "Charpié-les-Bains",
           "country": "CH",
-          "postalCode": "6114",
-          "streetAddress1": "boulevard Eric Isella 77"
+          "postalCode": "3097",
+          "streetAddress1": "avenue Paschoud 866"
         },
-        "description": "Nisi voluptatem a perspiciatis similique fuga repellendus alias. Fugiat adipisci natus optio dolores magnam.",
-        "firstName": "Nicole",
-        "id": "VXNlcjoxMTQ3",
-        "lastName": "Rosselet"
+        "description": "Maiores beatae dolorum. Numquam in magni minima cupiditate quis.\nIpsum inventore dicta exercitationem. Iure itaque nam fugit mollitia.",
+        "firstName": "Lara",
+        "id": "VXNlcjoxMDcz",
+        "lastName": "Mottiez"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "12.17",
+          "amount": "40.0",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "12.17",
+          "amount": "40.0",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "12.17",
+            "amount": "40.0",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NzUwNQ==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzY1MQ==",
           "isAvailable": true,
-          "name": "XL",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "31.95",
+                "amount": 2.35,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "31.95",
+                "amount": 2.2,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.15,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 2.35,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.15,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 2.35,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.15,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 401
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 47.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 45.6,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.0,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.5,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 0
         }
       ]
     }

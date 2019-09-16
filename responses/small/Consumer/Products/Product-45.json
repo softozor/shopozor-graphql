@@ -2,81 +2,65 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-04-25"
+        "mode": "à la cave",
+        "until": "2019-10-27"
       },
-      "description": "Illo exercitationem vitae sapiente vero debitis voluptate error. Officia in corporis adipisci ipsum placeat enim veritatis.",
+      "description": "Nobis quia vitae fugiat excepturi. Deserunt mollitia aliquid impedit fuga.\nCupiditate quo commodi libero. Provident ab cum qui rerum maiores soluta. Laborum eaque vel voluptas deleniti ut itaque.",
       "id": "UHJvZHVjdDo0NQ==",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/FKHDpMoWThQrzuol.png"
+          "url": "/media/products/keMdQbVroGaEAcdG.png"
         },
         {
           "alt": "",
-          "url": "/media/products/skltxmwJFSLCVsHs.png"
+          "url": "/media/products/cjOfSHWBwaglgNze.png"
         },
         {
           "alt": "",
-          "url": "/media/products/tPNYAQNUtldFMqvO.png"
+          "url": "/media/products/HrLuEWqIprQBLOxj.png"
         },
         {
           "alt": "",
-          "url": "/media/products/sUoTEhkuUBoZZjpl.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/PFHQDfRqRpIwQOWF.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/jjhCqzgnSXZYyhuP.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/nrRWpqpbYfWCzRmt.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/AslNoCoGCrrUeuCv.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/elMutQeuLyhekzpK.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/qQexZHjadJlWdshc.png"
+          "url": "/media/products/QMBHyBvWdaMBmajB.png"
         }
       ],
-      "name": "Sed neque.",
+      "name": "Debitis voluptate error.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "87.98",
+              "amount": 83.2,
               "currency": "CHF"
             },
             "net": {
-              "amount": "87.98",
+              "amount": 80.55,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.7,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.9,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "87.98",
+              "amount": 83.2,
               "currency": "CHF"
             },
             "net": {
-              "amount": "87.98",
+              "amount": 80.55,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.7,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.9,
               "currency": "CHF"
             }
           }
@@ -84,54 +68,102 @@
       },
       "producer": {
         "address": {
-          "city": "Wicht",
+          "city": "Müller-la-Ville",
           "country": "CH",
-          "postalCode": "7489",
-          "streetAddress1": "rue Eric Besençon 75"
+          "postalCode": "7859",
+          "streetAddress1": "chemin Barillon 40"
         },
-        "description": "Esse tempora sint distinctio fugiat. Quae sapiente dolorem ea.\nPorro repellat cum perferendis. Eos veritatis magni aliquam dolor reprehenderit possimus. Similique debitis reprehenderit delectus.",
-        "firstName": "Hugo",
-        "id": "VXNlcjo2NA==",
-        "lastName": "Courvoisier"
+        "description": "Repudiandae saepe perferendis consequatur error. Praesentium quaerat quia facere. Voluptatibus incidunt ipsam inventore.\nIusto quo libero deserunt repudiandae inventore. Fuga aliquam tenetur cumque.",
+        "firstName": "Pierre",
+        "id": "VXNlcjo1MQ==",
+        "lastName": "Barillon"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "4.4",
+          "amount": "70.7",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "4.4",
+          "amount": "70.7",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "4.4",
+            "amount": "70.7",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTMx",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTM5",
           "isAvailable": true,
-          "name": "S",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "87.98",
+                "amount": 4.15,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "87.98",
+                "amount": 3.85,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 4.15,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.85,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 4.15,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.85,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 150
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 83.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 80.55,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.7,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.9,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 365
         }
       ]
     }

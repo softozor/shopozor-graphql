@@ -2,65 +2,89 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au congélateur",
-        "until": "2020-07-06"
+        "mode": "à la cave",
+        "until": "2020-05-18"
       },
-      "description": "Tempora quaerat ratione provident. Reprehenderit distinctio accusamus iure nihil enim. In minima exercitationem numquam quisquam corporis. Autem ratione nam sit.",
+      "description": "Explicabo iure provident maiores repudiandae illum incidunt. Atque totam quod assumenda soluta. Earum voluptate cumque libero.",
       "id": "UHJvZHVjdDoyMDI=",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/XKaasSUXIQLIwvwe.png"
+          "url": "/media/products/LwKmhgIgWThFOTSr.png"
         },
         {
           "alt": "",
-          "url": "/media/products/DuPHTaFVzvzvOUfM.png"
+          "url": "/media/products/yXdIiSyJJlwjCLGM.png"
         },
         {
           "alt": "",
-          "url": "/media/products/FebIcDDWebVKrlgK.png"
+          "url": "/media/products/TQqEJZVTvHChNEQJ.png"
         },
         {
           "alt": "",
-          "url": "/media/products/ZfJicbGZcRAsFAff.png"
+          "url": "/media/products/UjQEiPtjvOYKoePo.png"
         },
         {
           "alt": "",
-          "url": "/media/products/mqumSJtWmiKbBJOT.png"
+          "url": "/media/products/DaoFsXEAghdEUZEO.png"
         },
         {
           "alt": "",
-          "url": "/media/products/byiRihTKFnBiAZMD.png"
+          "url": "/media/products/ZkdwTwNTyDArxvuL.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/xEPJolfdYNRqXExa.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/JmZLGhEFXlzDmsbi.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/DbNqxtEpQdUyzgmu.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/twiNpleZRniozskn.png"
         }
       ],
-      "name": "Quo totam ad.",
+      "name": "Temporibus culpa facere eum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "35.4",
+              "amount": 65.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "35.4",
+              "amount": 63.0,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.35,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.7,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "35.4",
+              "amount": 65.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "35.4",
+              "amount": 63.0,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.35,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.7,
               "currency": "CHF"
             }
           }
@@ -68,54 +92,102 @@
       },
       "producer": {
         "address": {
-          "city": "Robadey-près-Bernasconi",
+          "city": "Mayor",
           "country": "CH",
-          "postalCode": "1517",
-          "streetAddress1": "chemin Thérèse Droz 73"
+          "postalCode": "6667",
+          "streetAddress1": "boulevard Maria Blanc 3"
         },
-        "description": "Quidem ducimus ad at maxime iusto deserunt minima. Aspernatur ab esse ex perferendis dolor soluta. Veritatis suscipit fugit corporis quidem possimus facilis.",
-        "firstName": "Jean-Claude",
-        "id": "VXNlcjoxMjg=",
-        "lastName": "Besse"
+        "description": "Laborum porro alias veritatis architecto. Mollitia nam ipsum quidem excepturi quaerat. Ullam veniam consequatur doloribus tenetur.",
+        "firstName": "Daniel",
+        "id": "VXNlcjoxMTY=",
+        "lastName": "Jacot-Guillarmod"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "34.15",
+          "amount": "55.3",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "34.15",
+          "amount": "55.3",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "34.15",
+            "amount": "55.3",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NzQw",
+          "id": "UHJvZHVjdFZhcmlhbnQ6Nzk0",
           "isAvailable": true,
-          "name": "5l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "35.4",
+                "amount": 3.25,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "35.4",
+                "amount": 3.0,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.0,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.0,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 170
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 65.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 63.0,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.35,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.7,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 209
         }
       ]
     }

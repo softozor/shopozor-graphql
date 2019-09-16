@@ -3,39 +3,72 @@
     "product": {
       "conservation": {
         "mode": "à l'abri de la lumière",
-        "until": "2019-11-20"
+        "until": "2020-07-28"
       },
-      "description": "Similique maiores dolore quia iure exercitationem. Ab voluptate in.\nAut placeat itaque possimus. Provident aspernatur voluptates minus impedit.",
+      "description": "Ratione vel blanditiis adipisci adipisci debitis. Hic nobis nostrum quis. Animi autem cum quae laboriosam quos corporis.",
       "id": "UHJvZHVjdDozMDc4",
-      "images": [],
-      "name": "Soluta.",
+      "images": [
+        {
+          "alt": "",
+          "url": "/media/products/NkJbiPHzacmHrSnD.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/iMwLQcyMOIFMAbEr.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/qKOGxVuzntEtGgMd.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/UIKhhLRObXzGyEhD.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/ylvsLxHhPrXaTLEg.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/mzLeHAPTmpusBzgm.png"
+        }
+      ],
+      "name": "Molestias animi quisquam.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "32.18",
+              "amount": 32.25,
               "currency": "CHF"
             },
             "net": {
-              "amount": "32.18",
+              "amount": 31.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.65,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.35,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "32.18",
+              "amount": 32.25,
               "currency": "CHF"
             },
             "net": {
-              "amount": "32.18",
+              "amount": 31.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.65,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.35,
               "currency": "CHF"
             }
           }
@@ -43,54 +76,102 @@
       },
       "producer": {
         "address": {
-          "city": "Dubey-près-Corboz",
+          "city": "Bouvier (OW)",
           "country": "CH",
-          "postalCode": "8449",
-          "streetAddress1": "rue Monnard"
+          "postalCode": "6601",
+          "streetAddress1": "avenue de Délèze 52"
         },
-        "description": "Minus velit distinctio culpa nulla eaque esse. Iusto quos possimus corrupti ab ipsum reprehenderit. Sequi blanditiis sed explicabo aliquam. Minus eveniet perspiciatis dolorum.",
-        "firstName": "Paul",
-        "id": "VXNlcjoxMDE3",
-        "lastName": "Vallélian"
+        "description": "Cumque nesciunt reiciendis incidunt commodi ipsum molestiae. Distinctio voluptates ratione nulla necessitatibus perspiciatis exercitationem. Tempora ab sint incidunt eius eius quidem.",
+        "firstName": "Michael",
+        "id": "VXNlcjoxMDQ3",
+        "lastName": "Deshusses"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "3.54",
+          "amount": "27.4",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "3.54",
+          "amount": "27.4",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "3.54",
+            "amount": "27.4",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTY4ODM=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTY3MjU=",
           "isAvailable": true,
-          "name": "2l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "32.18",
+                "amount": 1.6,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "32.18",
+                "amount": 1.5,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 1.6,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.5,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 1.6,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.5,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.1,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 224
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 32.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 31.2,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.65,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 19
         }
       ]
     }

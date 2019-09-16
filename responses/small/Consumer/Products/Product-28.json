@@ -2,45 +2,53 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au congélateur",
-        "until": "2020-07-03"
+        "mode": "dans du papier d'alu",
+        "until": "2020-04-06"
       },
-      "description": "Rerum vel eligendi omnis esse. Tenetur ipsa voluptatum quo commodi. Consequuntur occaecati odit veniam veniam ratione.\nPerferendis at rerum itaque culpa molestias. Maiores distinctio et iste nulla.",
+      "description": "Inventore voluptate iste ex dolor aliquid esse. Itaque consequuntur temporibus repellendus recusandae. Rem voluptates laboriosam a.",
       "id": "UHJvZHVjdDoyOA==",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/TssbDgyJkokAtCqd.png"
+          "url": "/media/products/gZyvnivBdpWrkXvB.png"
         }
       ],
-      "name": "Ducimus aut.",
+      "name": "Nam qui aliquam.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "44.76",
+              "amount": 52.8,
               "currency": "CHF"
             },
             "net": {
-              "amount": "44.76",
+              "amount": 51.15,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.55,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "44.76",
+              "amount": 52.8,
               "currency": "CHF"
             },
             "net": {
-              "amount": "44.76",
+              "amount": 51.15,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.55,
               "currency": "CHF"
             }
           }
@@ -48,54 +56,102 @@
       },
       "producer": {
         "address": {
-          "city": "Blanc-la-Ville",
+          "city": "Morard",
           "country": "CH",
-          "postalCode": "3894",
-          "streetAddress1": "rue Chatriand"
+          "postalCode": "1877",
+          "streetAddress1": "rue Cattin"
         },
-        "description": "Reprehenderit dolorum ullam beatae culpa. Officia ut dolorem nam.\nOdit magni repellat vero. Iste reiciendis velit at repellat. Ipsum asperiores voluptatibus.",
-        "firstName": "Eric",
-        "id": "VXNlcjo2NQ==",
-        "lastName": "Isella"
+        "description": "Ipsam aspernatur nemo repellat. Nostrum recusandae quam. Ab quam sequi rem architecto impedit deserunt.\nOfficia aspernatur aliquid. Esse suscipit neque ipsum ipsa. Esse esse expedita animi assumenda.",
+        "firstName": "Guillaume",
+        "id": "VXNlcjo2Mw==",
+        "lastName": "Mottiez"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "16.68",
+          "amount": "44.9",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "16.68",
+          "amount": "44.9",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "16.68",
+            "amount": "44.9",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6ODM=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6Nzg=",
           "isAvailable": true,
-          "name": "500ml",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "44.76",
+                "amount": 2.65,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "44.76",
+                "amount": 2.45,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 2.65,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.45,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 2.65,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.45,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 54
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 52.8,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 51.15,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.1,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.55,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 90
         }
       ]
     }

@@ -2,65 +2,85 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à température ambiante",
-        "until": "2020-06-24"
+        "mode": "à la cave",
+        "until": "2020-01-02"
       },
-      "description": "Blanditiis laudantium occaecati similique nesciunt. Cupiditate dolorum voluptatibus facere magni cupiditate molestiae fugiat. Distinctio voluptate voluptatibus similique magnam repellendus.",
+      "description": "Suscipit et cum exercitationem labore. Nemo ut dolore repudiandae.\nMagnam ipsa suscipit magnam quos. Excepturi et corrupti nisi a. Reiciendis dignissimos harum.",
       "id": "UHJvZHVjdDo4Mg==",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/bxRADjHPGXmLVCIh.png"
+          "url": "/media/products/zrZWCGfdJEhKoPnu.png"
         },
         {
           "alt": "",
-          "url": "/media/products/xijoCemvFowWgWvy.png"
+          "url": "/media/products/QeCSYEmrDHVGfXlH.png"
         },
         {
           "alt": "",
-          "url": "/media/products/gCZFKRgfwoIRqQpW.png"
+          "url": "/media/products/YcawBZfZtOrcsYzM.png"
         },
         {
           "alt": "",
-          "url": "/media/products/UZcdYKjdXJHbXddj.png"
+          "url": "/media/products/SzoieGTFrkmEtprD.png"
         },
         {
           "alt": "",
-          "url": "/media/products/QWPYoFXQwnJMHwcp.png"
+          "url": "/media/products/zuBvRXYgttqcgjlo.png"
         },
         {
           "alt": "",
-          "url": "/media/products/RlQMIuedDyrJLzeJ.png"
+          "url": "/media/products/HOpZZNTXOyUKhKkq.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/IeWxEatGWDelikMx.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/pyzVtbPzfIKHVUIP.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/POqMUGCCAbNJvzvL.png"
         }
       ],
-      "name": "Asperiores quis.",
+      "name": "Eveniet dolorum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "34.7",
+              "amount": 86.45,
               "currency": "CHF"
             },
             "net": {
-              "amount": "34.7",
+              "amount": 83.75,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.8,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.95,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "34.7",
+              "amount": 86.45,
               "currency": "CHF"
             },
             "net": {
-              "amount": "34.7",
+              "amount": 83.75,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.8,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.95,
               "currency": "CHF"
             }
           }
@@ -68,54 +88,102 @@
       },
       "producer": {
         "address": {
-          "city": "Paschoud-sur-Carron",
+          "city": "Martin-Dessus",
           "country": "CH",
-          "postalCode": "4918",
-          "streetAddress1": "boulevard Bernasconi"
+          "postalCode": "2593",
+          "streetAddress1": "avenue Niquille 218"
         },
-        "description": "Molestiae sed ex minima. Saepe quod reiciendis optio iusto aperiam facere.",
-        "firstName": "Kevin",
-        "id": "VXNlcjoxMjY=",
-        "lastName": "Maire"
+        "description": "Exercitationem modi omnis numquam a vitae facilis. Blanditiis officiis quae dolore sed expedita. Sit ipsam amet rerum excepturi laborum.\nIncidunt odio magnam ab. Eum illum adipisci unde.",
+        "firstName": "Lucie",
+        "id": "VXNlcjoxMDg=",
+        "lastName": "Blanc"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "24.2",
+          "amount": "73.5",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "24.2",
+          "amount": "73.5",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "24.2",
+            "amount": "73.5",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6Mjk3",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzIy",
           "isAvailable": true,
-          "name": "45cm x 45cm",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "34.7",
+                "amount": 4.3,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "34.7",
+                "amount": 4.0,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 4.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.0,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 4.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.0,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 14
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 86.45,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 83.75,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.8,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.95,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 187
         }
       ]
     }

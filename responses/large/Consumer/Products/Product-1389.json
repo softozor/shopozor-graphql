@@ -2,45 +2,69 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au soleil",
-        "until": "2019-11-10"
+        "mode": "dans du papier d'alu",
+        "until": "2020-05-14"
       },
-      "description": "Officiis culpa in in. Maxime sint ut voluptatum sed cumque aliquid.\nBeatae sed et. Aliquam ducimus exercitationem corporis.",
+      "description": "Explicabo voluptates voluptatibus id. Illum ipsam distinctio excepturi libero.\nCum tenetur veritatis voluptatum error debitis. Dolores rem rem architecto suscipit. Asperiores suscipit commodi qui.",
       "id": "UHJvZHVjdDoxMzg5",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/ARSAnFiAEbsvvfdw.png"
+          "url": "/media/products/NhxtfkoorKjFfBja.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/pKQpMQmmejRCevIG.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/HuiTJJSezEUIdYbQ.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/zmMycYwaPBNumXKC.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/xuXVUAtopaknRcNW.png"
         }
       ],
-      "name": "Nisi possimus.",
+      "name": "Eligendi cum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "75.19",
+              "amount": 35.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "75.19",
+              "amount": 34.65,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.75,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.4,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "75.19",
+              "amount": 35.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "75.19",
+              "amount": 34.65,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.75,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.4,
               "currency": "CHF"
             }
           }
@@ -48,54 +72,102 @@
       },
       "producer": {
         "address": {
-          "city": "Dubey-sur-Jomini",
+          "city": "Humbert-Dessous",
           "country": "CH",
-          "postalCode": "2532",
-          "streetAddress1": "chemin de Deshusses 3"
+          "postalCode": "5183",
+          "streetAddress1": "boulevard de Masseron 86"
         },
-        "description": "Facere vel itaque ex voluptatem nesciunt veniam. Sit culpa omnis quasi. Dolore nobis dolore blanditiis adipisci.\nDistinctio eveniet nemo porro. Sed ratione aspernatur architecto recusandae.",
-        "firstName": "Albert",
-        "id": "VXNlcjoxMDky",
-        "lastName": "Bujard"
+        "description": "Occaecati facere a consequatur eveniet molestiae. Maxime molestias iusto consectetur assumenda labore quis. Nulla eos hic sequi.",
+        "firstName": "Noah",
+        "id": "VXNlcjoxMDk1",
+        "lastName": "Grand"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "35.18",
+          "amount": "30.4",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "35.18",
+          "amount": "30.4",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "35.18",
+            "amount": "30.4",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NzQ4NQ==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6NzYyOQ==",
           "isAvailable": true,
-          "name": "1l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "75.19",
+                "amount": 1.8,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "75.19",
+                "amount": 1.65,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.15,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 1.8,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.15,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 1.8,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.15,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 454
+          "name": "1l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 35.75,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 34.65,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.75,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 736
         }
       ]
     }

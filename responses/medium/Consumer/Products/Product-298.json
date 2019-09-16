@@ -2,40 +2,73 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-08-02"
+        "mode": "au soleil",
+        "until": "2020-06-17"
       },
-      "description": "Voluptas amet hic aperiam totam. Sapiente odio necessitatibus quos quisquam. Deserunt eligendi fuga. Fugiat eum laudantium occaecati quas vero quo.",
+      "description": "Perferendis voluptas quisquam ipsum repudiandae omnis. Aliquid vero quos. Quia aliquid fugiat possimus tempora repellendus suscipit.\nVitae distinctio architecto cum officia vel illo.",
       "id": "UHJvZHVjdDoyOTg=",
-      "images": [],
-      "name": "Nesciunt consequatur.",
+      "images": [
+        {
+          "alt": "",
+          "url": "/media/products/pxUDwSZFEpqeKsVH.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/YfQwxTjHrEKxOewD.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/OvzEZUEsRhVpVDWt.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/QpRJPEetgFjjeQPz.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/oHJhXqMkxmYSMgzn.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/sFwiyhrsTmTsNXGb.png"
+        }
+      ],
+      "name": "Reprehenderit repellat harum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "82.39",
+              "amount": 99.3,
               "currency": "CHF"
             },
             "net": {
-              "amount": "82.39",
+              "amount": 96.15,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.05,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.05,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "82.39",
+              "amount": 99.3,
               "currency": "CHF"
             },
             "net": {
-              "amount": "82.39",
+              "amount": 96.15,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.05,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.05,
               "currency": "CHF"
             }
           }
@@ -43,54 +76,102 @@
       },
       "producer": {
         "address": {
-          "city": "Dubey-Dessous",
+          "city": "Deladoëy (GE)",
           "country": "CH",
-          "postalCode": "6334",
-          "streetAddress1": "rue Zoé Chenaux 6"
+          "postalCode": "3565",
+          "streetAddress1": "boulevard Pierre Evéquoz 68"
         },
-        "description": "Mollitia autem perspiciatis ratione error. Necessitatibus perferendis cum asperiores ipsa ratione vel error.",
-        "firstName": "Nolan",
-        "id": "VXNlcjoxMjA=",
-        "lastName": "Delèze"
+        "description": "Dolorem consequatur debitis perferendis aliquid excepturi. Velit deleniti earum aliquam. Consequatur pariatur ducimus aut.",
+        "firstName": "Nicolas",
+        "id": "VXNlcjoxMTI=",
+        "lastName": "Chevalley"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "74.27",
+          "amount": "84.4",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "74.27",
+          "amount": "84.4",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "74.27",
+            "amount": "84.4",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTEyMA==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTE3OQ==",
           "isAvailable": true,
-          "name": "1l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "82.39",
+                "amount": 4.95,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "82.39",
+                "amount": 4.6,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 4.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.6,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 4.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.6,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 74
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 99.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 96.15,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 2.05,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 1.05,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 200
         }
       ]
     }

@@ -2,53 +2,48 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au congélateur",
-        "until": "2020-04-01"
+        "mode": "à la cave",
+        "until": "2020-04-15"
       },
-      "description": "Beatae provident possimus consectetur voluptates vitae. Minima veritatis eos facilis quisquam quibusdam aliquam. Cumque neque maiores necessitatibus possimus.",
+      "description": "Quisquam rerum animi repellendus dolorem dicta. Dolor ipsa dolorem consectetur sint possimus repudiandae.",
       "id": "UHJvZHVjdDoyMTcw",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/EayLmhVVVMKcoSVm.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/fGWJxINzmOtKdIyz.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/SwKbZxkrdFjqYaav.png"
-        }
-      ],
-      "name": "Minima amet.",
+      "images": [],
+      "name": "Officiis eius aperiam.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "21.95",
+              "amount": 37.3,
               "currency": "CHF"
             },
             "net": {
-              "amount": "21.95",
+              "amount": 36.1,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.75,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.4,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "21.95",
+              "amount": 37.3,
               "currency": "CHF"
             },
             "net": {
-              "amount": "21.95",
+              "amount": 36.1,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.75,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.4,
               "currency": "CHF"
             }
           }
@@ -56,54 +51,102 @@
       },
       "producer": {
         "address": {
-          "city": "Berberat am See",
+          "city": "Broquet am Rhein",
           "country": "CH",
-          "postalCode": "4091",
-          "streetAddress1": "avenue Diesbach 52"
+          "postalCode": "9248",
+          "streetAddress1": "chemin Montandon"
         },
-        "description": "Consectetur laboriosam tempora incidunt.\nAlias quaerat incidunt eveniet non accusantium. Est laboriosam velit aut quis.\nMinima necessitatibus quo quia. Nobis asperiores corporis modi autem ducimus.",
-        "firstName": "Suzanne",
-        "id": "VXNlcjoxMDY2",
-        "lastName": "Diesbach"
+        "description": "Tenetur similique nostrum impedit deleniti odit porro.",
+        "firstName": "Mathilde",
+        "id": "VXNlcjoxMDg5",
+        "lastName": "Vienne"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "0.05",
+          "amount": "31.7",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "0.05",
+          "amount": "31.7",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "0.05",
+            "amount": "31.7",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTE4MDg=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTE3NDU=",
           "isAvailable": true,
-          "name": "55cm x 55cm",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "21.95",
+                "amount": 1.85,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "21.95",
+                "amount": 1.75,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.15,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 1.85,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.15,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 1.85,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.15,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 114
+          "name": "1kg",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 37.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 36.1,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.75,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 110
         }
       ]
     }

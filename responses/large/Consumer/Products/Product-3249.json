@@ -2,77 +2,73 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-05-31"
+        "mode": "à la cave",
+        "until": "2020-08-07"
       },
-      "description": "Veritatis distinctio delectus iste modi animi quam officiis. Dolor dicta ab.\nDistinctio officiis quibusdam ipsa veniam. Quis illum totam atque voluptatem et.",
+      "description": "Voluptatibus ex laborum fugiat delectus. Distinctio praesentium quasi totam totam nihil.\nSint deleniti aliquam quidem voluptates. Non atque itaque libero doloremque quo.",
       "id": "UHJvZHVjdDozMjQ5",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/GKviFsAuUjeXfDcL.png"
+          "url": "/media/products/TJIWAgvDgjooiNJN.png"
         },
         {
           "alt": "",
-          "url": "/media/products/NWcbChnQCLszPHos.png"
+          "url": "/media/products/GXdxeCsJEjPrvZrn.png"
         },
         {
           "alt": "",
-          "url": "/media/products/qQIoEDIqCyXtggGt.png"
+          "url": "/media/products/dHvBHEvmameSwxEz.png"
         },
         {
           "alt": "",
-          "url": "/media/products/WQnLjsULKzxiFFqB.png"
+          "url": "/media/products/hFDCSmheIhRHeeuW.png"
         },
         {
           "alt": "",
-          "url": "/media/products/yIvQIYdpUhLNXCFp.png"
+          "url": "/media/products/nUfoEEZjNNMSvEKm.png"
         },
         {
           "alt": "",
-          "url": "/media/products/FVJkpyCIDnNlVTpd.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/oOfsqDrnDPqueXDV.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/TiLPDjsnZxusJhoH.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/rkzwqsaVQBJUZsYG.png"
+          "url": "/media/products/IJjhVmDvFtKzLXdr.png"
         }
       ],
-      "name": "Blanditiis fugit iusto nam.",
+      "name": "Quis unde.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "29.08",
+              "amount": 69.7,
               "currency": "CHF"
             },
             "net": {
-              "amount": "29.08",
+              "amount": 67.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.45,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.75,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "29.08",
+              "amount": 69.7,
               "currency": "CHF"
             },
             "net": {
-              "amount": "29.08",
+              "amount": 67.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.45,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.75,
               "currency": "CHF"
             }
           }
@@ -80,54 +76,102 @@
       },
       "producer": {
         "address": {
-          "city": "Aeby-les-Bains",
+          "city": "Chappuis",
           "country": "CH",
-          "postalCode": "2261",
-          "streetAddress1": "boulevard Marti 756"
+          "postalCode": "1407",
+          "streetAddress1": "chemin Pierre Bourquin"
         },
-        "description": "Nihil itaque debitis praesentium. Doloremque quisquam distinctio. Eum quaerat repellat aspernatur.\nDolorem cum praesentium. Et odit nisi natus ut impedit.",
-        "firstName": "Nathan",
-        "id": "VXNlcjoxMTI0",
-        "lastName": "Polla"
+        "description": "Rerum qui tempora ipsum quia. Alias iste voluptas vel suscipit.\nNihil nostrum nulla dolor accusantium quia. Veritatis porro enim consectetur suscipit. Itaque error veniam deleniti.",
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDcy",
+        "lastName": "Robadey"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "13.52",
+          "amount": "59.25",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "13.52",
+          "amount": "59.25",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "13.52",
+            "amount": "59.25",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTc4MTM=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTc2NzI=",
           "isAvailable": true,
-          "name": "45cm x 45cm",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "29.08",
+                "amount": 3.5,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "29.08",
+                "amount": 3.25,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.5,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.25,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.5,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.25,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 377
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 69.7,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 67.5,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.45,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.75,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 314
         }
       ]
     }

@@ -2,65 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-04-30"
+        "mode": "à température ambiante",
+        "until": "2020-05-27"
       },
-      "description": "Maxime ex magni rem. Dolorum eveniet ratione possimus aut dolore. Optio eius id autem corrupti excepturi sequi.",
+      "description": "Tempora expedita eaque cum culpa odit magni iste. Voluptas corporis vero laborum. Architecto sapiente consequatur.\nA qui distinctio impedit quibusdam ratione illum.",
       "id": "UHJvZHVjdDoxMDkz",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/gfEAbmzqczJOSBFg.png"
+          "url": "/media/products/TPDtynJCtqNbuMwc.png"
         },
         {
           "alt": "",
-          "url": "/media/products/VFlfEXkKwVcIHEan.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/qSCfnKBKhlDonetx.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/RKIPkWCgANnJivbr.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/JMpLpaaYzLWQBnXB.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/jwNMIsvkrWUmrIDz.png"
+          "url": "/media/products/FXEzHKnmipJQnxMX.png"
         }
       ],
-      "name": "Vero vero aperiam.",
+      "name": "Atque iste voluptatem.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "98.56",
+              "amount": 8.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "98.56",
+              "amount": 7.8,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.15,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.1,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "98.56",
+              "amount": 8.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "98.56",
+              "amount": 7.8,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.15,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.1,
               "currency": "CHF"
             }
           }
@@ -68,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Francillon (AG)",
+          "city": "Piccand-sur-Humbert",
           "country": "CH",
-          "postalCode": "6192",
-          "streetAddress1": "chemin Comman"
+          "postalCode": "8266",
+          "streetAddress1": "boulevard Michael Bonvini 651"
         },
-        "description": "Suscipit odit quaerat aspernatur maiores. Qui perspiciatis molestiae nobis quas veniam quam.\nCum praesentium assumenda animi rem. Delectus aperiam a deleniti ipsam.",
-        "firstName": "Laetitia",
-        "id": "VXNlcjoxMDY0",
-        "lastName": "Monnet"
+        "description": "Maxime pariatur dolores accusamus. Sit velit nostrum. Asperiores tempore quae ipsum.\nSaepe illo pariatur. Voluptatum aperiam repellat exercitationem. Enim accusantium aut error.",
+        "firstName": "Jessica",
+        "id": "VXNlcjoxMDc5",
+        "lastName": "Sansonnens"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "0.85",
+          "amount": "6.85",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "0.85",
+          "amount": "6.85",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "0.85",
+            "amount": "6.85",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NTkyNQ==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjA0OQ==",
           "isAvailable": true,
-          "name": "5l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "98.56",
+                "amount": 0.4,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "98.56",
+                "amount": 0.35,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.35,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.35,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 5
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 8.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 7.8,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.15,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 146
         }
       ]
     }

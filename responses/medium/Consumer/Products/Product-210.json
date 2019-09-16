@@ -2,73 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au congélateur",
-        "until": "2020-09-04"
+        "mode": "au soleil",
+        "until": "2020-01-18"
       },
-      "description": "Deserunt nam debitis fugit illo ut. Odit iure distinctio repellat est. Tempora eum occaecati doloribus ducimus.",
+      "description": "Quos quod minima laudantium distinctio ratione. Incidunt unde delectus unde illum.\nSimilique praesentium quaerat nesciunt minima laboriosam.",
       "id": "UHJvZHVjdDoyMTA=",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/RhchMPCODttClfuO.png"
+          "url": "/media/products/jyjYYZZUTxLyBuBT.png"
         },
         {
           "alt": "",
-          "url": "/media/products/kFmyXsLIbkEVynzo.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/RHROGQBysJCEqfUw.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/LPCuACjkxPnhmiZx.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/EMGyqxHbrmWiPsid.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/JWTSybiYFAVhmGwl.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/SapGWRXUpTYaFxhG.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/ncpldCpVUloxADEu.png"
+          "url": "/media/products/DgAAcjHZUZDjFfdq.png"
         }
       ],
-      "name": "Suscipit quis dicta enim.",
+      "name": "Doloribus odio at.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "64.01",
+              "amount": 106.8,
               "currency": "CHF"
             },
             "net": {
-              "amount": "64.01",
+              "amount": 103.45,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.15,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "64.01",
+              "amount": 106.8,
               "currency": "CHF"
             },
             "net": {
-              "amount": "64.01",
+              "amount": 103.45,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.15,
               "currency": "CHF"
             }
           }
@@ -76,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Menthonnex am Albis",
+          "city": "Cornuz-sur-Cornut",
           "country": "CH",
-          "postalCode": "4012",
-          "streetAddress1": "boulevard de Müller 89"
+          "postalCode": "1373",
+          "streetAddress1": "rue Sandra Brandt 73"
         },
-        "description": "Cumque odio consequatur deleniti qui. Hic dolores pariatur cumque dolores vel consequatur. Delectus earum perspiciatis neque itaque tenetur ipsa.",
-        "firstName": "Marianne",
-        "id": "VXNlcjoxMTU=",
-        "lastName": "Curdy"
+        "description": "Voluptate dolorem tempore neque itaque. Aliquam error hic.\nDucimus ad reprehenderit perferendis iure dolore at. Neque reiciendis laudantium nulla.\nPraesentium similique accusamus facilis.",
+        "firstName": "Romain",
+        "id": "VXNlcjoxMTE=",
+        "lastName": "Badel"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "55.86",
+          "amount": "90.8",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "55.86",
+          "amount": "90.8",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "55.86",
+            "amount": "90.8",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NzY5",
+          "id": "UHJvZHVjdFZhcmlhbnQ6ODI0",
           "isAvailable": true,
-          "name": "5l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "64.01",
+                "amount": 5.35,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "64.01",
+                "amount": 4.95,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 5.35,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 5.35,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.4,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 47
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 106.8,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 103.45,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 2.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 1.15,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 11
         }
       ]
     }

@@ -2,57 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à température ambiante",
-        "until": "2020-08-11"
+        "mode": "au congélateur",
+        "until": "2020-03-17"
       },
-      "description": "Voluptates consequuntur sit adipisci tempora dolore molestias. Laudantium et odio perferendis placeat ratione ullam.\nOfficiis sit eius fuga expedita omnis aut. Laborum ipsum sunt officiis ipsam ea.",
+      "description": "Accusamus illum cumque voluptates consequuntur sit adipisci tempora. At asperiores laudantium et odio. Placeat ratione ullam voluptatum.",
       "id": "UHJvZHVjdDozNw==",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/daobBfYPYDDOZbIU.png"
+          "url": "/media/products/oyHBcXjEvlzIualY.png"
         },
         {
           "alt": "",
-          "url": "/media/products/ntTScHVhoQoPpNqo.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/bumWpYtVDRGlcqCT.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/bOPHpHcQVbERdxkz.png"
+          "url": "/media/products/ylEXtUdWuufEynqJ.png"
         }
       ],
-      "name": "Temporibus nostrum minima.",
+      "name": "Dolor fuga.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "16.12",
+              "amount": 58.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "16.12",
+              "amount": 56.25,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.6,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "16.12",
+              "amount": 58.05,
               "currency": "CHF"
             },
             "net": {
-              "amount": "16.12",
+              "amount": 56.25,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.6,
               "currency": "CHF"
             }
           }
@@ -60,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Paschoud-sur-Carron",
+          "city": "Cornuz-sur-Cornut",
           "country": "CH",
-          "postalCode": "4918",
-          "streetAddress1": "boulevard Bernasconi"
+          "postalCode": "1373",
+          "streetAddress1": "rue Sandra Brandt 73"
         },
-        "description": "Molestiae sed ex minima. Saepe quod reiciendis optio iusto aperiam facere.",
-        "firstName": "Kevin",
-        "id": "VXNlcjoxMjY=",
-        "lastName": "Maire"
+        "description": "Voluptate dolorem tempore neque itaque. Aliquam error hic.\nDucimus ad reprehenderit perferendis iure dolore at. Neque reiciendis laudantium nulla.\nPraesentium similique accusamus facilis.",
+        "firstName": "Romain",
+        "id": "VXNlcjoxMTE=",
+        "lastName": "Badel"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "1.66",
+          "amount": "49.35",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "1.66",
+          "amount": "49.35",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "1.66",
+            "amount": "49.35",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTM5",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTMz",
           "isAvailable": true,
-          "name": "500g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "16.12",
+                "amount": 2.9,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "16.12",
+                "amount": 2.7,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 2.9,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 2.9,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 724
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 58.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 56.25,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.6,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 11
         }
       ]
     }

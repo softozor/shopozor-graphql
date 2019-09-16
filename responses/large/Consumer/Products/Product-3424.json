@@ -2,57 +2,69 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à la cave",
-        "until": "2020-05-16"
+        "mode": "à température ambiante",
+        "until": "2020-03-16"
       },
-      "description": "Harum temporibus aperiam. Odit dolor laborum voluptates nisi.",
+      "description": "Mollitia necessitatibus accusamus ea labore quas perferendis. Facere vitae veniam maxime incidunt.",
       "id": "UHJvZHVjdDozNDI0",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/RrezvkordaazZbzg.png"
+          "url": "/media/products/dYbvynoSzomNiwoY.png"
         },
         {
           "alt": "",
-          "url": "/media/products/GGGcLvBCkiEqSsNI.png"
+          "url": "/media/products/KbKcKPLClruBwXev.png"
         },
         {
           "alt": "",
-          "url": "/media/products/haCqnIoOfzwWTHLM.png"
+          "url": "/media/products/HETjhsPcUeZueNGc.png"
         },
         {
           "alt": "",
-          "url": "/media/products/kgyfMLSpoZhTbNyn.png"
+          "url": "/media/products/nBYAyEXNcuLBRqcX.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/dzljsQVyYdqVPnwU.png"
         }
       ],
-      "name": "Fugit vero fuga.",
+      "name": "Adipisci ut rem.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "67.02",
+              "amount": 0.0,
               "currency": "CHF"
             },
             "net": {
-              "amount": "67.02",
+              "amount": 0.0,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.0,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.0,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "67.02",
+              "amount": 0.0,
               "currency": "CHF"
             },
             "net": {
-              "amount": "67.02",
+              "amount": 0.0,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.0,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.0,
               "currency": "CHF"
             }
           }
@@ -60,54 +72,102 @@
       },
       "producer": {
         "address": {
-          "city": "OberMayor",
+          "city": "Francillon-sur-Comment",
           "country": "CH",
-          "postalCode": "9665",
-          "streetAddress1": "chemin Valérie Cosandey 32"
+          "postalCode": "9123",
+          "streetAddress1": "rue Gilbert Nusslé 57"
         },
-        "description": "Quasi provident praesentium. Iste ab voluptate sit.\nVel quaerat ex ratione provident labore sunt. Odio ut beatae magnam excepturi maiores.",
-        "firstName": "Corinne",
-        "id": "VXNlcjoxMTQy",
-        "lastName": "Pachoud"
+        "description": "Iusto dicta sit facilis quam similique. Iure autem facere amet cum. Doloribus provident quia eligendi.",
+        "firstName": "Théo",
+        "id": "VXNlcjoxMDkx",
+        "lastName": "Berberat"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "1.83",
+          "amount": "0.0",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "1.83",
+          "amount": "0.0",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "1.83",
+            "amount": "0.0",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTg3Nzg=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg2NjY=",
           "isAvailable": true,
-          "name": "100g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "67.02",
+                "amount": 0.0,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "67.02",
+                "amount": 0.0,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.0,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 151
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.0,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 39
         }
       ]
     }

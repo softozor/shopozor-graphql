@@ -2,81 +2,89 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au soleil",
-        "until": "2019-09-14"
+        "mode": "à la cave",
+        "until": "2020-06-05"
       },
-      "description": "Occaecati rerum incidunt. Quisquam itaque distinctio perspiciatis quam.",
+      "description": "Esse recusandae unde itaque nesciunt nostrum. Repellendus provident repudiandae molestias. Pariatur est id odit animi necessitatibus rem.",
       "id": "UHJvZHVjdDozNDQ4",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/ahAQtoMHfyVjhBsL.png"
+          "url": "/media/products/WHIpDxZdkfKCDQel.png"
         },
         {
           "alt": "",
-          "url": "/media/products/HIPbskEgItbysJWc.png"
+          "url": "/media/products/tuPyjeNWXAvYFGev.png"
         },
         {
           "alt": "",
-          "url": "/media/products/ePlOGWEMWMHVniyN.png"
+          "url": "/media/products/NDwoQkqxxoLBRppy.png"
         },
         {
           "alt": "",
-          "url": "/media/products/XKUZnvBqYbPqcCcJ.png"
+          "url": "/media/products/RaeBwjuNXBDItrXr.png"
         },
         {
           "alt": "",
-          "url": "/media/products/kOIoDHCXTqSUJPqK.png"
+          "url": "/media/products/OWryLAkSZWpQomAN.png"
         },
         {
           "alt": "",
-          "url": "/media/products/GzWJVCmtdOiRdAXM.png"
+          "url": "/media/products/HOvqSEYhcRehfRHY.png"
         },
         {
           "alt": "",
-          "url": "/media/products/fAzYVEOIVepNVBuB.png"
+          "url": "/media/products/sBWNHlilDhxPIJFl.png"
         },
         {
           "alt": "",
-          "url": "/media/products/rtsSDGhLghJpuIEC.png"
+          "url": "/media/products/wCHedYHYoHECoLoq.png"
         },
         {
           "alt": "",
-          "url": "/media/products/qqtxeBxeVZnPWfFO.png"
+          "url": "/media/products/bxbUvCPVPkssVCKw.png"
         },
         {
           "alt": "",
-          "url": "/media/products/rOyQFEVjNQfuoNVA.png"
+          "url": "/media/products/TxFdFTiAGxeTOfSl.png"
         }
       ],
-      "name": "Aut.",
+      "name": "Labore officiis.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "76.15",
+              "amount": 6.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "76.15",
+              "amount": 6.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.15,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.05,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "76.15",
+              "amount": 6.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "76.15",
+              "amount": 6.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.15,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.05,
               "currency": "CHF"
             }
           }
@@ -84,54 +92,102 @@
       },
       "producer": {
         "address": {
-          "city": "Dubey-près-Corboz",
+          "city": "Jacot-Descombes-Dessus",
           "country": "CH",
-          "postalCode": "8449",
-          "streetAddress1": "rue Monnard"
+          "postalCode": "7683",
+          "streetAddress1": "avenue Christine Bernasconi 8"
         },
-        "description": "Minus velit distinctio culpa nulla eaque esse. Iusto quos possimus corrupti ab ipsum reprehenderit. Sequi blanditiis sed explicabo aliquam. Minus eveniet perspiciatis dolorum.",
-        "firstName": "Paul",
-        "id": "VXNlcjoxMDE3",
-        "lastName": "Vallélian"
+        "description": "Nulla mollitia nostrum. Culpa nobis ratione mollitia. Enim adipisci officiis distinctio facilis nesciunt nisi.",
+        "firstName": "Alexandre",
+        "id": "VXNlcjoxMTE4",
+        "lastName": "Godet"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "60.73",
+          "amount": "5.45",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "60.73",
+          "amount": "5.45",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "60.73",
+            "amount": "5.45",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MTU=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg3OTQ=",
           "isAvailable": true,
-          "name": "55cm x 55cm",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "76.15",
+                "amount": 0.3,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "76.15",
+                "amount": 0.3,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.3,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.3,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.0,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 733
+          "name": "200g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 6.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 6.2,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.15,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 56
         }
       ]
     }

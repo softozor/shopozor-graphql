@@ -2,45 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2019-09-13"
+        "mode": "au frigo",
+        "until": "2020-04-10"
       },
-      "description": "Debitis illo accusantium hic earum nihil. Hic nam architecto eligendi quae velit ratione.\nMaiores ipsa nihil repellendus odit corporis ut asperiores. Facere odio consectetur iusto.",
+      "description": "Iure voluptas laudantium impedit voluptatum. Odio quasi sit vel iure veniam.\nArchitecto quasi libero. Accusamus porro provident excepturi repellendus earum reprehenderit praesentium.",
       "id": "UHJvZHVjdDoyNjEz",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/FPVyxVzkXriKKuEK.png"
+          "url": "/media/products/CnNrXOzafOIUsWHX.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/qRdmnnzlCwIYNpxL.png"
         }
       ],
-      "name": "Accusantium alias.",
+      "name": "Reiciendis sunt.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "24.43",
+              "amount": 4.35,
               "currency": "CHF"
             },
             "net": {
-              "amount": "24.43",
+              "amount": 4.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.05,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "24.43",
+              "amount": 4.35,
               "currency": "CHF"
             },
             "net": {
-              "amount": "24.43",
+              "amount": 4.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.05,
               "currency": "CHF"
             }
           }
@@ -48,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Aeby-les-Bains",
+          "city": "Muriset",
           "country": "CH",
-          "postalCode": "2261",
-          "streetAddress1": "boulevard Marti 756"
+          "postalCode": "7143",
+          "streetAddress1": "boulevard Masseron 5"
         },
-        "description": "Nihil itaque debitis praesentium. Doloremque quisquam distinctio. Eum quaerat repellat aspernatur.\nDolorem cum praesentium. Et odit nisi natus ut impedit.",
-        "firstName": "Nathan",
-        "id": "VXNlcjoxMTI0",
-        "lastName": "Polla"
+        "description": "Optio eius sit odit provident. Asperiores quis earum ipsa placeat blanditiis cumque assumenda. Necessitatibus at atque magni.\nTotam quisquam officiis ex. Nobis modi ut distinctio repellendus.",
+        "firstName": "Claudine",
+        "id": "VXNlcjoxMDM2",
+        "lastName": "Bourquard"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "10.2",
+          "amount": "3.7",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "10.2",
+          "amount": "3.7",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "10.2",
+            "amount": "3.7",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTQzMjI=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQyMDQ=",
           "isAvailable": true,
-          "name": "250g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "24.43",
+                "amount": 0.2,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "24.43",
+                "amount": 0.2,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.0,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.0,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 429
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 4.35,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.2,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.1,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 102
         }
       ]
     }

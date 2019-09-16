@@ -2,57 +2,73 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "dans du papier d'alu",
-        "until": "2020-08-19"
+        "mode": "à la cave",
+        "until": "2020-01-04"
       },
-      "description": "Dolore soluta eum consequuntur optio nobis odit. Inventore animi iste sit animi consequatur at. Nostrum ad nobis reprehenderit quae.",
+      "description": "Voluptate assumenda doloremque corrupti. Debitis placeat maiores. Iste eaque eius ab doloribus veniam deserunt tempora.",
       "id": "UHJvZHVjdDozNjM2",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/wwFZeWQRkiyqZXpk.png"
+          "url": "/media/products/DmkBpzcNsmAKrsYF.png"
         },
         {
           "alt": "",
-          "url": "/media/products/SdpghsLgupgBPDUH.png"
+          "url": "/media/products/kvscAFMANAijdPhK.png"
         },
         {
           "alt": "",
-          "url": "/media/products/KVmdOHPRZWnwHswL.png"
+          "url": "/media/products/VdwSkGEPWiNmulWT.png"
         },
         {
           "alt": "",
-          "url": "/media/products/vYDBzVaDmEjDwUdt.png"
+          "url": "/media/products/xovfOYJowIxNMDVR.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/BmPcJEXfhMdYMrlg.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/oGihQpNJZQyGGstz.png"
         }
       ],
-      "name": "Esse cum tempora placeat.",
+      "name": "Maiores soluta.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "59.88",
+              "amount": 73.45,
               "currency": "CHF"
             },
             "net": {
-              "amount": "59.88",
+              "amount": 71.15,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.5,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.8,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "59.88",
+              "amount": 73.45,
               "currency": "CHF"
             },
             "net": {
-              "amount": "59.88",
+              "amount": 71.15,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.5,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.8,
               "currency": "CHF"
             }
           }
@@ -60,54 +76,102 @@
       },
       "producer": {
         "address": {
-          "city": "Sainte Aebi",
+          "city": "Uldry-des-Bois",
           "country": "CH",
-          "postalCode": "6585",
-          "streetAddress1": "rue Chapuis 63"
+          "postalCode": "2265",
+          "streetAddress1": "rue Jacot-Descombes"
         },
-        "description": "Asperiores a odit eligendi eveniet impedit. Suscipit provident aperiam tempore rerum eveniet odio. Esse vitae placeat quod.",
-        "firstName": "André",
-        "id": "VXNlcjoxMTIz",
-        "lastName": "Musy"
+        "description": "Harum eligendi facilis voluptates nobis. Corrupti perspiciatis doloremque consequuntur.",
+        "firstName": "Alicia",
+        "id": "VXNlcjoxMTQ2",
+        "lastName": "Bovet"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "0.4",
+          "amount": "62.45",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "0.4",
+          "amount": "62.45",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "0.4",
+            "amount": "62.45",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjAwMTY=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTk4Njg=",
           "isAvailable": true,
-          "name": "M",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "59.88",
+                "amount": 3.65,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "59.88",
+                "amount": 3.4,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.65,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.4,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.65,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.4,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 279
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 73.45,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 71.15,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.5,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.8,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 354
         }
       ]
     }

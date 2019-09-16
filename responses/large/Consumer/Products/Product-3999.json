@@ -2,77 +2,77 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à température ambiante",
-        "until": "2020-04-24"
+        "mode": "dans du papier d'alu",
+        "until": "2019-12-06"
       },
-      "description": "Dolores harum maxime velit. Est beatae quam optio esse quaerat. Architecto minima eum adipisci. Beatae qui eligendi itaque.\nFugiat tempore illum iste nam. Animi laborum repellendus nam nihil.",
+      "description": "Quibusdam distinctio sed quo quia. Deleniti et accusamus qui. Asperiores fugiat natus repellat dicta.\nAssumenda a magnam praesentium voluptates esse. Eaque quaerat quisquam dolorem alias et ea.",
       "id": "UHJvZHVjdDozOTk5",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/SurEzQnPFxGxoKDU.png"
+          "url": "/media/products/OLnxsBOAHYLmGcKI.png"
         },
         {
           "alt": "",
-          "url": "/media/products/ZOMgdoAvoLmqHzyz.png"
+          "url": "/media/products/kqfOtzABscgtnRXH.png"
         },
         {
           "alt": "",
-          "url": "/media/products/yMpGBbcrBRHPYZxY.png"
+          "url": "/media/products/mIUtwidCtmYQLGzk.png"
         },
         {
           "alt": "",
-          "url": "/media/products/DjPLxEJgnVDpYivh.png"
+          "url": "/media/products/bhpEWxDregBTAawe.png"
         },
         {
           "alt": "",
-          "url": "/media/products/yVTskkTsnUFXTEsg.png"
+          "url": "/media/products/lWJEjRhDKJlssIJh.png"
         },
         {
           "alt": "",
-          "url": "/media/products/ixALILjQheVVGbml.png"
+          "url": "/media/products/JTLPMRUmYPoolqMO.png"
         },
         {
           "alt": "",
-          "url": "/media/products/UJokfWTIhsmnynOg.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/pqvqnaGBBjptNOYE.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/eoTHLlyUYXXjrDbc.png"
+          "url": "/media/products/iaxbSjUfgTvnXRsG.png"
         }
       ],
-      "name": "Odio distinctio eius.",
+      "name": "Sit voluptas impedit.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "67.73",
+              "amount": 8.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "67.73",
+              "amount": 8.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.1,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "67.73",
+              "amount": 8.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "67.73",
+              "amount": 8.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.1,
               "currency": "CHF"
             }
           }
@@ -80,54 +80,102 @@
       },
       "producer": {
         "address": {
-          "city": "Corbat",
+          "city": "Carraud",
           "country": "CH",
-          "postalCode": "3552",
-          "streetAddress1": "avenue de Rosselat 6"
+          "postalCode": "6620",
+          "streetAddress1": "rue Mathilde Bochud 13"
         },
-        "description": "Qui occaecati eligendi nihil quaerat. Similique perferendis harum aliquam veritatis explicabo.\nVel ad sequi at ducimus veniam. Beatae tempora itaque unde in debitis voluptate.",
-        "firstName": "Christian",
-        "id": "VXNlcjoxMDIw",
-        "lastName": "Maire"
+        "description": "Recusandae optio sint doloribus nihil ducimus aliquid.\nAliquid id cum illo ad. Illo doloribus adipisci veritatis commodi fugiat.",
+        "firstName": "Maxime",
+        "id": "VXNlcjoxMDM1",
+        "lastName": "Beuchat"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "37.34",
+          "amount": "7.45",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "37.34",
+          "amount": "7.45",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "37.34",
+            "amount": "7.45",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjIwMzE=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjE4NTU=",
           "isAvailable": true,
-          "name": "5l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "67.73",
+                "amount": 0.45,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "67.73",
+                "amount": 0.4,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.45,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.45,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 561
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 8.75,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 8.5,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 104
         }
       ]
     }

@@ -2,77 +2,77 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-07-15"
+        "mode": "dans du papier d'alu",
+        "until": "2019-12-23"
       },
-      "description": "Debitis amet fugit. Beatae nobis quisquam laboriosam. Odio molestiae error laboriosam hic possimus.",
+      "description": "Pariatur unde voluptatem. Modi eligendi laboriosam perferendis.\nCommodi tempora hic necessitatibus. Aspernatur fugit perferendis dignissimos qui ipsum ut. Illum praesentium laborum tempore voluptas.",
       "id": "UHJvZHVjdDoyNjg5",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/yUrAlgkbSJeEZpHn.png"
+          "url": "/media/products/NIrueOhhJVqPCkbg.png"
         },
         {
           "alt": "",
-          "url": "/media/products/uEBRnGeIgcFiAJuT.png"
+          "url": "/media/products/yPrJndxWEZLUKxBF.png"
         },
         {
           "alt": "",
-          "url": "/media/products/HhyoQlfVZkFiKmve.png"
+          "url": "/media/products/EEunsYNADycYzhED.png"
         },
         {
           "alt": "",
-          "url": "/media/products/lUVAOixGtmYRXNWq.png"
+          "url": "/media/products/oaNkpCZfYvYSJqmt.png"
         },
         {
           "alt": "",
-          "url": "/media/products/XiQPEnqtuyMPPjON.png"
+          "url": "/media/products/mFrPzwaSjaNiXwAn.png"
         },
         {
           "alt": "",
-          "url": "/media/products/naCrrGWJeTOMqAcW.png"
+          "url": "/media/products/rjoCiVkRcjWMIclo.png"
         },
         {
           "alt": "",
-          "url": "/media/products/QOjXKUSTKPFVFdtw.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/BBzEWLhvyHCFaxAU.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/HmfZoEDSfgnbDMQz.png"
+          "url": "/media/products/zCkwfDSNZyYnMcdb.png"
         }
       ],
-      "name": "Cupiditate praesentium reprehenderit.",
+      "name": "Voluptates vitae accusantium.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "76.09",
+              "amount": 20.55,
               "currency": "CHF"
             },
             "net": {
-              "amount": "76.09",
+              "amount": 19.9,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.45,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.2,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "76.09",
+              "amount": 20.55,
               "currency": "CHF"
             },
             "net": {
-              "amount": "76.09",
+              "amount": 19.9,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.45,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.2,
               "currency": "CHF"
             }
           }
@@ -80,54 +80,102 @@
       },
       "producer": {
         "address": {
-          "city": "Vonlanthen",
+          "city": "Chappuis",
           "country": "CH",
-          "postalCode": "3728",
-          "streetAddress1": "avenue Crivelli 31"
+          "postalCode": "1407",
+          "streetAddress1": "chemin Pierre Bourquin"
         },
-        "description": "Porro hic quo quas beatae. Doloribus natus tenetur occaecati voluptas.\nDignissimos sunt hic culpa labore. Nemo molestiae quidem ipsa ratione.",
-        "firstName": "Zoé",
-        "id": "VXNlcjoxMDYy",
-        "lastName": "Théraulaz"
+        "description": "Rerum qui tempora ipsum quia. Alias iste voluptas vel suscipit.\nNihil nostrum nulla dolor accusantium quia. Veritatis porro enim consectetur suscipit. Itaque error veniam deleniti.",
+        "firstName": "Nicole",
+        "id": "VXNlcjoxMDcy",
+        "lastName": "Robadey"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "15.25",
+          "amount": "17.45",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "15.25",
+          "amount": "17.45",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "15.25",
+            "amount": "17.45",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTQ3ODA=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTQ2MDI=",
           "isAvailable": true,
-          "name": "2.5l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "76.09",
+                "amount": 1.05,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "76.09",
+                "amount": 0.95,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 1.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 1.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 17
+          "name": "M",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 20.55,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 19.9,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.45,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 187
         }
       ]
     }

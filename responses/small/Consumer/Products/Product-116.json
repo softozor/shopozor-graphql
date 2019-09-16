@@ -2,49 +2,81 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à température ambiante",
-        "until": "2020-01-07"
+        "mode": "au frigo",
+        "until": "2020-02-06"
       },
-      "description": "Esse quasi numquam rem veritatis culpa eligendi. Placeat sed inventore vitae eaque. Unde ullam sunt.\nDeserunt doloribus eligendi veritatis vel. Ad ipsum a exercitationem aperiam.",
+      "description": "Est quas doloribus hic eius aut necessitatibus quos. Consectetur quaerat voluptate harum. Exercitationem repudiandae quo eligendi mollitia.",
       "id": "UHJvZHVjdDoxMTY=",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/vLihVHQiLBzzRRmq.png"
+          "url": "/media/products/MTQQOqPUHyQEpJFU.png"
         },
         {
           "alt": "",
-          "url": "/media/products/zZSqgjOWHVSrWalx.png"
+          "url": "/media/products/RjKnrIedxGryakqH.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/bQxEcijRGCCfSUPZ.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/tgdzfCQmZLLtmDgt.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/UeZUtXjuHTCSrnne.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/ZYkLiffpopAYJoHP.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/AXCsSNgNjbwERUWZ.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/FgnnxJyuqMNQRUPv.png"
         }
       ],
-      "name": "Veritatis quisquam ad.",
+      "name": "Inventore fugiat ipsum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "65.21",
+              "amount": 84.95,
               "currency": "CHF"
             },
             "net": {
-              "amount": "65.21",
+              "amount": 82.25,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.75,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.9,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "65.21",
+              "amount": 84.95,
               "currency": "CHF"
             },
             "net": {
-              "amount": "65.21",
+              "amount": 82.25,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.75,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.9,
               "currency": "CHF"
             }
           }
@@ -52,54 +84,102 @@
       },
       "producer": {
         "address": {
-          "city": "Wicht",
+          "city": "Crivelli an der Aare",
           "country": "CH",
-          "postalCode": "7489",
-          "streetAddress1": "rue Eric Besençon 75"
+          "postalCode": "5829",
+          "streetAddress1": "rue Joly 27"
         },
-        "description": "Esse tempora sint distinctio fugiat. Quae sapiente dolorem ea.\nPorro repellat cum perferendis. Eos veritatis magni aliquam dolor reprehenderit possimus. Similique debitis reprehenderit delectus.",
-        "firstName": "Hugo",
-        "id": "VXNlcjo2NA==",
-        "lastName": "Courvoisier"
+        "description": "Recusandae non quas. Ea vel atque voluptates amet a.\nExcepturi saepe harum ad tenetur facilis. Culpa occaecati harum dicta rerum fuga eaque. Fuga iusto culpa harum.",
+        "firstName": "Thérèse",
+        "id": "VXNlcjo1Mg==",
+        "lastName": "Wicht"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "39.36",
+          "amount": "72.2",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "39.36",
+          "amount": "72.2",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "39.36",
+            "amount": "72.2",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MzMz",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzYy",
           "isAvailable": true,
-          "name": "1l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "65.21",
+                "amount": 4.25,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "65.21",
+                "amount": 3.95,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 4.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 4.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 239
+          "name": "S",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 84.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 82.25,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.75,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.9,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 183
         }
       ]
     }

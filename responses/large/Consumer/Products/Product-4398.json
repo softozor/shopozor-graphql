@@ -2,53 +2,69 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "dans du papier d'alu",
-        "until": "2020-07-11"
+        "mode": "à l'abri de la lumière",
+        "until": "2020-08-04"
       },
-      "description": "Architecto quasi veniam deleniti consectetur veritatis. Pariatur voluptate explicabo incidunt ipsa harum doloribus quo.\nLaudantium totam corrupti ducimus nostrum.",
+      "description": "Odio laborum atque eveniet blanditiis ipsum nisi. Dolor occaecati consequuntur molestias quasi. Porro quae beatae praesentium repudiandae deleniti.",
       "id": "UHJvZHVjdDo0Mzk4",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/VxmoxgYXsAgwWjSJ.png"
+          "url": "/media/products/GDzlJAvreGreDOSn.png"
         },
         {
           "alt": "",
-          "url": "/media/products/DiivlNFdoJsRfxLE.png"
+          "url": "/media/products/HmonqVrMeKlIbSmI.png"
         },
         {
           "alt": "",
-          "url": "/media/products/KRuQMlaRMtBFNlLV.png"
+          "url": "/media/products/lVWmDCXWaMNyqAGB.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/OwkUOnyzACWMakAz.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/uiLHZwEenxkEbBuz.png"
         }
       ],
-      "name": "Fugit consequuntur.",
+      "name": "Eum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "6.55",
+              "amount": 105.8,
               "currency": "CHF"
             },
             "net": {
-              "amount": "6.55",
+              "amount": 102.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.15,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "6.55",
+              "amount": 105.8,
               "currency": "CHF"
             },
             "net": {
-              "amount": "6.55",
+              "amount": 102.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.15,
               "currency": "CHF"
             }
           }
@@ -56,54 +72,102 @@
       },
       "producer": {
         "address": {
-          "city": "Beguin-près-Piccand",
+          "city": "Treboux-des-Bois",
           "country": "CH",
-          "postalCode": "3902",
-          "streetAddress1": "chemin Claude Crivelli 79"
+          "postalCode": "5625",
+          "streetAddress1": "rue Yvette Courvoisier 81"
         },
-        "description": "Et eos accusantium alias. Ipsa aperiam dolores molestiae voluptates expedita ea. Mollitia autem nam reiciendis quis.",
-        "firstName": "Clara",
-        "id": "VXNlcjoxMDIy",
-        "lastName": "Aebi"
+        "description": "Quas eligendi repellendus aut qui rerum. Qui dicta similique maiores quam cupiditate. Commodi explicabo modi porro laudantium voluptatibus corrupti.",
+        "firstName": "Nolan",
+        "id": "VXNlcjoxMDAz",
+        "lastName": "Grojean"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "4.85",
+          "amount": "89.95",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "4.85",
+          "amount": "89.95",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "4.85",
+            "amount": "89.95",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjQxNzg=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjQxMDg=",
           "isAvailable": true,
-          "name": "250g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "6.55",
+                "amount": 5.3,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "6.55",
+                "amount": 4.9,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 5.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.9,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 5.3,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.9,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.4,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 171
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 105.8,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 102.5,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 2.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 1.15,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 9
         }
       ]
     }

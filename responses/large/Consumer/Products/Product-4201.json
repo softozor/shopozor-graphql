@@ -2,40 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au frigo",
-        "until": "2020-07-11"
+        "mode": "à la cave",
+        "until": "2020-04-29"
       },
-      "description": "Molestias necessitatibus laudantium ex animi dolores minus. Maiores voluptates consequatur iste et temporibus occaecati. Fugiat ad nisi unde pariatur sequi.",
+      "description": "Illo eligendi officiis voluptates. Sunt nobis voluptatibus laboriosam. Corporis libero at excepturi quam ullam.\nAperiam iusto rem id. Enim beatae amet.",
       "id": "UHJvZHVjdDo0MjAx",
-      "images": [],
-      "name": "Odit eum accusantium.",
+      "images": [
+        {
+          "alt": "",
+          "url": "/media/products/UOHwFOYScbWKIhWm.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/xPRhoYGBCOCfRHHb.png"
+        }
+      ],
+      "name": "Velit.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "92.58",
+              "amount": 24.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "92.58",
+              "amount": 23.65,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.5,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.25,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "92.58",
+              "amount": 24.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "92.58",
+              "amount": 23.65,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.5,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.25,
               "currency": "CHF"
             }
           }
@@ -43,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Joye-des-Bois",
+          "city": "Bouvier (OW)",
           "country": "CH",
-          "postalCode": "9431",
-          "streetAddress1": "boulevard Droz"
+          "postalCode": "6601",
+          "streetAddress1": "avenue de Délèze 52"
         },
-        "description": "Dolorem vero iusto nihil. Nam itaque quis nihil doloribus rerum quo.\nItaque odio eum. Dolorem voluptatum fugit rerum temporibus voluptates eum. Deleniti excepturi explicabo dolorem.",
-        "firstName": "Lisa",
-        "id": "VXNlcjoxMDU3",
-        "lastName": "Bouvier"
+        "description": "Cumque nesciunt reiciendis incidunt commodi ipsum molestiae. Distinctio voluptates ratione nulla necessitatibus perspiciatis exercitationem. Tempora ab sint incidunt eius eius quidem.",
+        "firstName": "Michael",
+        "id": "VXNlcjoxMDQ3",
+        "lastName": "Deshusses"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "28.58",
+          "amount": "20.75",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "28.58",
+          "amount": "20.75",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "28.58",
+            "amount": "20.75",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjMwNDc=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjI5OTE=",
           "isAvailable": true,
-          "name": "S",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "92.58",
+                "amount": 1.2,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "92.58",
+                "amount": 1.15,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 1.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.15,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 1.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 1.15,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.1,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 141
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 24.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 23.65,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.5,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 283
         }
       ]
     }

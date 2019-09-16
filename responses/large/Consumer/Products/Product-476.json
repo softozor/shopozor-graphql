@@ -2,45 +2,73 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au soleil",
-        "until": "2019-09-14"
+        "mode": "à l'abri de la lumière",
+        "until": "2019-11-01"
       },
-      "description": "Maiores pariatur possimus officiis odio voluptatum est sunt. Perferendis unde officia quos officiis natus. Fuga ex alias beatae.\nAsperiores explicabo nihil. Reiciendis praesentium nihil a.",
+      "description": "Soluta ab laborum inventore.\nSint minima similique enim quod sed. Illum aliquam rem vero.\nSed distinctio pariatur ipsa repellat esse. Nam quam exercitationem eveniet quas ducimus.",
       "id": "UHJvZHVjdDo0NzY=",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/MFMLoSIxebeShhhL.png"
+          "url": "/media/products/EYdqIaUwfzcDsGLd.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/bKvbcnAwChqVFMkw.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/TgJZJpSyOBREdcpG.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/dTAUFKagGEFfBkYD.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/QvGIIlHpJTmFzIkK.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/MjQZnQgwxUqpiNTh.png"
         }
       ],
-      "name": "Unde aliquam ipsa.",
+      "name": "Placeat suscipit.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "83.13",
+              "amount": 80.65,
               "currency": "CHF"
             },
             "net": {
-              "amount": "83.13",
+              "amount": 78.1,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.65,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.85,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "83.13",
+              "amount": 80.65,
               "currency": "CHF"
             },
             "net": {
-              "amount": "83.13",
+              "amount": 78.1,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.65,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.85,
               "currency": "CHF"
             }
           }
@@ -48,54 +76,102 @@
       },
       "producer": {
         "address": {
-          "city": "Vonlanthen",
+          "city": "Bouvier (OW)",
           "country": "CH",
-          "postalCode": "1825",
-          "streetAddress1": "boulevard Bruno Chenaux 70"
+          "postalCode": "6601",
+          "streetAddress1": "avenue de Délèze 52"
         },
-        "description": "Iure minus corrupti quas et dignissimos. Dolore provident consectetur nam praesentium inventore repudiandae quod.",
-        "firstName": "Valérie",
-        "id": "VXNlcjoxMDUy",
-        "lastName": "Candaux"
+        "description": "Cumque nesciunt reiciendis incidunt commodi ipsum molestiae. Distinctio voluptates ratione nulla necessitatibus perspiciatis exercitationem. Tempora ab sint incidunt eius eius quidem.",
+        "firstName": "Michael",
+        "id": "VXNlcjoxMDQ3",
+        "lastName": "Deshusses"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "66.25",
+          "amount": "68.55",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "66.25",
+          "amount": "68.55",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "66.25",
+            "amount": "68.55",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjYxNw==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjY3Mg==",
           "isAvailable": true,
-          "name": "1l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "83.13",
+                "amount": 4.05,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "83.13",
+                "amount": 3.75,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 4.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 4.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 36
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 80.65,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 78.1,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.65,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.85,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 273
         }
       ]
     }

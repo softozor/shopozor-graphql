@@ -2,69 +2,48 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à température ambiante",
-        "until": "2020-08-07"
+        "mode": "à la cave",
+        "until": "2020-01-22"
       },
-      "description": "Aspernatur labore in velit atque voluptates quis. Nihil quis dolor molestias nemo.\nEx quasi non repudiandae laboriosam nostrum quia. Saepe itaque numquam iure nesciunt. Vel eligendi autem sequi.",
+      "description": "Quidem cumque cum non. Magni fugit cupiditate qui occaecati.\nVoluptates illo inventore accusamus iste. Enim perspiciatis architecto accusamus.",
       "id": "UHJvZHVjdDozMzY2",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/IwLDeCUkaomLUAzk.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/IPWzhcqCwJpLyJuI.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/MsGRjjlUdBDCvMjJ.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/lEIyEtrxcDiWbnJs.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/zOBSHZYIMXBjpvOK.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/GKfyJtFwTrsjQEez.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/cekzGSulDyQEbqdm.png"
-        }
-      ],
-      "name": "Tempora maiores dicta.",
+      "images": [],
+      "name": "Ab beatae.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "96.34",
+              "amount": 72.25,
               "currency": "CHF"
             },
             "net": {
-              "amount": "96.34",
+              "amount": 69.95,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.5,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.75,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "96.34",
+              "amount": 72.25,
               "currency": "CHF"
             },
             "net": {
-              "amount": "96.34",
+              "amount": 69.95,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.5,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.75,
               "currency": "CHF"
             }
           }
@@ -72,54 +51,102 @@
       },
       "producer": {
         "address": {
-          "city": "Berberat am See",
+          "city": "OberPaccot",
           "country": "CH",
-          "postalCode": "4091",
-          "streetAddress1": "avenue Diesbach 52"
+          "postalCode": "8186",
+          "streetAddress1": "rue Lucie Morard 4"
         },
-        "description": "Consectetur laboriosam tempora incidunt.\nAlias quaerat incidunt eveniet non accusantium. Est laboriosam velit aut quis.\nMinima necessitatibus quo quia. Nobis asperiores corporis modi autem ducimus.",
-        "firstName": "Suzanne",
-        "id": "VXNlcjoxMDY2",
-        "lastName": "Diesbach"
+        "description": "Rerum nemo inventore minus vitae. Quia eveniet doloremque enim quasi cupiditate.\nOmnis minus velit sed et sunt mollitia ipsam. In vel voluptas porro.",
+        "firstName": "Roger",
+        "id": "VXNlcjoxMDg1",
+        "lastName": "Monney"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "54.43",
+          "amount": "61.4",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "54.43",
+          "amount": "61.4",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "54.43",
+            "amount": "61.4",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTg0NTc=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTgzMTk=",
           "isAvailable": true,
-          "name": "M",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "96.34",
+                "amount": 3.6,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "96.34",
+                "amount": 3.35,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.6,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.35,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.6,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.35,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 596
+          "name": "XS",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 72.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 69.95,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.5,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.75,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 28
         }
       ]
     }

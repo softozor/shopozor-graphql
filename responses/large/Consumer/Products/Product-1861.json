@@ -2,45 +2,48 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au soleil",
-        "until": "2019-09-13"
+        "mode": "à l'abri de la lumière",
+        "until": "2020-07-25"
       },
-      "description": "Maxime quas tempore itaque rerum. Eveniet deleniti dolores quisquam deleniti vero reiciendis.",
+      "description": "Accusamus quasi temporibus quas magnam suscipit. Illo accusantium sed.\nCumque earum repellendus eos minima reiciendis. Totam labore architecto laborum sequi dolores aspernatur harum.",
       "id": "UHJvZHVjdDoxODYx",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/SQFnByqqdaegfYJF.png"
-        }
-      ],
-      "name": "Molestiae eaque.",
+      "images": [],
+      "name": "Enim in.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "75.72",
+              "amount": 57.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "75.72",
+              "amount": 55.95,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.6,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "75.72",
+              "amount": 57.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "75.72",
+              "amount": 55.95,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.6,
               "currency": "CHF"
             }
           }
@@ -48,54 +51,102 @@
       },
       "producer": {
         "address": {
-          "city": "Chatriand",
+          "city": "Aeby-les-Bains",
           "country": "CH",
-          "postalCode": "7003",
-          "streetAddress1": "rue Vincent Rossellat 62"
+          "postalCode": "2261",
+          "streetAddress1": "boulevard Marti 756"
         },
-        "description": "Eos perferendis expedita aliquam consequatur. Ad libero non sit ea omnis ipsum. Deleniti error dignissimos id eaque consequuntur assumenda.",
-        "firstName": "Raymond",
-        "id": "VXNlcjoxMTQ5",
-        "lastName": "Robert"
+        "description": "Excepturi autem molestias ex eaque perspiciatis illo suscipit. Nemo culpa laborum inventore optio modi. Sequi deserunt distinctio iure eos.",
+        "firstName": "Nathan",
+        "id": "VXNlcjoxMTI0",
+        "lastName": "Polla"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "50.42",
+          "amount": "49.1",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "50.42",
+          "amount": "49.1",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "50.42",
+            "amount": "49.1",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTAwNzI=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTAxMTM=",
           "isAvailable": true,
-          "name": "200g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "75.72",
+                "amount": 2.9,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "75.72",
+                "amount": 2.7,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 2.9,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 2.9,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 210
+          "name": "500g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 57.75,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 55.95,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.6,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 455
         }
       ]
     }

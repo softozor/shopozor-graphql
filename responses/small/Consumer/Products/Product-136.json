@@ -2,57 +2,89 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-08-25"
+        "mode": "dans du papier d'alu",
+        "until": "2019-11-10"
       },
-      "description": "Repudiandae quia sapiente excepturi beatae illo aut. Quaerat explicabo est repudiandae. Minima voluptas soluta necessitatibus.",
+      "description": "Ut minima ab nisi aspernatur. Nisi alias molestiae iste. Quaerat accusantium sequi illo nam omnis mollitia.",
       "id": "UHJvZHVjdDoxMzY=",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/EACSNasOFSvzAKRj.png"
+          "url": "/media/products/KpFVfxUHBqdKBwda.png"
         },
         {
           "alt": "",
-          "url": "/media/products/WlAMbdMiRPCIcLKR.png"
+          "url": "/media/products/dAfYFVfPisAYllxM.png"
         },
         {
           "alt": "",
-          "url": "/media/products/AFFRsMrTVMUrlDsj.png"
+          "url": "/media/products/lkJLGkWQmNDCeveY.png"
         },
         {
           "alt": "",
-          "url": "/media/products/AHqVvvkqGonKOylw.png"
+          "url": "/media/products/RRbIyjJmNVClODUl.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/FNAzutITTskAbFpv.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/BSWNtSxjIdcYPkIg.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/yAhqnbmUefnpZRsY.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/HvIhryoeadwCAeZb.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/nAGgcbNuCattFMDx.png"
+        },
+        {
+          "alt": "",
+          "url": "/media/products/HUygSycupmRfmOtz.png"
         }
       ],
-      "name": "Inventore earum.",
+      "name": "Nostrum.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "69.14",
+              "amount": 59.55,
               "currency": "CHF"
             },
             "net": {
-              "amount": "69.14",
+              "amount": 57.65,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.25,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.65,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "69.14",
+              "amount": 59.55,
               "currency": "CHF"
             },
             "net": {
-              "amount": "69.14",
+              "amount": 57.65,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.25,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.65,
               "currency": "CHF"
             }
           }
@@ -60,54 +92,102 @@
       },
       "producer": {
         "address": {
-          "city": "Cretton-près-Paccot",
+          "city": "Blanc-la-Ville",
           "country": "CH",
-          "postalCode": "8776",
-          "streetAddress1": "rue Gillièron 37"
+          "postalCode": "3894",
+          "streetAddress1": "rue Chatriand"
         },
-        "description": "Iusto officia sint sequi nemo nisi illo quae. Laborum quibusdam dolor nihil.",
-        "firstName": "Laura",
-        "id": "VXNlcjo1OA==",
-        "lastName": "Chevrolet"
+        "description": "Quod corporis quia velit enim. Consequuntur ipsa enim.\nEaque occaecati nihil. Saepe nisi dolores et commodi quos doloremque.",
+        "firstName": "Eric",
+        "id": "VXNlcjo2NQ==",
+        "lastName": "Isella"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "28.5",
+          "amount": "50.6",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "28.5",
+          "amount": "50.6",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "28.5",
+            "amount": "50.6",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6Mzk5",
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDEz",
           "isAvailable": true,
-          "name": "250ml",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "69.14",
+                "amount": 3.0,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "69.14",
+                "amount": 2.75,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.75,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 70
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 59.55,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 57.65,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.25,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.65,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 27
         }
       ]
     }

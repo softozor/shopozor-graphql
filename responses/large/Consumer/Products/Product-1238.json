@@ -2,73 +2,57 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à la cave",
-        "until": "2020-03-24"
+        "mode": "à l'abri de la lumière",
+        "until": "2020-07-05"
       },
-      "description": "Quam nihil officiis vitae a quisquam distinctio. Similique inventore fugit consequatur. Sint officia at quae.",
+      "description": "Occaecati beatae vitae expedita. Voluptates iste aliquam dolorem veritatis.\nHic error tempore distinctio enim nulla odio. Harum adipisci rerum nihil vero at blanditiis.",
       "id": "UHJvZHVjdDoxMjM4",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/dQtxfsHfjrdqDDyA.png"
+          "url": "/media/products/tsBEItwajLJelqEe.png"
         },
         {
           "alt": "",
-          "url": "/media/products/KRuBgSvCkLwdwkOz.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/wamYnqjrMDdhlFKb.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/mEddexBhSHmuleGP.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/yKUmhBUaTnOTkSPg.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/XxyZcXZThgMRIAVB.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/XEvVRxJVPvgYbVHn.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/xNFgTJmKnsyhBFSJ.png"
+          "url": "/media/products/WZFJtLTSVuMkjNlg.png"
         }
       ],
-      "name": "Ex provident.",
+      "name": "Eos facilis.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "14.48",
+              "amount": 63.2,
               "currency": "CHF"
             },
             "net": {
-              "amount": "14.48",
+              "amount": 61.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.3,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.7,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "14.48",
+              "amount": 63.2,
               "currency": "CHF"
             },
             "net": {
-              "amount": "14.48",
+              "amount": 61.2,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.3,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.7,
               "currency": "CHF"
             }
           }
@@ -76,54 +60,102 @@
       },
       "producer": {
         "address": {
-          "city": "Cornut",
+          "city": "Aeby-les-Bains",
           "country": "CH",
-          "postalCode": "7376",
-          "streetAddress1": "rue Christian Polla 72"
+          "postalCode": "2261",
+          "streetAddress1": "boulevard Marti 756"
         },
-        "description": "Necessitatibus occaecati tenetur ratione. Commodi qui suscipit libero nostrum tenetur. Reprehenderit consequatur repudiandae aut quas rem cupiditate.",
-        "firstName": "Isabelle",
-        "id": "VXNlcjoxMTA0",
-        "lastName": "Pellet"
+        "description": "Excepturi autem molestias ex eaque perspiciatis illo suscipit. Nemo culpa laborum inventore optio modi. Sequi deserunt distinctio iure eos.",
+        "firstName": "Nathan",
+        "id": "VXNlcjoxMTI0",
+        "lastName": "Polla"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "1.07",
+          "amount": "53.7",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "1.07",
+          "amount": "53.7",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "1.07",
+            "amount": "53.7",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NjYyNw==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6NjgyNA==",
           "isAvailable": true,
-          "name": "1kg",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "14.48",
+                "amount": 3.15,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "14.48",
+                "amount": 2.95,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.15,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.15,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 74
+          "name": "XL",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 63.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 61.2,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.3,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.7,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 45
         }
       ]
     }

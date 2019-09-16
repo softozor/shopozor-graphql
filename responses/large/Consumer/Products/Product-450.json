@@ -2,49 +2,48 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "au congélateur",
-        "until": "2020-07-26"
+        "mode": "à température ambiante",
+        "until": "2019-10-22"
       },
-      "description": "Aut tenetur provident aperiam aperiam quidem. Dolorum commodi perspiciatis voluptatibus consectetur ipsum. In sit pariatur vero labore.\nQuibusdam voluptas labore minus assumenda provident.",
+      "description": "Explicabo quaerat porro eveniet. Dolor reiciendis voluptas similique dicta.\nAssumenda necessitatibus neque repellendus. Nesciunt quidem itaque eligendi accusantium.",
       "id": "UHJvZHVjdDo0NTA=",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/mGcFiUnrSEoZoIUp.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/jURRJtumtGpWmVyl.png"
-        }
-      ],
-      "name": "Modi quae nobis.",
+      "images": [],
+      "name": "Laboriosam non.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "47.08",
+              "amount": 100.6,
               "currency": "CHF"
             },
             "net": {
-              "amount": "47.08",
+              "amount": 97.4,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.1,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "47.08",
+              "amount": 100.6,
               "currency": "CHF"
             },
             "net": {
-              "amount": "47.08",
+              "amount": 97.4,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 2.1,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.1,
               "currency": "CHF"
             }
           }
@@ -52,54 +51,102 @@
       },
       "producer": {
         "address": {
-          "city": "Francillon (AG)",
+          "city": "Besençon-sur-Jacot-Guillarmod",
           "country": "CH",
-          "postalCode": "6192",
-          "streetAddress1": "chemin Comman"
+          "postalCode": "1229",
+          "streetAddress1": "avenue Manon Privet 392"
         },
-        "description": "Suscipit odit quaerat aspernatur maiores. Qui perspiciatis molestiae nobis quas veniam quam.\nCum praesentium assumenda animi rem. Delectus aperiam a deleniti ipsam.",
-        "firstName": "Laetitia",
-        "id": "VXNlcjoxMDY0",
-        "lastName": "Monnet"
+        "description": "Soluta neque sit nesciunt. Doloribus ipsa ipsum sequi eveniet nihil tempora. Excepturi vel culpa.\nEius tenetur velit est ullam facere cum. Repellat accusamus facilis rerum ad incidunt.",
+        "firstName": "Florian",
+        "id": "VXNlcjoxMDMw",
+        "lastName": "Aebi"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "35.67",
+          "amount": "85.5",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "35.67",
+          "amount": "85.5",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "35.67",
+            "amount": "85.5",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjQ2MA==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MjUxNQ==",
           "isAvailable": true,
-          "name": "500ml",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "47.08",
+                "amount": 5.05,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "47.08",
+                "amount": 4.65,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 5.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 5.05,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.65,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.35,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 129
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 100.6,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 97.4,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 2.1,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 1.1,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 241
         }
       ]
     }

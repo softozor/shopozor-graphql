@@ -3,64 +3,64 @@
     "product": {
       "conservation": {
         "mode": "à l'abri de la lumière",
-        "until": "2019-11-25"
+        "until": "2020-05-01"
       },
-      "description": "Ipsum voluptas laborum ab quibusdam.\nVoluptatibus dignissimos fugiat tempore. Est tempore reprehenderit non nemo quia. Minus nobis consequatur voluptate voluptate repudiandae eius.",
+      "description": "Magni eveniet dolores. Numquam delectus dolorem nesciunt perspiciatis ullam. Nam fugiat quam perferendis tempora excepturi necessitatibus.",
       "id": "UHJvZHVjdDozNDc0",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/gStMYwRPQeWVFknL.png"
+          "url": "/media/products/hUGNNRPPUtrUQICc.png"
         },
         {
           "alt": "",
-          "url": "/media/products/GCrFyUSxMoYbXCcc.png"
+          "url": "/media/products/MSeZMFoNLXVhxRAM.png"
         },
         {
           "alt": "",
-          "url": "/media/products/rZONHZluwELqfiBz.png"
+          "url": "/media/products/PewvLadlPSjWBsMO.png"
         },
         {
           "alt": "",
-          "url": "/media/products/ZSPKLLKgHoztUAeG.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/IAxFRTYKCfjLTCAr.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/TBpNiwtjybASjxNP.png"
+          "url": "/media/products/nySYEYGHpevAJyTK.png"
         }
       ],
-      "name": "Pariatur dolores id.",
+      "name": "Quis doloribus necessitatibus.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "19.51",
+              "amount": 7.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "19.51",
+              "amount": 7.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.15,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.1,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "19.51",
+              "amount": 7.75,
               "currency": "CHF"
             },
             "net": {
-              "amount": "19.51",
+              "amount": 7.5,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 0.15,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.1,
               "currency": "CHF"
             }
           }
@@ -68,54 +68,102 @@
       },
       "producer": {
         "address": {
-          "city": "Vonlanthen",
+          "city": "Jacot-Descombes-Dessus",
           "country": "CH",
-          "postalCode": "1825",
-          "streetAddress1": "boulevard Bruno Chenaux 70"
+          "postalCode": "7683",
+          "streetAddress1": "avenue Christine Bernasconi 8"
         },
-        "description": "Iure minus corrupti quas et dignissimos. Dolore provident consectetur nam praesentium inventore repudiandae quod.",
-        "firstName": "Valérie",
-        "id": "VXNlcjoxMDUy",
-        "lastName": "Candaux"
+        "description": "Nulla mollitia nostrum. Culpa nobis ratione mollitia. Enim adipisci officiis distinctio facilis nesciunt nisi.",
+        "firstName": "Alexandre",
+        "id": "VXNlcjoxMTE4",
+        "lastName": "Godet"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "1.69",
+          "amount": "6.6",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "1.69",
+          "amount": "6.6",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "1.69",
+            "amount": "6.6",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTkwNzU=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTg5NTU=",
           "isAvailable": true,
-          "name": "100g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "19.51",
+                "amount": 0.4,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "19.51",
+                "amount": 0.35,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.35,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.35,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 33
+          "name": "2.5l",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 7.75,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 7.5,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.15,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.1,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 175
         }
       ]
     }

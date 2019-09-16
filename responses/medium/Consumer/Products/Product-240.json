@@ -3,44 +3,47 @@
     "product": {
       "conservation": {
         "mode": "au soleil",
-        "until": "2020-08-25"
+        "until": "2020-08-05"
       },
-      "description": "Fuga sapiente quas sequi praesentium cum. Tempora natus atque repudiandae excepturi debitis velit.",
+      "description": "Pariatur quia aliquam perferendis delectus. Ad nostrum dolor officiis.\nQuod quibusdam itaque nostrum eaque. Expedita eligendi vel fuga.",
       "id": "UHJvZHVjdDoyNDA=",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/GMMvthWviWVLTIoH.png"
-        }
-      ],
-      "name": "Quasi temporibus cum.",
+      "images": [],
+      "name": "Consequatur libero iste.",
       "pricing": {
         "priceRange": {
           "start": {
             "gross": {
-              "amount": "14.29",
+              "amount": 79.25,
               "currency": "CHF"
             },
             "net": {
-              "amount": "14.29",
+              "amount": 76.75,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.65,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.85,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "14.29",
+              "amount": 79.25,
               "currency": "CHF"
             },
             "net": {
-              "amount": "14.29",
+              "amount": 76.75,
               "currency": "CHF"
             },
-            "tax": {
-              "amount": 0,
+            "productTax": {
+              "amount": 1.65,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.85,
               "currency": "CHF"
             }
           }
@@ -48,54 +51,102 @@
       },
       "producer": {
         "address": {
-          "city": "Morand",
+          "city": "Robadey-près-Bernasconi",
           "country": "CH",
-          "postalCode": "5064",
-          "streetAddress1": "rue Jeanne Rapraz 57"
+          "postalCode": "1517",
+          "streetAddress1": "chemin Thérèse Droz 73"
         },
-        "description": "Illo nam corrupti ipsa officiis fuga voluptatem. Repudiandae nam quos soluta temporibus deserunt. Vel similique officiis similique nostrum.",
-        "firstName": "Julien",
-        "id": "VXNlcjoxMTk=",
-        "lastName": "Délèze"
+        "description": "Accusantium delectus voluptas quia ea placeat eligendi.\nLaboriosam odio officia voluptas labore non quasi. Dolorem animi animi unde quasi. Quod suscipit maxime consequuntur exercitationem.",
+        "firstName": "Jean-Claude",
+        "id": "VXNlcjoxMjg=",
+        "lastName": "Besse"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "7.96",
+          "amount": "67.35",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "7.96",
+          "amount": "67.35",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "7.96",
+            "amount": "67.35",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6ODky",
+          "id": "UHJvZHVjdFZhcmlhbnQ6OTM4",
           "isAvailable": true,
-          "name": "S",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "14.29",
+                "amount": 3.95,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "14.29",
+                "amount": 3.7,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 179
+          "name": "250g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 79.25,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 76.75,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.65,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.85,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 346
         }
       ]
     }
