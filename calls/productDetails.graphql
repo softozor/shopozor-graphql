@@ -113,16 +113,46 @@ query ProductDetails($productId: ID!) {
       isAvailable
       margin {
         manager {
-          amount
-          currency
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
         }
         rex {
-          amount
-          currency
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
         } 
         softozor {
-          amount
-          currency
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
         }
       }
       name
