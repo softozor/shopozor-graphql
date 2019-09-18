@@ -1,12 +1,346 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5MDA=",
+            "name": "A quidem qui.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 98.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 112.25,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Corinne",
+              "id": "VXNlcjoxMTM4",
+              "lastName": "Boichat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/vYaPCmLviHqnKeST-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzYxOQ==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 224
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzYyMA==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 0
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMDg2",
+            "name": "Consectetur iste explicabo.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 21.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 85.75,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMDg4",
+              "lastName": "Corpataux"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/vJYtRuWEnShJVCVO-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM0Nw==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 45
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM0OA==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 257
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM0OQ==",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 226
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM1MA==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 50
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTQ1",
+            "name": "Nobis dicta.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 15.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 94.65,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMDg4",
+              "lastName": "Corpataux"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/zjSefZSijbCWYDOj-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwNQ==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 777
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwNg==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 237
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwNw==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 51
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwOA==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 19
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxOTMx",
+            "name": "Inventore quaerat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 14.25,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 46.85,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hugo",
+              "id": "VXNlcjoxMTEw",
+              "lastName": "Aebi"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc1Mw==",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 126
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc1NA==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 115
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc1NQ==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 365
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjI0",
+            "name": "Magnam tempora.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 90.2,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 90.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMDg4",
+              "lastName": "Corpataux"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/EfpJrMssOYEwuBCJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA1MzQ=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 153
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODAz",
+            "name": "Dolores molestiae repellendus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 84.25,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 84.25,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMDg4",
+              "lastName": "Corpataux"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/KRoZdnvVWnqDqaWl-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTUyMjY=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 203
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTE0",
+            "name": "At reprehenderit excepturi id.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 9.95,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 36.25,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Roland",
+              "id": "VXNlcjoxMTAz",
+              "lastName": "Polla"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/niYlJZzhftrLFTSk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY0NDg=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 442
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY0NDk=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 83
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjY=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 7
     }
   }
 }

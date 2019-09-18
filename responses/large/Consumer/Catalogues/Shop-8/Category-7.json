@@ -1,12 +1,166 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTE=",
+            "name": "Doloribus enim maiores.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 29.45,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 29.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Odette",
+              "id": "VXNlcjoxMTQ4",
+              "lastName": "Rappaz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/PkKHjZfrLzSQxDvk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY4Nw==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 378
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMTYx",
+            "name": "Voluptatibus quia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.75,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 98.65,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Suzanne",
+              "id": "VXNlcjoxMDY2",
+              "lastName": "Diesbach"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/vXhObrVSqkwCHMlg-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDY0Mg==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 116
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDY0Mw==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 379
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDY0NA==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 11
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDY0NQ==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 237
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDY0Ng==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 49
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDY0Nw==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 278
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MTc2",
+            "name": "Laudantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 51.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 53.1,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Alexandre",
+              "id": "VXNlcjoxMTE4",
+              "lastName": "Godet"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/mPUKgWokZYClECoa-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY2ODk=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 765
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTY2OTA=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 300
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

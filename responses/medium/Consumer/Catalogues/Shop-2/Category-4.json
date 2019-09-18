@@ -1,12 +1,160 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjk=",
+            "name": "Consectetur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 23.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 52.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Gabriel",
+              "id": "VXNlcjoxMTA=",
+              "lastName": "Georges"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/bxkNIOBnNuTyRqWG-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTI2",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 140
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTI3",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 316
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODM=",
+            "name": "Qui doloribus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 0.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 106.85,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicolas",
+              "id": "VXNlcjoxMTI=",
+              "lastName": "Chevalley"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/PyKgwWWTjyjyMFfN-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTY2",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 27
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTY3",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 162
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTY4",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 312
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMzc=",
+            "name": "Quidem iure.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 52.5,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 81.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicolas",
+              "id": "VXNlcjoxMTI=",
+              "lastName": "Chevalley"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/dUoJcGBgtDLZmjgu-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzM1",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 553
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzM2",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 251
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzM3",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 479
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

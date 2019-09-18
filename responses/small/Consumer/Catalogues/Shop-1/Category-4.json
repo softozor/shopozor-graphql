@@ -1,12 +1,166 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2NQ==",
+            "name": "Magnam repellendus reprehenderit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 13.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 109.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Thérèse",
+              "id": "VXNlcjo1Mg==",
+              "lastName": "Wicht"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAw",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 23
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAx",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 89
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAy",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 449
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMjI=",
+            "name": "Non animi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 116.4,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laetitia",
+              "id": "VXNlcjo2Mg==",
+              "lastName": "Julliard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/FktxTaHcUDFNwBCs-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzcx",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 48
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzcy",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 385
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzcz",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 147
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMjc=",
+            "name": "Quibusdam vero quisquam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 4.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 42.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laetitia",
+              "id": "VXNlcjo2Mg==",
+              "lastName": "Julliard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/htpnyaxkJWBiMmDS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzgz",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 231
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzg0",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 624
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzg1",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 11
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

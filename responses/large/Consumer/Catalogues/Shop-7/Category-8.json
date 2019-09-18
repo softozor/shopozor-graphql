@@ -1,12 +1,190 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1OQ==",
+            "name": "Non error dolores.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 33.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 33.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Corinne",
+              "id": "VXNlcjoxMTM4",
+              "lastName": "Boichat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/UMtAJXHfAsqjvjcA-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM5",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 173
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQw",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 7
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NjYy",
+            "name": "Doloribus necessitatibus possimus maxime.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 2.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 107.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Corinne",
+              "id": "VXNlcjoxMTM4",
+              "lastName": "Boichat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/YqmcheGITbjZetyQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1NzE=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 104
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1NzI=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 476
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1NzM=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 134
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1NzQ=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 440
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1NzU=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 53
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1NzY=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 151
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1Nzc=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 271
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTk4",
+            "name": "Sit atque mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 30.95,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 93.6,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Corinne",
+              "id": "VXNlcjoxMTM4",
+              "lastName": "Boichat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/vyTwEUMcHBzGemXp-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4NjY=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 264
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4Njc=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 28
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4Njg=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 77
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4Njk=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 149
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

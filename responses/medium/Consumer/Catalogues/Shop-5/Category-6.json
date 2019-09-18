@@ -1,12 +1,58 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNTg=",
+            "name": "Veritatis tenetur molestiae quisquam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 3.9,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 59.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sandra",
+              "id": "VXNlcjoxMzA=",
+              "lastName": "Müller"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/yhlOSDzMNVRvSGFd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTAy",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 90
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTAz",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 319
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

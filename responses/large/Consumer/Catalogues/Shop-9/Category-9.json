@@ -1,12 +1,208 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMDM2",
+            "name": "Quas quia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.95,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 106.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Matteo",
+              "id": "VXNlcjoxMDA2",
+              "lastName": "Sandoz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/zIjQgEPiUyKMsQzJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE2NQ==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 170
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE2Ng==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 35
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE2Nw==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 27
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE2OA==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 382
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE2OQ==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 468
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMzE3",
+            "name": "Omnis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 29.85,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 106.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Matteo",
+              "id": "VXNlcjoxMDA2",
+              "lastName": "Sandoz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/kKBLiuUegYLfzksG-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTI2Nw==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 572
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTI2OA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 31
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTI2OQ==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 403
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTI3MA==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 27
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNjA4",
+            "name": "Fugiat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 0.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 114.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hélène",
+              "id": "VXNlcjoxMTEz",
+              "lastName": "Humbert"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/AkVvBOVDiNhSlKcd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0Mzg=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 344
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0Mzk=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 22
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0NDA=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 159
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0NDE=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 29
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0NDI=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 109
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0NDM=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 45
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0NDQ=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 173
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

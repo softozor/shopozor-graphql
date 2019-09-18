@@ -1,12 +1,202 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MDA=",
+            "name": "Atque in.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 49.45,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 104.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hélène",
+              "id": "VXNlcjoxMTEz",
+              "lastName": "Humbert"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/XtbUwWxSVHNoakae-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzIzMQ==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 91
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzIzMg==",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 297
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMjM3",
+            "name": "Neque commodi temporibus molestias.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 39.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 110.55,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Matteo",
+              "id": "VXNlcjoxMDA2",
+              "lastName": "Sandoz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/inaEejHIehfISzUY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkxNw==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 256
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkxOA==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 27
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkxOQ==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 534
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkyMA==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 250
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkyMQ==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 422
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkyMg==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 302
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODkyMw==",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 227
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjc3",
+            "name": "Ullam consequatur aperiam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 14.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 97.95,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Matteo",
+              "id": "VXNlcjoxMDA2",
+              "lastName": "Sandoz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/VvtftixUfTaIQLkH-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3NDQ=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 162
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3NDU=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 226
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3NDY=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 266
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3NDc=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 261
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3NDg=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 19
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3NDk=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 36
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

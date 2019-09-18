@@ -1,12 +1,88 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjA2",
+            "name": "Accusamus ab.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 10.75,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 86.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sophie",
+              "id": "VXNlcjoxMTMz",
+              "lastName": "Aeby"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/yXVFLlUgraPfLslt-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDI=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 348
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDM=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 308
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDQ=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 253
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDU=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 30
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDY=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 61
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDc=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 474
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI4MDg=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 724
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }
