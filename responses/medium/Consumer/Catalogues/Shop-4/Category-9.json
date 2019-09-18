@@ -1,12 +1,100 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOQ==",
+            "name": "Omnis quos dolores impedit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 2.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 91.15,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Mathieu",
+              "id": "VXNlcjoxMDc=",
+              "lastName": "Délèze"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/NvksVOSgEgwobYNj-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDMx",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 2
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDMy",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 602
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDMz",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 245
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM0",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 168
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM1",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 239
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM2",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 78
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM3",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 95
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM4",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 58
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM5",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 352
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

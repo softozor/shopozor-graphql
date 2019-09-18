@@ -1,12 +1,88 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Mjg=",
+            "name": "Mollitia sequi repellendus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 6.4,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 102.4,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Marcel",
+              "id": "VXNlcjoxMTEy",
+              "lastName": "Besançon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/cqDpolPmPxKZebYT-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1Mjg=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 731
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1Mjk=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 523
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1MzA=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 206
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1MzE=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 467
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1MzI=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 697
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1MzM=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 356
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTI1MzQ=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 177
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

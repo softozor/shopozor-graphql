@@ -1,12 +1,136 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoz",
+            "name": "Blanditiis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 1.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 114.1,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laetitia",
+              "id": "VXNlcjo2Mg==",
+              "lastName": "Julliard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/bocKYAdJEzSvIcKU-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTc=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 117
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 119
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 589
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjA=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 160
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 375
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjI=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 353
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 52
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 124
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjU=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 85
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjY=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 13
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjc=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 4
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjg=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 325
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjk=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 265
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 216
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzE=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 25
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

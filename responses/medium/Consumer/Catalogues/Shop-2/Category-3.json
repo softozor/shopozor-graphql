@@ -1,12 +1,127 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoy",
+            "name": "Sapiente ad placeat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 34.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 34.1,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Romain",
+              "id": "VXNlcjoxMTE=",
+              "lastName": "Badel"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/MfOsjcUzAoBUjXmT-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 927
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODI=",
+            "name": "Veritatis fugiat tempora.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 27.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 73.15,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Anna",
+              "id": "VXNlcjoxMTc=",
+              "lastName": "Musy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/cZAgfEbVRzdtQllG-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1OA==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 27
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1OQ==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 42
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc2MA==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 276
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc2MQ==",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 354
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc2Mg==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 70
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc2Mw==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 836
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc2NA==",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 95
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

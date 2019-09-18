@@ -1,12 +1,943 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNDQ=",
+            "name": "Quas.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 71.2,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 71.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "id": "VXNlcjoxMDMz",
+              "lastName": "Chenaux"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/PyedTmfRpWigGtVJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3Ng==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 586
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzU=",
+            "name": "Excepturi rem officiis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 16.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 116.5,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Théo",
+              "id": "VXNlcjoxMDkx",
+              "lastName": "Berberat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/ubdGFcogCqymLTkh-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4MQ==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 364
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4Mg==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 81
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4Mw==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 703
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4NA==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 8
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4NQ==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 394
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4Ng==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 561
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4Nw==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 312
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4OA==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 216
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU4OQ==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 107
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5MA==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 158
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5MQ==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 512
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5Mg==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 46
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5Mw==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 146
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5NA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 638
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5NQ==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 166
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5Ng==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 23
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5Nw==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 189
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5OA==",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 457
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzU5OQ==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 296
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzYwMA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 432
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODA3",
+            "name": "Quo voluptatum quisquam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 1.5,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 113.0,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Arthur",
+              "id": "VXNlcjoxMDYz",
+              "lastName": "Delèze"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NjQ=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 337
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NjU=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 232
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NjY=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 59
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3Njc=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 514
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3Njg=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 595
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3Njk=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 508
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzA=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 238
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzE=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 71
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzI=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 358
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzM=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 212
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzQ=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 10
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzU=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 490
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3NzY=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 518
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3Nzc=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 108
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3Nzg=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 190
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3Nzk=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 144
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3ODA=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 465
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM3ODE=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 36
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNDAz",
+            "name": "Autem minus esse doloremque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 2.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 116.6,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hugo",
+              "id": "VXNlcjoxMTEw",
+              "lastName": "Aebi"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/noTlBNYhxACeSFqS-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMTk=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 44
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjA=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 248
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjE=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 3
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjI=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 16
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjM=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 299
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjQ=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 359
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjU=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 111
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjY=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 144
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjc=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 102
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjg=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 402
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMjk=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 787
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMzA=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 744
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMzE=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 119
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMzI=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 47
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzEyMzM=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 741
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNTg4",
+            "name": "Voluptatem laborum ipsam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 1.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 113.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hugo",
+              "id": "VXNlcjoxMTEw",
+              "lastName": "Aebi"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/KkShyTukXHPMbtXN-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTM=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 191
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTQ=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 62
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTU=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 235
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTY=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 169
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTc=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 340
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTg=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 283
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NTk=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 165
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjA=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 138
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjE=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 254
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjI=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 121
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjM=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 180
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjQ=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 135
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjU=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 482
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2NjY=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 54
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2Njc=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 41
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzM2Njg=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 102
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyODYy",
+            "name": "Eos ut aliquid.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 2.25,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 117.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Arthur",
+              "id": "VXNlcjoxMDYz",
+              "lastName": "Delèze"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/oIPdUjbGCKmHsFlJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzczMTI=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 277
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzczMTM=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 133
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzczMTQ=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 264
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzczMTU=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 305
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzczMTY=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 77
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzczMTc=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 558
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDc5",
+            "name": "Ullam cum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 0.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 112.5,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Théo",
+              "id": "VXNlcjoxMDkx",
+              "lastName": "Berberat"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTI=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 30
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTM=",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 20
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTQ=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 196
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTU=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 349
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTY=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 203
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTc=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 531
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTg=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 423
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAyOTk=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 363
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMDA=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 749
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMDE=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 353
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMDI=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 908
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMDM=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 500
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAzMDQ=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 418
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NDQ4",
+            "name": "Totam impedit fuga.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 115.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisabeth",
+              "id": "VXNlcjoxMDMz",
+              "lastName": "Chenaux"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/sJllZnHTPnyVruPG-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MDQ=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 644
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MDU=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 63
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MDY=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 22
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MDc=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 84
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MDg=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 235
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MDk=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 866
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTA=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 218
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTE=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 85
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTI=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 424
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTM=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 306
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTQ=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 644
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTU=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 329
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTY=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 158
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTc=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 219
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTg=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 3
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MTk=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 7
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MjA=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 44
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MjE=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 12
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MjI=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 841
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MjM=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 289
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MjQ=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 308
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NTg2MjU=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 208
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjc=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 8
     }
   }
 }

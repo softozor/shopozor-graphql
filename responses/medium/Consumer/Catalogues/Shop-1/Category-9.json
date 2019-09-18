@@ -1,12 +1,139 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMzU=",
+            "name": "Soluta eveniet occaecati eius.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 26.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 105.75,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Marianne",
+              "id": "VXNlcjoxMTU=",
+              "lastName": "Curdy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/BXCdAlRslDXpUqII-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkxMw==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 256
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkxNA==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 10
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkxNQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 286
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkxNg==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 709
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTkxNw==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 299
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxOTI=",
+            "name": "Deleniti aliquid.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 107.1,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nicolas",
+              "id": "VXNlcjoxMTI=",
+              "lastName": "Chevalley"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/oAGziAIcMkuPdXNx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjU3Nw==",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 89
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjU3OA==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 370
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjU3OQ==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 714
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjU4MA==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 545
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjU4MQ==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 3
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

@@ -1,12 +1,82 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5OTA=",
+            "name": "Nobis recusandae.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 19.5,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 100.1,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bruno",
+              "id": "VXNlcjoxMDIx",
+              "lastName": "Carron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/LafKHPbMqADnrnil-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMyOTM=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 460
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMyOTQ=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 504
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMyOTU=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 54
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMyOTY=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 217
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMyOTc=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 24
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMyOTg=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 15
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

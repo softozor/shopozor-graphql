@@ -1,12 +1,124 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NzA5",
+            "name": "Porro ratione.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 1.2,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 93.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "François",
+              "id": "VXNlcjoxMDA5",
+              "lastName": "Fonjallaz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/fWvVhFhjemmZneyn-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjE5OTc=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 157
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjE5OTg=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 209
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjE5OTk=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 199
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDA=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 0
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDE=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 310
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDI=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 82
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDM=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 571
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDQ=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 460
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDU=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 125
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDY=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 423
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDc=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 382
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDg=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 35
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjIwMDk=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 63
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }
