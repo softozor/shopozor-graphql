@@ -1,12 +1,139 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2NA==",
+            "name": "Ab quasi est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 15.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 99.65,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Thérèse",
+              "id": "VXNlcjo1Mg==",
+              "lastName": "Wicht"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/QZaAVXgjwaOEhiUq-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk1",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 132
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk2",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 42
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk3",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 135
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 46
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk5",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 167
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5OA==",
+            "name": "Facere neque quidem voluptas.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 4.25,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 108.95,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laura",
+              "id": "VXNlcjo1OA==",
+              "lastName": "Chevrolet"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/cbhwOBqgSJgFuQrd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzAz",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 662
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA0",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 43
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA1",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 60
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA2",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 3
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA3",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 392
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

@@ -3,52 +3,139 @@
     "product": {
       "conservation": {
         "mode": "à température ambiante",
-        "until": "2019-12-12"
+        "until": "2019-12-18"
       },
       "description": "Pariatur quis dolores dolore libero doloremque placeat voluptatibus. Rerum cumque fuga ullam voluptatum quidem. Neque modi est minus. Cupiditate neque facere repellat.",
       "id": "UHJvZHVjdDoxMDg4",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/uvAlLbvkKpTbkqiF.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/YkUcEfHBObimrika.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/eipakjaLjDsGilVr.png"
-        }
-      ],
-      "name": "Consequatur quam unde.",
-      "pricing": {
-        "priceRange": {
+      "images": [],
+      "margin": {
+        "manager": {
           "start": {
             "gross": {
-              "amount": "65.47",
+              "amount": 0.95,
               "currency": "CHF"
             },
             "net": {
-              "amount": "65.47",
+              "amount": 0.85,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.05,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "65.47",
+              "amount": 0.95,
               "currency": "CHF"
             },
             "net": {
-              "amount": "65.47",
+              "amount": 0.85,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.05,
+              "currency": "CHF"
+            }
+          }
+        },
+        "rex": {
+          "start": {
+            "gross": {
+              "amount": 0.95,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 0.85,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.05,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 0.95,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 0.85,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.05,
+              "currency": "CHF"
+            }
+          }
+        },
+        "softozor": {
+          "start": {
+            "gross": {
+              "amount": 0.95,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 0.85,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.05,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 0.95,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 0.85,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.05,
+              "currency": "CHF"
+            }
+          }
+        }
+      },
+      "name": "Consequatur quam unde.",
+      "pricing": {
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": 18.85,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 18.25,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 0.4,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.2,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 18.85,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 18.25,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 0.4,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.2,
               "currency": "CHF"
             }
           }
@@ -56,54 +143,102 @@
       },
       "producer": {
         "address": {
-          "city": "Morard-sur-Brandt",
+          "city": "Besançon-Dessous",
           "country": "CH",
-          "postalCode": "6670",
-          "streetAddress1": "rue Deshusses 78"
+          "postalCode": "5412",
+          "streetAddress1": "rue Vanessa Chenaux 23"
         },
-        "description": "Blanditiis aut impedit iusto odit. Sint suscipit amet eveniet possimus eos.\nDolores aperiam unde illo quas qui. Nihil ea dolorem quibusdam culpa. Saepe nulla accusamus praesentium maxime nobis animi.",
-        "firstName": "Madeleine",
-        "id": "VXNlcjoxMTQx",
-        "lastName": "Bouvier"
+        "description": "Nobis nisi consequuntur non dolore dicta. Ea asperiores debitis eum. Commodi reprehenderit molestias facilis animi totam.",
+        "firstName": "Thomas",
+        "id": "VXNlcjoxMTE0",
+        "lastName": "Vonlanthen"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "33.68",
+          "amount": "16.0",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "33.68",
+          "amount": "16.0",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "33.68",
+            "amount": "16.0",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NTg5NQ==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6NDM1OA==",
           "isAvailable": true,
-          "name": "250g",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "65.47",
+                "amount": 0.95,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "65.47",
+                "amount": 0.85,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 0.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.85,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 0.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 0.85,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.05,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 811
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 18.85,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 18.25,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 0.4,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 269
         }
       ]
     }

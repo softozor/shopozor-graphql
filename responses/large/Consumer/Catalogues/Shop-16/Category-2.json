@@ -1,12 +1,52 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxOTU2",
+            "name": "Eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 17.25,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 17.25,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Bernard",
+              "id": "VXNlcjoxMTM2",
+              "lastName": "Peitrequin"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/MRndmsUJAqkWfcSC-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzg1NA==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 423
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

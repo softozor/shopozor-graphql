@@ -1,12 +1,172 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNQ==",
+            "name": "Odio aperiam magnam eius.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 21.4,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 77.85,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisa",
+              "id": "VXNlcjo1OQ==",
+              "lastName": "Théraulaz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/vXEPpAEcgDwHYEdh-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDI=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 21
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM=",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 296
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozNg==",
+            "name": "Pariatur praesentium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 5.95,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 101.95,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laura",
+              "id": "VXNlcjo1OA==",
+              "lastName": "Chevrolet"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/yhDkOGRAiVAkeINV-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEx",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 72
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEy",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 92
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEz",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 230
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE0",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 30
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTE1",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 188
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1Mw==",
+            "name": "Magni.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 1.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 90.9,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laetitia",
+              "id": "VXNlcjo2Mg==",
+              "lastName": "Julliard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/bbVZNMkXBNWbbwxj-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYw",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 193
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYx",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 13
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYy",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 248
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

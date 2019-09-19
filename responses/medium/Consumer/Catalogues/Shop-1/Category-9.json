@@ -1,12 +1,76 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMjE=",
+            "name": "Praesentium ipsa aut.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 26.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 75.6,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Patrick",
+              "id": "VXNlcjoxMjI=",
+              "lastName": "Balmat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/JDNQEUGuINZEdrXD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzkx",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 267
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzky",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 22
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzkz",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 580
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzk0",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 590
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzk1",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 338
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

@@ -3,56 +3,139 @@
     "product": {
       "conservation": {
         "mode": "à la cave",
-        "until": "2019-12-03"
+        "until": "2019-12-09"
       },
       "description": "Veniam perspiciatis nostrum eius odio soluta eos.\nPerspiciatis sunt autem dolorem alias dicta corrupti. Officia ut pariatur.",
       "id": "UHJvZHVjdDo3NDk=",
-      "images": [
-        {
-          "alt": "",
-          "url": "/media/products/LMLhRoJQtzPyaMVG.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/rAiQjyyPnLkzUVxE.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/NblTLBOcqEUcvnXU.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/fMFFWxfWlywJmZuP.png"
-        }
-      ],
-      "name": "Labore excepturi est.",
-      "pricing": {
-        "priceRange": {
+      "images": [],
+      "margin": {
+        "manager": {
           "start": {
             "gross": {
-              "amount": "69.14",
+              "amount": 2.95,
               "currency": "CHF"
             },
             "net": {
-              "amount": "69.14",
+              "amount": 2.7,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.2,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "69.14",
+              "amount": 4.55,
               "currency": "CHF"
             },
             "net": {
-              "amount": "69.14",
+              "amount": 4.2,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.3,
+              "currency": "CHF"
+            }
+          }
+        },
+        "rex": {
+          "start": {
+            "gross": {
+              "amount": 2.95,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 2.7,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.2,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 4.55,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 4.2,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.3,
+              "currency": "CHF"
+            }
+          }
+        },
+        "softozor": {
+          "start": {
+            "gross": {
+              "amount": 2.95,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 2.7,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.2,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 4.55,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 4.2,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.3,
+              "currency": "CHF"
+            }
+          }
+        }
+      },
+      "name": "Labore excepturi est.",
+      "pricing": {
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": 58.55,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 56.7,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 1.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.65,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 90.2,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 87.35,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 1.85,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.95,
               "currency": "CHF"
             }
           }
@@ -60,54 +143,175 @@
       },
       "producer": {
         "address": {
-          "city": "Courvoisier-près-Matile",
+          "city": "San Privet",
           "country": "CH",
-          "postalCode": "6759",
-          "streetAddress1": "rue Thomas Menthonnex 20"
+          "postalCode": "5241",
+          "streetAddress1": "chemin Anna Matile 59"
         },
-        "description": "Aspernatur ducimus architecto autem ad velit. Qui odio quia ullam. Rem totam tempore eaque temporibus nostrum.\nHarum porro omnis minus at magnam. Eligendi nobis neque et ipsa enim.",
-        "firstName": "Aurélie",
-        "id": "VXNlcjoxMDMx",
-        "lastName": "Morard"
+        "description": "Numquam nesciunt nulla vitae.\nExcepturi asperiores alias totam reiciendis quibusdam illo impedit. Delectus at nemo quo placeat totam dolor tenetur.",
+        "firstName": "Christian",
+        "id": "VXNlcjoxMDgy",
+        "lastName": "Cosandey"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "65.99",
+          "amount": "49.75",
           "currency": "CHF"
         },
         "stop": {
-          "_type": "Money",
-          "amount": "65.99",
+          "amount": "76.65",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "65.99",
+            "amount": "49.75",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NDA1Ng==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzAyMw==",
           "isAvailable": true,
-          "name": "1l",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "69.14",
+                "amount": 2.95,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "69.14",
+                "amount": 2.7,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 2.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 2.95,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 2.7,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.2,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 220
+          "name": "100g",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 58.55,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 56.7,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.65,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 30
+        },
+        {
+          "costPrice": {
+            "amount": "76.65",
+            "currency": "CHF"
+          },
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzAyNA==",
+          "isAvailable": true,
+          "margin": {
+            "manager": {
+              "gross": {
+                "amount": 4.55,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 4.55,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 4.55,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.2,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.3,
+                "currency": "CHF"
+              }
+            }
+          },
+          "name": "500ml",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 90.2,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 87.35,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.85,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.95,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 1
         }
       ]
     }

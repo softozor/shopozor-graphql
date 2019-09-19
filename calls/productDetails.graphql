@@ -9,6 +9,38 @@ query ProductDetails($productId: ID!) {
       alt
       url
     }
+    margin {
+      manager {
+        start {
+          amount
+          currency
+        }
+        stop {
+          amount
+          currency
+        }
+      }
+      rex {
+        start {
+          amount
+          currency
+        }
+        stop {
+          amount
+          currency
+        }
+      } 
+      softozor {
+        start {
+          amount
+          currency
+        }
+        stop {
+          amount
+          currency
+        }
+      }
+    }
     name
     pricing {
       priceRange {
@@ -21,9 +53,13 @@ query ProductDetails($productId: ID!) {
             amount
             currency
           }
-          tax {
+          productTax {
             amount
             currency
+          }
+          serviceTax {
+            amount
+            currency 
           }
         }
         stop {
@@ -35,8 +71,12 @@ query ProductDetails($productId: ID!) {
             amount
             currency
           }
-          tax {
+          productTax {
             amount
+            currency
+          }
+          serviceTax {
+            amount 
             currency
           }
         }
@@ -50,8 +90,8 @@ query ProductDetails($productId: ID!) {
         streetAddress1
       }
       description
-      id
       firstName
+	  id
       lastName
     }
     purchaseCost {
@@ -71,6 +111,50 @@ query ProductDetails($productId: ID!) {
       }
       id
       isAvailable
+      margin {
+        manager {
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
+        }
+        rex {
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
+        } 
+        softozor {
+          gross {
+            amount
+            currency
+          }
+          net {
+            amount
+            currency
+          }
+          tax {
+            amount
+            currency
+          }
+        }
+      }
       name
       pricing {
         price {
@@ -82,7 +166,11 @@ query ProductDetails($productId: ID!) {
             amount
             currency
           }
-          tax {
+          productTax {
+            amount
+            currency
+          }
+          serviceTax {
             amount
             currency
           }

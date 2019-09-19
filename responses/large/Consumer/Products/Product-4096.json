@@ -3,52 +3,144 @@
     "product": {
       "conservation": {
         "mode": "à l'abri de la lumière",
-        "until": "2020-06-10"
+        "until": "2020-06-16"
       },
       "description": "Laboriosam recusandae esse enim vel dignissimos blanditiis.\nLaborum incidunt quod iste id asperiores. Odit dolore inventore atque sunt dolorem. At possimus laboriosam sit sed reprehenderit.",
       "id": "UHJvZHVjdDo0MDk2",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/LETYqnGqeFDhyGUJ.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/fytPHvDvszQdzhVe.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/iDYCxCwXtRItJQwk.png"
+          "url": "/media/products/UAIqEvRtsMQIoQFL.png"
         }
       ],
-      "name": "Repellendus in.",
-      "pricing": {
-        "priceRange": {
+      "margin": {
+        "manager": {
           "start": {
             "gross": {
-              "amount": "8.45",
+              "amount": 3.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "8.45",
+              "amount": 3.15,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.25,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "8.45",
+              "amount": 3.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "8.45",
+              "amount": 3.15,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.25,
+              "currency": "CHF"
+            }
+          }
+        },
+        "rex": {
+          "start": {
+            "gross": {
+              "amount": 3.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 3.15,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.25,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 3.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 3.15,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.25,
+              "currency": "CHF"
+            }
+          }
+        },
+        "softozor": {
+          "start": {
+            "gross": {
+              "amount": 3.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 3.15,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.25,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 3.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 3.15,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.25,
+              "currency": "CHF"
+            }
+          }
+        }
+      },
+      "name": "Repellendus in.",
+      "pricing": {
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": 67.85,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 65.7,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 1.4,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.75,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 67.85,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 65.7,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 1.4,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 0.75,
               "currency": "CHF"
             }
           }
@@ -56,54 +148,102 @@
       },
       "producer": {
         "address": {
-          "city": "Chatriant",
+          "city": "Boillat-près-Bonvin",
           "country": "CH",
-          "postalCode": "6230",
-          "streetAddress1": "boulevard de Montandon"
+          "postalCode": "3778",
+          "streetAddress1": "boulevard de Bourquin"
         },
-        "description": "Ullam eius eligendi asperiores nam eos. Facilis neque quo labore. Veniam delectus amet earum.",
-        "firstName": "André",
-        "id": "VXNlcjoxMTQ0",
-        "lastName": "Godet"
+        "description": "Sed distinctio ex vel. Nulla optio cum ipsam recusandae nihil. Eos velit pariatur tempora.",
+        "firstName": "Marcelle",
+        "id": "VXNlcjoxMDc3",
+        "lastName": "Corboz"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "0.01",
+          "amount": "57.65",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "0.01",
+          "amount": "57.65",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "0.01",
+            "amount": "57.65",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MjI1NjU=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTYzNzU=",
           "isAvailable": true,
-          "name": "250ml",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "8.45",
+                "amount": 3.4,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "8.45",
+                "amount": 3.15,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 3.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.15,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 3.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 3.15,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.25,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 483
+          "name": "55cm x 55cm",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 67.85,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 65.7,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 1.4,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 0.75,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 147
         }
       ]
     }

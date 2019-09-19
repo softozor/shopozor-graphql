@@ -1,12 +1,166 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNzM3",
+            "name": "Sapiente voluptate quisquam.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 22.4,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 116.65,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Louis",
+              "id": "VXNlcjoxMDI2",
+              "lastName": "Barman"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/TRoCaTOoCxgqOtZx-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njk4OA==",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 376
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njk4OQ==",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 29
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njk5MA==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 275
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njk5MQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 308
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njk5Mg==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 216
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxODAx",
+            "name": "Totam enim accusantium.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 15.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 15.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Aurélie",
+              "id": "VXNlcjoxMDU0",
+              "lastName": "Mottiez"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/sWFGWsPChdReQsKk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NzIzMg==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 219
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozODI1",
+            "name": "Pariatur quae provident tenetur.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 11.2,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 52.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ethan",
+              "id": "VXNlcjoxMDc0",
+              "lastName": "Bourquard"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTUzMDQ=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 142
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTUzMDU=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 383
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTUzMDY=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 4
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

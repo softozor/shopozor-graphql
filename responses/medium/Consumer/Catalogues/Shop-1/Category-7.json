@@ -1,12 +1,76 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNw==",
+            "name": "Vel ut occaecati.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 21.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 62.9,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Mathieu",
+              "id": "VXNlcjoxMDc=",
+              "lastName": "Délèze"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzk=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 25
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODA=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 982
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODE=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 421
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODI=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 140
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODM=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 929
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

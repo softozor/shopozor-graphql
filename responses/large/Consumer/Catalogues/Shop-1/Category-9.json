@@ -1,12 +1,160 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1NzA=",
+            "name": "Corrupti iste.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 21.75,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 40.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Olivier",
+              "id": "VXNlcjoxMDEz",
+              "lastName": "Robert"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/AjpWcbTgmuPRtJUt-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0MQ==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 270
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM0Mg==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 201
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMDg4",
+            "name": "Enim distinctio fugiat.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 5.45,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 87.5,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Raymond",
+              "id": "VXNlcjoxMTQ5",
+              "lastName": "Robert"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/aNERWnkWNMBlJUpO-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTIzMzg=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 21
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTIzMzk=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 368
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTIzNDA=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 31
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTIzNDE=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 224
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTIzNDI=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 8
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTA4",
+            "name": "Hic cumque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 65.5,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 65.5,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Raymond",
+              "id": "VXNlcjoxMTQ5",
+              "lastName": "Robert"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk1Mzk=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 283
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

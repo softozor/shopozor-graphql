@@ -1,12 +1,115 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2",
+            "name": "A facere.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 4.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 80.75,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Patrick",
+              "id": "VXNlcjoxMjI=",
+              "lastName": "Balmat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/SBpLHRtuhVVBvUfc-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjI=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 268
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjM=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 147
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjQ=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 147
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4Nw==",
+            "name": "Quasi unde veritatis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 9.9,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 112.55,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Patrick",
+              "id": "VXNlcjoxMjI=",
+              "lastName": "Balmat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/oowDpeCJBySqAPNm-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjgy",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 256
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjgz",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 71
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjg0",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 9
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

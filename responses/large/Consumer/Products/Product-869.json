@@ -3,48 +3,144 @@
     "product": {
       "conservation": {
         "mode": "au frigo",
-        "until": "2019-12-11"
+        "until": "2019-12-17"
       },
       "description": "Reiciendis quidem illum minima aperiam.\nSapiente recusandae occaecati sed. Laudantium in amet quam eveniet.\nAccusantium amet cum laborum harum placeat.",
       "id": "UHJvZHVjdDo4Njk=",
       "images": [
         {
           "alt": "",
-          "url": "/media/products/ZpYJLiTxiQPSLIpD.png"
-        },
-        {
-          "alt": "",
-          "url": "/media/products/BwIZsCifnaldhxko.png"
+          "url": "/media/products/xIefvDAXgVZNMjww.png"
         }
       ],
-      "name": "Occaecati cumque ex.",
-      "pricing": {
-        "priceRange": {
+      "margin": {
+        "manager": {
           "start": {
             "gross": {
-              "amount": "32.39",
+              "amount": 5.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "32.39",
+              "amount": 4.95,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.4,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": "32.39",
+              "amount": 5.4,
               "currency": "CHF"
             },
             "net": {
-              "amount": "32.39",
+              "amount": 4.95,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0,
+              "amount": 0.4,
+              "currency": "CHF"
+            }
+          }
+        },
+        "rex": {
+          "start": {
+            "gross": {
+              "amount": 5.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 4.95,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.4,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 5.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 4.95,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.4,
+              "currency": "CHF"
+            }
+          }
+        },
+        "softozor": {
+          "start": {
+            "gross": {
+              "amount": 5.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 4.95,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.4,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 5.4,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 4.95,
+              "currency": "CHF"
+            },
+            "tax": {
+              "amount": 0.4,
+              "currency": "CHF"
+            }
+          }
+        }
+      },
+      "name": "Occaecati cumque ex.",
+      "pricing": {
+        "priceRange": {
+          "start": {
+            "gross": {
+              "amount": 107.0,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 103.65,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 2.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.15,
+              "currency": "CHF"
+            }
+          },
+          "stop": {
+            "gross": {
+              "amount": 107.0,
+              "currency": "CHF"
+            },
+            "net": {
+              "amount": 103.65,
+              "currency": "CHF"
+            },
+            "productTax": {
+              "amount": 2.2,
+              "currency": "CHF"
+            },
+            "serviceTax": {
+              "amount": 1.15,
               "currency": "CHF"
             }
           }
@@ -52,54 +148,102 @@
       },
       "producer": {
         "address": {
-          "city": "Vermeil am Albis",
+          "city": "Bochud",
           "country": "CH",
-          "postalCode": "6323",
-          "streetAddress1": "avenue Monnard"
+          "postalCode": "5163",
+          "streetAddress1": "boulevard Isabelle Duroux"
         },
-        "description": "Itaque facilis necessitatibus aut.\nEos officiis ratione adipisci quas in. Incidunt voluptatibus quod occaecati. Quia at alias placeat ea laborum blanditiis.",
-        "firstName": "Jessica",
-        "id": "VXNlcjoxMDc2",
-        "lastName": "Conrad"
+        "description": "Soluta perspiciatis officiis numquam explicabo inventore mollitia. Provident odio modi aspernatur molestias. Sit tempora officia odio id autem corporis.",
+        "firstName": "Claudine",
+        "id": "VXNlcjoxMDM3",
+        "lastName": "Barbey"
       },
       "purchaseCost": {
         "start": {
           "_type": "Money",
-          "amount": "4.79",
+          "amount": "90.95",
           "currency": "CHF"
         },
         "stop": {
           "_type": "Money",
-          "amount": "4.79",
+          "amount": "90.95",
           "currency": "CHF"
         }
       },
       "variants": [
         {
           "costPrice": {
-            "amount": "4.79",
+            "amount": "90.95",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6NDY5Ng==",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MzUwNg==",
           "isAvailable": true,
-          "name": "M",
-          "pricing": {
-            "price": {
+          "margin": {
+            "manager": {
               "gross": {
-                "amount": "32.39",
+                "amount": 5.4,
                 "currency": "CHF"
               },
               "net": {
-                "amount": "32.39",
+                "amount": 4.95,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0,
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            },
+            "rex": {
+              "gross": {
+                "amount": 5.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.4,
+                "currency": "CHF"
+              }
+            },
+            "softozor": {
+              "gross": {
+                "amount": 5.4,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 4.95,
+                "currency": "CHF"
+              },
+              "tax": {
+                "amount": 0.4,
                 "currency": "CHF"
               }
             }
           },
-          "stockQuantity": 136
+          "name": "L",
+          "pricing": {
+            "price": {
+              "gross": {
+                "amount": 107.0,
+                "currency": "CHF"
+              },
+              "net": {
+                "amount": 103.65,
+                "currency": "CHF"
+              },
+              "productTax": {
+                "amount": 2.2,
+                "currency": "CHF"
+              },
+              "serviceTax": {
+                "amount": 1.15,
+                "currency": "CHF"
+              }
+            }
+          },
+          "stockQuantity": 457
         }
       ]
     }
