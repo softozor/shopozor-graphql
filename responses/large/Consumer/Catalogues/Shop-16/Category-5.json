@@ -1,12 +1,70 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzk3",
+            "name": "Eum ipsa.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 51.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 99.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Aurélie",
+              "id": "VXNlcjoxMDU0",
+              "lastName": "Mottiez"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/ZzaFHSNQnlUYzwas-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyNDI=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 159
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyNDM=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 215
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyNDQ=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 180
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyNDU=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 487
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

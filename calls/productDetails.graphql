@@ -178,5 +178,6 @@ query ProductDetails($productId: ID!) {
       }
       stockQuantity
     }
+    vatRate
   }
 }

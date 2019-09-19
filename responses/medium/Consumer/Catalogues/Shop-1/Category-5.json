@@ -4,88 +4,61 @@
       "edges": [
         {
           "node": {
-            "id": "UHJvZHVjdDoxMzc=",
-            "name": "Libero veritatis.",
+            "id": "UHJvZHVjdDoxMTM=",
+            "name": "Minus.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": 22.1,
+                    "amount": 14.6,
                     "currency": "CHF"
                   }
                 },
                 "stop": {
                   "gross": {
-                    "amount": 22.1,
+                    "amount": 115.55,
                     "currency": "CHF"
                   }
                 }
               }
             },
             "producer": {
-              "firstName": "Pascal",
-              "id": "VXNlcjoxMjc=",
-              "lastName": "Broquet"
+              "firstName": "Patricia",
+              "id": "VXNlcjoxMDM=",
+              "lastName": "Bouvier"
             },
             "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/LEaLdjRXmJITMAwD-thumbnail-500x500.png"
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
             },
             "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NDQz",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzY3",
                 "isAvailable": true,
-                "name": "100g",
-                "stockQuantity": 6
-              }
-            ]
-          }
-        },
-        {
-          "node": {
-            "id": "UHJvZHVjdDoyNTQ=",
-            "name": "Voluptatum hic voluptate.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": 69.25,
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": 69.25,
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Pascal",
-              "id": "VXNlcjoxMjc=",
-              "lastName": "Broquet"
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/VBDYeCwzCOuEMotg-thumbnail-500x500.png"
-            },
-            "variants": [
+                "name": "500ml",
+                "stockQuantity": 164
+              },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Nzk1",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzY4",
                 "isAvailable": true,
-                "name": "500g",
-                "stockQuantity": 119
+                "name": "1l",
+                "stockQuantity": 345
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzY5",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 233
               }
             ]
           }
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 1
     }
   }
 }

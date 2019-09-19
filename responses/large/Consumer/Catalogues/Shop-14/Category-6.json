@@ -1,12 +1,88 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxOTM0",
+            "name": "Necessitatibus suscipit nulla.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 6.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 95.15,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Aurélie",
+              "id": "VXNlcjoxMDMx",
+              "lastName": "Morard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/XkzcrKSDacpVJrwL-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc3OA==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 130
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc3OQ==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 47
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc4MA==",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 229
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc4MQ==",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 307
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc4Mg==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 388
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc4Mw==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 321
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Nzc4NA==",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 284
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

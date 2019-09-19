@@ -1,12 +1,64 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNzE=",
+            "name": "Voluptas cum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 30.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 104.55,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sandra",
+              "id": "VXNlcjoxMzA=",
+              "lastName": "Müller"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/__sized__/media/products/msTzlLAzDgNusCdJ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODUx",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 379
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODUy",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 175
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODUz",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 14
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

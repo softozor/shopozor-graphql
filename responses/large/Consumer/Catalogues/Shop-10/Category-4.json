@@ -1,109 +1,12 @@
 {
   "data": {
     "products": {
-      "edges": [
-        {
-          "node": {
-            "id": "UHJvZHVjdDoxNTA5",
-            "name": "Vitae consectetur.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": 14.55,
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": 48.4,
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Julie",
-              "id": "VXNlcjoxMDgx",
-              "lastName": "Julliard"
-            },
-            "thumbnail": {
-              "alt": null,
-              "url": "/static/images/placeholder500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NjA1Mg==",
-                "isAvailable": true,
-                "name": "L",
-                "stockQuantity": 704
-              },
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NjA1Mw==",
-                "isAvailable": true,
-                "name": "S",
-                "stockQuantity": 89
-              },
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NjA1NA==",
-                "isAvailable": true,
-                "name": "M",
-                "stockQuantity": 289
-              },
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6NjA1NQ==",
-                "isAvailable": true,
-                "name": "500ml",
-                "stockQuantity": 32
-              }
-            ]
-          }
-        },
-        {
-          "node": {
-            "id": "UHJvZHVjdDozMzgw",
-            "name": "Adipisci veritatis recusandae.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": 88.6,
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": 88.6,
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Sarah",
-              "id": "VXNlcjoxMDcx",
-              "lastName": "Evéquoz"
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/EpppusSAlgRCjvoL-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0ODY=",
-                "isAvailable": true,
-                "name": "500g",
-                "stockQuantity": 672
-              }
-            ]
-          }
-        }
-      ],
+      "edges": [],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 2
+      "totalCount": 0
     }
   }
 }
