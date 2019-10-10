@@ -1,12 +1,160 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4NQ==",
+            "name": "A reiciendis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 2.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 24.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Marianne",
+              "id": "VXNlcjoxMTU=",
+              "lastName": "Curdy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/UJxvtWkEtANwEyyd-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjc5",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 40
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjgw",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 280
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4OQ==",
+            "name": "Veniam quos.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 41.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 78.9,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Marianne",
+              "id": "VXNlcjoxMTU=",
+              "lastName": "Curdy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/jKLBvZuUqhIUlMPk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjkx",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 50
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mjky",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 147
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyOTk=",
+            "name": "Praesentium nihil sit.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 3.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 112.25,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Marianne",
+              "id": "VXNlcjoxMTU=",
+              "lastName": "Curdy"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/hFbonzmlAHoPmVTC-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTQ0",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 91
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTQ1",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 485
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTQ2",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 109
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTQ3",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 11
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

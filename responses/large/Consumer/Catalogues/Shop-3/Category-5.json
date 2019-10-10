@@ -1,12 +1,154 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5Nw==",
+            "name": "Quia provident itaque.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 31.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 72.2,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Matteo",
+              "id": "VXNlcjoxMDA2",
+              "lastName": "Sandoz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/YtNTtiwMHazHZMXQ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDI0",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 4
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDI1",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 41
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDI2",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 99
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MzUw",
+            "name": "Magni rerum explicabo.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 28.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 55.4,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Odette",
+              "id": "VXNlcjoxMDk2",
+              "lastName": "Barbey"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTczNzQ=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 272
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTczNzU=",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 160
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTczNzY=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 290
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0OTQy",
+            "name": "Sapiente id.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 94.8,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 94.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Vanessa",
+              "id": "VXNlcjoxMDEw",
+              "lastName": "Carron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/kdriejJLFgVseQYz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk2OTI=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 20
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

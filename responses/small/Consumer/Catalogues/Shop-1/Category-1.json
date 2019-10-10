@@ -1,12 +1,76 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2Mw==",
+            "name": "Corporis voluptatum dolorum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 46.6,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 113.6,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/sjAIAyKeTrpSOXYD-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk3",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 165
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk4",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 86
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTk5",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 638
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAw",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 60
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjAx",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 596
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

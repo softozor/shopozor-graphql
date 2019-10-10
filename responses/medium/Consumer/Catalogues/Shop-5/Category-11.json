@@ -1,12 +1,64 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMg==",
+            "name": "Voluptatem temporibus quis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 50.75,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 95.1,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Nolan",
+              "id": "VXNlcjoxMjA=",
+              "lastName": "Delèze"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/jRpwwmovkOagvObo-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODg=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 178
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODk=",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 168
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6OTA=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 17
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

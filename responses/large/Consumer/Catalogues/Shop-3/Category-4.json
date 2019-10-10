@@ -1,12 +1,121 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo1NjA=",
+            "name": "Maiores earum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 96.95,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Vanessa",
+              "id": "VXNlcjoxMDEw",
+              "lastName": "Carron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/UAcGUChIJffFWnxL-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMxNA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 5
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjMxNQ==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 209
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjg1",
+            "name": "Fugiat labore.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 5.75,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 66.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Odette",
+              "id": "VXNlcjoxMDk2",
+              "lastName": "Barbey"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/ApehWrAQZWKNqsJy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njc4OA==",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 259
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njc4OQ==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 333
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njc5MA==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 26
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njc5MQ==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 531
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Njc5Mg==",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 24
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

@@ -1,12 +1,127 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNjYx",
+            "name": "Provident voluptas iure.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 4.95,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 90.55,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Odette",
+              "id": "VXNlcjoxMDk2",
+              "lastName": "Barbey"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/qXuQNoOWZdwWUAaH-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjcxMA==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 477
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjcxMQ==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 375
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzU3",
+            "name": "A iste iure.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 37.45,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 113.3,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMDg4",
+              "lastName": "Corpataux"
+            },
+            "thumbnail": {
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NDM=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 326
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NDQ=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 105
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NDU=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 20
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NDY=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 83
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NDc=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 25
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM0NDg=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 2
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

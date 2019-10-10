@@ -4,232 +4,589 @@
       "edges": [
         {
           "node": {
-            "id": "UHJvZHVjdDo0ODc=",
-            "name": "Quod in.",
+            "id": "UHJvZHVjdDoyNjU=",
+            "name": "Nostrum.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": 12.0,
+                    "amount": 60.1,
                     "currency": "CHF"
                   }
                 },
                 "stop": {
                   "gross": {
-                    "amount": 54.45,
+                    "amount": 114.2,
                     "currency": "CHF"
                   }
                 }
               }
             },
             "producer": {
-              "firstName": "Guillaume",
-              "id": "VXNlcjoxMTE1",
-              "lastName": "Francillon"
+              "firstName": "Stéphane",
+              "id": "VXNlcjoxMDAx",
+              "lastName": "Tinguely"
             },
             "thumbnail": {
               "alt": "",
-              "url": "/media/__sized__/media/products/SzmPigFbKxCyjRXc-thumbnail-500x500.png"
+              "url": "/media/products/ZXPYxIxeTFWzSHUe-thumbnail-500x500.png"
             },
             "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwNg==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyMA==",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 10
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyMQ==",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 571
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyMg==",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "stockQuantity": 428
+                "stockQuantity": 133
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwNw==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyMw==",
                 "isAvailable": true,
-                "name": "55cm x 55cm",
-                "stockQuantity": 220
+                "name": "500ml",
+                "stockQuantity": 656
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwOA==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTEyNA==",
                 "isAvailable": true,
-                "name": "XL",
-                "stockQuantity": 76
-              },
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjAwOQ==",
-                "isAvailable": true,
-                "name": "200g",
-                "stockQuantity": 294
-              },
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MjAxMA==",
-                "isAvailable": true,
-                "name": "100g",
-                "stockQuantity": 5
+                "name": "2.5l",
+                "stockQuantity": 205
               }
             ]
           }
         },
         {
           "node": {
-            "id": "UHJvZHVjdDo5NDM=",
-            "name": "Eveniet ab voluptatem laudantium.",
+            "id": "UHJvZHVjdDo0NDk=",
+            "name": "Nihil assumenda.",
             "pricing": {
               "priceRange": {
                 "start": {
                   "gross": {
-                    "amount": 42.05,
+                    "amount": 16.65,
                     "currency": "CHF"
                   }
                 },
                 "stop": {
                   "gross": {
-                    "amount": 108.2,
+                    "amount": 116.1,
                     "currency": "CHF"
                   }
                 }
               }
             },
             "producer": {
-              "firstName": "Claudine",
-              "id": "VXNlcjoxMDM2",
-              "lastName": "Bourquard"
+              "firstName": "Sandra",
+              "id": "VXNlcjoxMDM5",
+              "lastName": "Chopard"
             },
             "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/YivVitDDtWUWHact-thumbnail-500x500.png"
+              "alt": null,
+              "url": "/static/images/placeholder500x500.png"
             },
             "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4MA==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg4Nw==",
                 "isAvailable": true,
                 "name": "500ml",
-                "stockQuantity": 27
+                "stockQuantity": 228
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4MQ==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg4OA==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 190
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg4OQ==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 13
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MA==",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 336
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5MzA=",
+            "name": "Quo possimus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 17.3,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 114.15,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurence",
+              "id": "VXNlcjoxMTI2",
+              "lastName": "Vermeil"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/FLZvTtjBqsYSoAYL-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1NA==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 2
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1NQ==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 448
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1Ng==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 383
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc1Nw==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 306
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNzIw",
+            "name": "Iure ea temporibus.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 3.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 108.9,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sandra",
+              "id": "VXNlcjoxMDM5",
+              "lastName": "Chopard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/HwTtlBvvHcczVMqy-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzMA==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 15
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzMQ==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 194
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzMg==",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 54
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzMw==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 136
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzNA==",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 28
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzNQ==",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 32
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjkzNg==",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 18
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMTQy",
+            "name": "Debitis occaecati quasi ex.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 2.85,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 58.55,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Laurence",
+              "id": "VXNlcjoxMTI2",
+              "lastName": "Vermeil"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/zJUBErJJdosQMsqX-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODU4NQ==",
                 "isAvailable": true,
                 "name": "200g",
                 "stockQuantity": 90
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4Mg==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODU4Ng==",
                 "isAvailable": true,
-                "name": "XS",
-                "stockQuantity": 234
+                "name": "M",
+                "stockQuantity": 201
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4Mw==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODU4Nw==",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 28
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODU4OA==",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 384
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODU4OQ==",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 296
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6ODU5MA==",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 84
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyNjU5",
+            "name": "Alias minima distinctio.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 10.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 102.75,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Ana",
+              "id": "VXNlcjoxMDE0",
+              "lastName": "Boillat"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/PkvcvFQaOmmIhESU-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MDI=",
                 "isAvailable": true,
                 "name": "1l",
-                "stockQuantity": 94
+                "stockQuantity": 255
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6Mzc4NA==",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MDM=",
                 "isAvailable": true,
-                "name": "2.5l",
-                "stockQuantity": 187
-              }
-            ]
-          }
-        },
-        {
-          "node": {
-            "id": "UHJvZHVjdDozMTY2",
-            "name": "Nesciunt velit eveniet.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": 27.5,
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": 27.5,
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "André",
-              "id": "VXNlcjoxMTQ0",
-              "lastName": "Godet"
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/GWSdhBnNbupkdYSE-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MTI2Mzc=",
-                "isAvailable": true,
-                "name": "100g",
-                "stockQuantity": 561
-              }
-            ]
-          }
-        },
-        {
-          "node": {
-            "id": "UHJvZHVjdDozODc3",
-            "name": "Tenetur at.",
-            "pricing": {
-              "priceRange": {
-                "start": {
-                  "gross": {
-                    "amount": 47.05,
-                    "currency": "CHF"
-                  }
-                },
-                "stop": {
-                  "gross": {
-                    "amount": 98.1,
-                    "currency": "CHF"
-                  }
-                }
-              }
-            },
-            "producer": {
-              "firstName": "Guillaume",
-              "id": "VXNlcjoxMTE1",
-              "lastName": "Francillon"
-            },
-            "thumbnail": {
-              "alt": "",
-              "url": "/media/__sized__/media/products/EkObqShNAMtbszHY-thumbnail-500x500.png"
-            },
-            "variants": [
-              {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MTU1MDE=",
-                "isAvailable": true,
-                "name": "250ml",
-                "stockQuantity": 890
+                "name": "M",
+                "stockQuantity": 310
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MTU1MDI=",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MDQ=",
+                "isAvailable": true,
+                "name": "XL",
+                "stockQuantity": 203
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MDU=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 376
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MDY=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 21
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTA3MDc=",
                 "isAvailable": true,
                 "name": "45cm x 45cm",
-                "stockQuantity": 19
-              },
+                "stockQuantity": 185
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMjU1",
+            "name": "Natus libero.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 4.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 80.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sandra",
+              "id": "VXNlcjoxMDM5",
+              "lastName": "Chopard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/rLpqYzoPktEWtMKy-thumbnail-500x500.png"
+            },
+            "variants": [
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MTU1MDM=",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMwMTc=",
                 "isAvailable": true,
-                "name": "1kg",
-                "stockQuantity": 332
+                "name": "45cm x 45cm",
+                "stockQuantity": 28
               },
               {
-                "id": "UHJvZHVjdFZhcmlhbnQ6MTU1MDQ=",
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMwMTg=",
                 "isAvailable": true,
                 "name": "250ml",
-                "stockQuantity": 32
+                "stockQuantity": 141
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMwMTk=",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 382
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMwMjA=",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 312
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NTg4",
+            "name": "Cumque iste explicabo.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 13.95,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 85.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sarah",
+              "id": "VXNlcjoxMDcx",
+              "lastName": "Evéquoz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/dwKucWoqmswyodhI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgyOTA=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 247
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgyOTE=",
+                "isAvailable": true,
+                "name": "2.5l",
+                "stockQuantity": 516
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgyOTI=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 189
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgyOTM=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 472
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTgyOTQ=",
+                "isAvailable": true,
+                "name": "250g",
+                "stockQuantity": 206
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NzE0",
+            "name": "Possimus consequuntur nobis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 1.1,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 116.45,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Sandra",
+              "id": "VXNlcjoxMDM5",
+              "lastName": "Chopard"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/VReSCgkdmXWUJqWz-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3ODk=",
+                "isAvailable": true,
+                "name": "500ml",
+                "stockQuantity": 131
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3OTA=",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 186
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3OTE=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 255
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3OTI=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 129
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3OTM=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 305
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3OTQ=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 199
               }
             ]
           }
         }
       ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjg=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 4
+      "totalCount": 9
     }
   }
 }

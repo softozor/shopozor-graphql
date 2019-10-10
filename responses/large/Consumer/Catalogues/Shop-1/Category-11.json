@@ -1,12 +1,76 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0MDYz",
+            "name": "Eos porro voluptas.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 11.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 116.5,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Gilbert",
+              "id": "VXNlcjoxMDQy",
+              "lastName": "Gillièron"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/mZsmldNXUuTTDiXE-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNjI=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 624
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNjM=",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 230
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNjQ=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 28
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNjU=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 145
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTYyNjY=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 293
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

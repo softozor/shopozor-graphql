@@ -1,12 +1,127 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NQ==",
+            "name": "Eligendi.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 4.2,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 49.85,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMjc=",
+              "lastName": "Broquet"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/oyHBcXjEvlzIualY-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM3",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 22
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM4",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 124
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTM5",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 234
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoyMTI=",
+            "name": "Qui veritatis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 26.2,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 91.25,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pascal",
+              "id": "VXNlcjoxMjc=",
+              "lastName": "Broquet"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/ekwejGyIAYFmxXIZ-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjQ2",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 3
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjQ3",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 10
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjQ4",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 110
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjQ5",
+                "isAvailable": true,
+                "name": "2l",
+                "stockQuantity": 682
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NjUw",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 518
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

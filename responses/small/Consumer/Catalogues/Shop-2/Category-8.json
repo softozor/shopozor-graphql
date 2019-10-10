@@ -1,12 +1,64 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2MA==",
+            "name": "Sit est.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 13.15,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 109.8,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Hugo",
+              "id": "VXNlcjo2NA==",
+              "lastName": "Courvoisier"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/NERDHtLPcmqqnWAM-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg1",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 23
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg2",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 89
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg3",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 449
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjA=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 1
     }
   }
 }

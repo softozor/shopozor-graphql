@@ -1,12 +1,166 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo4MDk=",
+            "name": "Totam sed.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 97.65,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 97.65,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Céline",
+              "id": "VXNlcjoxMDcw",
+              "lastName": "Chatriant"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/yyGdpytkzlSIOsiE-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzI3Nw==",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 146
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDozMzMw",
+            "name": "Deserunt eveniet mollitia.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 26.9,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 113.85,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Florian",
+              "id": "VXNlcjoxMDMw",
+              "lastName": "Aebi"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/mtMJdegStiACXEkg-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMzMjU=",
+                "isAvailable": true,
+                "name": "XS",
+                "stockQuantity": 351
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMzMjY=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 80
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMzMjc=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 201
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMzMjg=",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 184
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTMzMjk=",
+                "isAvailable": true,
+                "name": "1kg",
+                "stockQuantity": 92
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NzQ3",
+            "name": "Optio debitis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 7.55,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 44.55,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Céline",
+              "id": "VXNlcjoxMDcw",
+              "lastName": "Chatriant"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/wQfnwoOQpFauemKk-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MjE=",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 168
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MjI=",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 44
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTg5MjM=",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 167
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }
