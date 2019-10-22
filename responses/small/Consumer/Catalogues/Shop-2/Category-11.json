@@ -1,12 +1,109 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo0NA==",
+            "name": "Voluptatem temporibus quis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 61.94,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 82.47,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/FKHDpMoWThQrzuol-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQy",
+                "isAvailable": true,
+                "name": "250ml",
+                "stockQuantity": 130
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQz",
+                "isAvailable": true,
+                "name": "1l",
+                "stockQuantity": 27
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MTQ0",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 17
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxNDQ=",
+            "name": "Accusamus rerum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 33.29,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 109.76,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "José",
+              "id": "VXNlcjo1NQ==",
+              "lastName": "Conrad"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/mFpMWGdRABxIAZYi-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM3",
+                "isAvailable": true,
+                "name": "5l",
+                "stockQuantity": 276
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDM4",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 72
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjE=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 2
     }
   }
 }

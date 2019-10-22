@@ -1,12 +1,172 @@
 {
   "data": {
     "products": {
-      "edges": [],
+      "edges": [
+        {
+          "node": {
+            "id": "UHJvZHVjdDo2OA==",
+            "name": "Officia facere.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 0.88,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 54.88,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/iAOeSZhUwnoKUtbw-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE4",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 458
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjE5",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 196
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIw",
+                "isAvailable": true,
+                "name": "S",
+                "stockQuantity": 312
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIx",
+                "isAvailable": true,
+                "name": "100g",
+                "stockQuantity": 0
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MjIy",
+                "isAvailable": true,
+                "name": "45cm x 45cm",
+                "stockQuantity": 117
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDo5NA==",
+            "name": "Asperiores quis.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 42.0,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 85.71,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Pierre",
+              "id": "VXNlcjo1MQ==",
+              "lastName": "Barillon"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/IWcnWMmQRMWDCNzI-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA1",
+                "isAvailable": true,
+                "name": "200g",
+                "stockQuantity": 319
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA2",
+                "isAvailable": true,
+                "name": "500g",
+                "stockQuantity": 35
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6MzA3",
+                "isAvailable": true,
+                "name": "L",
+                "stockQuantity": 341
+              }
+            ]
+          }
+        },
+        {
+          "node": {
+            "id": "UHJvZHVjdDoxMjk=",
+            "name": "Illum.",
+            "pricing": {
+              "priceRange": {
+                "start": {
+                  "gross": {
+                    "amount": 45.94,
+                    "currency": "CHF"
+                  }
+                },
+                "stop": {
+                  "gross": {
+                    "amount": 107.59,
+                    "currency": "CHF"
+                  }
+                }
+              }
+            },
+            "producer": {
+              "firstName": "Elisa",
+              "id": "VXNlcjo1OQ==",
+              "lastName": "Théraulaz"
+            },
+            "thumbnail": {
+              "alt": "",
+              "url": "/media/products/nChXwhFzTfLleOOK-thumbnail-500x500.png"
+            },
+            "variants": [
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6Mzk5",
+                "isAvailable": true,
+                "name": "55cm x 55cm",
+                "stockQuantity": 163
+              },
+              {
+                "id": "UHJvZHVjdFZhcmlhbnQ6NDAw",
+                "isAvailable": true,
+                "name": "M",
+                "stockQuantity": 277
+              }
+            ]
+          }
+        }
+      ],
       "pageInfo": {
-        "endCursor": "YXJyYXljb25uZWN0aW9uOi0x",
+        "endCursor": "YXJyYXljb25uZWN0aW9uOjI=",
         "startCursor": "YXJyYXljb25uZWN0aW9uOjA="
       },
-      "totalCount": 0
+      "totalCount": 3
     }
   }
 }

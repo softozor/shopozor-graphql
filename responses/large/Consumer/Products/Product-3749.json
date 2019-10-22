@@ -2,8 +2,8 @@
   "data": {
     "product": {
       "conservation": {
-        "mode": "à l'abri de la lumière",
-        "until": "2020-09-16"
+        "durationInDays": 7,
+        "mode": "au frigo"
       },
       "description": "Odit libero omnis cum laborum iure. Quisquam dolorem praesentium amet perspiciatis adipisci.",
       "id": "UHJvZHVjdDozNzQ5",
@@ -25,21 +25,21 @@
         "manager": {
           "start": {
             "gross": {
-              "amount": 0.65,
+              "amount": 0.62,
               "currency": "CHF"
             },
             "net": {
-              "amount": 0.6,
+              "amount": 0.58,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0.05,
+              "amount": 0.04,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": 0.3,
+              "amount": 0.27,
               "currency": "CHF"
             },
             "net": {
@@ -47,7 +47,7 @@
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0.0,
+              "amount": 0.02,
               "currency": "CHF"
             }
           }
@@ -55,21 +55,21 @@
         "rex": {
           "start": {
             "gross": {
-              "amount": 0.65,
+              "amount": 0.62,
               "currency": "CHF"
             },
             "net": {
-              "amount": 0.6,
+              "amount": 0.58,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0.05,
+              "amount": 0.04,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": 0.3,
+              "amount": 0.27,
               "currency": "CHF"
             },
             "net": {
@@ -77,7 +77,7 @@
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0.0,
+              "amount": 0.02,
               "currency": "CHF"
             }
           }
@@ -85,21 +85,21 @@
         "softozor": {
           "start": {
             "gross": {
-              "amount": 0.65,
+              "amount": 0.62,
               "currency": "CHF"
             },
             "net": {
-              "amount": 0.6,
+              "amount": 0.58,
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0.05,
+              "amount": 0.04,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": 0.3,
+              "amount": 0.27,
               "currency": "CHF"
             },
             "net": {
@@ -107,7 +107,7 @@
               "currency": "CHF"
             },
             "tax": {
-              "amount": 0.0,
+              "amount": 0.02,
               "currency": "CHF"
             }
           }
@@ -118,29 +118,29 @@
         "priceRange": {
           "start": {
             "gross": {
-              "amount": 5.45,
+              "amount": 5.41,
               "currency": "CHF"
             },
             "net": {
-              "amount": 5.25,
+              "amount": 5.24,
               "currency": "CHF"
             },
             "productTax": {
-              "amount": 0.1,
+              "amount": 0.11,
               "currency": "CHF"
             },
             "serviceTax": {
-              "amount": 0.05,
+              "amount": 0.06,
               "currency": "CHF"
             }
           },
           "stop": {
             "gross": {
-              "amount": 21.85,
+              "amount": 21.82,
               "currency": "CHF"
             },
             "net": {
-              "amount": 21.15,
+              "amount": 21.14,
               "currency": "CHF"
             },
             "productTax": {
@@ -148,7 +148,7 @@
               "currency": "CHF"
             },
             "serviceTax": {
-              "amount": 0.25,
+              "amount": 0.23,
               "currency": "CHF"
             }
           }
@@ -182,12 +182,12 @@
             "amount": "16.5",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTQ=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTE=",
           "isAvailable": true,
           "margin": {
             "manager": {
               "gross": {
-                "amount": 1.0,
+                "amount": 0.97,
                 "currency": "CHF"
               },
               "net": {
@@ -195,13 +195,13 @@
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.05,
+                "amount": 0.07,
                 "currency": "CHF"
               }
             },
             "rex": {
               "gross": {
-                "amount": 1.0,
+                "amount": 0.97,
                 "currency": "CHF"
               },
               "net": {
@@ -209,13 +209,13 @@
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.05,
+                "amount": 0.07,
                 "currency": "CHF"
               }
             },
             "softozor": {
               "gross": {
-                "amount": 1.0,
+                "amount": 0.97,
                 "currency": "CHF"
               },
               "net": {
@@ -223,7 +223,7 @@
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.05,
+                "amount": 0.07,
                 "currency": "CHF"
               }
             }
@@ -232,7 +232,7 @@
           "pricing": {
             "price": {
               "gross": {
-                "amount": 19.45,
+                "amount": 19.41,
                 "currency": "CHF"
               },
               "net": {
@@ -244,7 +244,7 @@
                 "currency": "CHF"
               },
               "serviceTax": {
-                "amount": 0.2,
+                "amount": 0.21,
                 "currency": "CHF"
               }
             }
@@ -256,48 +256,48 @@
             "amount": "10.6",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTU=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTI=",
           "isAvailable": true,
           "margin": {
             "manager": {
               "gross": {
-                "amount": 0.65,
+                "amount": 0.62,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 0.6,
+                "amount": 0.58,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.05,
+                "amount": 0.04,
                 "currency": "CHF"
               }
             },
             "rex": {
               "gross": {
-                "amount": 0.65,
+                "amount": 0.62,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 0.6,
+                "amount": 0.58,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.05,
+                "amount": 0.04,
                 "currency": "CHF"
               }
             },
             "softozor": {
               "gross": {
-                "amount": 0.65,
+                "amount": 0.62,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 0.6,
+                "amount": 0.58,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.05,
+                "amount": 0.04,
                 "currency": "CHF"
               }
             }
@@ -306,19 +306,19 @@
           "pricing": {
             "price": {
               "gross": {
-                "amount": 12.5,
+                "amount": 12.47,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 12.1,
+                "amount": 12.08,
                 "currency": "CHF"
               },
               "productTax": {
-                "amount": 0.25,
+                "amount": 0.26,
                 "currency": "CHF"
               },
               "serviceTax": {
-                "amount": 0.15,
+                "amount": 0.13,
                 "currency": "CHF"
               }
             }
@@ -330,12 +330,12 @@
             "amount": "4.6",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTY=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTM=",
           "isAvailable": true,
           "margin": {
             "manager": {
               "gross": {
-                "amount": 0.3,
+                "amount": 0.27,
                 "currency": "CHF"
               },
               "net": {
@@ -343,13 +343,13 @@
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.0,
+                "amount": 0.02,
                 "currency": "CHF"
               }
             },
             "rex": {
               "gross": {
-                "amount": 0.3,
+                "amount": 0.27,
                 "currency": "CHF"
               },
               "net": {
@@ -357,13 +357,13 @@
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.0,
+                "amount": 0.02,
                 "currency": "CHF"
               }
             },
             "softozor": {
               "gross": {
-                "amount": 0.3,
+                "amount": 0.27,
                 "currency": "CHF"
               },
               "net": {
@@ -371,7 +371,7 @@
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.0,
+                "amount": 0.02,
                 "currency": "CHF"
               }
             }
@@ -380,19 +380,19 @@
           "pricing": {
             "price": {
               "gross": {
-                "amount": 5.45,
+                "amount": 5.41,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 5.25,
+                "amount": 5.24,
                 "currency": "CHF"
               },
               "productTax": {
-                "amount": 0.1,
+                "amount": 0.11,
                 "currency": "CHF"
               },
               "serviceTax": {
-                "amount": 0.05,
+                "amount": 0.06,
                 "currency": "CHF"
               }
             }
@@ -404,48 +404,48 @@
             "amount": "18.55",
             "currency": "CHF"
           },
-          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTc=",
+          "id": "UHJvZHVjdFZhcmlhbnQ6MTUwMTQ=",
           "isAvailable": true,
           "margin": {
             "manager": {
               "gross": {
-                "amount": 1.1,
+                "amount": 1.09,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 1.0,
+                "amount": 1.01,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.1,
+                "amount": 0.08,
                 "currency": "CHF"
               }
             },
             "rex": {
               "gross": {
-                "amount": 1.1,
+                "amount": 1.09,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 1.0,
+                "amount": 1.01,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.1,
+                "amount": 0.08,
                 "currency": "CHF"
               }
             },
             "softozor": {
               "gross": {
-                "amount": 1.1,
+                "amount": 1.09,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 1.0,
+                "amount": 1.01,
                 "currency": "CHF"
               },
               "tax": {
-                "amount": 0.1,
+                "amount": 0.08,
                 "currency": "CHF"
               }
             }
@@ -454,11 +454,11 @@
           "pricing": {
             "price": {
               "gross": {
-                "amount": 21.85,
+                "amount": 21.82,
                 "currency": "CHF"
               },
               "net": {
-                "amount": 21.15,
+                "amount": 21.14,
                 "currency": "CHF"
               },
               "productTax": {
@@ -466,7 +466,7 @@
                 "currency": "CHF"
               },
               "serviceTax": {
-                "amount": 0.25,
+                "amount": 0.23,
                 "currency": "CHF"
               }
             }
