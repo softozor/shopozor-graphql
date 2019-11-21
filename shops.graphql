@@ -1,15 +1,11 @@
-query Shops($first: Int!, $after: String = "") {
-  shops(first: $first, after: $after) {
-    edges {
-      node {
-        description
-        geocoordinates {
-          latitude
-          longitude
-        }
-        id
-        name
-      }
+query Shops {
+  shops {
+    description
+    geocoordinates {
+      latitude
+      longitude
     }
+    id
+    name
   }
 }
