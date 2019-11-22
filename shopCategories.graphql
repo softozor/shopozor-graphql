@@ -1,24 +1,11 @@
-query ShopCategories(
-  $first: Int!
-  $after: String = ""
-  $thumbnailSize: Int = 0
-) {
-  categories(first: $first, after: $after, level: 0) {
-    edges {
-      node {
-        backgroundImage(size: $thumbnailSize) {
-          alt
-          url
-        }
-        description
-        id
-        name
-      }
+query ShopCategories {
+  categories {
+    backgroundImage {
+      alt
+      url
     }
-    pageInfo {
-      startCursor
-      endCursor
-    }
-    totalCount
+    description
+    id
+    name
   }
 }
